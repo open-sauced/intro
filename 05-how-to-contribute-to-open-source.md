@@ -1,0 +1,117 @@
+# How to Contribute to Open Source
+
+In this chapter, we'll guide you through the process of contributing to open source projects. We'll cover the following topics:
+
+- Finding projects to work on
+- How to submit a contribution
+- Onboarding in a new project
+- What happens next?
+
+## Finding projects to work on
+
+One of the first challenges you might face when getting started with open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
+
+1. **Browse GitHub and GitLab**: Both GitHub and GitLab host a vast number of open source projects. You can use their search functionality to find projects based on specific keywords, programming languages, or topics.
+
+2. **Follow your interests**: Think about the tools, frameworks, and libraries you use or are interested in learning more about. Many of these projects are open source and welcome contributions from the community.
+
+3. **Join open source communities**: There are numerous online communities, forums, and chat platforms dedicated to open source development. By joining these communities, you can connect with other developers, discover new projects, and find collaboration opportunities.
+
+4. **Leverage OpenSauced**: OpenSauced is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
+
+### Discovering Open-Source with OpenSauced
+
+OpenSauced is a powerful tool for finding open source projects to contribute to. To get started with OpenSauced, follow these steps:
+
+1. **Sign up for an account**: Visit https://www.opensauced.pizza/ and sign up for an account using your GitHub credentials.
+
+![Image](./opensauced-signup.png)
+
+During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
+
+2. **Explore the dashboard**: Once you've signed up, you'll be taken to your dashboard, where you can view your current projects, goals, and contributions. Clicking "Explore" in the header will enable you to browse projects based on your interests and skills.
+
+3. **Search for projects**: In explore, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
+
+![Explore](./opensauced-explore.png)
+
+4. **Save projects to your insights**: When you find projects you're interested in, you can add them to what are called "Insights" pages, that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
+
+5. **Start contributing**: When you click on the name of a repo, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcome.
+
+By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
+
+## How to submit a contribution
+
+Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
+
+1. **Fork the repository**: Create a fork of the project's repository, which will create a copy of the repository under your GitHub account. This will allow you to make changes to the codebase without affecting the original project.
+
+2. **Clone your fork**: Clone your forked repository to your local machine by running the following command in your terminal or command prompt:
+
+```
+git clone https://github.com/your-username/repository-name.git
+```
+
+Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
+
+3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the main branch and make it easier to submit a pull request later. You can create a new branch using the following command:
+
+```
+git checkout -b your-branch-name
+```
+
+Replace "your-branch-name" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+
+4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Be sure to follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
+
+5. **Commit your changes**: Once you've made your changes, stage and commit them using the following commands:
+
+```
+git add .
+git commit -m "Your commit message"
+```
+
+Replace "Your commit message" with a brief description of the changes you made.
+
+6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
+
+```
+git push origin your-branch-name
+```
+
+Replace "your-branch-name" with the name of your branch.
+
+7. **Submit a pull request**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+
+8. **Respond to feedback**: After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
+
+By following these steps, you'll be able to submit your contributions to open source projects and collaborate with other developers to improve the codebase.
+
+## Onboarding in a new project
+
+When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
+
+1. **Read the documentation**: Start by reading the project's documentation, including the README file, contributing guidelines, and code of conduct. This will help you understand the project's goals, requirements, and expectations for contributors.
+
+2. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
+
+3. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
+
+4. **Ask for help**: If you're unsure about something or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming, and other contributors will be happy to assist you.
+
+5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
+
+## What happens next?
+
+After your contribution has been submitted and reviewed, one of the following outcomes may occur:
+
+1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase.
+
+Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
+
+2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
+
+3. **Your contribution is rejected**: In some cases, your contribution may not align with the project's goals or requirements, or it may not be the best solution to a problem. If your contribution is rejected, don't be discouraged. Take the feedback you received as an opportunity to learn and improve. You can always try contributing to another project or submitting a different contribution to the same project.
+
+As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
