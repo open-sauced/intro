@@ -46,7 +46,13 @@ Building a strong open source resume can help you showcase your skills, experien
 
 3. **Build Your Open Source Resume**: From here, you'll be able to add highlights to Pull Requests and Issues that you've contributed to. You can also add a description and links to your open source resume. These will be aggregated into a single page that you can share with others, as well as a summary of your contributions that will be displayed on your public profile page.
 
-4. **Share it!**: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
+Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
+
+![Adding a highlight to your profile](./opensauced-highlight.png)
+
+Once this is done, we are ready to share our profile with the world! Click the share button in the top right portion of your profile page to get a link to your profile. You can share this link with others to showcase your open source contributions.
+
+4. **Share it!**: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others by clicking the share button in the header of your profile page. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
 
 By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community.
 

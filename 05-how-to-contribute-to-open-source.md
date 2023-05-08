@@ -88,6 +88,32 @@ Replace "your-branch-name" with the name of your branch.
 
 By following these steps, you'll be able to submit your contributions to open source projects and collaborate with other developers to improve the codebase.
 
+## Let's Get Practical
+
+Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's guest book using the [all contributors specification](https://allcontributors.org/).
+
+1. Let's start by forking the repo as described above, but this time, it's the guest book repo: https://github.com/tejasq/opensauced-guestbook. Clicking "Fork" on GitHub will create a copy of the repo under your GitHub account.
+
+2. Next, let's clone this repo to our local machine. In your terminal or command prompt, run the following command:
+
+   ```
+   git clone git@github.com:[your_username]/opensauced-guestbook.git
+   ```
+
+> This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
+
+3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager.
+
+4. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+
+5. Run `npm run contributors:generate` to generate the new contributors list.
+
+6. Commit your changes and push them to your forked repository.
+
+7. Once pushed, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+
+Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
+
 ## Onboarding in a new project
 
 When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
