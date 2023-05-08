@@ -48,7 +48,7 @@ Building a strong open source resume can help you showcase your skills, experien
 
 Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
 
-![Adding a highlight to your profile](./opensauced-highlight.png)
+![Adding a highlight to your profile](./opensauced-highlights.png)
 
 Once this is done, we are ready to share our profile with the world! Click the share button in the top right portion of your profile page to get a link to your profile. You can share this link with others to showcase your open source contributions.
 
