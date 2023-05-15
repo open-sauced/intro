@@ -39,7 +39,7 @@ This course is divided into several chapters, each designed to cover a specific 
 1. **Intro:** We'll begin by setting the stage for your open source journey, discussing prerequisites, objectives, and expectations.
 1. **What is Open Source?:** In this chapter, we'll explore the definition of open source and its history, providing you with a solid foundation for understanding the context of open source collaboration.
 1. **Why Open Source?:** We'll delve into the benefits of open source, including access to knowledge, community, and skills development.
-1. **Tools to be successful:** This chapter will introduce you to the essential tools for successful open source collaboration, including GitHub, Git, CodeSee, VsCode, and Discord.
+1. **Tools to be successful:** This chapter will introduce you to the essential tools for successful open source collaboration, including GitHub, Git, CodeSee, VS Code, and Discord.
 1. **How to Contribute to Open Source:** In this chapter, we'll discuss the process of finding projects to work on, submitting contributions, onboarding in a new project, and what to expect after your contribution has been submitted.
 1. **The Secret Sauce:** This chapter will reveal the strategies and techniques for getting started, gaining traction in your contributions, and developing your open source resume.
 1. **Conclusion:** We'll wrap up the course with key takeaways and discuss the next steps in your open source journey.
