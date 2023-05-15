@@ -44,7 +44,7 @@ This course is divided into several chapters, each designed to cover a specific 
 1. **The Secret Sauce:** This chapter will reveal the strategies and techniques for getting started, gaining traction in your contributions, and developing your open source resume.
 1. **Conclusion:** We'll wrap up the course with key takeaways and discuss the next steps in your open source journey.
 
-Throughout this course, we'll provide examples and demos to help illustrate key concepts and provide hands-on opportunities for practice. When possible, we'll feature real-world open source projects and tools, such as OpenSauced, to demonstrate how to apply the skills you've learned.
+Throughout this course, we'll provide examples and demos to help illustrate key concepts and provide hands-on opportunities for practice. When possible, we'll feature real-world open source projects and tools, such as [OpenSauced](https://opensauced.pizza/), to demonstrate how to apply the skills you've learned.
 
 Please note that while these examples and demos are designed to provide guidance and inspiration, your own open source journey may differ depending on your interests, skills, and chosen projects.
 
