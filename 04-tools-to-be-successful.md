@@ -7,6 +7,11 @@ To be successful in your open source journey, it's essential to familiarize your
 - VS Code (The Editor)
 - Discord
 
+## Prerequisites
+Before completing the following walkthrough, complete the following:
+- Create a [GitHub account](https://github.com/)
+- Download [VS Code](https://code.visualstudio.com/)
+
 ## GitHub & Git
 
 ### Introduction to Git
@@ -36,9 +41,7 @@ To get started with Git and GitHub, follow these steps:
 
 1. **Install Git**: Download and install Git on your computer by visiting the official Git website (https://git-scm.com/) and following the installation instructions for your operating system.
 
-2. **Create a GitHub account**: If you don't already have a GitHub account, sign up for one at https://github.com/. Choose a username, enter your email address, and create a strong password.
-
-3. **Configure Git**: After installing Git, open a terminal or command prompt and configure your Git user information by running the following commands:
+2. **Configure Git**: After installing Git, open a terminal or command prompt and configure your Git user information by running the following commands:
 
 ```
 git config --global user.name "Your Name"
@@ -47,17 +50,38 @@ git config --global user.email "your.email@example.com"
 
 Replace "Your Name" with your full name and "your.email@example.com" with the email address you used to sign up for GitHub.
 
-4. **Create a new repository**: Log in to your GitHub account and click on the "+" icon in the upper right corner. Select "New repository" from the dropdown menu, enter a name for your repository, and choose whether you want it to be public or private. You can also choose to initialize the repository with a README file, a .gitignore file, and/or a license.
+#### Practicing Contributing with VS Code
+To practice using GitHub, we're going to walk through creating a repository, cloning the repository, making changes, and pushing those changes. 
 
-5. **Clone the repository**: Once you have created a new repository, you can clone it to your local machine by running the following command in your terminal or command prompt:
+1. **Create a new repository**: Log in to your GitHub account and navigate to [https://github.com/new](https://github.com/new) or click on the "+" icon in the upper right corner and select "New repository" from the dropdown menu. 
+
+Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
+
+![new repo screenshot](./new-repo.png)
+
+Choose whether you want it to be public or private. You can also choose to initialize the repository with a README file, a .gitignore file, and/or a license. 
+
+For this example, initialize the repository with a README file. 
+
+2. **Clone the repository**: Once you have created a new repository, you can clone it to your local machine by running the following command in your terminal or command prompt:
 
 ```
 git clone https://github.com/username/repository-name.git
 ```
 
-Replace "username" with your GitHub username and "repository-name" with the name of your repository.
+Replace "username" with your GitHub username and "repository-name" with `practice-repository`.
 
-6. **Make changes and commit**: Navigate to the cloned repository on your local machine and make changes to the files. Once you have made changes, you can stage and commit them using the following commands:
+3. **Access your repository in your code editor**: For this example, we're using VS Code. Open VS Code, navigate to the file tab, and then open your `practice-repository`. 
+
+4. **Make changes and commit**: There should be one file in your repository: `README.md`. Inside that file, below `# practice-repository`, type 'hello world!' Once you have made changes, you can stage and commit them. 
+
+Open your terminal and make sure you are in the right directory. For example, my coding projects are inside of my `Projects` folder. Using my terminal, I would access this repository by running this command:
+
+```
+cd projects/practice-repository
+```
+
+Once in the correct repository, use the following commands to add the changes you made and write a commit message with a description of the changes:
 
 ```
 git add .
@@ -66,15 +90,15 @@ git commit -m "Your commit message"
 
 Replace "Your commit message" with a brief description of the changes you made.
 
-7. **Push your changes**: After committing your changes, you can push them to your remote GitHub repository by running the following command:
+5. **Push your changes**: After committing your changes, you can push them to your remote GitHub repository by running the following command:
 
 ```
 git push origin main
 ```
 
-This will push your changes to the "main" branch of your remote repository.
+This will push your changes to the "main" branch of your remote repository. If you want to check your work, navigate to your GitHub repository. You should now see 'hello world!' in your README.md file.
 
-By following these steps, you'll have successfully set up Git and GitHub on your local machine and be ready to collaborate on open source projects.
+You have now successfully set up Git and GitHub on your local machine and are ready to collaborate on open source projects!
 
 ## CodeSee
 
@@ -108,4 +132,4 @@ Discord is a popular messaging and voice chat platform that is widely used by op
 
 To get started with Discord, visit the official website (https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub, GitLab, or OpenSauced to find their Discord servers and join the conversation.
 
-By familiarizing yourself with these essential tools and platforms, you'll be well-equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the next chapter, we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.
+By familiarizing yourself with these tools and platforms, you'll be equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the next chapter, we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.

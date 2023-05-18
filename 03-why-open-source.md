@@ -52,4 +52,4 @@ In addition to the above-mentioned benefits, contributing to open source project
 
 3. **Opportunities for recognition**: Open source projects often attract the attention of industry leaders, influencers, and media outlets. By making significant contributions to high-profile projects, you can gain recognition and establish yourself as an expert in your field.
 
-In the next chapter, we'll discuss the essential tools and resources you'll need to be successful in your open source journey, including GitHub, Git, CodeSee, VsCode, and Discord. By familiarizing yourself with these tools, you'll be better equipped to collaborate with others, manage your projects, and contribute effectively to open source projects.
+In the next chapter, we'll discuss the essential tools and resources you'll need to be successful in your open source journey, including GitHub, Git, CodeSee, VS Code, and Discord. By familiarizing yourself with these tools, you'll be better equipped to collaborate with others, manage your projects, and contribute effectively to open source projects.
