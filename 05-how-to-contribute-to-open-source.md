@@ -112,7 +112,7 @@ Now that you know how to find and contribute to open source projects, it's time 
 
 > This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
 
-3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager.
+3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager and have it installed.
 
 4. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
 
