@@ -48,12 +48,13 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 2. **Find an Issue or Create an Issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
 
-3. **Ask to be Assigned the Issue**: When maintainers assign an issue, it signals to other contributors that you're the one working on the issue and ensures that duplicate work isn't occurring. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
+3. **Ask to be Assigned the Issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
 
 ![issue assigned screenshot](./issue-assign.png)
 
 ## How to submit a contribution
-The next step is to submit a contribution. Here's a general outline of the process:
+
+Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
 
 1. **Fork the repository**: Create a fork of the project's repository, which will create a copy of the repository under your GitHub account. This will allow you to make changes to the codebase without affecting the original project.
 
@@ -65,7 +66,7 @@ git clone https://github.com/your-username/repository-name.git
 
 Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
 
-3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the main branch and make it easier to submit a pull request later. You can create a new branch using the following command in your terminal:
+3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the main branch and make it easier to submit a pull request later. You can create a new branch using the following command:
 
 ```
 git checkout -b your-branch-name
@@ -107,7 +108,7 @@ Now that you know how to find and contribute to open source projects, it's time 
 2. Next, let's clone this repo to our local machine. In your terminal or command prompt, run the following command:
 
    ```
-   git clone git@github.com:[your_username]/guestbook.git
+   git clone git@github.com:[your_username]/opensauced-guestbook.git
    ```
 
 > This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
