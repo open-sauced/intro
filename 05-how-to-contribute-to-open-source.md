@@ -15,9 +15,9 @@ One of the first challenges you might face when getting started with open source
 
 2. **Follow your interests**: Think about the tools, frameworks, and libraries you use or are interested in learning more about. Many of these projects are open source and welcome contributions from the community.
 
-3. **Join open source communities**: There are numerous online communities, forums, and chat platforms dedicated to open source development. By joining these communities, you can connect with other developers, discover new projects, and find collaboration opportunities.
+3. **Join open source communities**: There are numerous online communities, forums, and chat platforms dedicated to open source development. By joining these communities, you can connect with other developers, discover new projects, and find collaboration opportunities. In the [OpenSauced Discord](https://discord.com/invite/U2peSNf23P), for example, we share good first issues, cool GitHub projects, and issues we have open on our repositories.
 
-4. **Leverage OpenSauced**: OpenSauced is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
+4. **Leverage OpenSauced**: [OpenSauced](https://opensauced.pizza/) is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
 
 ### Discovering Open-Source with OpenSauced
 
@@ -40,6 +40,17 @@ During the signup process, you'll be asked to pick some interests and set your t
 5. **Start contributing**: When you click on the name of a repo, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcome.
 
 By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
+
+## Getting Started With Contributing
+Once you've found a project you'd like to contribute to, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors.
+
+1. **Familiarize Yourself with the Project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
+
+2. **Find an Issue or Create an Issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
+
+3. **Ask to be Assigned the Issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
+
+![issue assigned screenshot](./issue-assign.png)
 
 ## How to submit a contribution
 
@@ -92,7 +103,7 @@ By following these steps, you'll be able to submit your contributions to open so
 
 Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's guest book using the [all contributors specification](https://allcontributors.org/).
 
-1. Let's start by forking the repo as described above, but this time, it's the guest book repo: https://github.com/tejasq/opensauced-guestbook. Clicking "Fork" on GitHub will create a copy of the repo under your GitHub account.
+1. Let's start by forking the repo as described above, but this time, it's the guest book repo: [https://github.com/open-sauced/guestbook](https://github.com/open-sauced/guestbook). Clicking "Fork" on GitHub will create a copy of the repo under your GitHub account.
 
 2. Next, let's clone this repo to our local machine. In your terminal or command prompt, run the following command:
 
