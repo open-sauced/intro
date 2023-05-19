@@ -55,7 +55,7 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 
 1. **Create a new repository**: Log in to your GitHub account and navigate to [https://github.com/new](https://github.com/new) or click on the "+" icon in the upper right corner and select "New repository" from the dropdown menu. 
 
-Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
+Choose yourself as the owner of the repositohry, and enter a name for your repository. For this example, we'll use `practice-repository`.
 
 ![new repo screenshot](./new-repo.png)
 
