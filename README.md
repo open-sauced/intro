@@ -41,7 +41,7 @@ One of the unique features of this course is that it provides guidance on how to
 
 To learn more about using OpenSauced to build your open source resume, be sure to check out the `Building Your Open Source Resume` section in [Chapter 5 - The secret sauce](./06-the-secret-sauce.md).
 
-## Conclusion
+<hr/>
 
 We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the OpenSauced Discord community.
 
