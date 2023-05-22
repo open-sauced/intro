@@ -53,3 +53,5 @@ Use the examples and demos as a starting point, but don't be afraid to explore o
 ## LFG 🚀
 
 Now that we've set the stage, it's time to embark on your open source journey! In the next chapter, we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
+
+[Next Section ->](https://github.com/open-sauced/intro/blob/main/02-what-is-open-source.md)
