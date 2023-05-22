@@ -133,3 +133,5 @@ Discord is a popular messaging and voice chat platform that is widely used by op
 To get started with Discord, visit the official website (https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub, GitLab, or OpenSauced to find their Discord servers and join the conversation.
 
 By familiarizing yourself with these tools and platforms, you'll be equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the next chapter, we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.
+
+[Next Section ->](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)
