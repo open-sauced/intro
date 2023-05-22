@@ -152,3 +152,5 @@ Congratulations! Your work is now part of the project, and you've made a valuabl
 3. **Your contribution is rejected**: In some cases, your contribution may not align with the project's goals or requirements, or it may not be the best solution to a problem. If your contribution is rejected, don't be discouraged. Take the feedback you received as an opportunity to learn and improve. You can always try contributing to another project or submitting a different contribution to the same project.
 
 As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
+
+[Next Section ->](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md)
