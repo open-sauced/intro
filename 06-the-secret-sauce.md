@@ -57,3 +57,5 @@ Once this is done, we are ready to share our profile with the world! Click the s
 By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community.
 
 In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
+
+[Final Section ->](https://github.com/open-sauced/intro/blob/main/07-conclusion.md)
