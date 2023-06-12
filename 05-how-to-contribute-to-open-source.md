@@ -115,13 +115,21 @@ Now that you know how to find and contribute to open source projects, it's time 
 
 3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager and have it installed.
 
-4. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+4. **Create a new branch**: Before making any changes, remember to make a new branch in your local repository to work on your contribution. You can create a new branch using the following command:
 
-5. Run `npm run contributors:generate` to generate the new contributors list.
+```
+git checkout -b feature/add-profile-[your-username]
+```
 
-6. Commit your changes and push them to your forked repository.
+Replace "your-username" with your GitHub username.
 
-7. Once pushed, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+
+6. Run `npm run contributors:generate` to generate the new contributors list.
+
+7. Commit your changes and push them to your forked repository.
+
+8. Once pushed, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
 
 Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
 

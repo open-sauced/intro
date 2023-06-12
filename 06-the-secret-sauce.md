@@ -2,7 +2,7 @@
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
-## Open issues, not just PRs that fix typos
+## Open issues, more than PRs that fix typos
 
 While fixing typos and improving documentation are valuable contributions to open source projects, it's essential to look beyond these low-hanging fruits and focus on addressing open issues. Tackling open issues not only helps the project move forward but also allows you to develop a deeper understanding of the codebase and demonstrate your problem-solving abilities.
 
@@ -47,11 +47,23 @@ Building a strong open source resume can help you showcase your skills, experien
 3. **Build Your Open Source Resume**: From here, you'll be able to add highlights to Pull Requests and Issues that you've contributed to. You can also add a description and links to your open source resume. These will be aggregated into a single page that you can share with others, as well as a summary of your contributions that will be displayed on your public profile page.
 
 Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
+
 ## Effectively Highlight Your Contributions
-This would include the new material you created, but also include information on providing project details (tools, libraries, size and complexity), describing your contributions (type [bug fix, feature, performance, documentation, etc.]), details on collaboration.
-**Tip**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
+Important information to include when you're highlighting your contributions:
+- New material you've created;
+- Project details (tools, libraries, size, and complexity);
+- The type of your contributions: bug fix, feature, performance, documentation, etc.;
+- The details of your contribution including improvements and impacts made on the project and on the community;
+- Collaboration  and teamwork details;
+
+### Formatting your Highlight
+To be most effective in highlighting your contributions, we recommend using the following format:
+- **Title**: This should be a short description of the contribution. For example, "Created a GitHub Action to automatically merge pull requests".
+- **Link**
+- **Description**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
  - Success verb + noun + metric + outcome.
-- Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
+ - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
+
 
 ![Adding a highlight to your profile](./opensauced-highlights.png)
 
