@@ -2,7 +2,7 @@
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
-## Open issues, not just PRs that fix typos
+## Open issues, more than PRs that fix typos
 
 While fixing typos and improving documentation are valuable contributions to open source projects, it's essential to look beyond these low-hanging fruits and focus on addressing open issues. Tackling open issues not only helps the project move forward but also allows you to develop a deeper understanding of the codebase and demonstrate your problem-solving abilities.
 
