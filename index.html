@@ -12,9 +12,30 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+      themeColor: "#1797cf",
+      name: "Open Sauced",
+      repo: "open-sauced/intro",
+      relativePath: true,
+      subMaxLevel: 3,
+      search: "auto",
+      search: {
+        maxAge: 86400000,
+        paths: "auto",
+        placeholder: "Search",
+        noData: "No Results found!",
+        depth: 6,
+        hideOtherSidebarContent: false,
+      },
+      darklightTheme: {
+        bodyFontSize: "16px",
+        dark: {
+          accent: "#d44e70",
+        },
+        light: {
+          accent: "#4ed4d2",
+        },
+      },
+    };
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
