@@ -36,7 +36,7 @@ In 1991, a Finnish computer science student named Linus Torvalds developed a fre
 
 ### The Open Source Initiative
 
-In 1998, a group of developers and advocates, including Eric S. Raymond and Bruce Perens, founded the Open Source Initiative (OSI) to promote the idea of open source and provide a more business-friendly alternative to the free software movement. The OSI developed the Open Source Definition, a set of criteria that software must meet to be considered open source. These criteria include free distribution, source code availability, derived works, and license integrity.
+In 1998, Christine Peterson, an Executive Director at Foresight coined the term "open source software" as a [deliberate effort to make this field...more understandable to newcomers and to business[es]](https://opensource.com/article/18/2/coining-term-open-source-software). She, alongside Eric S. Raymond, Bruce Perens, and other developers and advocates then created The Open Source Initiative (OSI) to spread more awareness about this concept. From there, the OSI developed the definition of open source, a set of criteria that software must meet to be considered open source. These criteria include free distribution, source code availability, derived works, and license integrity.
 
 The OSI's efforts to promote open source led to a surge of interest and adoption by both individuals and organizations. Today, open source software is widely used across various industries, and many well-known technology companies, such as Google, IBM, and Microsoft, actively support and contribute to open source projects.
 
