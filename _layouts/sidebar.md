@@ -1,11 +1,10 @@
 - Pages
-  - <a href="/01-intro.md">Intro</a>
-  - <a href="/02-what-is-open-source.md">What is Open Source?</a>
-  - <a href="/03-why-open-source.md">Why Open Source?</a>
-  - <a href="/04-tools-to-be-successful.md">Tools to be successful</a>
-  - <a href="/05-how-to-contribute-to-open-source.md">How to contribute to Open Source</a>
-  - <a href="/06-the-secret-sauce.md">The Secret Sauce</a>
-  - <a href="/07-conclusion.md">Conclusion</a>
-  - <a href="/08-additional-resources.md">Additional Resources</a>
-  - <a href="/09-glossary.md">Glossary</a>
- 
+  - [Intro](/01-intro.md)
+  - [What is Open Source](/02-what-is-open-source.md)
+  - [Why Open Source](/03-why-open-source.md)
+  - [Tools to be successful](/04-tools-to-be-successful.md)
+  - [How to contribute to Open Source](/05-how-to-contribute-to-open-source.md)
+  - [The secret sauce](/06-the-secret-sauce.md)
+  - [Conclusion](/07-conclusion.md)
+  - [Additional resources](/08-additional-resources.md)
+  - [Glossary](/09-glossary.md)
