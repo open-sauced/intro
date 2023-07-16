@@ -34,6 +34,6 @@ With the knowledge and tools you've gained from this course, you're ready to div
 
 6. **Share your experiences**: Document your open source journey by writing blog posts, creating tutorials, or giving presentations. This will not only help others learn from your experiences but also establish you as a thought leader in the open source community.
 
-7. **Continue learning**: Open source is a dynamic and ever-evolving field. Stay current with the latest tools, techniques, and best practices by attending workshops, taking online courses, and reading articles and books on open source development. We've included an [additional resources section](08-addition-resources.md) for more information.
+7. **Continue learning**: Open source is a dynamic and ever-evolving field. Stay current with the latest tools, techniques, and best practices by attending workshops, taking online courses, and reading articles and books on open source development. We've included an [additional resources section](08-additional-resources.md) for more information.
 
 In conclusion, embarking on an open source journey is a rewarding and enriching experience that can help you develop new skills, connect with like-minded individuals, and make a lasting impact on the projects you work on. With the knowledge and tools you've gained from this course, you're well-prepared to take on the exciting challenges and opportunities that await you in the open source world. So go forth and start contributing – the open source community eagerly awaits your participation!
