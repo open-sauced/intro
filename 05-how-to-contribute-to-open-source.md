@@ -108,7 +108,7 @@ Now that you know how to find and contribute to open source projects, it's time 
 2. Next, let's clone this repo to our local machine. In your terminal or command prompt, run the following command:
 
    ```
-   git clone git@github.com:[your_username]/opensauced-guestbook.git
+   git clone git@github.com:[your_username]/guestbook.git
    ```
 
 > This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
