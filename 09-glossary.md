@@ -16,6 +16,10 @@ An issue is a problem or bug that needs to be addressed in the code. Issues can 
 
 A contributor is anyone who makes changes, additions, or suggestions to an open source project. Contributors can be developers, designers, writers, testers, or anyone else who helps to make the project better. 
 
+## Clone
+
+Cloning is the process used to copy an existing Git repository into a new local directory.  The `git clone` command will create a new local directory for the repository, copy all the contents of the specified repository, create the remote tracked branches, and checkout an initial branch locally. By default, Git clone will create a reference to the remote repository called origin.
+
 ## Fork
 
 A fork is a copy of a repository. When you fork a repository, you create a new copy of the codebase that you can modify and experiment with without affecting the original codebase. 
