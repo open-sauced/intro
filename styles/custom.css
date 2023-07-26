@@ -13,8 +13,8 @@
   .app-nav {
     margin-right: 60px !important;
   }
-  #introduction {
-    padding-top: 10px;
+  #docsify-darklight-theme{
+    top: 6px !important;
   }
 }
 
