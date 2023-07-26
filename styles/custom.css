@@ -23,12 +23,10 @@
     width: calc(100% + 10rem);
   }
 }
-
 @media only screen and (max-width: 385px) and (min-width: 306px) {
   .app-nav {
     text-align: center !important; 
   }
-
 }
 
 /* Main section styling */
