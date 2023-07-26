@@ -13,6 +13,9 @@
   .app-nav {
     margin-right: 60px !important;
   }
+  #introduction {
+    padding-top: 10px;
+  }
 }
 
 @media only screen and (max-width: 930px) and (min-width: 755px) {
@@ -23,8 +26,9 @@
 
 @media only screen and (max-width: 385px) and (min-width: 306px) {
   .app-nav {
-    text-align: center !important;
+    text-align: center !important; 
   }
+
 }
 
 /* Main section styling */
