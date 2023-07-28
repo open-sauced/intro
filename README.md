@@ -31,7 +31,7 @@ This is the beginning of your open source journey, so we've provided some additi
 
 ## Getting Started
 
-To get started with the course, simply navigate to the `What is open source?` file in the repository and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To get started with the course, simply navigate to the [`intro`](01-intro.md) file in the repository and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to a real open source project or building your own project from scratch!
 
