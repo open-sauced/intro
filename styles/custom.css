@@ -13,8 +13,8 @@
   .app-nav {
     margin-right: 60px !important;
   }
-  #docsify-darklight-theme{
-    top: 6px !important;
+  #introduction, #what-is-open-source, #why-open-source, #conclusion, #the-secret-sauce, #how-to-contribute-to-open-source, #tools-to-be-successful{
+    margin-top: 1rem;
   }
 }
 
