@@ -36,4 +36,6 @@ A pull request is a request from a contributor to a maintainer for changes made 
 
 Merging is the process of combining changes from one branch into another. When a pull request is accepted and merged, the changes made in the pull request become part of the main codebase.
 
+## Markdown
 
+A language used to display text and other non-coding languages. Check out our Style Guide in our Pizza Verse repo! 
