@@ -2,6 +2,10 @@
 
 Welcome to the "Getting Started with Open Source" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.
 
+## Language Support
+
+- [Portuguese](./translations/pt-br/README.pt.md)
+
 ## Prerequisites
 
 Before diving into the world of open source, it's essential to have a basic understanding of programming concepts and some experience working with code. While the course will provide examples and demos, you'll get the most out of the material if you have some prior knowledge.
