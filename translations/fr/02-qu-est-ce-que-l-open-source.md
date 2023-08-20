@@ -1,4 +1,4 @@
-# 02-qu'est-ce que l'open-source?
+# Qu'est-ce que l'open-source?
 
 Dans ce chapitre, nous approfondirons le concept d'open source, sa définition et son histoire. Acquérir une compréhension approfondie de l'open source vous aidera à apprécier le contexte dans lequel vous collaborerez et contribuerez.
 
@@ -62,3 +62,18 @@ Ces plates-formes ont joué un rôle crucial en favorisant la croissance des com
 
 ### La montée de la participation des entreprises
 
+Au cours de ses dernières années, l'implication des entreprises dans les projets open source s'est considérablement elvée. De nombreuses entreprises reconnaissent désormais la valeur de l'open source et contribuent activement à divers projets et les soutiennent. Certaines entreprises sont même allées jusqu'à mettre en open source leurs propres outils et technologies internes, comme TensorFlow de Google et React de Facebook.
+
+Cette implication significative des entreprises a non seulement permis d'augmenter les ressources et le soutien aux projets open source, mais a également contribué à légitimer le mouvement open source et à encourager son adoption à plus grande échelle.
+
+## L'évolution de l'Open Source
+
+Le mouvement open source a parcouru un long chemin depuis ses débuts. Aujourd'hui, les logiciels libres sont omniprésents, alimentant aussi bien les sites web et les applications mobiles que l'intelligence artificielle et les algorithmes d'apprentissage automatique.
+
+À mesure que l'open source continue d'évoluer, de nouveaux projets, outils et technologies émergent constamment, repoussant les limites du possible et stimulant l'innovation dans un large éventail d'industries.
+
+La popularité croissante de l'open source a également donné naissance à un écosystème florissant de conférences, de rencontres et de communautés en ligne où les développeurs peuvent se réunir pour apprendre, collaborer et partager leurs connaissances. En participant à ces événements et en vous engageant auprès de la communauté open source, vous aurez l'occasion de développer vos compétences, de construire votre réseau et de vous tenir au courant des derniers développements dans ce domaine.
+
+Dans le prochain chapitre, nous explorerons les nombreux avantages de la contribution aux projets open source et nous verrons comment la collaboration open source peut vous aider à accéder à la connaissance, à vous connecter à une communauté et à développer des compétences précieuses.
+
+[Section suivante ->](03-pourquoi-open-source.md)

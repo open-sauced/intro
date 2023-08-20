@@ -51,8 +51,8 @@ Veuillez noter que bien que ces exemples et démos soient conçus pour vous guid
 
 Utilisez les exemples et les démonstrations comme point de départ, mais n'ayez pas peur d'explorer d'autres projets, outils et ressources à mesure que vous continuez à apprendre et à grandir.
 
-##LFG 🚀
+## LFG 🚀
 
 Maintenant que nous avons planté le décor, il est temps de vous lancer dans votre aventure open source ! Dans le chapitre suivant, nous plongerons dans la définition de l'open source et explorerons son histoire, jetant les bases d'une compréhension plus approfondie de la collaboration open source. D'accord, allons-y!
 
-[Section suivante ->](02-ce-qui-est-open-source.md)
+[Section suivante ->](02-qu-est-ce-que-l-open-source.md)
