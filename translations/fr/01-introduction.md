@@ -1,5 +1,7 @@
 # Introduction
-Bienvenue dans le cours "Initiation à l'Open Source" ! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif. À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source. Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
+Bienvenue dans le cours "Initiation à l'Open Source" ! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif.
+À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source.
+Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
 
 ## Conditions préalables
 
