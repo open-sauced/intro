@@ -30,7 +30,9 @@ En réponse aux restrictions croissantes sur l'accès et la distribution des log
 L'objectif de la FSF était de promouvoir le développement et l'utilisation de logiciels libres, qu'ils définissaient comme des logiciels qui accordent aux utilisateurs le liberté d'exécuter, d'étudier, de partager et de modifier le code.
 Ce concept est similaire à l'open source mais met davantage l'accent sur les aspects éthiques et politiques de la liberté du logiciel.
 
-Stallman et la FSF ont ensuite développé le projet GNU (qui signifie "GNU's Not Unix"), un effort ambitieux pour créer un système d'exploitation entièrement libre et ouvert. Alors que le projet GNU fournissait de nombreux composants essentiels, il lui manquait une pièce essentielle : un noyau libre et ouvert, le composant central d'un système d'exploitation.
+Stallman et la FSF ont ensuite développé le projet GNU (qui signifie "GNU's Not Unix"), un effort ambitieux pour créer un système d'exploitation entièrement libre et ouvert.
+Alors que le projet GNU fournissait de nombreux composants essentiels, il lui manquait une pièce essentielle:
+un noyau libre et ouvert, le composant central d'un système d'exploitation.
 
 ### L'arrivée de Linux
 
