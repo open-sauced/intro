@@ -26,7 +26,9 @@ Cependant, dans les années 1970 et 1980, alors que l'industrie du logiciel comm
 
 ### La naissance du logiciel libre
 
-En réponse aux restrictions croissantes sur l'accès et la distribution des logiciels, l'informaticien Richard Stallman a fondé la Free Software Foundation (FSF) en 1985. L'objectif de la FSF était de promouvoir le développement et l'utilisation de logiciels libres, qu'ils définissaient comme des logiciels qui accordent aux utilisateurs le liberté d'exécuter, d'étudier, de partager et de modifier le code. Ce concept est similaire à l'open source mais met davantage l'accent sur les aspects éthiques et politiques de la liberté du logiciel.
+En réponse aux restrictions croissantes sur l'accès et la distribution des logiciels, l'informaticien Richard Stallman a fondé la Free Software Foundation (FSF) en 1985.
+L'objectif de la FSF était de promouvoir le développement et l'utilisation de logiciels libres, qu'ils définissaient comme des logiciels qui accordent aux utilisateurs le liberté d'exécuter, d'étudier, de partager et de modifier le code.
+Ce concept est similaire à l'open source mais met davantage l'accent sur les aspects éthiques et politiques de la liberté du logiciel.
 
 Stallman et la FSF ont ensuite développé le projet GNU (qui signifie "GNU's Not Unix"), un effort ambitieux pour créer un système d'exploitation entièrement libre et ouvert. Alors que le projet GNU fournissait de nombreux composants essentiels, il lui manquait une pièce essentielle : un noyau libre et ouvert, le composant central d'un système d'exploitation.
 
