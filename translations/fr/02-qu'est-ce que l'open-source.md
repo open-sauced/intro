@@ -43,7 +43,8 @@ Elle, aux côtés d'Eric S. Raymond, Bruce Perens et d'autres développeurs et d
 À partir de là, l'OSI a développé la définition de l'open source, un ensemble de critères auxquels les logiciels doivent répondre pour être considérés comme open source.
 Ces critères incluent la distribution gratuite, la disponibilité du code source, les œuvres dérivées et l'intégrité de la licence.
 
-Les efforts de l'OSI pour promouvoir l'open source ont suscité un regain d'intérêt et d'adoption par les particuliers et les organisations. Aujourd'hui, les logiciels open source sont largement utilisés dans divers secteurs, et de nombreuses entreprises technologiques bien connues, telles que Google, IBM et Microsoft, soutiennent et contribuent activement aux projets open source.
+Les efforts de l'OSI pour promouvoir l'open source ont suscité un regain d'intérêt et d'adoption par les particuliers et les organisations.
+Aujourd'hui, les logiciels open source sont largement utilisés dans divers secteurs, et de nombreuses entreprises technologiques bien connues, telles que Google, IBM et Microsoft, soutiennent et contribuent activement aux projets open source.
 
 ### La croissance des communautés open source
 
