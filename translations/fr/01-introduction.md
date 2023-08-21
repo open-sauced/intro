@@ -39,7 +39,7 @@ Ce cours est divisé en plusieurs chapitres, chacun conçu pour couvrir un aspec
 
 1. ** Introduction : ** Nous commencerons par préparer le terrain pour votre parcours open source, en discutant des prérequis, des objectifs et des attentes.
 1. **Qu'est-ce que l'open source ? :** Dans ce chapitre, nous explorerons la définition de l'open source et son histoire, vous fournissant une base solide pour comprendre le contexte de la collaboration open source.
-1. **Pourquoi l'Open Source ? :** Nous aborderons les avantages de l'Open Source, notamment l'accès aux connaissances, la communauté et le développement des compétences.
+1. **Pourquoi l'Open Source ? :** Nous aborderons les avantages de l'Open Source, notamment l'accès aux connaissances, la communauté et le développement des compétences.
 1. **Outils pour réussir :** Ce chapitre vous présentera les outils essentiels pour une collaboration open source réussie, notamment GitHub, Git, CodeSee, VS Code et Discord.
 1. **Comment contribuer à l'Open Source :** Dans ce chapitre, nous discuterons du processus de recherche de projets sur lesquels travailler, de soumission de contributions, d'intégration dans un nouveau projet et de ce à quoi s'attendre après la soumission de votre contribution.
 1. **La sauce secrète :** Ce chapitre vous dévoilera les stratégies et les techniques pour démarrer, gagner du terrain dans vos contributions et développer votre CV open source.
