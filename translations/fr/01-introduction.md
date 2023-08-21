@@ -5,7 +5,8 @@ Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et d
 
 ## Conditions préalables
 
-Avant de plonger dans le monde de l'open source, il est essentiel d'avoir une compréhension de base des concepts de programmation et une certaine expérience de travail avec le code. Bien que le cours fournisse des exemples et des démonstrations, vous tirerez le meilleur parti du matériel si vous avez des connaissances préalables.
+Avant de plonger dans le monde de l'open source, il est essentiel d'avoir une compréhension de base des concepts de programmation et une certaine expérience de travail avec le code.
+Bien que le cours fournisse des exemples et des démonstrations, vous tirerez le meilleur parti du matériel si vous avez des connaissances préalables.
 
 De plus, ce cours suppose que vous êtes familiarisé avec Git et GitHub.
 Git est un système de contrôle de version largement utilisé, et GitHub est une plate-forme populaire pour l'hébergement et la collaboration sur les référentiels Git.
