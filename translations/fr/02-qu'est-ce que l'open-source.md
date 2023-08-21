@@ -36,7 +36,9 @@ un noyau libre et ouvert, le composant central d'un système d'exploitation.
 
 ### L'arrivée de Linux
 
-En 1991, un étudiant en informatique finlandais nommé Linus Torvalds a développé un noyau libre et open source appelé Linux. Lorsqu'il est combiné avec le système GNU, Linux a formé un système d'exploitation complet, gratuit et open source qui est encore largement utilisé aujourd'hui. Le succès de Linux a contribué à populariser le concept d'open source et a déclenché une vague de nouveaux projets, outils et technologies.
+En 1991, un étudiant en informatique finlandais nommé Linus Torvalds a développé un noyau libre et open source appelé Linux.
+Lorsqu'il est combiné avec le système GNU, Linux a formé un système d'exploitation complet, gratuit et open source qui est encore largement utilisé aujourd'hui.
+Le succès de Linux a contribué à populariser le concept d'open source et a déclenché une vague de nouveaux projets, outils et technologies.
 
 ### L'initiative Open Source
 
