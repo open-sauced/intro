@@ -49,4 +49,5 @@ Pour en savoir plus sur l'utilisation d'OpenSauced pour construire votre CV open
 Nous espérons que vous trouverez ce cours instructif et utile ! Si vous avez des questions ou des commentaires, n'hésitez pas à ouvrir un problème(issue) ou à nous contacter dans la communauté Discord d'OpenSauced.
 
 Bon apprentissage et bonne contribution !
+Nous espérons que vous trouverez ce cours instructif et utile ! Si vous avez des questions ou des commentaires, n'hésitez pas à ouvrir un problème(issue) ou à nous contacter dans la communauté Discord d'OpenSauced.
 
