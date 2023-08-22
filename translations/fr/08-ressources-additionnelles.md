@@ -13,9 +13,9 @@ Félicitations pour votre voyage vers l'open source ! Voici quelques ressources
 
 - [Open Source Friday](https://opensourcefriday.com/) par GitHub : un mouvement mondial qui encourage les individus et les organisations à contribuer à l'open source chaque vendredi. Le site Web fournit des ressources et des guides sur la façon de démarrer dans l'open source et de trouver des projets auxquels contribuer.
 
-## Articles de blog
-- [Au-delà de la création de contenu : comment les contributions open source peuvent vous aider à vous faire remarquer](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed -4l5n)
-- [Rédaction de votre première demande d'extraction : conseils, meilleures pratiques et outils basés sur l'IA pour réussir](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and- ai-powered-tools-for-success-3bg9)
-- [Comment contribuer à l'open source sans savoir coder : un guide avec des suggestions de projets](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to -coder-un-guide-avec-des-suggestions-de-projet-59e5)
--[Comment rédiger un bon numéro : conseils pour une communication efficace en open source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in- open-source-5443)
+## Articles et blogs
+- [Au-delà de la création de contenu : comment les contributions open source peuvent vous aider à vous faire remarquer](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
+- [Rédaction de votre première demande de tirage: conseils, meilleures pratiques et outils basés sur l'IA pour réussir](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
+- [Comment contribuer à l'open source sans savoir coder : un guide avec des suggestions de projets](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
+- [Comment rédiger une bonne suggestion de problème : conseils pour une communication efficace en open source](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 - [Les bons premiers numéros n'existent pas](https://opensauced.pizza/blog/good-first-issues-dont-exist)
