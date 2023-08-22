@@ -1,11 +1,16 @@
 # Introduction
-Bienvenue dans le cours "Initiation à l'Open Source" ! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif. À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source. Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
+Bienvenue dans le cours "Initiation à l'Open Source" ! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif.
+À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source.
+Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
 
 ## Conditions préalables
 
-Avant de plonger dans le monde de l'open source, il est essentiel d'avoir une compréhension de base des concepts de programmation et une certaine expérience de travail avec le code. Bien que le cours fournisse des exemples et des démonstrations, vous tirerez le meilleur parti du matériel si vous avez des connaissances préalables.
+Avant de plonger dans le monde de l'open source, il est essentiel d'avoir une compréhension de base des concepts de programmation et une certaine expérience de travail avec le code.
+Bien que le cours fournisse des exemples et des démonstrations, vous tirerez le meilleur parti du matériel si vous avez des connaissances préalables.
 
-De plus, ce cours suppose que vous êtes familiarisé avec Git et GitHub. Git est un système de contrôle de version largement utilisé, et GitHub est une plate-forme populaire pour l'hébergement et la collaboration sur les référentiels Git. Si vous n'êtes pas déjà familiarisé avec Git et GitHub, nous vous recommandons de prendre le temps d'apprendre les bases avant de commencer ce cours.
+De plus, ce cours suppose que vous êtes familiarisé avec Git et GitHub.
+Git est un système de contrôle de version largement utilisé, et GitHub est une plate-forme populaire pour l'hébergement et la collaboration sur les référentiels Git.
+Si vous n'êtes pas déjà familiarisé avec Git et GitHub, nous vous recommandons de prendre le temps d'apprendre les bases avant de commencer ce cours.
 
 ## Objetifs 
 Tout au long de cette formation, nos principaux objectifs sont de vous aider à :
@@ -34,7 +39,7 @@ Ce cours est divisé en plusieurs chapitres, chacun conçu pour couvrir un aspec
 
 1. **Introduction :** Nous commencerons par préparer le terrain pour votre parcours open source, en discutant des prérequis, des objectifs et des attentes.
 1. **Qu'est-ce que l'open source ? :** Dans ce chapitre, nous explorerons la définition de l'open source et son histoire, vous fournissant une base solide pour comprendre le contexte de la collaboration open source.
-1. **Pourquoi l'Open Source ? :** Nous aborderons les avantages de l'Open Source, notamment l'accès aux connaissances, la communauté et le développement des compétences.
+1. **Pourquoi l'Open Source ? :** Nous aborderons les avantages de l'Open Source, notamment l'accès aux connaissances, la communauté et le développement des compétences.
 1. **Outils pour réussir :** Ce chapitre vous présentera les outils essentiels pour une collaboration open source réussie, notamment GitHub, Git, CodeSee, VS Code et Discord.
 1. **Comment contribuer à l'Open Source :** Dans ce chapitre, nous discuterons du processus de recherche de projets sur lesquels travailler, de soumission de contributions, d'intégration dans un nouveau projet et de ce à quoi s'attendre après la soumission de votre contribution.
 1. **La sauce secrète :** Ce chapitre vous dévoilera les stratégies et les techniques pour démarrer, gagner du terrain dans vos contributions et développer votre CV open source.
