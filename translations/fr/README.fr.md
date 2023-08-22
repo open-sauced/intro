@@ -19,26 +19,29 @@ Le cours est divisé en cinq chapitres, chacun couvrant un aspect différent de 
 3. **Outils pour réussir.** Découvrez les outils et plates-formes clés nécessaires pour un voyage réussi dans le développement open source. De Git et GitHub pour le contrôle de version et la collaboration à CodeSee pour la visualisation de code et VS Code comme éditeur de code, ce chapitre donne un aperçu de la façon d'exploiter ces outils essentiels.
 
 4. **Comment contribuer à l'open source?**  Ce chapitre couvre la recherche de projets sur lesquels travailler, la soumission de contributions, l'intégration dans de nouveaux projets et les résultats après la soumission de contributions. Les conseils pour trouver des projets incluent la navigation sur GitHub et GitLab, le suivi de vos intérêts personnels, l'adhésion à des communautés open source et l'utilisation de plateformes comme OpenSauced.
+
 5. **La sauce secrète**  Ce chapitre se concentre sur la fourniture de stratégies et de conseils moins connus pour avoir un impact durable dans la communauté open source. Ce chapitre fournit des stratégies pour trouver des problèmes, gagner du terrain dans votre parcours open source et tirer parti d'OpenSauced pour créer votre CV open source.
-## Additional Information
-This is the beginning of your open source journey, so we've provided some additional resources to help you get started:
-- [Glossarie](09-glossarie.md): A glossary of common terms and definitions used in open source.
-- [Ressources additionnelles](./08-ressources-additionelles.md): A list of additional resources for further learning about open source, including blog posts, tutorials, and guides.
 
-## Getting Started
+## Informations complémentaires
 
-To get started with the course, simply navigate to the [`intro`](01-intro.md) file in the repository and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+Il s'agit du début de votre parcours dans le domaine de l'open source, c'est pourquoi nous avons mis à votre disposition quelques ressources supplémentaires pour vous aider à démarrer:
+- [Glossaire](09-glossarie.md): Un glossaire des termes et définitions couramment utilisés dans le domaine de l'open source.
+- [Ressources additionnelles](08-ressources-additionnelles.md): Une liste de ressources supplémentaires pour en savoir plus sur l'open source, y compris des articles de blog, des tutoriels et des guides.
 
-As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to a real open source project or building your own project from scratch!
+## Pour débuter
 
-## Building Your Open Source Resume
+Pour commencer le cours, il suffit de naviguer vers le fichier [`intro`](01-introduction.md) sur le dépôt et de commencer à lire ! Chaque chapitre s'appuie sur le précédent, nous recommandons donc de les lire dans l'ordre.
 
-One of the unique features of this course is that it provides guidance on how to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
+Tout au long du cours, nous vous encourageons à expérimenter les outils et les concepts abordés dans chaque chapitre. La meilleure façon d'apprendre est de pratiquer, alors essayez de contribuer à un vrai projet open source ou de construire votre propre projet à partir de zéro !
 
-To learn more about using OpenSauced to build your open source resume, be sure to check out the `Building Your Open Source Resume` section in [Chapter 6 - The secret sauce](./06-the-secret-sauce.md).
+## Construire son CV Open Source
+
+L'une des caractéristiques uniques de ce cours est qu'il fournit des conseils sur la façon de construire votre CV open source en utilisant OpenSauced. OpenSauced est une plateforme qui vous aide à suivre et à présenter vos contributions open source, ce qui vous permet de vous faire remarquer plus facilement par des employeurs et des collaborateurs potentiels.
+
+Pour en savoir plus sur l'utilisation d'OpenSauced pour construire votre CV open source, n'oubliez pas de consulter la section `Construire votre CV open source` au [chapitre 6-La sauce secrète](06-la-sauce-secrète.md).
 
 <hr/>
 
-We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the OpenSauced Discord community.
+Nous espérons que vous trouverez ce cours instructif et utile ! Si vous avez des questions ou des commentaires, n'hésitez pas à ouvrir un problème(issue) ou à nous contacter dans la communauté Discord d'OpenSauced.
 
-Happy learning and contributing!
+Bon apprentissage et bonne contribution !
