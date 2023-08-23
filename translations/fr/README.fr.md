@@ -7,6 +7,10 @@
 <br> 
 
 Bienvenue dans le cours d'introduction à l'Open Source avec OpenSauced ! Ce cours est conçu pour vous fournir une introduction à l'open source et vous guider tout au long du processus de contribution à des projets open source.
+## Support linguistique
+Comme la pizza, l'open source est destiné à être partagé avec tout le monde. Cliquez sur les liens ci-dessous pour suivre ce cours dans les langues suivantes.
+
+- [Anglais](/README.md)
 
 ## Aperçu du cours
 
