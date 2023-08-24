@@ -2,7 +2,6 @@
 
 Un référentiel (dépôt) est un emplacement central où le code est stocké et géré. En open source, les dépôts sont souvent hébergés sur des plateformes comme GitHub, GitLab ou Bitbucket. Chaque référentiel peut contenir un ou plusieurs projets, et les contributeurs peuvent soumettre des modifications au code en faisant des demandes de tirage.
 
-
 ## Mainteneur
 Un mainteneur est une personne ou un groupe de personnes responsable de la maintenance d'un projet open source spécifique. Les mainteneurs sont généralement chargés d'examiner et d'accepter ou de rejeter les contributions des autres contributeurs. Ils ont également le pouvoir de prendre des décisions finales sur l'orientation et la portée du projet.
 
@@ -38,5 +37,4 @@ Une demande de tirage est une demande d'un contributeur à un responsable pour q
 La fusion est le processus consistant à combiner les modifications d'une branche à une autre. Lorsqu'une demande de tirage est acceptée et fusionnée, les modifications apportées à la demande de tirage font partie de la base de code principale.
 
 ## Docs
-
  Il s'agit d'une abréviation du mot documentation, un morceau de texte qui fournit des informations sur la manière de contribuer aux projets OSS et sur les attentes des contributeurs. Markdown, un langage de codage basé sur du texte, est souvent utilisé pour créer ces formes de contenu. Vous voulez en voir un en action ? Consultez le [Guide de style dans notre dépôt Pizza Verse](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
