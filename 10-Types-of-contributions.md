@@ -9,7 +9,7 @@ Mostly, there are two types of contributions. Which are;
 
    ## A. Non-Coding Type Of Contributions
   
-  Non-coding contributions do not involve writing or modifying code. They help improve documentation, user experience, project management, and community engagement.
+  Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
   ### *Here are some common types of non-coding contributions:*
 
