@@ -81,8 +81,8 @@ This involves creating, improving, or maintaining the written resources that acc
 - Adding missing information to the documentation
 
 *Example*
-[
-Add More Information to Use This Template in the README
+
+[Add More Information to Use This Template in the README
 ](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
 
 *Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!*
