@@ -41,46 +41,45 @@ If you're interested in contributing to documentation, here are a few tips:
 
 *Example*
 
-[Create a Bootstrap Example ]([url](https://github.com/Mirrorful/mirrorful/pull/321)https://github.com/Mirrorful/mirrorful/pull/321)
+[Create a Bootstrap Example ](https://github.com/Mirrorful/mirrorful/pull/321)
 
 - Creating a tutorial that walks users through the project's features
 
 *Example*
 
 [Adding chart
-]([url](https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)
+](https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)
 
 - Updating the project's documentation to reflect new changes
 
 *Example*
 
-[Add Dev Cards to Getting Started]([url](https://github.com/open-sauced/docs/issues/156)https://github.com/open-sauced/docs/issues/156)
+[Add Dev Cards to Getting Started](https://github.com/open-sauced/docs/issues/156)
 
 - Translating the project's documentation into other languages
   
 *Example*
 
-[Translate the course into another language]([url](https://github.com/open-sauced/intro/issues/16)https://github.com/open-sauced/intro/issues/16)
+[Translate the course into another language](https://github.com/open-sauced/intro/issues/16)
 
 - Fixing typos and grammatical errors in the documentation
 
 *Example*
 
 [Adding information about possessives
-]([url](https://github.com/StyleGuides/WritingStyleGuide/pull/519))
+](https://github.com/StyleGuides/WritingStyleGuide/pull/519))
 
 - Improving the formatting of the documentation
 
   *Example*
   
 [  Incorrect Link Destination in Documentation
-]([url](https://github.com/open-sauced/docs/pull/144)https://github.com/open-sauced/docs/pull/144)
-
+](https://github.com/open-sauced/docs/pull/144)
 - Adding missing information to the documentation
 
 *Example*
 [
-Add More Information to Use This Template in the README]([url](https://github.com/open-sauced/100-days-of-oss-template/pull/8)https://github.com/open-sauced/100-days-of-oss-template/pull/8)
+Add More Information to Use This Template in the README](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
 
 *Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!*
 
@@ -94,47 +93,46 @@ Graphic design is a type of open-source contribution that involves creating visu
 
 *Example*
 
-[Insights on social card generation]([url](https://github.com/open-sauced/opengraph/pull/51)https://github.com/open-sauced/opengraph/pull/51)
+[Insights on social card generation](https://github.com/open-sauced/opengraph/pull/51)
 
 - **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
 *Example*
 
- [Redesign footer]([url](https://github.com/open-sauced/opengraph/pull/51)https://github.com/open-sauced/opengraph/pull/51)
+ [Redesign footer](https://github.com/open-sauced/opengraph/pull/51)
 
  - **Website Design**: Open source projects often have websites to provide information, documentation, and download links. Graphic designers can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
 
 *Example*
 
-[Add highlights to the user profile page]([url](https://github.com/open-sauced/app/pull/859)https://github.com/open-sauced/app/pull/859)
+[Add highlights to the user profile page](https://github.com/open-sauced/app/pull/859)
 
 - **User Interface (UI) Design**: For software projects, UI design is crucial. Designers can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
 
 *Example*
 
 [Form page UI implemented
-]([url](https://github.com/zillBoy/pokemon-app/pull/6)https://github.com/zillBoy/pokemon-app/pull/6)
+](https://github.com/zillBoy/pokemon-app/pull/6)
 
 - **User Experience (UX) Design**: UX designers focus on improving the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
 
 *Example*
 
- [Improved the user experience of the highlights input form]([url](https://github.com/open-sauced/app/pull/1362)https://github.com/open-sauced/app/pull/1362)
+ [Improved the user experience of the highlights input form](https://github.com/open-sauced/app/pull/1362)
 
 - **Accessibility Design**: Ensuring that the project's graphical elements are accessible to all users, including those with disabilities, is an important aspect of graphic design. Designers can create accessible color schemes and ensure that visual elements are perceivable and operable.
 
 *Example*
 
 [Redesign footer
-]([url](https://github.com/cesko-digital/pomahejukrajine-web/pull/222)https://github.com/cesko-digital/pomahejukrajine-web/pull/222)
+](https://github.com/cesko-digital/pomahejukrajine-web/pull/222)
 
 - **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices
 
 *Example* 
 
 [Enhance feed layout responsiveness 
-]([url](https://github.com/open-sauced/app/pull/1553)https://github.com/open-sauced/app/pull/1553)
-
+](https://github.com/open-sauced/app/pull/1553)
 
 ### BLOG WRITING
 
@@ -150,25 +148,25 @@ Contributing blog posts to open-source projects or community websites is a valua
 
 *Example* 
 
-[Announcing the 0.2.0 release of Analog]([url](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
+[Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
 - A blog post could be written about how to use an open-source project, such as a tutorial on how to install and configure the software.
 
 *Example*
 
-[How To Make a Delicious Contributing Guide]([url](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
+[How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
 
 - A blog post could be written about the impact of an open-source project, such as how it has been used to make a difference in the world.
 
 *Example*
 
-[Retaining the best engineers]([url](https://opensauced.pizza/blog/retaining-the-best-engineers)https://opensauced.pizza/blog/retaining-the-best-engineers)
+[Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
 
 - A blog post could be written on how to navigate your way around open-source as a new contributor, such as how to get started with open-source.
 
 *Example*
 
-[Open Source 101: A Beginner's Guide to Getting Started]([url](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+[Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
 
 ## B. Coding Type Of Contributions
@@ -183,49 +181,49 @@ Coding contributions are the heart of open-source development, as they directly 
 
 *Example*
 
-[Show reactors who reacted to highlights]([url](https://github.com/open-sauced/app/pull/1591)https://github.com/open-sauced/app/pull/1591)
+[Show reactors who reacted to highlights](https://github.com/open-sauced/app/pull/1591)
 
 - **Bug Fixes**: Identifying and fixing bugs is a critical coding contribution. Developers locate issues within the codebase, diagnose the problem, and then write code to correct it. Bug fixes improve the stability and reliability of the software.
 
 *Example*
 
 [Lint check happening two times on commit
-]([url](https://github.com/open-sauced/app/pull/1635)https://github.com/open-sauced/app/pull/1635)
+](https://github.com/open-sauced/app/pull/1635)
 
 - **Code Refactoring**:  Refactoring involves restructuring and improving existing code without changing its external behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project.
 
 *Example*
 
 [CalcDistanceFromToday function
-]([url](https://github.com/open-sauced/app/pull/1633)https://github.com/open-sauced/app/pull/1633)
+](https://github.com/open-sauced/app/pull/1633)
 
 - **API Design and Maintenance**:  For projects with public APIs, developers can contribute to designing, maintaining, and improving the API to ensure it remains stable and developer-friendly.
 
 *Example*
 
 [Refresh token
-]([url](https://github.com/IridiumIdentity/iridium/pull/134)https://github.com/IridiumIdentity/iridium/pull/134)
+](https://github.com/IridiumIdentity/iridium/pull/134)
 
 - **Feature Development**:  Developers contribute by implementing new features or functionalities in response to user needs or project goals. Feature development often involves planning, designing, and coding new components or capabilities.
 
 *Example* 
 
 [Added the contact page
-]([url](https://github.com/TechIsHiring/techishiring-website/pull/53)https://github.com/TechIsHiring/techishiring-website/pull/53)
+](https://github.com/TechIsHiring/techishiring-website/pull/53)
 
 - **Performance Optimization**: Coders may work on optimizing the software's performance by refactoring code, improving algorithms, or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
 
 *Example* 
 
 [Overflows in insights page on md screen size
-]([url](https://github.com/open-sauced/app/pull/1590)https://github.com/open-sauced/app/pull/1590)
+](https://github.com/open-sauced/app/pull/1590)
 
 - **Testing and Quality Assurance**:Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
 *Example* 
 
 [Add force login component to design system
-]([url](https://github.com/open-sauced/app/pull/1330)https://github.com/open-sauced/app/pull/1330)
+](https://github.com/open-sauced/app/pull/1330)
 
 
 
