@@ -172,8 +172,7 @@ Blog writing as a type of open-source contribution involves creating and publish
 
 ## B. Coding Type Of Contributions
 
-Coding contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project. These contributions are at the core of open-source development and are crucial for building and maintaining software
-
+Coding contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project.
 Coding contributions are the heart of open-source development, as they directly impact the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 ### *Here are some specific examples of how coding can be used to contribute to open-source projects:*
@@ -219,7 +218,7 @@ Coding contributions are the heart of open-source development, as they directly 
 [Overflows in insights page on md screen size
 ](https://github.com/open-sauced/app/pull/1590)
 
-- **Testing and Quality Assurance**:Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
+- **Testing and Quality Assurance**: Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
 *Example* 
 
