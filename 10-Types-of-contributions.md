@@ -1,4 +1,4 @@
-# Types-of-contributions
+# Types of contributions
 In this chapter, we will discuss the types of contributions that open-source projects involve.
 
 Mostly, there are two types of contributions. Which are;
@@ -8,6 +8,7 @@ Mostly, there are two types of contributions. Which are;
 - Coding type of contribution
 
    ## A. Non-Coding Type Of Contributions
+  
   Non-coding contributions are valuable contributions made to open-source projects that do not involve writing or modifying code. These contributions are essential for the overall health and success of open-source communities and projects. They help improve documentation, user experience, project management, and community engagement.
 
   ### *Here are some common types of non-coding contributions:*
@@ -18,12 +19,13 @@ Mostly, there are two types of contributions. Which are;
 
 
 ### DOCUMENTATION
+
 Are you a lover of words? Do grammar errors irritate you, like seeing pineapple on pizza? Then, documentation is for you! 
 This involves creating, improving, or maintaining the written resources that accompany open-source software projects. Contrary to popular belief, documentation is crucial to open-source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors.
 
 ### How to Contribute to Documentation
 
-If you're interested in contributing to documentation, here are a few tips:
+*If you're interested in contributing to documentation, here are a few tips:*
 
 - **Read the documentation**: This will help you understand how the product is used.
   
@@ -38,6 +40,7 @@ If you're interested in contributing to documentation, here are a few tips:
 
 
 - Writing a README file that explains how to install and use the project
+  
 
 *Example*
 
