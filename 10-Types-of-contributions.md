@@ -74,7 +74,7 @@ This involves creating, improving, or maintaining the written resources that acc
 
 - Improving the formatting of the documentation
 
-  *Example*
+*Example*
   
 [  Incorrect Link Destination in Documentation
 ](https://github.com/open-sauced/docs/pull/144)
