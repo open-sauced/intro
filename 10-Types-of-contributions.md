@@ -140,14 +140,10 @@ Graphic design is a type of open-source contribution that involves creating visu
 
 ### Blog Writing
 
-Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. Here are some ways you can use blogging to contribute:
-
-- Reflect on your experiences as a contributor
-- Describe and review the project’s latest updates
-- Mentioning the project when raising awareness about certain topics or in a guide on how to get started in open-source
+Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. 
  
 
-Here are some specific examples of how blog writing can be used to contribute to open-source projects
+Here are some specific examples of how blog writing can be used to contribute to open-source projects:
 
 - You can write about the latest features of an open-source project, such as a new version of the software or a new plugin.
 
