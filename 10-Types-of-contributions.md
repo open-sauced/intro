@@ -144,18 +144,18 @@ Blog writing as a type of open-source contribution involves creating and publish
 
 - Reflect on your experiences as a contributor
 - Describe and review the project’s latest updates
-- Mentioning the project when raising awareness about certain topics or in a guide on how to get started in open source
+- Mentioning the project when raising awareness about certain topics or in a guide on how to get started in open-source
  
 
-### *Here are some specific examples of how blog writing can be used to contribute to open-source projects:*
+Here are some specific examples of how blog writing can be used to contribute to open-source projects
 
-- A blog post could be written about the latest features of an open-source project, such as a new version of the software or a new plugin.
+- You can write about the latest features of an open-source project, such as a new version of the software or a new plugin.
 
 *Example* 
 
 [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
-- A blog post could be written about how to use an open-source project, such as a tutorial on how to install and configure the software.
+- Love teaching? You can write a tutorial on how to install and configure the software.
 
 *Example*
 
@@ -176,10 +176,10 @@ Blog writing as a type of open-source contribution involves creating and publish
 
 ## B. Coding Type Of Contributions
 
-Coding contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project.
+These contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project.
 Coding contributions are the heart of open-source development, as they directly impact the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
-### *Here are some specific examples of how coding can be used to contribute to open-source projects:*
+Here are some examples of contributions you can make to a project with your coding skills:
 
 - **Writing New Code**: This is the most common type of coding contribution. Developers write new code to add features, fix bugs, or enhance the functionality of an open-source project. These contributions are typically submitted in the form of pull requests (PRs) or patches.
 
