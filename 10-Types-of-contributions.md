@@ -11,8 +11,8 @@ Mostly, there are two types of contributions. Which are;
   
   Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
-  ### *Here are some common types of non-coding contributions:*
-
+ ### Common types of non-coding contributions
+ 
   - Documentation
   - Graphic design
   - Blog writing
@@ -50,8 +50,7 @@ This involves creating, improving, or maintaining the written resources that acc
 
 *Example*
 
-[Adding chart
-](https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)
+[Adding chart](https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)
 
 - Updating the project's documentation to reflect new changes
 
@@ -85,14 +84,14 @@ This involves creating, improving, or maintaining the written resources that acc
 [Add More Information to Use This Template in the README
 ](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
 
-*Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!*
+Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!
 
 ### Graphic Design
 
 Graphic design is a type of open-source contribution that involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions are important because they can make open-source software more appealing, user-friendly, and recognizable.
 
- ### *Here are some aspects of graphic design as a type of open-source contribution:*
-
+ ### Different graphic design open-source contributions 
+ 
  - **Logo and Branding**: Designing a unique and memorable logo for an open-source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
 
 *Example*
@@ -143,7 +142,7 @@ Graphic design is a type of open-source contribution that involves creating visu
 Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. 
  
 
-Here are some specific examples of how blog writing can be used to contribute to open-source projects:
+### Ways to use Blogging as a Open Source Contribution
 
 - You can write about the latest features of an open-source project, such as a new version of the software or a new plugin.
 
