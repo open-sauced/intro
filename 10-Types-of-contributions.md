@@ -18,7 +18,7 @@ Mostly, there are two types of contributions. Which are;
   - Blog writing
 
 
-### DOCUMENTATION
+### Documentation
 
 Are you a lover of words? Do grammar errors irritate you, like seeing pineapple on pizza? Then, documentation is for you! 
 This involves creating, improving, or maintaining the written resources that accompany open-source software projects. Contrary to popular belief, documentation is crucial to open-source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors.
@@ -87,7 +87,7 @@ This involves creating, improving, or maintaining the written resources that acc
 
 *Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!*
 
-### GRAPHIC DESIGN
+### Graphic Design
 
 Graphic design is a type of open-source contribution that involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions are important because they can make open-source software more appealing, user-friendly, and recognizable.
 
@@ -138,7 +138,7 @@ Graphic design is a type of open-source contribution that involves creating visu
 [Enhance feed layout responsiveness 
 ](https://github.com/open-sauced/app/pull/1553)
 
-### BLOG WRITING
+### Blog Writing
 
 Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. Here are some ways you can use blogging to contribute:
 
