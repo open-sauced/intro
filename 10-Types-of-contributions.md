@@ -69,7 +69,7 @@ This involves creating, improving, or maintaining the written resources that acc
 *Example*
 
 [Adding information about possessives
-](https://github.com/StyleGuides/WritingStyleGuide/pull/519))
+](https://github.com/StyleGuides/WritingStyleGuide/pull/519)
 
 - Improving the formatting of the documentation
 
