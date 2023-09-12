@@ -11,7 +11,7 @@ Mostly, there are two types of contributions:
   
   Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
-*[How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)*
+[How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
  ### Common types of non-coding contributions
  
@@ -37,9 +37,7 @@ This involves creating, improving, or maintaining the written resources that acc
   
 - **Be patient and persistent**: It takes time to write good documentation. Don't be afraid to ask for help if you get stuck.
   
-
 #### Here are some specific examples of documentation contributions:
-
 
 - Writing a README file that explains how to install and use the project
   
@@ -109,11 +107,9 @@ Example: [Redesign footer
 
 Example: [Writing about an OSS project creates more visibility for the project and the maintainer, which can lead to better discoverability and support.](https://github.com/open-sauced/app/pull/1553)
 
-
 ### Blog Writing
 
 Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. 
- 
 
 ### Ways to use Blogging as a Open Source Contribution
 
@@ -132,7 +128,6 @@ Example: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-
 - A blog post could be written on how to navigate your way around open-source as a new contributor, such as how to get started with open-source.
 
 Example: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
-
 
 ## Coding Type Of Contributions
 
