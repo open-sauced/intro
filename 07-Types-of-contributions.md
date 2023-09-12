@@ -134,7 +134,7 @@ Example: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-
 Example: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
 
-## B. Coding Type Of Contributions
+## Coding Type Of Contributions
 
 These contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project.
 Coding contributions are the heart of open-source development, as they directly impact the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
