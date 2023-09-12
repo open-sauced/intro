@@ -3,10 +3,10 @@
 A repository is a central location where code is stored and managed. In open source, repositories are often hosted on platforms like GitHub, GitLab, or Bitbucket. Each repository can contain one or more projects, and contributors can submit changes to the code by making pull requests.
 
 ## Maintainer
-A maintainer is a person or a group of people responsible for maintaining a specific open source project. Maintainers are typically responsible for reviewing and accepting or rejecting contributions from other contributors. They also have the authority to make final decisions about the direction and scope of the project.
+A maintainer is a person or a group of people responsible for maintaining a specific open-source project. Maintainers are typically responsible for reviewing and accepting or rejecting contributions from other contributors. They also have the authority to make final decisions about the direction and scope of the project.
 
 ## Core Member
-A core member is a contributor who has been granted additional privileges or responsibilities within an open source project. Core members are typically trusted contributors who have demonstrated a deep understanding of the project and have made significant contributions to its development.
+A core member is a contributor who has been granted additional privileges or responsibilities within an open-source project. Core members are typically trusted contributors who have demonstrated a deep understanding of the project and have made significant contributions to its development.
 
 ## Issue
 
