@@ -75,7 +75,7 @@ Contributing to documentation is a great way to help open-source projects and ma
 
 ### Graphic Design
 
-Graphic design is a type of open-source contribution that involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions are important because they can make open-source software more appealing, user-friendly, and recognizable.
+Love drawing or painting? Consider doing Graphic design. This open-source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open-source software more appealing, user-friendly, and recognizable.
 
  ### Different graphic design open-source contributions 
  
@@ -109,7 +109,7 @@ Example: [Writing about an OSS project creates more visibility for the project a
 
 ### Blog Writing
 
-Blog writing as a type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts. 
+If you're more of a creative writer, then blog writing is your perfect match. This type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
 ### Ways to use Blogging as a Open Source Contribution
 
@@ -131,8 +131,7 @@ Example: [Open Source 101: A Beginner's Guide to Getting Started](https://opensa
 
 ## Coding Type Of Contributions
 
-These contributions in the context of open-source software development involve writing, modifying, or improving the actual source code of an open-source project.
-Coding contributions are the heart of open-source development, as they directly impact the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+Coding contributions are the heart of open-source development. They entail writing, modifying, or improving the actual source code of an open-source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
