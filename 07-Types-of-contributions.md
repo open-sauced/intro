@@ -11,6 +11,8 @@ Mostly, there are two types of contributions:
   
   Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
+*[How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)*
+
  ### Common types of non-coding contributions
  
   - Documentation
@@ -81,8 +83,6 @@ Graphic design is a type of open-source contribution that involves creating visu
  
  - **Logo and Branding**: Designing a unique and memorable logo for an open-source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
 
-Example: [Insights on social card generation](https://github.com/open-sauced/opengraph/pull/51)
-
 - **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
 Example: [Redesign footer](https://github.com/open-sauced/opengraph/pull/51)
@@ -107,8 +107,8 @@ Example: [Redesign footer
 
 - **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices
 
-Example: [Enhance feed layout responsiveness 
-](https://github.com/open-sauced/app/pull/1553)
+Example: [Writing about an OSS project creates more visibility for the project and the maintainer, which can lead to better discoverability and support.](https://github.com/open-sauced/app/pull/1553)
+
 
 ### Blog Writing
 
