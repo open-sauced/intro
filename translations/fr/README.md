@@ -57,7 +57,7 @@ Nous espérons que vous trouverez ce cours instructif et utile ! Si vous avez de
   <h1>🍕 Introduction à l'Open Source avec OpenSauced 🍕</h1>
   <strong>Le site fournit des supports de cours pour l'introduction à l'Open Source d'OpenSauced.</strong>
 </div>
-<br> 
+<br>
 
 Bienvenue dans le cours d'introduction à l'Open Source avec OpenSauced ! Ce cours est conçu pour vous fournir une introduction à l'open source et vous guider tout au long du processus de contribution à des projets open source.
 ## Support linguistique
