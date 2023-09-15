@@ -131,7 +131,7 @@ Example: [Open Source 101: A Beginner's Guide to Getting Started](https://opensa
 
 ## Coding Type Of Contributions
 
-Coding contributions are the heart of open-source development. They entail writing, modifying, or improving the actual source code of an open-source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+Coding contributions power open-source development. They entail writing, modifying, or improving the actual source code of an open-source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
