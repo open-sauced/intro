@@ -30,7 +30,7 @@ Git permet aux développeurs de suivre les modifications apportées à leur code
 
 GitHub est une plateforme web de contrôle de version et de collaboration qui utilise Git comme technologie sous-jacente. Elle offre une interface simple et conviviale pour gérer les dépôts Git, ainsi qu'une multitude de fonctionnalités et d'outils pour collaborer avec d'autres développeurs.
 
-Voici quelques-unes des principales caractéristiques de GitHub :
+Voici quelques-unes des principales caractéristiques de GitHub:
 
 - **Suivi des problèmes**: GitHub propose un système intégré de suivi des problèmes qui permet aux développeurs de créer, d'attribuer et de gérer les problèmes liés à leurs projets. Les problèmes peuvent être catégorisés à l'aide d'étiquettes, d'étapes et de destinataires, ce qui facilite le suivi de l'avancement du projet et la hiérarchisation des tâches.
 - **Demandes de tirage**: GitHub introduit le concept de "pull requests", qui permet aux développeurs de proposer des modifications à la base de code d'un projet. Les demandes de tiragge permettent la révision du code, la discussion et la collaboration avant que les changements ne soient fusionnés dans la base de code principale.
@@ -99,9 +99,9 @@ Remplacez "Votre message de commit" par une brève description des modifications
 ```
 git push origin main
 ```
-Ceci enverra vos changements vers la branche "main" de votre dépôt distant. Si vous voulez vérifier votre travail, naviguez vers votre dépôt GitHub. Vous devriez maintenant voir 'hello world !' dans votre fichier README.md.
+Ceci enverra vos changements vers la branche "main" de votre dépôt distant. Si vous voulez vérifier votre travail, naviguez vers votre dépôt GitHub. Vous devriez maintenant voir 'hello world!' dans votre fichier README.md.
 
-Vous avez maintenant configuré avec succès Git et GitHub sur votre machine locale et vous êtes prêt à collaborer sur des projets open source !
+Vous avez maintenant configuré avec succès Git et GitHub sur votre machine locale et vous êtes prêt à collaborer sur des projets open source!
 
 ## CodeSee
 
@@ -127,7 +127,7 @@ Pour télécharger et installer VS Code, visitez le site officiel (https://code.
 
 ## Discord
 
-Discord est une plateforme populaire de messagerie et de chat vocal largement utilisée par les communautés open source pour la communication et la collaboration. En rejoignant des serveurs Discord liés à vos intérêts et à vos projets, vous pouvez :
+Discord est une plateforme populaire de messagerie et de chat vocal largement utilisée par les communautés open source pour la communication et la collaboration. En rejoignant des serveurs Discord liés à vos intérêts et à vos projets, vous pouvez:
 
 - **Entrer en contact avec d'autres développeurs**: Discord vous permet de discuter avec d'autres développeurs, de poser des questions et de partager vos connaissances avec la communauté.
 - **Rester informé**: De nombreux projets open source utilisent Discord pour partager des mises à jour, des annonces et d'autres informations importantes. En rejoignant leurs serveurs, vous pouvez rester informé des derniers développements et contribuer plus efficacement.

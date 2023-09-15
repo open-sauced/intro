@@ -3,9 +3,9 @@
 Dans ce chapitre, nous vous guiderons à travers le processus de contribution aux projets open source. Nous aborderons les sujets suivants:
 
 - Trouver des projets sur lesquels travailler
-- Comment soumettre une contribution ?
+- Comment soumettre une contribution?
 - S'intégrer dans un nouveau projet
-- Que se passe-t-il ensuite ?
+- Que se passe-t-il ensuite?
 
 ## Trouver des projets sur lesquels travailler
 
@@ -139,7 +139,7 @@ Félicitations ! Vous venez de faire une contribution open source ! Dans le proc
 
 ## S'intégrer dans un nouveau projet
 
-Lorsque vous rejoignez un nouveau projet open source, il est important de vous familiariser avec les lignes directrices, les conventions et le flux de travail du projet. Voici quelques conseils pour vous aider à réussir votre intégration :
+Lorsque vous rejoignez un nouveau projet open source, il est important de vous familiariser avec les lignes directrices, les conventions et le flux de travail du projet. Voici quelques conseils pour vous aider à réussir votre intégration:
 
 1. **Lire la documentation**: Commencez par lire la documentation du projet, y compris le fichier README, les directives de contribution et le code de conduite. Cela vous aidera à comprendre les objectifs du projet, les exigences et les attentes des contributeurs.
 
@@ -152,13 +152,13 @@ Lorsque vous rejoignez un nouveau projet open source, il est important de vous f
 
 5. **Soyez patient et persévérant**: L'intégration dans un nouveau projet peut s'avérer difficile, en particulier si vous êtes novice en matière de développement open source. Soyez patient avec vous-même et ne vous laissez pas décourager par les échecs ou les erreurs. Avec de la persévérance et de la pratique, vous deviendrez plus à l'aise et plus confiant dans vos contributions.
 
-## Que se passe-t-il ensuite ?
+## Que se passe-t-il ensuite?
 
 Une fois que votre contribution a été soumise et examinée, l'un des résultats suivants peut se produire:
 
 1. **Votre contribution est acceptée**: Si votre contribution est approuvée par les responsables du projet, elle sera fusionnée dans la branche principale du codebase.
 
-Félicitations ! Votre travail fait désormais partie du projet et vous avez apporté une contribution précieuse à la communauté open source.
+Félicitations! Votre travail fait désormais partie du projet et vous avez apporté une contribution précieuse à la communauté open source.
 
 2. **Votre contribution nécessite des modifications**: Parfois, les responsables du projet peuvent demander des modifications à votre contribution avant qu'elle ne soit acceptée. Cela peut être dû à des problèmes de codage, à des conflits avec d'autres modifications ou à la nécessité d'une documentation supplémentaire. Dans ce cas, apportez les modifications demandées et soumettez à nouveau votre demande de tirage.
 
@@ -221,7 +221,7 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 ![issue assigned screenshot](../../issue-assign.png)
 
-## Comment soumettre une contribution ?
+## Comment soumettre une contribution?
 
 Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivante consiste à soumettre une contribution. Voici les grandes lignes de la procédure:
 
@@ -309,7 +309,7 @@ Félicitations ! Vous venez de faire une contribution open source ! Dans le proc
 
 ## S'intégrer dans un nouveau projet
 
-Lorsque vous rejoignez un nouveau projet open source, il est important de vous familiariser avec les lignes directrices, les conventions et le flux de travail du projet. Voici quelques conseils pour vous aider à réussir votre intégration :
+Lorsque vous rejoignez un nouveau projet open source, il est important de vous familiariser avec les lignes directrices, les conventions et le flux de travail du projet. Voici quelques conseils pour vous aider à réussir votre intégration:
 
 1. **Lire la documentation**: Commencez par lire la documentation du projet, y compris le fichier README, les directives de contribution et le code de conduite. Cela vous aidera à comprendre les objectifs du projet, les exigences et les attentes des contributeurs.
 

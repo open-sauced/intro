@@ -1,4 +1,4 @@
-# Pourquoi l'open source ?
+# Pourquoi l'open source?
 
 Dans le chapitre précédent, nous avons exploré le concept d'open source et son histoire. Nous allons maintenant nous pencher sur les nombreux avantages de la participation à des projets open source. En comprenant les avantages de la collaboration open source, vous serez mieux équipé pour tirer parti des possibilités qu'elle offre et profiter au maximum de votre parcours dans l'open source.
 
@@ -16,7 +16,7 @@ L'un des principaux avantages de contribuer à des projets open source est la po
 
 ## Accès à la communauté
 
-La communauté open source est un réseau mondial diversifié de développeurs, de passionnés et de défenseurs qui partagent une passion commune pour la collaboration et le partage des connaissances. En contribuant à des projets open source, vous pouvez :
+La communauté open source est un réseau mondial diversifié de développeurs, de passionnés et de défenseurs qui partagent une passion commune pour la collaboration et le partage des connaissances. En contribuant à des projets open source, vous pouvez:
 
 1. **Se connecter avec des personnes partageant les mêmes idées**: Les projets open source offrent la possibilité de collaborer avec d'autres personnes qui partagent vos intérêts et vos passions. En travaillant ensemble, vous pouvez nouer des liens et des amitiés durables qui peuvent enrichir votre vie personnelle et professionnelle.
 

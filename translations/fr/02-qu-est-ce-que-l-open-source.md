@@ -44,9 +44,9 @@ Les efforts de l'OSI pour promouvoir l'open source ont suscité un regain d'int�
 
 Au fur et à mesure que le mouvement open source prenait de l'ampleur, de nombreuses communautés et plateformes ont émergé pour faciliter la collaboration et le partage des connaissances. Voici quelques exemples notables :
 
-- **SourceForge** : Lancée en 1999, SourceForge a été l'une des premières plates-formes Web à fournir des outils et des ressources permettant aux développeurs de collaborer sur des projets open source. À son apogée, SourceForge hébergeait des milliers de projets et attirait des millions d'utilisateurs.
-- **GitHub** : Fondé en 2008, GitHub est rapidement devenu la plate-forme de référence pour l'hébergement et la collaboration sur les référentiels Git. Aujourd'hui, GitHub héberge des millions de projets open source et bénéficie d'une communauté dynamique de contributeurs du monde entier.
-- **GitLab** : Lancé en 2011 en tant qu'alternative open source à GitHub, GitLab propose une suite d'outils et de fonctionnalités permettant de gérer les référentiels Git, de suivre les problèmes et de faciliter la collaboration.
+- **SourceForge**: Lancée en 1999, SourceForge a été l'une des premières plates-formes Web à fournir des outils et des ressources permettant aux développeurs de collaborer sur des projets open source. À son apogée, SourceForge hébergeait des milliers de projets et attirait des millions d'utilisateurs.
+- **GitHub**: Fondé en 2008, GitHub est rapidement devenu la plate-forme de référence pour l'hébergement et la collaboration sur les référentiels Git. Aujourd'hui, GitHub héberge des millions de projets open source et bénéficie d'une communauté dynamique de contributeurs du monde entier.
+- **GitLab**: Lancé en 2011 en tant qu'alternative open source à GitHub, GitLab propose une suite d'outils et de fonctionnalités permettant de gérer les référentiels Git, de suivre les problèmes et de faciliter la collaboration.
 
 Ces plates-formes ont joué un rôle crucial en favorisant la croissance des communautés open source et en facilitant la contribution et la collaboration des développeurs aux projets.
 
@@ -106,7 +106,7 @@ En 1991, un étudiant en informatique finlandais nommé Linus Torvalds a dévelo
 
 ### L'initiative Open Source
 
-En 1998, Christine Peterson, directrice exécutive de Foresight, a inventé le terme "logiciel open source" comme un [effort délibéré pour rendre ce domaine... plus compréhensible pour les nouveaux arrivants et les entreprises[es]](https://opensource.com/article/18/2/coining-term-open-source-software). Elle, aux côtés d'Eric S. Raymond, Bruce Perens et d'autres développeurs et défenseurs, a ensuite créé l'Open Source Initiative (OSI) pour mieux faire connaître ce concept. À partir de là, l'OSI a développé la définition de l'open source, un ensemble de critères auxquels les logiciels doivent répondre pour être considérés comme open source. Ces critères incluent la distribution gratuite, la disponibilité du code source, les œuvres dérivées et l'intégrité de la licence.
+En 1998, Christine Peterson, directrice exécutive de Foresight, a inventé le terme "logiciel open source" comme un [effort délibéré pour rendre ce domaine...plus compréhensible pour les nouveaux arrivants et les entreprises[es]](https://opensource.com/article/18/2/coining-term-open-source-software). Elle, aux côtés d'Eric S. Raymond, Bruce Perens et d'autres développeurs et défenseurs, a ensuite créé l'Open Source Initiative (OSI) pour mieux faire connaître ce concept. À partir de là, l'OSI a développé la définition de l'open source, un ensemble de critères auxquels les logiciels doivent répondre pour être considérés comme open source. Ces critères incluent la distribution gratuite, la disponibilité du code source, les œuvres dérivées et l'intégrité de la licence.
 
 Les efforts de l'OSI pour promouvoir l'open source ont suscité un regain d'intérêt et d'adoption par les particuliers et les organisations. Aujourd'hui, les logiciels open source sont largement utilisés dans divers secteurs, et de nombreuses entreprises technologiques bien connues, telles que Google, IBM et Microsoft, soutiennent et contribuent activement aux projets open source.
 
@@ -114,9 +114,9 @@ Les efforts de l'OSI pour promouvoir l'open source ont suscité un regain d'int�
 
 Au fur et à mesure que le mouvement open source prenait de l'ampleur, de nombreuses communautés et plateformes ont émergé pour faciliter la collaboration et le partage des connaissances. Voici quelques exemples notables :
 
-- **SourceForge** : Lancée en 1999, SourceForge a été l'une des premières plates-formes Web à fournir des outils et des ressources permettant aux développeurs de collaborer sur des projets open source. À son apogée, SourceForge hébergeait des milliers de projets et attirait des millions d'utilisateurs.
-- **GitHub** : Fondé en 2008, GitHub est rapidement devenu la plate-forme de référence pour l'hébergement et la collaboration sur les référentiels Git. Aujourd'hui, GitHub héberge des millions de projets open source et bénéficie d'une communauté dynamique de contributeurs du monde entier.
-- **GitLab** : Lancé en 2011 en tant qu'alternative open source à GitHub, GitLab propose une suite d'outils et de fonctionnalités permettant de gérer les référentiels Git, de suivre les problèmes et de faciliter la collaboration.
+- **SourceForge**: Lancée en 1999, SourceForge a été l'une des premières plates-formes Web à fournir des outils et des ressources permettant aux développeurs de collaborer sur des projets open source. À son apogée, SourceForge hébergeait des milliers de projets et attirait des millions d'utilisateurs.
+- **GitHub**: Fondé en 2008, GitHub est rapidement devenu la plate-forme de référence pour l'hébergement et la collaboration sur les référentiels Git. Aujourd'hui, GitHub héberge des millions de projets open source et bénéficie d'une communauté dynamique de contributeurs du monde entier.
+- **GitLab**: Lancé en 2011 en tant qu'alternative open source à GitHub, GitLab propose une suite d'outils et de fonctionnalités permettant de gérer les référentiels Git, de suivre les problèmes et de faciliter la collaboration.
 
 Ces plates-formes ont joué un rôle crucial en favorisant la croissance des communautés open source et en facilitant la contribution et la collaboration des développeurs aux projets.
 

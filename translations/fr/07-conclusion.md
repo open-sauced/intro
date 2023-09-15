@@ -6,9 +6,9 @@ Pour conclure ce cours sur les débuts de l'open source, récapitulons les princ
 
 Tout au long de ce cours, nous avons abordé une série de sujets destinés à vous aider à comprendre et à naviguer dans le monde de l'open source:
 
-1. **Qu'est-ce que l'open source ?**: Nous avons discuté de la définition de l'open source, de son histoire et des principes fondamentaux qui guident le mouvement open source.
+1. **Qu'est-ce que l'open source?**: Nous avons discuté de la définition de l'open source, de son histoire et des principes fondamentaux qui guident le mouvement open source.
 
-2. **Pourquoi l'open source ?**: Nous avons étudié les avantages de participer à des projets open source, notamment l'accès à la connaissance, la communauté et le développement des compétences.
+2. **Pourquoi l'open source?**: Nous avons étudié les avantages de participer à des projets open source, notamment l'accès à la connaissance, la communauté et le développement des compétences.
 
 3. **Les outils pour réussir**: Nous avons présenté les outils et les plateformes essentiels pour les contributeurs de l'open source, tels que GitHub, Git, CodeSee, Visual Studio Code et Discord.
 
@@ -18,7 +18,7 @@ Tout au long de ce cours, nous avons abordé une série de sujets destinés à v
 
 En comprenant ces concepts et en appliquant les stratégies que nous avons évoquées, vous serez bien équipé pour vous lancer avec succès dans l'aventure de l'open source.
 
-## Quelle est la prochaine étape ?
+## Quelle est la prochaine étape?
 
 Avec les connaissances et les outils que vous avez acquis dans ce cours, vous êtes prêt à plonger dans le monde de l'open source et à commencer à apporter des contributions significatives. Voici les prochaines étapes qui vous aideront à poursuivre votre voyage dans le monde de l'open source:
 
@@ -36,4 +36,4 @@ Avec les connaissances et les outils que vous avez acquis dans ce cours, vous ê
 
 7. **Apprentissage continu**: L'open source est un domaine dynamique et en constante évolution. Restez au fait des derniers outils, techniques et meilleures pratiques en participant à des ateliers, en suivant des cours en ligne et en lisant des articles et des livres sur le développement open source. Nous avons inclus une section de [ressources supplémentaires](08-ressources-additionnelles.md) pour plus d'informations.
 
-En conclusion, se lancer dans l'aventure de l'open source est une expérience gratifiante et enrichissante qui peut vous aider à développer de nouvelles compétences, à nouer des liens avec des personnes partageant les mêmes idées et à avoir un impact durable sur les projets sur lesquels vous travaillez. Avec les connaissances et les outils que vous avez acquis dans ce cours, vous êtes bien préparé à relever les défis passionnants et à saisir les opportunités qui vous attendent dans le monde de l'open source. Alors, allez-y et commencez à contribuer, la communauté open source attend impatiemment votre participation !
+En conclusion, se lancer dans l'aventure de l'open source est une expérience gratifiante et enrichissante qui peut vous aider à développer de nouvelles compétences, à nouer des liens avec des personnes partageant les mêmes idées et à avoir un impact durable sur les projets sur lesquels vous travaillez. Avec les connaissances et les outils que vous avez acquis dans ce cours, vous êtes bien préparé à relever les défis passionnants et à saisir les opportunités qui vous attendent dans le monde de l'open source. Alors, allez-y et commencez à contribuer, la communauté open source attend impatiemment votre participation!
