@@ -125,7 +125,7 @@ Example: [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/
 
 Example: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
 
-- A blog post could be written on how to navigate your way around open-source as a new contributor, such as how to get started with open-source.
+- Coding and Non-coding Types of Contributions, such as how to get started with open-source.
 
 Example: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
