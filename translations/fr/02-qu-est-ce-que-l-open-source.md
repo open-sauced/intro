@@ -136,4 +136,4 @@ La popularité croissante de l'open source a également donné naissance à un �
 
 Dans le prochain chapitre, nous explorerons les nombreux avantages de la contribution aux projets open source et nous verrons comment la collaboration open source peut vous aider à accéder à la connaissance, à vous connecter à une communauté et à développer des compétences précieuses.
 
-[Section suivante ->](03-pourquoi-open-source.md)
+[Section suivante ->](/translations/fr/03-pourquoi-open-source.md)

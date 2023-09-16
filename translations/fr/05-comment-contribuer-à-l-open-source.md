@@ -23,7 +23,7 @@ L'un des premiers défis auxquels vous pouvez être confronté lorsque vous vous
 
 OpenSauced est un outil puissant pour trouver des projets open source auxquels contribuer. Pour commencer à utiliser OpenSauced, suivez les étapes suivantes:
 
-1. **Créer un compte**: Visitez https://www.opensauced.pizza/ et créer un compte en utilisant vos identifiants GitHub.
+1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
 ![Image](../../opensauced-signup.png)
 
@@ -55,7 +55,6 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivante consiste à soumettre une contribution. Voici les grandes lignes de la procédure:
 
-
 1. **Faire une copie du dépôt (forker le dépôt)**: Créez une copie du dépôt du projet, ceci créera une copie du dépôt sur votre compte GitHub. Cela vous permettra d'apporter des modifications à la base de code sans affecter le projet original.
 
 2. **Clonez votre fork**: Clonez votre dépôt forké sur votre machine locale en exécutant la commande suivante dans votre terminal ou votre invite de commande:
@@ -85,7 +84,6 @@ git commit -m "Votre message de commit"
 
 Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
 
-
 5. **Envoyer vos modifications (push)**: Envoyer vos modifications vers votre dépôt forké sur GitHub en exécutant la commande suivante:
 
 ```
@@ -104,8 +102,7 @@ En suivant ces étapes, vous pourrez soumettre vos contributions à des projets 
 
 Maintenant que vous savez comment trouver et contribuer à des projets open source, il est temps de mettre vos compétences en pratique. Pour ce faire, nous allons contribuer au guestbook d'OpenSauced en utilisant la spécification ["all contributors"](https://allcontributors.org/).
 
-
-1. Commençons par forker le dépôt comme décrit ci-dessus, mais cette fois-ci, il s'agit du dépôt guestbook : https://github.com/open-sauced/guestbook. En cliquant sur "Faire une copie" (Fork) sur GitHub, vous créerez une copie du dépôt sur votre compte GitHub.
+1. Commençons par forker le dépôt comme décrit ci-dessus, mais cette fois-ci, il s'agit du dépôt guestbook : <https://github.com/open-sauced/guestbook>. En cliquant sur "Faire une copie" (Fork) sur GitHub, vous créerez une copie du dépôt sur votre compte GitHub.
 
 2. Ensuite, clonons ce dépôt sur notre machine locale. Dans votre terminal ou votre invite de commande, exécutez la commande suivante:
 
@@ -113,7 +110,7 @@ Maintenant que vous savez comment trouver et contribuer à des projets open sour
 git clone git@github.com:[votre-username]/guestbook.git
 ```
 
-> Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de https://nodejs.org/fr/download/.
+> Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de <https://nodejs.org/fr/download/>.
 
 3. Une fois cloné, ouvrez le projet dans votre terminal et lancez `npm install` pour installer ses dépendances. Vous pouvez également lancer `pnpm install` si vous préférez un autre gestionnaire de paquets et l'installer.
 
@@ -125,11 +122,9 @@ git checkout -b feature/add-profile-[votre-username]
 
 N'oubliez pas de remplacer "votre-username" par votre nom d'utilisateur GitHub.
 
-
 5. Exécutez `npm run contributors:add` pour vous ajouter à la liste des contributeurs et remplir le formulaire en fonction de vos contributions.
 
 6. Exécutez `npm run contributors:generate` pour générer la nouvelle liste de contributeurs.
-
 
 7. Validez vos modifications en commitant et publiez-les dans votre dépôt forké.
 
@@ -146,7 +141,6 @@ Lorsque vous rejoignez un nouveau projet open source, il est important de vous f
 2. **Rejoignez la communauté**: De nombreux projets open source disposent de communautés en ligne, de forums ou de plateformes de discussion où les développeurs peuvent poser des questions, partager leurs connaissances et collaborer. En rejoignant ces communautés, vous pouvez entrer en contact avec d'autres contributeurs, tirer parti de leurs expériences et obtenir de l'aide pour résoudre les problèmes que vous rencontrez.
 
 3. **Commencez par de petites tâches**: lorsque vous débutez dans un projet, il est conseillé de commencer par de petites tâches gérables, telles que la correction de bugs, l'ajout de tests ou la mise à jour de la documentation. Cela vous aidera à vous familiariser avec le codebase et le flux de développement sans vous laisser submerger.
-
 
 4. **Demandez de l'aide**: Si vous n'êtes pas sûr de quelque chose ou si vous rencontrez un problème, n'hésitez pas à demander de l'aide. Les communautés open source sont généralement solidaires et accueillantes, et les autres contributeurs seront heureux de vous aider.
 
@@ -193,7 +187,7 @@ L'un des premiers défis auxquels vous pouvez être confronté lorsque vous vous
 
 OpenSauced est un outil puissant pour trouver des projets open source auxquels contribuer. Pour commencer à utiliser OpenSauced, suivez les étapes suivantes:
 
-1. **Créer un compte**: Visitez https://www.opensauced.pizza/ et créer un compte en utilisant vos identifiants GitHub.
+1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
 ![Image](../../opensauced-signup.png)
 
@@ -225,7 +219,6 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivante consiste à soumettre une contribution. Voici les grandes lignes de la procédure:
 
-
 1. **Faire une copie du dépôt (forker le dépôt)**: Créez une copie du dépôt du projet, ceci créera une copie du dépôt sur votre compte GitHub. Cela vous permettra d'apporter des modifications à la base de code sans affecter le projet original.
 
 2. **Clonez votre fork**: Clonez votre dépôt forké sur votre machine locale en exécutant la commande suivante dans votre terminal ou votre invite de commande:
@@ -255,7 +248,6 @@ git commit -m "Votre message de commit"
 
 Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
 
-
 5. **Envoyer vos modifications (push)**: Envoyer vos modifications vers votre dépôt forké sur GitHub en exécutant la commande suivante:
 
 ```
@@ -274,8 +266,7 @@ En suivant ces étapes, vous pourrez soumettre vos contributions à des projets 
 
 Maintenant que vous savez comment trouver et contribuer à des projets open source, il est temps de mettre vos compétences en pratique. Pour ce faire, nous allons contribuer au guestbook d'OpenSauced en utilisant la spécification ["all contributors"](https://allcontributors.org/).
 
-
-1. Commençons par forker le dépôt comme décrit ci-dessus, mais cette fois-ci, il s'agit du dépôt guestbook : https://github.com/open-sauced/guestbook. En cliquant sur "Faire une copie" (Fork) sur GitHub, vous créerez une copie du dépôt sur votre compte GitHub.
+1. Commençons par forker le dépôt comme décrit ci-dessus, mais cette fois-ci, il s'agit du dépôt guestbook : <https://github.com/open-sauced/guestbook>. En cliquant sur "Faire une copie" (Fork) sur GitHub, vous créerez une copie du dépôt sur votre compte GitHub.
 
 2. Ensuite, clonons ce dépôt sur notre machine locale. Dans votre terminal ou votre invite de commande, exécutez la commande suivante:
 
@@ -283,7 +274,7 @@ Maintenant que vous savez comment trouver et contribuer à des projets open sour
 git clone git@github.com:[votre-username]/guestbook.git
 ```
 
-> Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de https://nodejs.org/fr/download/.
+> Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de <https://nodejs.org/fr/download/>.
 
 3. Une fois cloné, ouvrez le projet dans votre terminal et lancez `npm install` pour installer ses dépendances. Vous pouvez également lancer `pnpm install` si vous préférez un autre gestionnaire de paquets et l'installer.
 
@@ -295,11 +286,9 @@ git checkout -b feature/add-profile-[votre-username]
 
 N'oubliez pas de remplacer "votre-username" par votre nom d'utilisateur GitHub.
 
-
 5. Exécutez `npm run contributors:add` pour vous ajouter à la liste des contributeurs et remplir le formulaire en fonction de vos contributions.
 
 6. Exécutez `npm run contributors:generate` pour générer la nouvelle liste de contributeurs.
-
 
 7. Validez vos modifications en commitant et publiez-les dans votre dépôt forké.
 
@@ -316,7 +305,6 @@ Lorsque vous rejoignez un nouveau projet open source, il est important de vous f
 2. **Rejoignez la communauté**: De nombreux projets open source disposent de communautés en ligne, de forums ou de plateformes de discussion où les développeurs peuvent poser des questions, partager leurs connaissances et collaborer. En rejoignant ces communautés, vous pouvez entrer en contact avec d'autres contributeurs, tirer parti de leurs expériences et obtenir de l'aide pour résoudre les problèmes que vous rencontrez.
 
 3. **Commencez par de petites tâches**: lorsque vous débutez dans un projet, il est conseillé de commencer par de petites tâches gérables, telles que la correction de bugs, l'ajout de tests ou la mise à jour de la documentation. Cela vous aidera à vous familiariser avec le codebase et le flux de développement sans vous laisser submerger.
-
 
 4. **Demandez de l'aide**: Si vous n'êtes pas sûr de quelque chose ou si vous rencontrez un problème, n'hésitez pas à demander de l'aide. Les communautés open source sont généralement solidaires et accueillantes, et les autres contributeurs seront heureux de vous aider.
 
@@ -336,4 +324,4 @@ Félicitations ! Votre travail fait désormais partie du projet et vous avez app
 
 En continuant à contribuer à des projets open source, vous acquerrez une expérience précieuse, développerez de nouvelles compétences et constituerez un solide portefeuille de travaux. Dans le prochain chapitre, nous discuterons de quelques stratégies pour commencer à contribuer à des projets open source, pour gagner du terrain dans vos contributions et pour développer votre CV open source à l'aide d'OpenSauced.
 
-[Section suivante ->](06-la-sauce-secrète.md)
+[Section suivante ->](/translations/fr/06-la-sauce-secrète.md)

@@ -1,4 +1,5 @@
 # Introduction
+
 Bienvenue dans le cours "Initiation à l'Open Source"! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif.
 À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source.
 Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
@@ -12,7 +13,8 @@ De plus, ce cours suppose que vous êtes familiarisé avec Git et GitHub.
 Git est un système de contrôle de version largement utilisé, et GitHub est une plate-forme populaire pour l'hébergement et la collaboration sur les référentiels Git.
 Si vous n'êtes pas déjà familiarisé avec Git et GitHub, nous vous recommandons de prendre le temps d'apprendre les bases avant de commencer ce cours.
 
-## Objetifs 
+## Objetifs
+
 Tout au long de cette formation, nos principaux objectifs sont de vous aider à:
 
 1. **Comprendre l'open source et ses avantages**: nous explorerons le concept d'open source, son histoire et les nombreux avantages de contribuer à des projets open source.
@@ -21,6 +23,7 @@ Tout au long de cette formation, nos principaux objectifs sont de vous aider à:
 4. **Acquérir une expérience pratique**: en suivant des exemples et des démonstrations, vous aurez l'occasion de mettre en pratique vos compétences et de gagner en confiance dans votre capacité à contribuer à des projets open source.
 5. **Développez votre CV open source**: mettre en valeur vos contributions open source est essentiel pour bâtir votre réputation dans la communauté et démontrer votre expertise à des employeurs ou clients potentiels.
 Nous discuterons des stratégies pour développer et maintenir votre CV open source.
+
 ## Attentes
 
 Ce cours est conçu pour vous fournir une base solide dans la collaboration open source.
@@ -43,6 +46,7 @@ Restez curieux et ouvert à l'apprentissage, et profitez de ressources telles qu
 5. **Développer un état d'esprit de croissance**: Relevez les défis et les opportunités qui accompagnent la collaboration open source.
 Adoptez un état d'esprit de croissance axé sur l'apprentissage, l'amélioration et la résilience.
 En considérant les obstacles comme des opportunités de croissance, vous serez mieux équipé pour naviguer dans le monde complexe de l'open source et réussir vos contributions.
+
 ## Structure du cours
 
 Ce cours est divisé en plusieurs chapitres, chacun conçu pour couvrir un aspect spécifique de la collaboration open source:
@@ -69,6 +73,7 @@ Maintenant que nous avons planté le décor, il est temps de vous lancer dans vo
 [Section suivante ->](02-qu-est-ce-que l-open-source.md)
 
 # Introduction
+
 Bienvenue dans le cours "Initiation à l'Open Source"! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif.
 À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source.
 Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.
@@ -82,7 +87,8 @@ De plus, ce cours suppose que vous êtes familiarisé avec Git et GitHub.
 Git est un système de contrôle de version largement utilisé, et GitHub est une plate-forme populaire pour l'hébergement et la collaboration sur les référentiels Git.
 Si vous n'êtes pas déjà familiarisé avec Git et GitHub, nous vous recommandons de prendre le temps d'apprendre les bases avant de commencer ce cours.
 
-## Objetifs 
+## Objetifs
+
 Tout au long de cette formation, nos principaux objectifs sont de vous aider à:
 
 1. **Comprendre l'open source et ses avantages**: nous explorerons le concept d'open source, son histoire et les nombreux avantages de contribuer à des projets open source.
@@ -91,6 +97,7 @@ Tout au long de cette formation, nos principaux objectifs sont de vous aider à:
 4. **Acquérir une expérience pratique**: en suivant des exemples et des démonstrations, vous aurez l'occasion de mettre en pratique vos compétences et de gagner en confiance dans votre capacité à contribuer à des projets open source.
 5. **Développez votre CV open source**: mettre en valeur vos contributions open source est essentiel pour bâtir votre réputation dans la communauté et démontrer votre expertise à des employeurs ou clients potentiels.
 Nous discuterons des stratégies pour développer et maintenir votre CV open source.
+
 ## Attentes
 
 Ce cours est conçu pour vous fournir une base solide dans la collaboration open source.
@@ -102,7 +109,7 @@ Gardez à l'esprit que plus vous contribuez à des projets open source, plus vou
 
 2. **La patience est la clé**: maîtriser la collaboration open source demande du temps et des efforts. Ne vous découragez pas si vous rencontrez des difficultés en cours de route ; rappelez-vous que chaque contribution, aussi petite soit-elle, est précieuse et contribue à améliorer le projet.
 
-3. **Engagement avec la communauté**: l'open source est plus qu'un simple code; 
+3. **Engagement avec la communauté**: l'open source est plus qu'un simple code;
 il s'agit des personnes qui collaborent et contribuent aux projets.
 Interagissez avec la communauté en posant des questions, en partageant vos connaissances et en soutenant les autres.
 Établir des relations avec d'autres contributeurs améliorera votre expérience open source et vous aidera à grandir en tant que développeur.
@@ -113,6 +120,7 @@ Restez curieux et ouvert à l'apprentissage, et profitez de ressources telles qu
 5. **Développer un état d'esprit de croissance**: Relevez les défis et les opportunités qui accompagnent la collaboration open source.
 Adoptez un état d'esprit de croissance axé sur l'apprentissage, l'amélioration et la résilience.
 En considérant les obstacles comme des opportunités de croissance, vous serez mieux équipé pour naviguer dans le monde complexe de l'open source et réussir vos contributions.
+
 ## Structure du cours
 
 Ce cours est divisé en plusieurs chapitres, chacun conçu pour couvrir un aspect spécifique de la collaboration open source:
@@ -136,4 +144,4 @@ Utilisez les exemples et les démonstrations comme point de départ, mais n'ayez
 
 Maintenant que nous avons planté le décor, il est temps de vous lancer dans votre aventure open source ! Dans le chapitre suivant, nous plongerons dans la définition de l'open source et explorerons son histoire, jetant les bases d'une compréhension plus approfondie de la collaboration open source. D'accord, allons-y!
 
-[Section suivante ->](02-qu-est-ce-que l-open-source.md)
+[Section suivante ->](/translations/fr/02-qu-est-ce-que-l-open-source.md)
