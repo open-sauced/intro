@@ -1,4 +1,4 @@
-# Conslusion
+# Conclusion
 
 Pour conclure ce cours sur les débuts de l'open source, récapitulons les principaux enseignements et discutons de la suite de votre parcours dans l'open source.
 
