@@ -87,7 +87,7 @@ Il s'agit du début de votre parcours dans le domaine de l'open source, c'est po
 
 ## Pour débuter
 
-Pour commencer le cours, il suffit de naviguer vers le fichier [`intro`](01-introduction.md) sur le dépôt et de commencer à lire ! Chaque chapitre s'appuie sur le précédent, nous recommandons donc de les lire dans l'ordre.
+Pour commencer le cours, il suffit de naviguer vers le fichier [`intro`](01-introduction.md) sur le dépôt et de commencer à lire! Chaque chapitre s'appuie sur le précédent, nous recommandons donc de les lire dans l'ordre.
 
 Tout au long du cours, nous vous encourageons à expérimenter les outils et les concepts abordés dans chaque chapitre. La meilleure façon d'apprendre est de pratiquer, alors essayez de contribuer à un vrai projet open source ou de construire votre propre projet à partir de zéro!
 
