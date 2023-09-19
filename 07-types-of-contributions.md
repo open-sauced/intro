@@ -4,11 +4,8 @@ In this chapter, we will discuss the types of contributions that open-source pro
 Mostly, there are two types of contributions:
 
 - Non-coding type of contribution
-
 - Coding type of contribution
-
    ## Non-Coding Type Of Contributions
-  
   Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
 [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
