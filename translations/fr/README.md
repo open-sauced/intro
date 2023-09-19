@@ -14,7 +14,7 @@ Comme la pizza, l'open source est destiné à être partagé avec tout le monde.
 
 ## Aperçu du cours
 
-Le cours est divisé en cinq chapitres, chacun couvrant un aspect différent de l'open source :
+Le cours est divisé en cinq chapitres, chacun couvrant un aspect différent de l'open source:
 
 1. **Qu'est-ce que l'open source?** Ce chapitre fournit une introduction à l'open source, son histoire et son importance dans le paysage actuel du développement logiciel.
 
