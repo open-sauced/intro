@@ -98,8 +98,7 @@ Example: [Improved the user experience of the highlights input form](https://git
 
 - **Accessibility Design**: Ensuring that the project's graphical elements are accessible to all users, including those with disabilities, is an important aspect of graphic design. Designers can create accessible color schemes and ensure that visual elements are perceivable and operable.
 
-Example: [Redesign footer
-](https://github.com/cesko-digital/pomahejukrajine-web/pull/222)
+Example: [overflows in insights page on md screen size](https://github.com/open-sauced/app/pull/1590)
 
 - **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices
 
