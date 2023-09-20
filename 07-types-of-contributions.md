@@ -45,7 +45,7 @@ Example: [The Open-Sauced App
 
 - Creating a tutorial that walks users through the project's features
 
-Example: [Adding chart](https://github.com/rupali-codes/LinksHub/pull/1632#event-10288094144)
+Example: [v0.16.0 Release walkthrough - Open Sauced](https://www.youtube.com/watch?v=AyRnbOw0n2U)
 
 - Updating the project's documentation to reflect new changes
 
