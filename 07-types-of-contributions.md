@@ -158,8 +158,7 @@ Example: [Added the contact page
 
 - **Performance Optimization**: Coders may work on optimizing the software's performance by refactoring code, improving algorithms, or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
 
-Example: [Overflows in insights page on md screen size
-](https://github.com/open-sauced/app/pull/1590)
+Example: [repos table in small screens does not show select](https://github.com/open-sauced/app/pull/1559)
 
 - **Testing and Quality Assurance**: Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
