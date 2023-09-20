@@ -5,6 +5,6 @@
   - [Outils pour réussir](/translations/fr/04-outils-pour-reussir.md)
   - [Comment contribuer à l'open source](translations/fr/05-comment-contribuer-à-l-open-source.md)
   - [La sauce secrète](/translations/fr/06-la-sauce-secrète.md)
-  - [Conclusion](/trasnlations/fr/07-conclusion.md)
+  - [Conclusion](/translations/fr/07-conclusion.md)
   - [Ressources Additionnelles](/translations/fr/08-ressources-additionnelles.md)
   - [Glossaire](/translations/fr/09-glossaire.md)
