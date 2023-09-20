@@ -4,7 +4,7 @@
   - [Why Open Source](/03-why-open-source.md)
   - [Tools to be successful](/04-tools-to-be-successful.md)
   - [How to contribute to open-source](/05-how-to-contribute-to-open-source.md)
-  - [The secret source](/04-tools-to-be-successful.md)
+  - [The secret sauce](/06-the-secret-sauce.md)
   - [Types of contributions](/07-types-of-contributions.md)
   - [Additional resources](/08-additional-resources.md)
   - [Conclusion](/09-conclusion.md)
