@@ -81,7 +81,7 @@ Love drawing or painting? Consider doing Graphic design. This open-source contri
 
 - **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
-Example: [Redesign footer](https://github.com/open-sauced/opengraph/pull/51)
+Example: [Eventhub signup](https://github.com/WebXGuild/webx-guild/pull/13)
 
  - **Website Design**: Open source projects often have websites to provide information, documentation, and download links. Graphic designers can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
 
