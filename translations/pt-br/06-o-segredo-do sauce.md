@@ -1,4 +1,4 @@
-# O Molho Secreto
+# O segredo do sauce
 
 
 Neste capítulo, vamos compartilhar algumas estratégias e dicas menos conhecidas para causar um impacto duradouro na comunidade de código aberto. Discutiremos como focar em issues abertos, ganhar tração em suas contribuições e desenvolver seu currículo de código aberto usando o OpenSauced.
