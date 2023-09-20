@@ -102,3 +102,7 @@ Pour en savoir plus sur l'utilisation d'OpenSauced pour construire votre CV open
 Nous espérons que vous trouverez ce cours instructif et utile! Si vous avez des questions ou des commentaires, n'hésitez pas à ouvrir un problème(issue) ou à nous contacter dans la communauté Discord d'OpenSauced.
 
 Bon apprentissage et bonne contribution!
+
+🤝 Contribuer à ce référentiel Nous vous encourageons à contribuer à OpenSauced! Tous les contributeurs sont tenus de respecter notre [Code de Conduite](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). S'il vous plait consulter [le guide de Contribution](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) pour connaître les directives sur la façon de procéder avec votre contribution.
+
+[![Licence Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.fr)
