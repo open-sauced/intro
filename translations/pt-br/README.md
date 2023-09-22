@@ -53,6 +53,6 @@ Nós da Open Sauced estamos muito animados para compartilhar este curso com voc�
 
 Feliz aprendizado e contribuição!
 
-🤝 Contribuindo para este Repositório Nós encorajamos você a contribuir para o OpenSauced! Todos os colaboradores são obrigados a cumprir o nosso [Código de Conduta](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Confira o [Guia de contribuição](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) para obter orientações sobre como proceder com sua contribuição.
+🤝 Interessado em contribuir? Contribuindo para este Repositório Nós encorajamos você a contribuir para o OpenSauced! Todos os colaboradores são obrigados a cumprir o nosso [Código de Conduta](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Confira o [Guia de contribuição](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) para obter orientações sobre como proceder com sua contribuição.
 
 [![Licença Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)
