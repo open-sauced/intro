@@ -25,4 +25,4 @@ No [Discord do OpenSauced](https://discord.com/invite/U2peSNf23P), por exemplo, 
 4. **Aproveite o OpenSauced**: [OpenSauced](https://opensauced.pizza/) é uma plataforma que ajuda os desenvolvedores a descobrir e contribuir com projetos de open source.
 Ao usar o OpenSauced, você pode encontrar projetos alinhados com seus interesses, habilidades e objetivos.
 
-[Próximo Capítulo ->](/translations/pt-br/06-o-molho-secreto.md)
+[Próximo Capítulo ->](/translations/pt-br/06-o-segredo-do%20sauce.md)
