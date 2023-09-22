@@ -64,4 +64,4 @@ Usar os exemplos e demos como ponto de partida, mas não tenha medo de explorar 
 
 Agora que nos apresentamos, é hora de embarcar em sua jornada de open source! No próximo capítulo, mergulharemos na definição de open source e exploraremos sua história, preparando o cenário para uma compreensão mais profunda da colaboração de open source. Vamos começar!
 
-[Próximo Capítulo ->](./02-what-is-open-source.md)
+[Próximo Capítulo ->](/translations/pt-br/02-o-que-é-open-source.md)
