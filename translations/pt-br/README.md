@@ -10,7 +10,8 @@ Bem-vindo ao curso de Introdução ao Open Source com OpenSauced! Este curso foi
 
 ## Suporte de idioma
 
-- [English](../../README.md)
+- [Inglês](../../README.md)
+- [Francês](../fr/README.md)
 
 ## Visão geral do curso
 
