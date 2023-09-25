@@ -20,5 +20,5 @@ $ git clone https://github.com/<your-name>/open-sauced
 $ cd open-sauced
 $ npm install
 ```
-```
+
 
