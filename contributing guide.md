@@ -11,4 +11,4 @@ Contributions are always welcome, no matter how large or small. Before contribut
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository where you are working on [OpenSauced](github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
 3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
-4. Run npm ci to install the dependencies and setup the project
+4. Run npm ci to install the dependencies and set up the project.
