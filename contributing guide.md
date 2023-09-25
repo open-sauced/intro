@@ -21,4 +21,13 @@ $ cd open-sauced
 $ npm install
 ```
 
+## Building 
+To generate a production-ready version of your code, run:
+
+```bash
+npm run build
+```
+
+
+
 
