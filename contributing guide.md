@@ -28,6 +28,49 @@ To generate a production-ready version of your code, run:
 npm run build
 ```
 
+## Adding a New Section to the Documentation
+Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
+
+Step-by-Step Guide
+Follow these steps to add a new section to our documentation:
+
+1. Locate the documentation folder:
+- Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
+
+2. Create a New Markdown File:
+- If your new section is a standalone document, create a new Markdown (.md) file within the documentation folder. Name the file in a way that reflects the content of the section. For example, `new-section.md`.
+
+3. Choose a Section Number:
+- Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme.  For example, 01-contributing-guide, 02-types-of-contribution, 03-method-of-contribution, etc. That is the specific numbering scheme we are using for this project.
+Assuming our project does not have a specific convention, use a simple numeric sequence or look at how the other projects were numbered.
+4. Write Content:
+- Open the newly created Markdown file in a text editor or Markdown editor.
+- Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
+
+```bash
+# Section 3: Your New Section Title
+```
+- Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
+- To include a link, highlight the text, then press ctrl + K and enter the URL. For example:
+  
+```bash
+click [here](Github.com)
+```
+5. Numbering Conventions:
+- Follow our project's numbering conventions for sections and consider the following guidelines:
+- Use a clear and consistent numbering format, such as `01-intro.md`, `02-what-is-open-source.md`, `03-why-open-source.md`, and so on.
+- Include the section number in the heading or title of the section for clarity.
+- Ensure that sections are numbered sequentially to maintain a logical order.
+6. Testing Your Changes:
+- Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+7. Updating the Sidebar (if applicable):
+- If our project's documentation includes a sidebar or navigation menu, contributors are encouraged to add a new section to the sidebar. Ensure that the section is appropriately linked in the navigation menu.
+8. Submitting Your Contribution:
+Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request` 
+9. Review and Feedback:
+- Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
+10. Documentation Completion:
+- After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
 
 
