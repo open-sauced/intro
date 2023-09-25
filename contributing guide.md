@@ -15,6 +15,10 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 You can also use the shell commands below to get started once you have forked the repository. Make sure to replace <your-name> with your GitHub username.
 
-git clone https://github.com/<your-name>/open-sauced
-cd open-sauced
-npm ci
+```bash
+$ git clone https://github.com/<your-name>/open-sauced
+$ cd open-sauced
+$ npm install
+```
+```
+
