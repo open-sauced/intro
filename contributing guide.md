@@ -12,3 +12,5 @@ Contributions are always welcome, no matter how large or small. Before contribut
 2. Clone the forked repository to your local machine.
 3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
 4. Run npm ci to install the dependencies and set up the project.
+
+You can also use the shell commands below to get started once you have forked the repository. Make sure to replace <your-name> with your GitHub username.
