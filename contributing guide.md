@@ -121,5 +121,27 @@ Markdown Tips:
 - Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
 
+## Adding New Sections to the Sidebar
+The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
+Follow these steps to add a new section to the sidebar:
+1. Locate the Sidebar Configuration:
+- First, identify the configuration file or location where the sidebar/navigation bar for our documentation is defined. This file typically contains a list of links and their corresponding titles.
+
+2. Edit the Sidebar Configuration:
+- Open the sidebar configuration file using a text editor or code editor.
+
+3. Add a New Section Link:
+- In the sidebar configuration, look for the section that defines the links to various documentation sections.
+- To add a new section link, insert a new line with the following format:
+- [intro](/01-intro.md)
+- Replace "intro" with the title of your new section.
+- Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
+
+4. Maintain Order:
+- Ensure that the new section link is placed in the appropriate order within the sidebar. You can follow the order of existing links or place them where they logically fit.
+
+5. Test the Sidebar:
+- Before finalizing your changes, it's a good practice to test the sidebar locally to ensure that the new section link works as expected. Ensure that clicking on the link takes you to the newly added section.
+
 
 
