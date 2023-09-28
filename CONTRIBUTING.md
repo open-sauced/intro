@@ -13,25 +13,10 @@ Contributions are always welcome, no matter how large or small. Before contribut
 3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
 4. Run `npm ci` to install the dependencies and set up the project.
 
-You can also use the shell commands below to get started once you have forked the repository. Make sure to replace `<your-name>` with your GitHub username.
-
-```bash
-$ git clone https://github.com/<your-name>/open-sauced
-$ cd open-sauced
-$ npm install
-```
-
-## Building 
-To generate a production-ready version of your code, run:
-
-```bash
-npm run build
-```
-
 ## Adding a New Section to the Documentation
 Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
 
-Step-by-Step Guide
+### A Step-by-Step Guide to adding a new section
 Follow these steps to add a new section to our documentation:
 
 1. Locate the documentation folder:
@@ -39,10 +24,11 @@ Follow these steps to add a new section to our documentation:
 
 2. Create a New Markdown File:
 - If your new section is a standalone document, create a new Markdown (.md) file within the documentation folder. Name the file in a way that reflects the content of the section. For example, `new-section.md`.
+NOTE: Be sure to follow naming conventions. Notice that files are not capitalized and in place of spaces between words there are hyphens.
 
 3. Choose a Section Number:
 - Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme.  For example, 01-contributing-guide, 02-types-of-contribution, 03-method-of-contribution, etc. That is the specific numbering scheme we are using for this project.
-Assuming our project does not have a specific convention, use a simple numeric sequence or look at how the other projects were numbered.
+In this special course repository, numbers represent chapters. Consider where the new section would logically fall in the course. If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
 4. Write Content:
 - Open the newly created Markdown file in a text editor or Markdown editor.
 - Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
@@ -56,29 +42,33 @@ Assuming our project does not have a specific convention, use a simple numeric s
 ```bash
 click [here](Github.com)
 ```
-5. Numbering Conventions:
-- Follow our project's numbering conventions for sections and consider the following guidelines:
-- Use a clear and consistent numbering format, such as `01-intro.md`, `02-what-is-open-source.md`, `03-why-open-source.md`, and so on.
-- Include the section number in the heading or title of the section for clarity.
-- Ensure that sections are numbered sequentially to maintain a logical order.
-6. Testing Your Changes:
+5. Testing Your Changes:
 - Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
-7. Updating the Sidebar (if applicable):
-- If our project's documentation includes a sidebar or navigation menu, contributors are encouraged to add a new section to the sidebar. Ensure that the section is appropriately linked in the navigation menu.
-8. Submitting Your Contribution:
+6. Updating the Sidebar:
+- Adding the file to the sidebar is necessary for the user to discover the content. Contributors are encouraged to add a new section to the sidebar. Ensure that the section is appropriately linked in the navigation menu.
+### Adding New Sections to the Sidebar
+The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
+Steps:
+1. Navigate to `_layouts/sidebar.js`
+2. Add New Section link:
+- To add a new section link, insert a new line with the following format:
+- [Intro](https://github.com/01-intro.md) -- be sure to capitalize the section title.
+- Replace "Intro" with the title of your new section.
+- Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
+7. Submitting Your Contribution:
 Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request` 
-9. Review and Feedback:
+8. Review and Feedback:
 - Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
-10. Documentation Completion:
+9. Documentation Completion:
 - After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
 ## Using Markdown for Documentation
 Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the OpenSauced project's documentation, it's important to use Markdown to structure and format your content effectively.
 
-Markdown Basics
+### Markdown Basics
 Markdown provides a set of simple and intuitive syntax elements for formatting text. Here are some common Markdown elements you can use:
 1. Headings:
-Use `#`  to create headings. The number of '#`  symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
+Use `#`  to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
 ```bash
 # Heading 1
 ## Heading 2
@@ -121,28 +111,6 @@ Markdown Tips:
 - Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
 
-## Adding New Sections to the Sidebar
-The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
-Follow these steps to add a new section to the sidebar:
-1. Locate the Sidebar Configuration:
-- First, identify the configuration file or location where the sidebar/navigation bar for our documentation is defined. This file typically contains a list of links and their corresponding titles.
-
-2. Edit the Sidebar Configuration:
-- Open the sidebar configuration file using a text editor or code editor.
-
-3. Add a New Section Link:
-- In the sidebar configuration, look for the section that defines the links to various documentation sections.
-- To add a new section link, insert a new line with the following format:
-- [intro](/01-intro.md)
-- Replace "intro" with the title of your new section.
-- Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
-
-4. Maintain Order:
-- Ensure that the new section link is placed in the appropriate order within the sidebar. You can follow the order of existing links or place them where they logically fit.
-
-5. Test the Sidebar:
-- Before finalizing your changes, it's a good practice to test the sidebar locally to ensure that the new section link works as expected. Ensure that clicking on the link takes you to the newly added section.
-
 ## Running the Project Locally
 To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
 
@@ -165,16 +133,11 @@ git clone https://github.com/your-username/the-project.git
 ```bash
 cd the-project
 ```
-5. Serve the Documentation Locally:
-- Inside the project directory, use the following Docsify CLI command to serve the documentation locally:
-```bash
-docsify serve docs
-```
 - This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
 
-6. Make and Test Changes:
+5. Make and Test Changes:
 - With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-7. Stop the Server:
+6. Stop the Server:
 - When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
 
 Method 2: Using Visual Studio Code (VS Code) Go Live Feature
