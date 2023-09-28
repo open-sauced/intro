@@ -10,15 +10,66 @@ Contributions are always welcome, no matter how large or small. Before contribut
 ## Setup
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository where you are working on [OpenSauced](github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
-3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
-4. Run `npm ci` to install the dependencies and set up the project.
+There are two ways to run this project locally:
+1. Use the Go Live feature in VS Code.
+2. Install the docsify CLI.
+
+### Running the Project Locally
+To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
+
+Method 1: Using the Docsify CLI
+1. `Install Node.js`:
+- Ensure that you have Node.js installed on your machine. You can download it from the official Node.js [website ]( https://nodejs.org/.)
+2. `Install Docsify Globally`:
+- Open your command-line interface (CLI) and run the following command to install Docsify globally:
+
+```bash
+npm install -g docsify-cli
+```
+3. Clone the Repository:
+- Use Git to clone our project's repository to your local machine:
+```bash
+git clone https://github.com/your-username/the-project.git
+```
+4. Navigate to the Project Directory:
+- Change your current directory to the project folder:
+```bash
+cd the-project
+```
+- This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
+
+5. Make and Test Changes:
+- With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+6. Stop the Server:
+- When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
+
+Method 2: Using Visual Studio Code (VS Code) Go Live Feature
+1. Install Visual Studio Code:
+- Download and install Visual Studio Code from the official [website](https://code.visualstudio.com/)
+2. Clone the Repository:
+- Use Git to clone our project's repository to your local machine
+```bash
+git clone https://github.com/your-username/the-project.git
+```
+3. Open the Project in VS Code:
+- Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
+4. Install the Live Server Extension:
+- In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server." Install the "Live Server" extension by Ritwick Dey.
+5. Open an HTML File:
+- In the project directory, open an HTML file that serves as the entry point to the documentation (e.g., `index.html`).
+6. Launch the Live Server:
+- In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
+- This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`)
+7. Make and Test Changes:
+-With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
+8. Stop the Live Server:
+- When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
 ## Adding a New Section to the Documentation
 Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
 
 ### A Step-by-Step Guide to adding a new section
 Follow these steps to add a new section to our documentation:
-
 1. Locate the documentation folder:
 - Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
 
@@ -110,57 +161,6 @@ Markdown Tips:
 - Keep your Markdown content well organized, and use headings to structure your sections.
 - Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
-
-## Running the Project Locally
-To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
-
-Method 1: Using the Docsify CLI
-1. `Install Node.js`:
-- Ensure that you have Node.js installed on your machine. You can download it from the official Node.js [website ]( https://nodejs.org/.)
-2. `Install Docsify Globally`:
-- Open your command-line interface (CLI) and run the following command to install Docsify globally:
-
-```bash
-npm install -g docsify-cli
-```
-3. Clone the Repository:
-- Use Git to clone our project's repository to your local machine:
-```bash
-git clone https://github.com/your-username/the-project.git
-```
-4. Navigate to the Project Directory:
-- Change your current directory to the project folder:
-```bash
-cd the-project
-```
-- This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
-
-5. Make and Test Changes:
-- With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-6. Stop the Server:
-- When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
-
-Method 2: Using Visual Studio Code (VS Code) Go Live Feature
-1. Install Visual Studio Code:
-- Download and install Visual Studio Code from the official [website](https://code.visualstudio.com/)
-2. Clone the Repository:
-- Use Git to clone our project's repository to your local machine
-```bash
-git clone https://github.com/your-username/the-project.git
-```
-3. Open the Project in VS Code:
-- Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-4. Install the Live Server Extension:
-- In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server." Install the "Live Server" extension by Ritwick Dey.
-5. Open an HTML File:
-- In the project directory, open an HTML file that serves as the entry point to the documentation (e.g., `index.html`).
-6. Launch the Live Server:
-- In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
-- This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`)
-7. Make and Test Changes:
--With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-8. Stop the Live Server:
-- When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
 ## Adding Translations to Documentation
 Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps
