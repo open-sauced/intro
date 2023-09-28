@@ -192,5 +192,6 @@ Steps to Add Translations
 
 Best Practices for Translations
 - Maintain consistency in terminology and style throughout the translated documentation.
+- Work with another contributor who speaks the language you're translating too.
 - Consider using translation tools or services to assist with the translation process.
 - Keep translations up to date with changes in the original documentation.
