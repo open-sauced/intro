@@ -1,120 +1,114 @@
-# Introduction to contributing
+# Contributing to OpenSauced Intro
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
-1. Always leave screenshots for visual changes
-2. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the viewer(s).
+1. Always leave screenshots for visual changes.
+2. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer(s).
 3. Always review your code first. Be sure to run the project locally and test it before asking for a review.
 4. Always communicate in the GitHub repository. Whether it is in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
-## Setup
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository where you are working on [OpenSauced](github.com/open-sauced) to your own GitHub account.
-2. Clone the forked repository to your local machine.
-There are two ways to run this project locally:
-1. Use the Go Live feature in VS Code.
-2. Install the docsify CLI.
+## Setup the Project Locally
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) you are working on  to your own GitHub account.
+2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
+```bash
+git clone https://github.com/your-username/intro.git
+```
+3. cd into the repository and open the project in your code editor.
+```bash
+cd intro
+```
+4. Run the course locally. See [Running the Project Locally](#running-the-project-locally) for more information. 
 
 ### Running the Project Locally
 To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
 
-Method 1: Using the Docsify CLI
-1. `Install Node.js`:
-- Ensure that you have Node.js installed on your machine. You can download it from the official Node.js [website ]( https://nodejs.org/.)
-2. `Install Docsify Globally`:
-- Open your command-line interface (CLI) and run the following command to install Docsify globally:
+#### Method 1: Using the Docsify CLI
+1. **Install Node.js**: You can download it from the official Node.js [website ]( https://nodejs.org/.)
+2. **Install Docsify Globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
 
 ```bash
 npm install -g docsify-cli
 ```
-3. Clone the Repository:
-- Use Git to clone our project's repository to your local machine:
-```bash
-git clone https://github.com/your-username/the-project.git
-```
-4. Navigate to the Project Directory:
-- Change your current directory to the project folder:
-```bash
-cd the-project
-```
-- This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
+Run the project locally:
 
-5. Make and Test Changes:
-- With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-6. Stop the Server:
-- When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
-
-Method 2: Using Visual Studio Code (VS Code) Go Live Feature
-1. Install Visual Studio Code:
-- Download and install Visual Studio Code from the official [website](https://code.visualstudio.com/)
-2. Clone the Repository:
-- Use Git to clone our project's repository to your local machine
 ```bash
-git clone https://github.com/your-username/the-project.git
+docsify serve
 ```
-3. Open the Project in VS Code:
-- Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-4. Install the Live Server Extension:
-- In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server." Install the "Live Server" extension by Ritwick Dey.
-5. Open an HTML File:
-- In the project directory, open an HTML file that serves as the entry point to the documentation (e.g., `index.html`).
-6. Launch the Live Server:
-- In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
-- This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`)
-7. Make and Test Changes:
--With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-8. Stop the Live Server:
-- When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
+This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
+
+5. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+6. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
+
+#### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
+Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real-time in your browser.
+1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
+2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
+4. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server.Install the "Live Server" extension by Ritwick Dey.
+
+5. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
+
+This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
+
+6. **Make and Test Changes**: With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
+
+7. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
 ## Adding a New Section to the Documentation
 Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
 
 ### A Step-by-Step Guide to adding a new section
 Follow these steps to add a new section to our documentation:
-1. Locate the documentation folder:
-- Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
+1. **Locate the documentation folder**: Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
 
-2. Create a New Markdown File:
-- If your new section is a standalone document, create a new Markdown (.md) file within the documentation folder. Name the file in a way that reflects the content of the section. For example, `new-section.md`.
-NOTE: Be sure to follow naming conventions. Notice that files are not capitalized and in place of spaces between words there are hyphens.
+2. **Create a New Markdown File**: If your new section is a standalone document, create a new Markdown (.md) file within the documentation folder. 
 
-3. Choose a Section Number:
-- Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme.  For example, 01-contributing-guide, 02-types-of-contribution, 03-method-of-contribution, etc. That is the specific numbering scheme we are using for this project.
-In this special course repository, numbers represent chapters. Consider where the new section would logically fall in the course. If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
-4. Write Content:
-- Open the newly created Markdown file in a text editor or Markdown editor.
-- Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
+Name the file in a way that reflects the content of the section. For example, `new-section.md`.
+
+> NOTE: Be sure to follow naming conventions. Notice that files are not capitalized and in place of spaces between words there are hyphens.
+
+3. **Choose a Section Number**: Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme.  For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc. 
+
+In this special course repository, numbers represent chapters. Consider where the new section would logically fall in the course. 
+
+If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
+
+4. **Write Content**: Open the newly created Markdown file in a text editor or Markdown editor.
+
+Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
 
 ```bash
 # Section 3: Your New Section Title
 ```
-- Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
-- To include a link, highlight the text, then press ctrl + K and enter the URL. For example:
+Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
+
+To include a link, highlight the text, then press ctrl + K and enter the URL. For example:
 
 ```bash
 click [here](Github.com)
 ```
-5. Testing Your Changes:
-- Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
-6. Updating the Sidebar:
-- Adding the file to the sidebar is necessary for the user to discover the content. Contributors are encouraged to add a new section to the sidebar. Ensure that the section is appropriately linked in the navigation menu.
+5. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+
+6. **Updating the Sidebar**: Adding the file to the sidebar is necessary for the user to discover the content. 
+
+Contributors must add a new chapter to the sidebar. 
+
 ### Adding New Sections to the Sidebar
 The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
-Steps:
+
+#### Steps:####
 1. Navigate to `_layouts/sidebar.js`
 2. Add New Section link:
 - To add a new section link, insert a new line with the following format:
 - [Intro](https://github.com/01-intro.md) -- be sure to capitalize the section title.
 - Replace "Intro" with the title of your new section.
 - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
-7. Submitting Your Contribution:
-Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request` 
-8. Review and Feedback:
-- Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
-9. Documentation Completion:
-- After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
+7. **Submitting Your Contribution**:
+Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request`. 
+8. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
+9. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
 ## Using Markdown for Documentation
-Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the OpenSauced project's documentation, it's important to use Markdown to structure and format your content effectively.
+Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the Intro Course, it's important to use Markdown to structure and format your content effectively.
 
 ### Markdown Basics
 Markdown provides a set of simple and intuitive syntax elements for formatting text. Here are some common Markdown elements you can use:
