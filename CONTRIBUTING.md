@@ -1,4 +1,4 @@
-# Contributing to OpenSauced Intro
+#Contributing to OpenSauced Intro
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
@@ -40,7 +40,7 @@ This command will start a local development server, and you can access the docum
 6. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
-Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real-time in your browser.
+Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real time in your browser.
 1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
 2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
 4. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server.Install the "Live Server" extension by Ritwick Dey.
@@ -118,6 +118,7 @@ Use `#`  to create headings. The number of symbols indicates the heading level (
 # Heading 1
 ## Heading 2
 ```
+Check out the style guide for creating entries [here](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md).
 
 2. Text Formatting:
 - Make text bold by enclosing it with double asterisks (**) or double underscores (__).
@@ -155,6 +156,8 @@ Markdown Tips:
 - Keep your Markdown content well organized, and use headings to structure your sections.
 - Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
+
+Check out more on markdown [here](https://www.markdownguide.org/basic-syntax/).
 
 ## Adding Translations to Documentation
 Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps
