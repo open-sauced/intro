@@ -1,4 +1,4 @@
-#Contributing to OpenSauced Intro
+# Contributing to OpenSauced Intro
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
@@ -43,7 +43,7 @@ This command will start a local development server, and you can access the docum
 Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real time in your browser.
 1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
 2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-4. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server.Install the "Live Server" extension by Ritwick Dey.
+4. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server. Install the "Live Server" extension by Ritwick Dey.
 
 5. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
 
