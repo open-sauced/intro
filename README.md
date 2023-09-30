@@ -12,7 +12,7 @@ Like pizza, open source is meant to be shared with everyone. Click on the flags 
 
 <kbd>[<img title="French" alt="French" src="https://cdn.statically.io/flags/fr.svg" width="22">](translations/fr/README.md)</kbd>
 <kbd>[<img title="English" alt="English" src="https://cdn.statically.io/flags/us.svg" width="22">](translations/fr/README.md)</kbd>
-<kbd>[<img title="Portuguese Brazilian" alt="Portuguese Brazilian" src="https://cdn.statically.io/flags/br.svg" width="22">](translations/fr/README.md)</kbd>
+<kbd>[<img title="Portuguese Brazilian" alt="Portuguese Brazilian" src="https://cdn.statically.io/flags/br.svg" width="22">](translations/pt-br/README.md)</kbd>
 ## Course Overview
 
 The course is divided into five chapters, each covering a different aspect of open source:
