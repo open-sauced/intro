@@ -7,8 +7,6 @@
   - [The secret sauce](/06-the-secret-sauce.md)
   - [Types of contributions](/07-types-of-contributions.md)
   - [Additional resources](/08-additional-resources.md)
-
   - [Conclusion](/09-conclusion.md)
   - [Glossary](/10-glossary.md)
 
-  - [Glossary](/09-glossary.md)
