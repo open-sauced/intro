@@ -12,18 +12,15 @@ Mostly, there are two types of contributions:
 [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
  ### Common types of non-coding contributions
- 
   - Documentation
   - Graphic design
   - Blog writing
 
 ### Documentation
-
 Are you a lover of words? Do grammar errors irritate you, like seeing pineapple on pizza? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
 This involves creating, improving, or maintaining the written resources that accompany open-source software projects. Contrary to popular belief, documentation is crucial to open-source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors.
 
 ### How to Contribute to Documentation
-
 *If you're interested in contributing to documentation, here are a few tips:*
 
 - **Read the documentation**: This will help you understand how the product is used.
@@ -71,11 +68,9 @@ Example: [Add More Information to Use This Template in the README
 Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, I encourage you to get involved!
 
 ### Graphic Design
-
 Love drawing or painting? Consider doing Graphic design. This open-source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open-source software more appealing, user-friendly, and recognizable.
 
  ### Different graphic design open-source contributions 
- 
  - **Logo and Branding**: Designing a unique and memorable logo for an open-source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
 
 - **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
@@ -104,11 +99,9 @@ Example: [overflows in insights page on md screen size](https://github.com/open-
 Example: [Writing about an OSS project creates more visibility for the project and the maintainer, which can lead to better discoverability and support.](https://github.com/open-sauced/app/pull/1553)
 
 ### Blog Writing
-
 If you're more of a creative writer, then blog writing is your perfect match. This type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
 ### Ways to use Blogging as a Open Source Contribution
-
 - You can write about the latest features of an open-source project, such as a new version of the software or a new plugin.
 
 Example: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
