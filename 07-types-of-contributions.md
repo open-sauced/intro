@@ -17,7 +17,6 @@ Mostly, there are two types of contributions:
   - Graphic design
   - Blog writing
 
-
 ### Documentation
 
 Are you a lover of words? Do grammar errors irritate you, like seeing pineapple on pizza? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
