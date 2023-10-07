@@ -97,5 +97,5 @@ Here are some examples of contributions you can make to a project with your codi
 
 - **Testing and Quality Assurance**: Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues: [Add force login component to design system](https://github.com/open-sauced/app/pull/1330)
 
-
+[Next Section ->](08-additional-resources.md)
 
