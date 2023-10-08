@@ -10,9 +10,12 @@
 }
 
 @media screen and (max-width: 480px) {
-	.app-nav {
-		margin-right: 60px !important;
-	}
+  .app-nav {
+    margin-right: 60px !important;
+  }
+  #introduction, #what-is-open-source, #why-open-source, #conclusion, #the-secret-sauce, #how-to-contribute-to-open-source, #tools-to-be-successful{
+    margin-top: 1rem;
+  }
 }
 
 @media only screen and (max-width: 930px) and (min-width: 755px) {
