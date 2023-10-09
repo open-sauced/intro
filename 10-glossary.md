@@ -44,7 +44,7 @@ This is an abbreviation for the word documentation, a piece of text that provide
 
 ## Bug
 
-A bug refers is an error, flaw, or defect in code that impacts the proper functioning of the software. Open-source projects often rely on community contributions to identify and fix bugs.
+A bug refers to an error, flaw, or defect in code that adversely affects the proper functioning of the software. Open-source projects often depend on contributions from the community to identify and rectify these bugs.
 
 ## Quality Assurance
 
