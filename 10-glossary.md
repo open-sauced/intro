@@ -56,7 +56,7 @@ OSS stands for "Open-Source Software" projects. These are software projects wher
 
 ## Markdown
 
-Markdown is a lightweight markup language commonly used for creating formatted text documents. It is widely used for creating documentation and ReadMe files in software development due to its simplicity and readability.
+Markdown is a lightweight markup language commonly used for creating formatted text documents. It is widely used for creating documentation and README files in software development due to its simplicity and readability.
 
 ## Style Guide
 
