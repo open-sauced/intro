@@ -40,7 +40,7 @@ Merging is the process of combining changes from one branch into another. When a
 
 ## Docs
 
-This is an abbreviation for the word documentation, a piece of text that provides information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
+This is an abbreviation for the word documentation. Its primarily use is to explain how to implement and use the product. Documentation also provides people information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
 
 ## Bug
 
@@ -49,3 +49,23 @@ A bug refers to an error, flaw, or defect in code that adversely affects the pro
 ## Quality Assurance
 
 Quality assurance in open-source projects involves testing, reviewing, and ensuring the software meets the desired standards. Community members often contribute to testing and reporting issues to improve the software's quality.
+
+## OSS Projects
+
+OSS stands for "Open-Source Software" projects. These are software projects where the source code is made available to the public, allowing anyone to view, use, modify, and contribute to the software.
+
+## Markdown
+
+Markdown is a lightweight markup language commonly used for creating formatted text documents. It is widely used for creating documentation and ReadMe files in software development due to its simplicity and readability.
+
+## Style Guide
+
+A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. Style guides help maintain consistency and clarity across documents, making them easier to read and understand.
+
+## Onboarding
+
+Onboarding documentation helps new team members or collaborators quickly become familiar with a project's structure, goals, and processes.
+
+## Release Notes
+
+Release notes are documents that detail changes, enhancements, bug fixes, and new features in each software release. They inform users and stakeholders about what to expect in a new version of the software.
