@@ -1,0 +1,10 @@
+- Capítulos
+  - [Introdução](/translations/pt-br/01-introducao.md)
+  - [O que é código aberto](/translations/pt-br/02-o-que-e-codigo-aberto.md)
+  - [Por que o código aberto](/translations/pt-br/03-por-que-codigo-aberto.md)
+  - [Ferramentas para o sucesso](/translations/pt-br/04-ferramentas-para-o-sucesso.md)
+  - [Como contribuir para o código aberto](/translations/pt-br/05-como-contribuir-para-o-codigo-aberto.md)
+  - [O segredo da receita](/translations/pt-br/06-o-segredo-da-receita.md)
+  - [Conclusão](/translations/pt-br/07-conclusao.md)
+  - [Recursos adicionais](/translations/pt-br/08-recursos-adicionais.md)
+  - [Glossário](/translations/pt-br/09-glossario.md)

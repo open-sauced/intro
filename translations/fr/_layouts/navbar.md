@@ -3,3 +3,4 @@
 * Languages
     * [:us: Anglais ](/)
     * [:fr: Français ](/translations/fr/)
+    * [:br: Portugais-brésilien ](/translations/pt-br/)
