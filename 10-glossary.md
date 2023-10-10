@@ -60,7 +60,7 @@ Markdown is a lightweight markup language commonly used for creating formatted t
 
 ## Style Guide
 
-A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. Style guides help maintain consistency and clarity across documents, making them easier to read and understand.
+A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
 
 ## Onboarding
 
