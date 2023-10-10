@@ -52,7 +52,7 @@ Quality assurance in open-source projects involves testing, reviewing, and ensur
 
 ## OSS Projects
 
-OSS stands for "Open-Source Software" projects. These are software projects where the source code is made available to the public, allowing anyone to view, use, modify, and contribute to the software.
+OSS stands for "Open-Source Software" projects. These are software projects where the source code is made available to the public, allowing anyone to view, use and modify the software.
 
 ## Markdown
 
