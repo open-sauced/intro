@@ -13,6 +13,7 @@ Welcome to the Intro to Open Source Course with OpenSauced! This course is desig
 Like pizza, open source is meant to be shared with everyone. Click on the links below to take this course in the following languages:
 
 - [French](./translations/fr/README.md)
+- [Português Brasileiro](./translations/pt-br/README.md)
 
 ## Course Overview
 
