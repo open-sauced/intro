@@ -11,8 +11,8 @@ Bem-vindo ao curso de Introdução ao Open Source com OpenSauced! Este curso foi
 ## Suporte de idioma
 Assim como a pizza, open source deve ser compartilhado com todos. Clique nos links abaixo para seguir este curso nos seguintes idiomas diferentes:
 
-<kbd>[<img title="Francês" alt="Francês" src="https://cdn.statically.io/flags/fr.svg" width="22">](translations/fr/README.md)</kbd>
-<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.statically.io/flags/us.svg" width="22">](translations/fr/README.md)</kbd>
+<kbd>[<img title="French" alt="French" src="https://cdn.statically.io/flags/fr.svg" width="22">](/translations/fr/README.md)</kbd>
+<kbd>[<img title="English" alt="English" src="https://cdn.statically.io/flags/us.svg" width="22">](/README.md)</kbd>
 
 ## Visão geral do curso
 
