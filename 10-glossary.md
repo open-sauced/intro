@@ -38,3 +38,5 @@ Merging is the process of combining changes from one branch into another. When a
 
 ## Docs
  This is an abbreviation for the word documentation, a piece of text that provides information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is  often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
+
+[Improve this page on GitHub](https://github.com/open-sauced/intro/blob/main/10-glossary.md)
