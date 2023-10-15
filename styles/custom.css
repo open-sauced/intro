@@ -52,3 +52,18 @@ body {
 		opacity: 1;
 	}
 }
+
+.icon-text-container {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    /* Adjust margin or padding as needed */
+    margin-right: 10px; /* Example margin value */
+}
+
+.text {
+    /* Adjust margin or padding as needed */
+    margin-left: 10px; /* Example margin value */
+}
