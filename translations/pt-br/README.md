@@ -6,10 +6,10 @@
 </div>
 <br> 
 
-Bem-vindo ao curso de Introdução ao Open Source com OpenSauced! Este curso foi projetado para fornecer uma introdução ao open source e orientá-lo no processo de contribuição para projetos de open source. 
+Bem-vindo ao curso de Introdução ao Open Source com OpenSauced! Este curso foi projetado para fornecer uma introdução ao open source e orientá-lo no processo de contribuição para projetos de open source.
 
 ## Suporte de idioma
-Assim como a pizza, open  source deve ser compartilhado com todos. Clique nos links abaixo para seguir este curso nos seguintes idiomas diferentes: 
+Assim como a pizza, open source deve ser compartilhado com todos. Clique nos links abaixo para seguir este curso nos seguintes idiomas diferentes:
 
 <kbd>[<img title="Francês" alt="Francês" src="https://cdn.statically.io/flags/fr.svg" width="22">](translations/fr/README.md)</kbd>
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.statically.io/flags/us.svg" width="22">](translations/fr/README.md)</kbd>
