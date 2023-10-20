@@ -42,7 +42,7 @@ Construire un CV open source solide peut vous aider à présenter vos compétenc
 
 2. **Visitez votre page de profil public**: Après votre inscription, une page de profil public sera créée pour vous. Cette page affichera les informations de votre profil GitHub et une liste de vos contributions open source. Vous pouvez y accéder en cliquant sur votre nom d'utilisateur dans le coin supérieur droit de la page.
 
-![Navigation vers votre page de profil public](../../opensauced-profile.png)
+![Navigation vers votre page de profil public](../../images/opensauced-profile.png)
 
 3. **Construisez votre CV Open Source**: à partir de là, vous pourrez ajouter des points forts aux demandes d'extraction et aux problèmes auxquels vous avez contribué. Vous pouvez également ajouter une description et des liens vers votre CV open source. Celles-ci seront regroupées en une seule page que vous pourrez partager avec d'autres, ainsi qu'un résumé de vos contributions qui sera affiché sur votre page de profil public.
 
@@ -66,7 +66,7 @@ Pour être plus efficace dans la mise en valeur de vos contributions, nous vous 
 - Verbe succès + nom + métrique + résultat.
 - Exemple : pendant que j'examinais certaines demandes d'extraction pour le GirlScript Summer of Code de cette année, j'ai remarqué que la plupart d'entre elles ne fusionnaient pas malgré mon approbation et celle du propriétaire. J'ai donc **créé une action GitHub où les demandes d'extraction fusionnent automatiquement une fois qu'elles ont passé les étapes de déploiement (verbe successif + nom)**, ce qui **a augmenté les taux de productivité de 80 % (métrique + résultat).**
 
-![Ajouter une surbrillance à votre profil](../../opensauced-highlights.png)
+![Ajouter une surbrillance à votre profil](../../images/opensauced-highlights.png)
 
 **Partagez-le!**: Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
 
