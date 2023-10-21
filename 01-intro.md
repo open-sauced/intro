@@ -56,3 +56,6 @@ Now that we've set the stage, it's time to embark on your open source journey! I
 
 [Next Section ->](02-what-is-open-source.md)
 
+<a href="https://github.com/open-sauced/intro/edit/main/01-intro.md">
+  ✏️  Edit this page
+</a>
