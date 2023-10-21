@@ -25,7 +25,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 1. **Sign up for an account**: Visit https://www.opensauced.pizza/ and sign up for an account using your GitHub credentials.
 
-![Image](./opensauced-signup.png)
+![Image](./images/opensauced-signup.png)
 
 During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
 
@@ -33,7 +33,7 @@ During the signup process, you'll be asked to pick some interests and set your t
 
 3. **Search for projects**: In explore, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
-![Explore](./opensauced-explore.png)
+![Explore](./images/opensauced-explore.png)
 
 4. **Save projects to your insights**: When you find projects you're interested in, you can add them to what are called "Insights" pages, that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
@@ -50,7 +50,7 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 3. **Ask to be Assigned the Issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
 
-![issue assigned screenshot](./issue-assign.png)
+![issue assigned screenshot](./images/issue-assign.png)
 
 ## How to submit a contribution
 
