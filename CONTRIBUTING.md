@@ -7,6 +7,14 @@ Contributions are always welcome, no matter how large or small. Before contribut
 3. Always review your code first. Be sure to run the project locally and test it before asking for a review.
 4. Always communicate in the GitHub repository. Whether it is in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
+## Issues
+
+If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
+
+If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+
+In case you get stuck, please feel free to ask for help in the [Discord](https://discord.com/invite/U2peSNf23P) server or GitHub Discussions.
+
 ## Setup the Project Locally
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) you are working on  to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.

@@ -7,8 +7,11 @@
 <br>
 
 Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.
+
 ## Language Support
+
 Like pizza, open source is meant to be shared with everyone. Click on the links below to take this course in the following languages:
+
 - [French](./translations/fr/README.md)
 
 ## Course Overview
@@ -22,13 +25,15 @@ The course is divided into five chapters, each covering a different aspect of op
 3. **Tools to be successful.** Discover the key tools and platforms necessary for a successful journey in open source development. From Git and GitHub for version control and collaboration to CodeSee for code visualization and VS Code as your code editor, this chapter provides an overview of how to leverage these essential tools.
 
 4. **How to contribute to open source.**
-This chapter covers finding projects to work on, submitting contributions, onboarding in new projects, and the outcomes after submitting contributions. Tips for finding projects include browsing GitHub and GitLab, following personal interests, joining open source communities, and utilizing platforms like OpenSauced.
+   This chapter covers finding projects to work on, submitting contributions, onboarding in new projects, and the outcomes after submitting contributions. Tips for finding projects include browsing GitHub and GitLab, following personal interests, joining open source communities, and utilizing platforms like OpenSauced.
 
 5. **The secret sauce.**
-This chapter focuses on providing lesser-known strategies and tips for making a lasting impact in the open source community. This chapter provides strategies for finding issues, gaining traction in your open source journey, and leveraging OpenSauced to build your open source resume.
+   This chapter focuses on providing lesser-known strategies and tips for making a lasting impact in the open source community. This chapter provides strategies for finding issues, gaining traction in your open source journey, and leveraging OpenSauced to build your open source resume.
 
 ## Additional Information
+
 This is the beginning of your open source journey, so we've provided some additional resources to help you get started:
+
 - [Glossary](09-glossary.md): A glossary of common terms and definitions used in open source.
 - [Additional Resources](./08-additional-resources.md): A list of additional resources for further learning about open source, including blog posts, tutorials, and guides.
 
@@ -50,7 +55,9 @@ We hope you find this course informative and useful! If you have any questions o
 
 Happy learning and contributing!
 
-🤝 Contributing to this Repository
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed with your contribution.
+## 🤝 Contributing to this Repository
+
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing guide](./CONTRIBUTING.md) for guidelines about how to proceed with your contribution.
+- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)

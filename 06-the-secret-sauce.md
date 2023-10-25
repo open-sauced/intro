@@ -42,7 +42,7 @@ Building a strong open source resume can help you showcase your skills, experien
 
 2. **Visit Your Public Profile Page**: After signing up, a public profile page will be created for you. This page will display your GitHub profile information and a list of your open source contributions. You can navigate to it by clicking on your username in the top right corner of the page.
 
-![Navigating to your public profile page](./opensauced-profile.png)
+![Navigating to your public profile page](./images/opensauced-profile.png)
 
 3. **Build Your Open Source Resume**: From here, you'll be able to add highlights to Pull Requests and Issues that you've contributed to. You can also add a description and links to your open source resume. These will be aggregated into a single page that you can share with others, as well as a summary of your contributions that will be displayed on your public profile page.
 
@@ -65,7 +65,7 @@ To be most effective in highlighting your contributions, we recommend using the 
  - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
 
 
-![Adding a highlight to your profile](./opensauced-highlights.png)
+![Adding a highlight to your profile](./images/opensauced-highlights.png)
 
 **Share it!**: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others by clicking the share button in the header of your profile page. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
 
@@ -73,4 +73,4 @@ By leveraging OpenSauced to track your open source contributions and develop you
 
 In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
 
-[Final Section ->](07-conclusion.md)
+[Final Section ->](07-types-of-contributions.md)
