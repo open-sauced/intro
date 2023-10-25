@@ -1,6 +1,6 @@
 * [Pagina inicial](/)
 * [⭐ Marque o repositório com estrela](https://github.com/open-sauced/intro)
 * Idioma
-    * [:fr🇫🇷: Francês](/translations/fr/README.md)
-    * [:br🇧🇷: Português](/translations/pt-br/README.md)
+    * [🇫🇷 Francês](/translations/fr/README.md)
     *  [:us: Inglês](/)
+    *  [🇧🇷 Português](/translations/pt-br/README.md)
