@@ -3,4 +3,4 @@
 * Langues
     * [:us: Anglais ](/)
     * [:fr: Français ](/translations/fr/)
-    * [:br🇧🇷: Portugais](/translations/pt-br/)
+    * [🇧🇷 Portugais](/translations/pt-br/)
