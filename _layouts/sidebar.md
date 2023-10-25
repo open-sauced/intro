@@ -9,5 +9,5 @@
   - [Additional resources](/08-additional-resources.md)
   - [Conclusion](/09-conclusion.md)
   - [Glossary](/10-glossary.md)
-  - [Understanding merge conflicts](/11-understanding-merge-conflicts)
+  - [Understanding merge conflicts](/11-understanding-merge-conflicts.md)
 
