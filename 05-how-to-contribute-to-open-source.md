@@ -163,4 +163,6 @@ As you continue to contribute to open source projects, you'll gain valuable expe
 
 [Next Section ->](06-the-secret-sauce.md)
 
-[Improve this page on GitHub](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)
+<a href="https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md">
+  ✏️  Edit this page
+  </a>
