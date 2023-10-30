@@ -22,4 +22,6 @@ Congratulations on your journey into open source! Here are some resources for fu
 
 [Next Section ->](09-conclusion.md)
 
-[Improve this page on GitHub](https://github.com/open-sauced/intro/blob/main/08-additional-resources.md)
+<a href="https://github.com/open-sauced/intro/edit/main/08-additional-resources.md">
+ ✏️  Edit this page
+  </a>

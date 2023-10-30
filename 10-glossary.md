@@ -71,4 +71,6 @@ Onboarding documentation helps new team members or collaborators quickly become 
 
 Release notes are documents that detail changes, enhancements, bug fixes, and new features in each software release. They inform users and stakeholders about what to expect in a new version of the software.
 
-[Improve this page on GitHub](https://github.com/open-sauced/intro/blob/main/10-glossary.md)
+<a href="https://github.com/open-sauced/intro/edit/main/10-glossary.md">
+ ✏️  Edit this page
+  </a>

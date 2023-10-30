@@ -99,4 +99,6 @@ Here are some examples of contributions you can make to a project with your codi
 
 [Next Section ->](08-additional-resources.md)
 
-[Improve this page on GitHub](https://github.com/open-sauced/intro/blob/main/07-types-of-contributions.md)
+<a href="https://github.com/open-sauced/intro/edit/main/07-types-of-contributions.md">
+ ✏️  Edit this page
+  </a>
