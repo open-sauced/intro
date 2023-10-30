@@ -70,7 +70,8 @@ Para ser mais eficaz ao destacar suas contribuições, recomendamos o uso do seg
     - Verbo de sucesso + substantivo + métrica + resultado.
     - Exemplo: Enquanto eu estava revisando alguns pull requests para o GirlScript Summer of Code deste ano, notei que a maioria deles não seria mesclada, apesar de eu e o proprietário darmos aprovações. Então, **criei uma ação do GitHub onde os pull requests são mesclados automaticamente assim que passam pelas etapas de implantação (verbo + substantivo sucessivo)**, o que **aumentou as taxas de produtividade em 80% (métrica + resultado).**
 
-![Adicionando um destaque ao seu perfil](../../opensauced-highlights.png)
+![Adicionando um destaque ao seu perfil](../../images/opensauced-highlights.png)
+
 
 **Compartilhe!**: Depois de construir um portfólio de contribuições de código aberto, você pode compartilhar seu currículo de código aberto com outras pessoas clicando no botão de compartilhamento no cabeçalho de sua página de perfil. Isso pode ser especialmente útil ao se candidatar a empregos, fazer networking com outros desenvolvedores ou promover seu trabalho na comunidade de código aberto.
 
