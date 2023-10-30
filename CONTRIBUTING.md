@@ -94,9 +94,11 @@ To include a link, highlight the text, then press ctrl + K and enter the URL. Fo
 ```bash
 click [here](Github.com)
 ```
-5. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+> NOTE: If adding definitions to the `10-glossary.md` section ensure definitions are added in alphabetical order.
 
-6. **Updating the Sidebar**: Adding the file to the sidebar is necessary for the user to discover the content. 
+1. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+
+2. **Updating the Sidebar**: Adding the file to the sidebar is necessary for the user to discover the content. 
 
 Contributors must add a new chapter to the sidebar. 
 
