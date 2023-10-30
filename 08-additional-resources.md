@@ -21,3 +21,7 @@ Congratulations on your journey into open source! Here are some resources for fu
 - [Good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist)
 
 [Next Section ->](09-conclusion.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/08-additional-resources.md">
+ ✏️  Edit this page
+  </a>

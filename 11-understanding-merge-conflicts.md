@@ -24,3 +24,7 @@ Manually edit the file to resolve the conflict. Decide which changes to keep or 
 9. Verify the Merge: Verify that the merge conflict has been successfully resolved by checking the remote repository or using Git tools.
 
 VS Code and GitLens simplify the conflict resolution process by providing a visual interface for managing merge conflicts. This allows you to easily navigate through conflicting files and review changes, making the process more intuitive.
+
+<a href="https://github.com/open-sauced/intro/edit/main/11-understanding-merge-conflicts.md">
+ ✏️  Edit this page
+  </a>
