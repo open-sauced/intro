@@ -84,4 +84,3 @@ Release notes are documents that detail changes, enhancements, bug fixes, and ne
 <a href="https://github.com/open-sauced/intro/edit/main/10-glossary.md">
  ✏️  Edit this page
   </a>
-
