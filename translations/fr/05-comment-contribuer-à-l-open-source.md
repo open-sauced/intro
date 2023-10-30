@@ -25,7 +25,7 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
-![Image](../../opensauced-signup.png)
+![Image](../../images/opensauced-signup.png)
 
 Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
 
@@ -33,7 +33,7 @@ Au cours de la procédure d'inscription, il vous sera demandé de choisir vos ce
 
 3. **Rechercher des projets**: Dans Explorer, vous pouvez voir une liste de dépôts et leurs niveaux d'activité et d'engagement pertinents qui sont actuellement en tendance. Vous pouvez également rechercher des projets en tapant dans la barre de recherche. Vous pouvez rechercher des projets par nom, par description ou par sujet et utiliser cet outil pour trouver quelque chose qui vous correspond.
 
-![Explore](../../opensauced-explore.png)
+![Explore](../../images/opensauced-explore.png)
 
 4. **Enregistrez des projets dans vos pages "Insights"**: Lorsque vous trouvez des projets qui vous intéressent, vous pouvez les ajouter à ce que l'on appelle les pages "Insights", qui vous donnent plus de détails sur l'activité des projets. Vous pouvez également passer à l'étape suivante si vous préférez vous plonger dans le projet et y apporter votre contribution.
 
@@ -49,7 +49,7 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 3. **Demandez à ce que le problème vous soit attribué**: Lorsque vous apportez votre première contribution à un projet, il est conseillé de demander aux responsables de vous attribuer le problème. Cela vous permettra de vous assurer que vous ne faites pas double travail et que votre contribution est conforme aux objectifs et aux exigences du projet. S'il n'y a pas d'instructions dans le fichier CONTRIBUTING, vous pouvez faire un commentaire dans le problème, "Can I please be assigned this issue ?" (Puis-je me voir attribuer ce problème ?) Lorsque le responsable vous aura assigné ce problème, vous remarquerez que le problème est maintenant étiqueté avec votre nom d'utilisateur.
 
-![issue assigned screenshot](../../issue-assign.png)
+![issue assigned screenshot](../../images/issue-assign.png)
 
 ## Comment soumettre une contribution ?
 
@@ -189,7 +189,7 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
-![Image](../../opensauced-signup.png)
+![Image](../../images/opensauced-signup.png)
 
 Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
 
@@ -197,7 +197,7 @@ Au cours de la procédure d'inscription, il vous sera demandé de choisir vos ce
 
 3. **Rechercher des projets**: Dans Explorer, vous pouvez voir une liste de dépôts et leurs niveaux d'activité et d'engagement pertinents qui sont actuellement en tendance. Vous pouvez également rechercher des projets en tapant dans la barre de recherche. Vous pouvez rechercher des projets par nom, par description ou par sujet et utiliser cet outil pour trouver quelque chose qui vous correspond.
 
-![Explore](../../opensauced-explore.png)
+![Explore](../../images/opensauced-explore.png)
 
 4. **Enregistrez des projets dans vos pages "Insights"**: Lorsque vous trouvez des projets qui vous intéressent, vous pouvez les ajouter à ce que l'on appelle les pages "Insights", qui vous donnent plus de détails sur l'activité des projets. Vous pouvez également passer à l'étape suivante si vous préférez vous plonger dans le projet et y apporter votre contribution.
 
@@ -213,7 +213,7 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 3. **Demandez à ce que le problème vous soit attribué**: Lorsque vous apportez votre première contribution à un projet, il est conseillé de demander aux responsables de vous attribuer le problème. Cela vous permettra de vous assurer que vous ne faites pas double travail et que votre contribution est conforme aux objectifs et aux exigences du projet. S'il n'y a pas d'instructions dans le fichier CONTRIBUTING, vous pouvez faire un commentaire dans le problème, "Can I please be assigned this issue ?" (Puis-je me voir attribuer ce problème ?) Lorsque le responsable vous aura assigné ce problème, vous remarquerez que le problème est maintenant étiqueté avec votre nom d'utilisateur.
 
-![issue assigned screenshot](../../issue-assign.png)
+![issue assigned screenshot](../../images/issue-assign.png)
 
 ## Comment soumettre une contribution?
 
