@@ -58,7 +58,7 @@ Para praticar o uso do GitHub, vamos passar por criar um repositório, clonar o 
 
 Escollha você mesmo como o proprietário do repositório, e digite um nome para o seu repositório. Para este exemplo, usaremos `practice-repository`
 
-![new repo screenshot](../../new-repo.png)
+![new repo screenshot](../../images/new-repo.png)
 
 Escollha se você quer que seja público ou privado. Você também pode escolher inicializar o repositório com um arquivo README, um arquivo .gitignore e/ou uma licença.
 
