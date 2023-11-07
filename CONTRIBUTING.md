@@ -108,24 +108,33 @@ In this guide, we will walk you through how to add a new section to our Intro to
 
 ### Adding a New Section
 
-Follow these steps to add a new section to our documentation:
+Follow these steps to add a new section to our course:
 
-1. **Locate the documentation folder**: Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
-2. **Create a new Markdown file**: If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
+1. **Locate the documentation folder**
+
+   Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
+
+2. **Create a new Markdown file**
+
+   If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
 
    Name the file in a way that reflects the content of the section. For example, `new-section.md`.
 
-   > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized and in place of spaces between words there are hyphens.
+   > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized, and in place of spaces between words, there are hyphens.
 
-3. **Choose a section number**: Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme. For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc.
+3. **Choose a section number**
 
-   In this special course repository, numbers represent chapters. Consider where the new section would logically fall in the course.
+   Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme. For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc.
+
+   In this particular project, numbers represent chapters. Consider where the new section would logically fall in the course.
 
    If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
 
-4. **Write content**: Open the newly created Markdown file in a text editor or Markdown editor.
+4. **Write content**
 
-   Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
+   Open the newly created Markdown file in a text editor or Markdown editor.
+
+   Begin by adding a heading to your section. Use the `#` symbol to create a heading. For example:
 
    ```markdown
    # Section 3: Your New Section Title
@@ -133,19 +142,27 @@ Follow these steps to add a new section to our documentation:
 
    Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
 
-   To include a link, highlight the text, then press `Ctrl + K` and enter the URL. For example:
+   To include a link, use this syntax:
 
    ```markdown
-   click [here](Github.com)
+   [text](url)
    ```
 
-   > NOTE: If adding definitions to the `10-glossary.md` section ensure definitions are added in alphabetical order.
+   For example:
 
-5. **Testing your changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+   ```markdown
+   Click [here](https://github.com)
+   ```
 
-6. **Updating the sidebar**: Adding the file to the sidebar is necessary for the user to discover the content.
+   > NOTE: If adding definitions to the `10-glossary.md` section, ensure definitions are added in alphabetical order.
 
-   Contributors must add a new chapter to the sidebar.
+5. **Testing your changes**
+
+   Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+
+6. **Updating the sidebar**
+
+   After you finish adding a new section, you must add it to the sidebar for the users to discover the content.
 
 ### Adding New Sections to the Sidebar
 
