@@ -86,7 +86,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 3. **Install the Live Server extension**
 
-   In VS Code, click "View" on the top navbar, navigate to the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+   In VS Code, click "View" on the top navbar, then click the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 4. **Launch the Live Server**
 
@@ -104,7 +104,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 ## Adding a New Section and Adding it to the Sidebar
 
-Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
+In this guide, we will walk you through how to add a new section to our Intro to Open Source course. We have specific conventions for numbering sections to maintain a consistent structure.
 
 ### Adding a New Section
 
