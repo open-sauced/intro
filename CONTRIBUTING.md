@@ -56,7 +56,7 @@ To contribute effectively to the OpenSauced project, it's essential to run the p
    This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
 
 4. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-5. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
+5. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
 
@@ -81,7 +81,7 @@ Welcome to the documentation contribution guide. In this guide, you will learn h
 Follow these steps to add a new section to our documentation:
 
 1. **Locate the documentation folder**: Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
-2. **Create a New Markdown File**: If your new section is a standalone document, create a new Markdown (.md) file within the documentation folder.
+2. **Create a New Markdown File**: If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
 
    Name the file in a way that reflects the content of the section. For example, `new-section.md`.
 
@@ -97,15 +97,15 @@ Follow these steps to add a new section to our documentation:
 
    Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
 
-   ```bash
+   ```markdown
    # Section 3: Your New Section Title
    ```
 
    Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
 
-   To include a link, highlight the text, then press ctrl + K and enter the URL. For example:
+   To include a link, highlight the text, then press `Ctrl + K` and enter the URL. For example:
 
-   ```bash
+   ```markdown
    click [here](Github.com)
    ```
 
@@ -132,7 +132,7 @@ The sidebar in our project's documentation serves as a navigation menu, allowing
    - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
 
 3. **Submitting Your Contribution**:
-   Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request`.
+   Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a pull request.
 4. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
 5. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
@@ -147,8 +147,9 @@ Markdown provides a set of simple and intuitive syntax elements for formatting t
 1. Headings:
    Use `#` to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
 
-   ```bash
+   ```markdown
    # Heading 1
+
    ## Heading 2
    ```
 
@@ -165,34 +166,49 @@ Markdown provides a set of simple and intuitive syntax elements for formatting t
    - Create ordered lists using numbers followed by a period (1., 2., etc.).
    - Create unordered lists using asterisks (\*), plus signs (+), or hyphens (-).
 
-     For instance,
+     For instance:
 
-     1. Item 1
-     2. Item 2
+     ```markdown
+     1.  Item 1
+     2.  Item 2
 
      - Unordered Item 1
      - Unordered Item 2
+     ```
 
 4. Links:
 
    - Create links using square brackets for the link text and parentheses for the URL.
+
+     ```markdown
      [Link Text](https://opensauced.pizza/)
+     ```
 
 5. Images:
 
    - Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
+
+     ```markdown
      ![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
+     ```
 
 6. Blockquotes:
 
-   - Create blockquotes using the greater-than symbol (>).
-     `> This is a blockquote.`
+   - Create blockquotes using the greater-than symbol (`>`).
+
+     ```markdown
+     > This is a blockquote.
+     ```
 
 7. Code Blocks:
 
    - Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
-     // Fenced code block
+
+     ````
+     ```javascript
      const code = "Hello, World!";
+     ```
+     ````
 
 Markdown Tips:
 
@@ -215,11 +231,11 @@ Steps to Add Translations
 
    - Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
-   ```bash
+   ```markdown
    - docs/
-     - en/         (English)
-     - fr/         (French)
-     - es/         (Spanish)
+   - en/ (English)
+   - fr/ (French)
+   - es/ (Spanish)
    ```
 
 3. Translate Content:
