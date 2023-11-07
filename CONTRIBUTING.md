@@ -43,36 +43,36 @@ To contribute effectively to the OpenSauced project, it's essential to run the p
 #### Method 1: Using the Docsify CLI
 
 1. **Install Node.js**: You can download it from the official Node.js [website ](https://nodejs.org/.)
-2. **Install Docsify Globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
+2. **Install Docsify globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
 
    ```bash
    npm install -g docsify-cli
    ```
 
-3. Run the project locally:
+3. **Run the project locally**:
 
    ```bash
    docsify serve
    ```
 
-   This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
+   This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`.
 
-4. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-5. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
+4. **Make and test changes**: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+5. **Stop the server**: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
 
 Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real time in your browser.
 
 1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-3. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view (you can press `Ctrl + Shift + X`) and search for "Live Server. Install the "Live Server" extension by Ritwick Dey.
-4. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
+2. **Open the project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
+3. **Install the Live Server extension**: In VS Code, navigate to the `Extensions` view (you can press `Ctrl + Shift + X`) and search for "Live Server". Install the Live Server extension by Ritwick Dey.
+4. **Launch the Live Server**: In the opened HTML file, you should see a `Go Live` button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
 
    This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
 
 5. **Make and Test Changes**: With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-6. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
+6. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the `Exit` button in the VS Code status bar.
 
 ## Adding a New Section and Adding it to the Sidebar
 
@@ -83,19 +83,19 @@ Welcome to the documentation contribution guide. In this guide, you will learn h
 Follow these steps to add a new section to our documentation:
 
 1. **Locate the documentation folder**: Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
-2. **Create a New Markdown File**: If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
+2. **Create a new Markdown file**: If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
 
    Name the file in a way that reflects the content of the section. For example, `new-section.md`.
 
    > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized and in place of spaces between words there are hyphens.
 
-3. **Choose a Section Number**: Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme. For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc.
+3. **Choose a section number**: Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme. For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc.
 
    In this special course repository, numbers represent chapters. Consider where the new section would logically fall in the course.
 
    If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
 
-4. **Write Content**: Open the newly created Markdown file in a text editor or Markdown editor.
+4. **Write content**: Open the newly created Markdown file in a text editor or Markdown editor.
 
    Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
 
@@ -113,9 +113,9 @@ Follow these steps to add a new section to our documentation:
 
    > NOTE: If adding definitions to the `10-glossary.md` section ensure definitions are added in alphabetical order.
 
-5. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+5. **Testing your changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
 
-6. **Updating the Sidebar**: Adding the file to the sidebar is necessary for the user to discover the content.
+6. **Updating the sidebar**: Adding the file to the sidebar is necessary for the user to discover the content.
 
    Contributors must add a new chapter to the sidebar.
 
@@ -126,7 +126,7 @@ The sidebar in our project's documentation serves as a navigation menu, allowing
 Follow these steps to add new sections to the sidebar:
 
 1. Navigate to `_layouts/sidebar.js`
-2. Add New Section link:
+2. **Add the new section link**:
 
    To add a new section link, insert a new line with the following format:
 
@@ -134,10 +134,17 @@ Follow these steps to add new sections to the sidebar:
    - Replace "Intro" with the title of your new section.
    - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
 
-3. **Submitting Your Contribution**:
+3. **Submitting your contribution**:
+
    Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a pull request.
-4. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
-5. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
+
+4. **Review and feedback**:
+
+   Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
+
+5. **Documentation completion**:
+
+   After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
 ## Using Markdown for Intro to Open Source Course
 
@@ -213,7 +220,7 @@ Markdown provides a set of simple and intuitive syntax elements for formatting t
    ```
    ````
 
-Markdown Tips:
+### Markdown Tips:
 
 - Keep your Markdown content well organized, and use headings to structure your sections.
 - Use code blocks to highlight code snippets or configuration examples.
@@ -226,11 +233,11 @@ Check out more on markdown [here](https://www.markdownguide.org/basic-syntax/).
 Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps
 Steps to Add Translations
 
-1. Identify Target Languages:
+1. Identify target languages:
 
    Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
 
-2. Create Translation Files:
+2. Create translation files:
 
    Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
@@ -241,32 +248,32 @@ Steps to Add Translations
    - es/ (Spanish)
    ```
 
-3. Translate Content:
+3. Translate content:
 
    - For each language directory, create translated versions of the documentation files. Typically, you will translate Markdown files, but consider other formats as needed.
    - Maintain the same file structure and filenames as in the original documentation, but with translated content.
 
-4. Update Links:
+4. Update links:
 
    In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
 
-5. Add Language Selector:
+5. Add language selector:
 
    Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
 
-6. Testing and Validation:
+6. Testing and validation:
 
    Test the translated documentation to ensure accuracy and readability. Make sure that all links work correctly and that the content is culturally appropriate.
 
-7. Submit Contributions:
+7. Submit contributions:
 
    If you haven't already, submit your translations as a pull request. Ensure that you provide clear information about the languages you've translated and any specific details related to your contributions.
 
-8. Collaborate and Review:
+8. Collaborate and review:
 
    Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
 
-Best Practices for Translations
+### Best Practices for Translations
 
 - Maintain consistency in terminology and style throughout the translated documentation.
 - Work with another contributor who speaks the language you're translating to.
