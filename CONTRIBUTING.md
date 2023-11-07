@@ -44,14 +44,19 @@ We recommend two methods for running the project on your local machine: using th
 
 #### Method 1: Using the Docsify CLI
 
-1. **Install Node.js**: You can download it from the official Node.js [website ](https://nodejs.org/.)
-2. **Install Docsify globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
+1. **Install Node.js**
+
+   You can download it from the official [Node.js website](https://nodejs.org/).
+
+2. **Install Docsify globally**
+
+   It's highly recommended to install Docsify globally. In your terminal, run the following command:
 
    ```bash
    npm install -g docsify-cli
    ```
 
-3. **Run the project locally**:
+3. **Run the project**
 
    ```bash
    docsify serve
@@ -59,8 +64,13 @@ We recommend two methods for running the project on your local machine: using th
 
    This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`.
 
-4. **Make and test changes**: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-5. **Stop the server**: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
+4. **Make and test changes**
+
+   With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+
+5. **Stop the server**
+
+   When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
 
