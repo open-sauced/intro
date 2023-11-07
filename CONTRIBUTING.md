@@ -126,7 +126,8 @@ The sidebar in our project's documentation serves as a navigation menu, allowing
 1. Navigate to `_layouts/sidebar.js`
 2. Add New Section link:
 
-   - To add a new section link, insert a new line with the following format:
+   To add a new section link, insert a new line with the following format:
+
    - [Intro](https://github.com/01-intro.md) -- be sure to capitalize the section title.
    - Replace "Intro" with the title of your new section.
    - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
@@ -178,37 +179,37 @@ Markdown provides a set of simple and intuitive syntax elements for formatting t
 
 4. Links:
 
-   - Create links using square brackets for the link text and parentheses for the URL.
+   Create links using square brackets for the link text and parentheses for the URL.
 
-     ```markdown
-     [Link Text](https://opensauced.pizza/)
-     ```
+   ```markdown
+   [Link Text](https://opensauced.pizza/)
+   ```
 
 5. Images:
 
-   - Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
+   Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
 
-     ```markdown
-     ![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
-     ```
+   ```markdown
+   ![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
+   ```
 
 6. Blockquotes:
 
-   - Create blockquotes using the greater-than symbol (`>`).
+   Create blockquotes using the greater-than symbol (`>`).
 
-     ```markdown
-     > This is a blockquote.
-     ```
+   ```markdown
+   > This is a blockquote.
+   ```
 
 7. Code Blocks:
 
-   - Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
+   Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
 
-     ````
-     ```javascript
-     const code = "Hello, World!";
-     ```
-     ````
+   ````
+   ```javascript
+   const code = "Hello, World!";
+   ```
+   ````
 
 Markdown Tips:
 
@@ -225,11 +226,11 @@ Steps to Add Translations
 
 1. Identify Target Languages:
 
-   - Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
+   Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
 
 2. Create Translation Files:
 
-   - Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
+   Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
    ```markdown
    - docs/
@@ -245,23 +246,23 @@ Steps to Add Translations
 
 4. Update Links:
 
-   - In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
+   In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
 
 5. Add Language Selector:
 
-   - Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
+   Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
 
 6. Testing and Validation:
 
-   - Test the translated documentation to ensure accuracy and readability. Make sure that all links work correctly and that the content is culturally appropriate.
+   Test the translated documentation to ensure accuracy and readability. Make sure that all links work correctly and that the content is culturally appropriate.
 
 7. Submit Contributions:
 
-   - If you haven't already, submit your translations as a pull request. Ensure that you provide clear information about the languages you've translated and any specific details related to your contributions.
+   If you haven't already, submit your translations as a pull request. Ensure that you provide clear information about the languages you've translated and any specific details related to your contributions.
 
 8. Collaborate and Review:
 
-   - Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
+   Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
 
 Best Practices for Translations
 
