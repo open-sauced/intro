@@ -38,7 +38,9 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
 
 ### Running the Project Locally
 
-To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
+To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly.
+
+We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
 
 #### Method 1: Using the Docsify CLI
 
