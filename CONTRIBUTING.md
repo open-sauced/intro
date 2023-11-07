@@ -154,71 +154,72 @@ Markdown is a lightweight and easy-to-use markup language that allows you to for
 
 Markdown provides a set of simple and intuitive syntax elements for formatting text. Here are some common Markdown elements you can use:
 
-1. Headings:
-   Use `#` to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
+#### 1. Headings
 
-   ```markdown
-   # Heading 1
+Use `#` to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
 
-   ## Heading 2
-   ```
+```markdown
+# Heading 1
 
-   Check out the style guide for creating entries [here](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md).
+## Heading 2
+```
 
-2. Text Formatting:
+Check out the style guide for creating entries [here](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md).
 
-   - Make text bold by enclosing it with double asterisks (\*\*) or double underscores (\_\_).
-   - Make text italic by enclosing it with single asterisks (\*) or single underscores (\_).
-   - Create inline code by wrapping text with backticks (``).
+#### 2. Text Formatting
 
-3. Lists:
+- Make text bold by enclosing it with double asterisks (\*\*) or double underscores (\_\_).
+- Make text italic by enclosing it with single asterisks (\*) or single underscores (\_).
+- Create inline code by wrapping text with backticks (``).
 
-   - Create ordered lists using numbers followed by a period (1., 2., etc.).
-   - Create unordered lists using asterisks (\*), plus signs (+), or hyphens (-).
+#### 3. Lists:
 
-     For instance:
+- Create ordered lists using numbers followed by a period (1., 2., etc.).
+- Create unordered lists using asterisks (\*), plus signs (+), or hyphens (-).
 
-     ```markdown
-     1.  Item 1
-     2.  Item 2
+For instance:
 
-     - Unordered Item 1
-     - Unordered Item 2
-     ```
+```markdown
+1.  Item 1
+2.  Item 2
 
-4. Links:
+- Unordered Item 1
+- Unordered Item 2
+```
 
-   Create links using square brackets for the link text and parentheses for the URL.
+#### 4. Links:
 
-   ```markdown
-   [Link Text](https://opensauced.pizza/)
-   ```
+Create links using square brackets for the link text and parentheses for the URL.
 
-5. Images:
+```markdown
+[Link Text](https://opensauced.pizza/)
+```
 
-   Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
+#### 5. Images
 
-   ```markdown
-   ![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
-   ```
+Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
 
-6. Blockquotes:
+```markdown
+![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
+```
 
-   Create blockquotes using the greater-than symbol (`>`).
+#### 6. Blockquotes
 
-   ```markdown
-   > This is a blockquote.
-   ```
+Create blockquotes using the greater-than symbol (`>`).
 
-7. Code Blocks:
+```markdown
+> This is a blockquote.
+```
 
-   Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
+#### 7. Code Blocks:
 
-   ````
-   ```javascript
-   const code = "Hello, World!";
-   ```
-   ````
+Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
+
+````
+```javascript
+const code = "Hello, World!";
+```
+````
 
 ### Markdown Tips:
 
