@@ -74,17 +74,33 @@ We recommend two methods for running the project on your local machine: using th
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
 
-Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real time in your browser.
+Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real-time in your browser.
 
-1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. **Open the project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-3. **Install the Live Server extension**: In VS Code, navigate to the `Extensions` view (you can press `Ctrl + Shift + X`) and search for "Live Server". Install the Live Server extension by Ritwick Dey.
-4. **Launch the Live Server**: In the opened HTML file, you should see a `Go Live` button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
+1. **Install Visual Studio Code**
 
-   This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
+   If you haven't, you can download [Visual Studio Code](https://code.visualstudio.com/) and install it.
 
-5. **Make and Test Changes**: With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-6. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the `Exit` button in the VS Code status bar.
+2. **Open the project in VS Code**
+
+   Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
+
+3. **Install the Live Server extension**
+
+   In VS Code, click "View" on the top navbar, navigate to the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the Live Server extension by Ritwick Dey.
+
+4. **Launch the Live Server**
+
+   After installing the extension, you should see a `Go Live` button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
+
+   It will open the project in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
+
+5. **Make and Test Changes**
+
+   With the Live Server running, you can make changes to the using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
+
+6. **Stop the Live Server**
+
+   When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar at the bottom-right corner.
 
 ## Adding a New Section and Adding it to the Sidebar
 
