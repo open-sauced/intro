@@ -166,12 +166,14 @@ Follow these steps to add a new section to our course:
 
 ### Adding New Sections to the Sidebar
 
-The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
+The sidebar in our course serves as a navigation menu, allowing users to access different sections efficiently.
+
+When you add a new section to the course, it's important to update the sidebar by including the link to the new section so users can navigate to the content seamlessly.
 
 Follow these steps to add new sections to the sidebar:
 
-1. Navigate to `_layouts/sidebar.js`
-2. **Add the new section link**:
+1. Navigate to `_layouts/sidebar.js`.
+2. **Add the new section link**
 
    To add a new section link, insert a new line with the following format:
 
@@ -179,17 +181,15 @@ Follow these steps to add new sections to the sidebar:
    - Replace "Intro" with the title of your new section.
    - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
 
-3. **Submitting your contribution**:
+3. **Submitting your contribution**
 
-   Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a pull request.
+   Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
-4. **Review and feedback**:
+4. **Review and feedback**
 
-   Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
+   Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
-5. **Documentation completion**:
-
-   After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
+After your contribution is accepted, your new section will become part of our course, enhancing its content for users and contributors.
 
 ## Using Markdown for Intro to Open Source Course
 
