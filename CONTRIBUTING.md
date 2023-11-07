@@ -86,7 +86,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 3. **Install the Live Server extension**
 
-   In VS Code, click "View" on the top navbar, navigate to the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the Live Server extension by Ritwick Dey.
+   In VS Code, click "View" on the top navbar, navigate to the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 4. **Launch the Live Server**
 
