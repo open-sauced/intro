@@ -175,17 +175,26 @@ Follow these steps to add new sections to the sidebar:
 1. Navigate to `_layouts/sidebar.js`.
 2. **Add the new section link**
 
-   To add a new section link, insert a new line with the following format:
+   - Insert a new line in the list based on your section's number. If your section number is `07`, insert this new line right after `06`.
+   - Use the below format to add the link to the new section:
 
-   - [Intro](https://github.com/01-intro.md) -- be sure to capitalize the section title.
-   - Replace "Intro" with the title of your new section.
-   - Replace "/01-intro.md" with the relative path to the Markdown file of your new section.
+     ```markdown
+     - [Intro](https://github.com/01-intro.md)
+     ```
 
-3. **Submitting your contribution**
+     - Replace `Intro` with the title of your new section. Be sure to capitalize the title.
+     - Replace `/01-intro.md` with the relative path to the Markdown file of your new section.
+
+3. **Ensure the section's numbers are in order**
+
+   - Change the section numbers in the relative paths following your new section.
+   - Rename other files by changing the section number.
+
+4. **Submitting your contribution**
 
    Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
-4. **Review and feedback**
+5. **Review and feedback**
 
    Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
