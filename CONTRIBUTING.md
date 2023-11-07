@@ -17,7 +17,9 @@ If you are contributing to the project for the first time, please consider check
 
 In case you get stuck, please feel free to ask for help in the [Discord](https://discord.com/invite/U2peSNf23P) server or GitHub Discussions.
 
-## Setup the Project Locally
+## Getting Started
+
+### Setup the Project Locally
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) you are working on to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
@@ -72,11 +74,11 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 5. **Make and Test Changes**: With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
 6. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
-## Adding a New Section to the Documentation
+## Adding a New Section and Adding it to the Sidebar
 
 Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
 
-### A Step-by-Step Guide to adding a new section
+### Adding a New Section
 
 Follow these steps to add a new section to our documentation:
 
@@ -121,7 +123,7 @@ Follow these steps to add a new section to our documentation:
 
 The sidebar in our project's documentation serves as a navigation menu, allowing users to easily access different sections. When you add a new section to the documentation, it's important to update the sidebar to include a link to the new section. This ensures that users can navigate to your content seamlessly.
 
-#### Steps
+Follow these steps to add new sections to the sidebar:
 
 1. Navigate to `_layouts/sidebar.js`
 2. Add New Section link:
@@ -137,7 +139,7 @@ The sidebar in our project's documentation serves as a navigation menu, allowing
 4. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
 5. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
-## Using Markdown for Documentation
+## Using Markdown for Intro to Open Source Course
 
 Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the Intro Course, it's important to use Markdown to structure and format your content effectively.
 
