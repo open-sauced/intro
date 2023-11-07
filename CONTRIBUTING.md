@@ -21,20 +21,20 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
 
 ### Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) you are working on to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/intro.git
+   git clone https://github.com/<your-username>/intro.git
    ```
 
-3. cd into the repository and open the project in your code editor.
+3. Navigate and open the project in your code editor.
 
    ```bash
    cd intro
    ```
 
-4. Run the course locally. See [Running the Project Locally](#running-the-project-locally) for more information.
+4. Run the project.
 
 ### Running the Project Locally
 
