@@ -143,7 +143,7 @@ Follow these steps to add a new chapter to our course:
 
    Consider where the new chapter you'll work on logically falls in the course.
 
-   If you're not sure, please comment on the issue and tag a maintainer, asking for help. And if the content you're adding isn't a chapter, you can omit the number.
+   If you're not sure, please comment on the issue and tag maintainers `@open-sauced/community` to ask for help.
 
 3. **Write content**
 
