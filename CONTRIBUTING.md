@@ -283,14 +283,13 @@ Check out more on markdown [here](https://www.markdownguide.org/basic-syntax/).
 
 ## Adding Translations to Documentation
 
-Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps
-Steps to Add Translations
+Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps to add translations:
 
-1. Identify target languages:
+1. **Identify target languages**
 
    Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
 
-2. Create translation files:
+2. **Create translation files**
 
    Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
@@ -301,28 +300,28 @@ Steps to Add Translations
    - es/ (Spanish)
    ```
 
-3. Translate content:
+3. **Translate content**
 
    - For each language directory, create translated versions of the documentation files. Typically, you will translate Markdown files, but consider other formats as needed.
-   - Maintain the same file structure and filenames as in the original documentation, but with translated content.
+   - Maintain the same file structure and file names as in the original documentation, but with translated content.
 
-4. Update links:
+4. **Update links**
 
    In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
 
-5. Add language selector:
+5. **Add language selector**
 
    Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
 
-6. Testing and validation:
+6. **Testing and validation**
 
    Test the translated documentation to ensure accuracy and readability. Make sure that all links work correctly and that the content is culturally appropriate.
 
-7. Submit contributions:
+7. **Submit contributions**
 
    If you haven't already, submit your translations as a pull request. Ensure that you provide clear information about the languages you've translated and any specific details related to your contributions.
 
-8. Collaborate and review:
+8. **Collaborate and review**
 
    Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
 
