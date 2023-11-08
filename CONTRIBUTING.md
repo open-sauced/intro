@@ -86,17 +86,17 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 3. **Install the Live Server extension**
 
-   In VS Code, click "View" on the top navbar, then click the "Extensions" (you can press `Ctrl + Shift + X`), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+   In VS Code, click "View" on the top bar, then click "Extensions" (you can also press `Ctrl + Shift + X` for the shortcut), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 4. **Launch the Live Server**
 
-   After installing the extension, you should see a `Go Live` button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
+   After installing the extension, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
 
    It will open the project in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
 
 5. **Make and Test Changes**
 
-   With the Live Server running, you can make changes to the using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
+   With the Live Server running, you can make changes to the files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
 
 6. **Stop the Live Server**
 
