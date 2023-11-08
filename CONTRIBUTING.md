@@ -147,11 +147,15 @@ Follow these steps to add a new section to our course:
 
    > NOTE: If you add definitions to the [Glossary](10-glossary.md) section, ensure definitions are added in alphabetical order.
 
-5. **Testing your changes**
+5. **Ensure the section's numbers are in order**
+
+   The section's numbers have to be in order to make the course flow. You need to rename other files by changing the section number accordingly.
+
+6. **Testing your changes**
 
    Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
 
-6. **Updating the sidebar**
+7. **Updating the sidebar**
 
    After you finish adding a new section, you must add it to the sidebar for the users to discover the content.
 
@@ -179,7 +183,6 @@ Follow these steps to add new sections to the sidebar:
 3. **Ensure the section's numbers are in order**
 
    - Change the section numbers in the relative paths following your new section.
-   - Rename other files by changing the section number.
 
 4. **Submitting your contribution**
 
