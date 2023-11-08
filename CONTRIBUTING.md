@@ -11,7 +11,7 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 ## Issues
 
-If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
+If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
 When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
@@ -28,7 +28,7 @@ If you get stuck, you can ask for help in the [Discord](https://discord.com/invi
    git clone https://github.com/<your-username>/intro.git
    ```
 
-3. Navigate and open the project in your code editor.
+3. Navigate to and open the project in your code editor.
 
    ```bash
    cd intro
@@ -101,6 +101,12 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 6. **Stop the Live Server**
 
    When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar at the bottom-right corner.
+
+## Adding a New Section to a Chapter
+
+If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2).
+
+Otherwise, you can add a new chapter.
 
 ## Adding a New Chapter and Adding it to the Sidebar
 
