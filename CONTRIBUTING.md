@@ -102,13 +102,13 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
    When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar at the bottom-right corner.
 
-## Adding a New Section and Adding it to the Sidebar
+## Adding a New Chapter and Adding it to the Sidebar
 
-In this guide, we will walk you through how to add a new section to our Intro to Open Source course and add it to the sidebar.
+In this guide, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
 
-### Adding a New Section
+### Adding a New Chapter
 
-Follow these steps to add a new section to our course:
+Follow these steps to add a new chapter to our course:
 
 1. **Locate the documentation folder**
 
@@ -116,77 +116,77 @@ Follow these steps to add a new section to our course:
 
 2. **Create a new Markdown file**
 
-   If your new section is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
+   If your new chapter is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
 
-   Name the file in a way that reflects the content of the section. For example, `new-section.md`.
+   Name the file in a way that reflects the content of the chapter. For example, `new-chapter.md`.
 
    > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized, and in place of spaces between words, there are hyphens.
 
-3. **Determine the section's number**
+3. **Determine the chapter's number**
 
-   We have specific conventions for numbering sections to maintain a consistent structure.
+   We have specific conventions for numbering chapters to maintain a consistent structure.
 
    In this particular project, numbers represent chapters. For example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
 
-   Consider where the new section you'll work on logically falls in the course.
+   Consider where the new chapter you'll work on logically falls in the course.
 
-   If you're not sure, please comment on the issue and tag a maintainer, asking for help. And if the section you're adding isn't a chapter, you can omit the number.
+   If you're not sure, please comment on the issue and tag a maintainer, asking for help. And if the content you're adding isn't a chapter, you can omit the number.
 
 4. **Write content**
 
    - Open the newly created Markdown file in a text editor or Markdown editor.
-   - Add the content for your section using Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
+   - Write the content for your chapter using Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
 
-   > NOTE: If you add definitions to the [Glossary](10-glossary.md) section, ensure definitions are added in alphabetical order.
+   > NOTE: If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in alphabetical order.
 
-5. **Ensure the section's numbers are in order**
+5. **Ensure the chapter's numbers are in order**
 
-   The section's numbers have to be in order to make the course flow. You need to rename other files by changing the section number accordingly.
+   The chapter's numbers have to be in order to make the course flow. You need to rename other files by changing the chapter number accordingly.
 
 6. **Testing your changes**
 
-   Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+   Before finalizing your new chapter, it's advisable to test your changes locally. You can build or render the documentation to ensure your new chapter appears as expected within the documentation structure.
 
 7. **Updating the sidebar**
 
-   After you finish adding a new section, you must add it to the sidebar for the users to discover the content.
+   After you finish adding a new chapter, you must add it to the sidebar for the users to discover the content.
 
-### Adding New Sections to the Sidebar
+### Adding New Chapters to the Sidebar
 
-The sidebar in our course serves as a navigation menu, allowing users to access different sections efficiently.
+The sidebar in our course serves as a navigation menu, allowing users to access different chapters efficiently.
 
-When you add a new section to the course, it's important to update the sidebar by including the link to the new section so users can navigate to the content seamlessly.
+When you add a new chapter to the course, it's important to update the sidebar by including the link to the new chapter so users can navigate to the content seamlessly.
 
-Follow these steps to add new sections to the sidebar:
+Follow these steps to add new chapters to the sidebar:
 
 1. Navigate to `_layouts/sidebar.js`.
-2. **Add the new section link**
+2. **Add the new chapter link**
 
-   - Insert a new line in the list based on your section's number. If your section number is `07`, insert this new line right after `06`.
-   - Use the below format to add the link to the new section:
+   - Insert a new line in the list based on your chapter's number. If your chapter number is `07`, insert this new line right after `06`.
+   - Use the below format to add the link to the new chapter:
 
      ```markdown
      - [Intro](https://github.com/01-intro.md)
      ```
 
-     - Replace `Intro` with the title of your new section. Be sure to capitalize the title.
-     - Replace `/01-intro.md` with the relative path to the Markdown file of your new section.
+     - Replace `Intro` with the title of your new chapter. Be sure to capitalize the title.
+     - Replace `/01-intro.md` with the relative path to the Markdown file of your new chapter.
 
-3. **Ensure the section's numbers are in order**
+3. **Ensure the chapter's numbers are in order**
 
-   As the section's numbers should be in order, you need to change the section numbers in the relative paths following your new section.
+   As the chapter's numbers should be in order, you need to change the chapter numbers in the relative paths following your new chapter.
 
 4. **Submitting your contribution**
 
-   Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
+   Once you have created the new chapter and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
 5. **Review and feedback**
 
    Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
-After your contribution is accepted, your new section will become part of our course, enhancing its content for users and contributors.
+After your contribution is accepted, your new chapter will become part of our course, enhancing its content for users and contributors.
 
 ## Using Markdown for Intro to Open Source Course
 
