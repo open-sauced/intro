@@ -176,7 +176,7 @@ Follow these steps to add new sections to the sidebar:
 
 3. **Ensure the section's numbers are in order**
 
-   - Change the section numbers in the relative paths following your new section.
+   As the section's numbers should be in order, you need to change the section numbers in the relative paths following your new section.
 
 4. **Submitting your contribution**
 
