@@ -106,21 +106,19 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 The content in this course is written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
 
-## Adding a New Section to a Chapter
-
-If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2). Otherwise, you can [add a brand new chapter](#adding-a-new-chapter-and-adding-it-to-the-sidebar).
-
-See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
-
 ### Adding Definitions to the Glossary
 
 If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in **alphabetical order**.
 
-## Adding a New Chapter and Adding it to the Sidebar
+### Adding a New Section to a Chapter
+
+If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2). Otherwise, you can [add a brand new chapter](#adding-a-new-chapter-and-adding-it-to-the-sidebar).
+
+### Adding a New Chapter and Adding it to the Sidebar
 
 In this guide, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
 
-### Adding a New Chapter
+#### Adding a New Chapter
 
 Follow these steps to add a new chapter to our course:
 
@@ -142,10 +140,9 @@ Follow these steps to add a new chapter to our course:
 
 3. **Write content**
 
-   - Open the newly created Markdown file in a text editor or Markdown editor.
-   - Write the content for your chapter using Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
-
-   See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
+   Open the newly created Markdown file in a text editor or Markdown editor and write the content for your chapter using Markdown syntax.
+   
+   You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
 4. **Ensure the chapter's numbers are in order**
 
@@ -159,7 +156,7 @@ Follow these steps to add a new chapter to our course:
 
    After you finish adding a new chapter, you must add it to the sidebar for the users to discover the content.
 
-### Adding New Chapters to the Sidebar
+#### Adding New Chapters to the Sidebar
 
 The sidebar in our course serves as a navigation menu, allowing users to access different chapters efficiently.
 
