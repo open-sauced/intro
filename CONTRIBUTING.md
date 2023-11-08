@@ -110,19 +110,13 @@ In this guide, we will walk you through how to add a new chapter to our Intro to
 
 Follow these steps to add a new chapter to our course:
 
-1. **Locate the documentation folder**
+1. **Create a new Markdown file**
 
-   Navigate to the folder in this repository where the documentation is stored in the [open-sauced / intro](https://github.com/open-sauced/intro). Typically, this folder is named "docs" i.e. [open-sauced / docs](https://github.com/open-sauced/docs)
+   Create a new Markdown (`.md`) file in the root and name the file to reflect the chapter's content. For example, `intro.md` for introduction.
 
-2. **Create a new Markdown file**
+   > NOTE: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-   If your new chapter is a standalone document, create a new Markdown (`.md`) file within the documentation folder.
-
-   Name the file in a way that reflects the content of the chapter. For example, `new-chapter.md`.
-
-   > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized, and in place of spaces between words, there are hyphens.
-
-3. **Determine the chapter's number**
+2. **Determine the chapter's number**
 
    We have specific conventions for numbering chapters to maintain a consistent structure.
 
@@ -132,7 +126,7 @@ Follow these steps to add a new chapter to our course:
 
    If you're not sure, please comment on the issue and tag a maintainer, asking for help. And if the content you're adding isn't a chapter, you can omit the number.
 
-4. **Write content**
+3. **Write content**
 
    - Open the newly created Markdown file in a text editor or Markdown editor.
    - Write the content for your chapter using Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
@@ -141,15 +135,15 @@ Follow these steps to add a new chapter to our course:
 
    > NOTE: If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in alphabetical order.
 
-5. **Ensure the chapter's numbers are in order**
+4. **Ensure the chapter's numbers are in order**
 
    The chapter's numbers have to be in order to make the course flow. You need to rename other files by changing the chapter number accordingly.
 
-6. **Testing your changes**
+5. **Testing your changes**
 
    Before finalizing your new chapter, it's advisable to test your changes locally. You can build or render the documentation to ensure your new chapter appears as expected within the documentation structure.
 
-7. **Updating the sidebar**
+6. **Updating the sidebar**
 
    After you finish adding a new chapter, you must add it to the sidebar for the users to discover the content.
 
