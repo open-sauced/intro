@@ -104,7 +104,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 ## Adding a New Section and Adding it to the Sidebar
 
-In this guide, we will walk you through how to add a new section to our Intro to Open Source course. We have specific conventions for numbering sections to maintain a consistent structure.
+In this guide, we will walk you through how to add a new section to our Intro to Open Source course and add it to the sidebar.
 
 ### Adding a New Section
 
@@ -122,13 +122,15 @@ Follow these steps to add a new section to our course:
 
    > NOTE: Be sure to follow naming conventions. Notice that files are not capitalized, and in place of spaces between words, there are hyphens.
 
-3. **Choose a section number**
+3. **Determine the section's number**
 
-   Determine the section number based on our project's conventions. This number may represent the order of the section or follow a specific numbering scheme. For example, `01-contributing-guide`, `02-types-of-contribution`, `03-method-of-contribution`, etc.
+   We have specific conventions for numbering sections to maintain a consistent structure.
 
-   In this particular project, numbers represent chapters. Consider where the new section would logically fall in the course.
+   In this particular project, numbers represent chapters. For example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
 
-   If you're not sure, please comment on the issue and tag a maintainer, asking for help. If the section you're adding isn't a chapter, you can omit the number.
+   Consider where the new section you'll work on logically falls in the course.
+
+   If you're not sure, please comment on the issue and tag a maintainer, asking for help. And if the section you're adding isn't a chapter, you can omit the number.
 
 4. **Write content**
 
