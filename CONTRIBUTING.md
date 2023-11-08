@@ -11,11 +11,13 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 ## Issues
 
+You can create an issue if you have an idea to add a section or a chapter to this course. But maintainers need to triage the issue before you can work on it. So please tag `@open-sauced/community` in the comment after you raise the issue.
+
 If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
 When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
-If you get stuck, you can ask for help in the [Discord](https://discord.com/invite/U2peSNf23P) server or GitHub Discussions.
+If you get stuck, you can always ask for help in the [Discord](https://discord.com/invite/U2peSNf23P) or GitHub Discussions.
 
 ## Getting Started
 
