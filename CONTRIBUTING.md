@@ -42,7 +42,10 @@ If you get stuck, you can always ask for help in the [Discord](https://discord.c
 
 It's essential to run the project locally to see your changes in real-time and test them thoroughly when you contribute to this project.
 
-We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
+We recommend two methods for running the project on your local machine:
+
+1. Using the Docsify CLI
+2. Leveraging Visual Studio Code's Go Live feature.
 
 #### Method 1: Using the Docsify CLI
 
