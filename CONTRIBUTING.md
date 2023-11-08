@@ -165,28 +165,26 @@ Follow these steps to add a new chapter to our course:
 
 #### Adding New Chapters to the Sidebar
 
-The sidebar in our course serves as a navigation menu, allowing users to access different chapters efficiently.
-
-When you add a new chapter to the course, it's important to update the sidebar by including the link to the new chapter so users can navigate to the content seamlessly.
+The sidebar in our course serves as a navigation menu. So, when you add a new chapter to the course, it's important to update the sidebar by including the link to the chapter. That way, users can navigate to the content seamlessly.
 
 Follow these steps to add new chapters to the sidebar:
 
 1. Navigate to `_layouts/sidebar.js`.
 2. **Add the new chapter link**
 
-   - Insert a new line in the list based on your chapter's number. If your chapter number is `07`, insert this new line right after `06`.
+   - Insert a new line in the list based on your chapter's number. For example, if your chapter number is `07`, insert this new line right after `06`.
    - Use the below format to add the link to the new chapter:
 
      ```markdown
      - [Intro](https://github.com/01-intro.md)
      ```
 
-     - Replace `Intro` with the title of your new chapter. Be sure to capitalize the title.
+     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
      - Replace `/01-intro.md` with the relative path to the Markdown file of your new chapter.
 
 3. **Ensure the chapter's numbers are in order**
 
-   As the chapter's numbers should be in order, you need to change the chapter numbers in the relative paths following your new chapter.
+   The chapter's numbers should be in order. So, you must change the chapter numbers in the relative paths that follow the new chapter.
 
 4. **Submitting your contribution**
 
