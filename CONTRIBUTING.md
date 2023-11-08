@@ -108,6 +108,10 @@ If your content falls under the category of one of the course chapters, please a
 
 Otherwise, you can add a new chapter.
 
+### Adding Definitions to the Glossary
+
+If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in **alphabetical order**.
+
 ## Adding a New Chapter and Adding it to the Sidebar
 
 In this guide, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
@@ -138,8 +142,6 @@ Follow these steps to add a new chapter to our course:
    - Write the content for your chapter using Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
-
-   > NOTE: If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in alphabetical order.
 
 4. **Ensure the chapter's numbers are in order**
 
