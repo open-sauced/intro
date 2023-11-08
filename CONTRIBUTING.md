@@ -134,29 +134,18 @@ Follow these steps to add a new section to our course:
 
 4. **Write content**
 
-   Open the newly created Markdown file in a text editor or Markdown editor.
+   - Open the newly created Markdown file in a text editor or Markdown editor.
+   - Add a heading 1 for the title of your section. Use the # symbol to add the title. For example:
 
-   Begin by adding a heading to your section. Use the `#` symbol to create a heading. For example:
+     ```markdown
+     # Your New Section Title
+     ```
 
-   ```markdown
-   # Section 3: Your New Section Title
-   ```
+   - Add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
 
-   Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
+   See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
 
-   To include a link, use this syntax:
-
-   ```markdown
-   [text](url)
-   ```
-
-   For example:
-
-   ```markdown
-   Click [here](https://github.com)
-   ```
-
-   > NOTE: If adding definitions to the `10-glossary.md` section, ensure definitions are added in alphabetical order.
+   > NOTE: If you add definitions to the [Glossary](10-glossary.md) section, ensure definitions are added in alphabetical order.
 
 5. **Testing your changes**
 
