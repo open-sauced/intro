@@ -104,9 +104,9 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 ## Adding a New Section to a Chapter
 
-If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2).
+If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2). Otherwise, you can [add a brand new chapter](#adding-a-new-chapter-and-adding-it-to-the-sidebar).
 
-Otherwise, you can add a new chapter.
+See the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
 
 ### Adding Definitions to the Glossary
 
