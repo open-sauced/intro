@@ -137,9 +137,9 @@ Follow these steps to add a new chapter to our course:
 
 2. **Determine the chapter's number**
 
-   We have specific conventions for numbering chapters to maintain a consistent structure.
+   We have specific conventions for numbering file names to maintain a consistent structure.
 
-   In this particular project, numbers represent chapters. For example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
+   In this project, the numbers in the file name represent chapters—for example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
 
    Consider where the new chapter you'll work on logically falls in the course.
 
