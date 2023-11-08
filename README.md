@@ -39,7 +39,7 @@ This is the beginning of your open source journey, so we've provided some additi
 
 ## Getting Started
 
-To get started with the course, simply navigate to the [`intro`](01-intro.md) file in the repository and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To get started with the course, simply navigate to the [`intro`](01-intro.md) file in the repository or visit the website [opensauced](https://intro.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to a real open source project or building your own project from scratch!
 
@@ -58,6 +58,7 @@ Happy learning and contributing!
 ## 🤝 Contributing to this Repository
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing guide](./CONTRIBUTING.md) for guidelines about how to proceed with your contribution.
+
 - **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
