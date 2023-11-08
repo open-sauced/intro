@@ -104,7 +104,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 ## Working with the Content
 
-The content in this course is written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
+The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
 
 ### Adding Definitions to the Glossary
 
@@ -141,7 +141,7 @@ Follow these steps to add a new chapter to our course:
 3. **Write content**
 
    Open the newly created Markdown file in a text editor or Markdown editor and write the content for your chapter using Markdown syntax.
-   
+
    You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
 4. **Ensure the chapter's numbers are in order**
