@@ -157,7 +157,7 @@ Follow these steps to add a new chapter to our course:
 
 5. **Testing your changes**
 
-   Before finalizing your new chapter, it's advisable to test your changes locally. You can build or render the documentation to ensure your new chapter appears as expected within the documentation structure.
+   Before finalizing your new chapter, it's advisable to test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
 6. **Updating the sidebar**
 
