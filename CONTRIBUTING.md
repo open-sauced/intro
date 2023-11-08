@@ -114,7 +114,9 @@ If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definit
 
 ### Adding a New Section to a Chapter
 
-If your content falls under the category of one of the course chapters, please add it to the chapter by creating a subheading (heading 2). Otherwise, you can [add a brand new chapter](#adding-a-new-chapter-and-adding-it-to-the-sidebar).
+If your content can fall under the category of one of the course chapters, please add it as a new section to the chapter. Create a subheading (heading 2) and write your content.
+
+You can add a new chapter if it's more suitable for a standalone section.
 
 ### Adding a New Chapter and Adding it to the Sidebar
 
