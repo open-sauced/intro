@@ -40,12 +40,12 @@ If you get stuck, you can always ask for help in the [Discord](https://discord.c
 
 ### Running the Project Locally
 
-It's essential to run the project locally to see your changes in real-time and test them thoroughly when you contribute to this project.
+It's essential to run the project locally to see your changes in real time and test them thoroughly when you're contributing.
 
-We recommend two methods for running the project on your local machine:
+We recommend one of these two methods for running the project on your local machine:
 
 1. Using the [Docsify CLI](https://docsify.js.org/#/).
-2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension by Ritwick Dey.
+2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
 #### Method 1: Using the Docsify CLI
 
@@ -67,37 +67,40 @@ We recommend two methods for running the project on your local machine:
    docsify serve
    ```
 
-   This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`.
+   This command will start a local development server, and you can access the project in your web browser at `http://localhost:3000`.
 
 4. **Make and test changes**
 
-   With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+   With the local server running, you can make changes to the files and immediately see the results in your browser. Test your changes thoroughly.
 
 5. **Stop the server**
 
    When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
-#### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
+#### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
 
-Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real-time in your browser.
+Live Server extension allows you to launch a local development server and preview your changes in real-time in your browser.
 
 1. **Install Visual Studio Code**
 
-   If you haven't, you can download [Visual Studio Code](https://code.visualstudio.com/) and install it.
+   Download [Visual Studio Code](https://code.visualstudio.com/) and install it if you haven't.
 
 2. **Open the project in VS Code**
 
-   Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
+   Launch VS Code, open the project folder by selecting "File" > "Open Folder", and choose the project directory.
 
 3. **Install the Live Server extension**
 
-   In VS Code, click "View" on the top bar, then click "Extensions" (you can also press `Ctrl + Shift + X` for the shortcut), and search for "Live Server". Install the [Live Server extension by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+   - Click "View" on the top bar of the VS Code.
+   - Click "Extensions".
+
+   Alternatively, press the shortcut `Ctrl + Shift + X` to open the "Extension" menu.
+
+   - Search for "Live Server" by Ritwick Dey and install it.
 
 4. **Launch the Live Server**
 
-   After installing the extension, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the Live Server.
-
-   It will open the project in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
+   Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open the project in a new tab on your browser at a local address.
 
 5. **Make and Test Changes**
 
@@ -105,7 +108,7 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 6. **Stop the Live Server**
 
-   When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar at the bottom-right corner.
+   When you're done testing or making changes, you can stop the Live Server by clicking the "Port: 5500" button in the VS Code status bar at the bottom-right corner.
 
 ## Working with the Content
 
