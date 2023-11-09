@@ -295,7 +295,7 @@ Adding translations to our project's documentation helps make it more accessible
 
 2. **Create translation files**
 
-   Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
+   Inside the "translations" folder, create a new subfolder for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
    ```markdown
    .
