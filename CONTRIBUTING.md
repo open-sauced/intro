@@ -150,6 +150,8 @@ Follow these steps to add a new chapter to our course:
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
+   > **Note**: There should be only **one** `heading 1` in each file.
+
 4. **Ensure there are no duplicate chapter numbers, and they should be in order**.
 
    There should only be one number for each chapter (no duplication), and the numbers must be in order to make the course flow. You need to rename other files that follow your new file by changing the chapter number accordingly.
