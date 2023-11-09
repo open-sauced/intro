@@ -219,8 +219,8 @@ Use `#` to create headings. The number of symbols indicates the heading level (e
 
 #### 2. Text Formatting
 
-- Make text bold by enclosing it with double asterisks (\*\*) or double underscores (\_\_).
-- Make text italic by enclosing it with single asterisks (\*) or single underscores (\_).
+- Make text bold by enclosing it with double asterisks (\*\*).
+- Make text italic by enclosing it with single underscores (\_).
 - Create inline code by wrapping text with backticks (``).
 
 #### 3. Lists:
