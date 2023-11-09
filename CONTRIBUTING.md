@@ -231,7 +231,7 @@ _This is an italic text._
 This is an `inline code`.
 ```
 
-#### 3. Lists:
+#### 3. Lists
 
 - Create ordered lists using numbers followed by a period (`1.`, `2.`, etc.).
 - Create unordered lists using hyphens (`-`).
@@ -244,7 +244,7 @@ This is an `inline code`.
 - Unordered Item 2
 ```
 
-#### 4. Links:
+#### 4. Links
 
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
@@ -268,13 +268,13 @@ Create blockquotes using the greater-than symbol (`>`).
 > This is a blockquote.
 ```
 
-#### 7. Code Blocks:
+#### 7. Code Blocks
 
-Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
+Create code blocks by using triple backticks (` ``` `) for fenced code blocks and specify a language next to the backticks before the fenced code block to highlight the syntax.
 
 ````
-```javascript
-const code = "Hello, World!";
+```bash
+git pull
 ```
 ````
 
