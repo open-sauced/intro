@@ -197,13 +197,15 @@ Follow these steps to add new chapters to the sidebar:
 
 After your contribution is accepted, your new chapter will become part of our course, enhancing its content for users and contributors.
 
-## Using Markdown for Intro to Open Source Course
+## Using Markdown for This Project
 
-Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the Intro Course, it's important to use Markdown to structure and format your content effectively.
+Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
+
+We have our [style guide](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) as the convention to use Markdown for this project that you need to follow.
 
 ### Markdown Basics
 
-Markdown provides a set of simple and intuitive syntax elements for formatting text. Here are some common Markdown elements you can use:
+Below are some Markdown elements that you will commonly use in this project:
 
 #### 1. Headings
 
@@ -214,8 +216,6 @@ Use `#` to create headings. The number of symbols indicates the heading level (e
 
 ## Heading 2
 ```
-
-Check out the style guide for creating entries [here](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md).
 
 #### 2. Text Formatting
 
