@@ -75,7 +75,7 @@ We recommend one of these two methods for running the project on your local mach
 
 5. **Stop the server**
 
-   After making and testing the changes, you can stop the local server by pressing Ctrl + C in the terminal. you can stop the local server by pressing `Ctrl + C` in the terminal.
+   After making and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
 #### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
 
