@@ -249,7 +249,7 @@ This is an `inline code`.
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
-[OpenSauced](https://opensauced.pizza/)
+[Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
 ```
 
 #### 5. Images
