@@ -15,7 +15,7 @@ When you contribute to the project for the first time, please consider checking 
 
 If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
-Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag our `@open-sauced/community` in the comment to notify them.
+Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag our `@open-sauced/community` maintainers in the comment to notify them.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or GitHub Discussions if you get stuck while working on your changes or need clarification.
 
@@ -49,11 +49,11 @@ We recommend one of these two methods for running the project on your local mach
 
 #### Method 1: Using the Docsify CLI
 
-1. **Install Node.js**
+1. **Install Node.js**.
 
    You can download it from the official [Node.js website](https://nodejs.org/).
 
-2. **Install Docsify globally**
+2. **Install Docsify globally**.
 
    It's highly recommended to install Docsify globally. In your terminal, run the following command:
 
@@ -61,7 +61,7 @@ We recommend one of these two methods for running the project on your local mach
    npm install -g docsify-cli
    ```
 
-3. **Run the project**
+3. **Run the project**.
 
    ```bash
    docsify serve
@@ -69,11 +69,11 @@ We recommend one of these two methods for running the project on your local mach
 
    This command will start a local development server, and you can access the project in your web browser at `http://localhost:3000`.
 
-4. **Make and test changes**
+4. **Make and test changes**.
 
    With the local server running, you can make changes to the files and immediately see the results in your browser. Test your changes thoroughly.
 
-5. **Stop the server**
+5. **Stop the server**.
 
    After making and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
@@ -81,15 +81,15 @@ We recommend one of these two methods for running the project on your local mach
 
 Live Server extension allows you to launch a local development server and preview your changes in real time in your browser.
 
-1. **Install Visual Studio Code**
+1. **Install Visual Studio Code**.
 
    Download [Visual Studio Code](https://code.visualstudio.com/) and install it if you haven't.
 
-2. **Open the project in VS Code**
+2. **Open the project in VS Code**.
 
    Launch VS Code, open the project folder by selecting "File" > "Open Folder", and choose the project directory.
 
-3. **Install the Live Server extension**
+3. **Install the Live Server extension**.
 
    - Click "View" on the top bar of the VS Code.
    - Click "Extensions".
@@ -98,15 +98,15 @@ Live Server extension allows you to launch a local development server and previe
 
    - Search for "Live Server" by Ritwick Dey and install it.
 
-4. **Launch the Live Server**
+4. **Launch the Live Server**.
 
    Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open the project in a new tab on your browser at a local address.
 
-5. **Make and Test Changes**
+5. **Make and Test Changes**.
 
    With the Live Server running, you can make changes to the files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
 
-6. **Stop the Live Server**
+6. **Stop the Live Server**.
 
    When you're done testing or making changes, you can stop the Live Server by clicking the "Port: 5500" button in the VS Code status bar at the bottom-right corner.
 
@@ -120,7 +120,7 @@ If you add definitions to the [Glossary](10-glossary.md) chapter, ensure the def
 
 ### Adding a New Section to a Chapter
 
-If your content can fall under the category of one of the course chapters, consider adding it as a new section to the chapter. Create a subheading (heading 2) and write your content.
+If your content can fall under the category of one of the course chapters, consider adding it as a new section to the chapter. Create a `heading 2` title and write your content.
 
 You can add a new chapter if it's more suitable for a standalone section.
 
@@ -132,13 +132,13 @@ In this guide, we will walk you through how to add a new chapter to our Intro to
 
 Follow these steps to add a new chapter to our course:
 
-1. **Create a new Markdown file**
+1. **Create a new Markdown file**.
 
    Create a new Markdown (`.md`) file in the root and name the file to reflect the chapter's content—for example, `how-to-contribute-to-open-source.md` for a chapter about how to contribute to open source.
 
    > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-2. **Determine the chapter's number**
+2. **Determine the chapter's number**.
 
    We have specific conventions for numbering file names to maintain a consistent structure. In this project, the numbers in the file name represent chapters—for example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
 
@@ -146,21 +146,19 @@ Follow these steps to add a new chapter to our course:
 
    If you're not sure, please comment on the issue and tag the `@open-sauced/community` maintainers to ask for help.
 
-3. **Write content**
+3. **Write content**.
 
-   Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax.
+   Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
-   You can include headings, text, images, links, lists, and other elements to present your information effectively.
+4. **Ensure there are no duplicate chapter numbers, and they should be in order**.
 
-4. **Ensure the chapter's numbers are in order**
+   There should only be one number for each chapter (no duplication), and the numbers must be in order to make the course flow. You need to rename other files that follow your new file by changing the chapter number accordingly.
 
-   The chapter's numbers have to be in order to make the course flow. You need to rename other files by changing the chapter number accordingly.
-
-5. **Testing your changes**
+5. **Testing your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-6. **Updating the sidebar**
+6. **Updating the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
@@ -171,7 +169,7 @@ The sidebar in our course serves as a navigation menu. So, when you add a new ch
 Follow these steps to add new chapters to the sidebar:
 
 1. Navigate to `_layouts/sidebar.js`.
-2. **Add the new chapter link**
+2. **Add the new chapter link**.
 
    - Insert a new line in the list based on your chapter's number. For example, if your chapter number is `07`, insert this new line right after `06`.
    - Use the below format to add the link to the new chapter:
@@ -183,15 +181,15 @@ Follow these steps to add new chapters to the sidebar:
      - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
      - Replace `/01-intro.md` with the relative path to the Markdown file of your new chapter.
 
-3. **Ensure the chapter's numbers are in order**
+3. **Ensure the chapter's numbers are in order**.
 
    The chapter's numbers should be in order. So, you must change the chapter numbers in the relative paths that follow the new chapter.
 
-4. **Submitting your contribution**
+4. **Submitting your contribution**.
 
    Once you have created the new chapter and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
-5. **Review and feedback**
+5. **Review and feedback**.
 
    Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
@@ -289,11 +287,11 @@ git pull
 
 Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps to add translations:
 
-1. **Identify target languages**
+1. **Identify target languages**.
 
    Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
 
-2. **Create translation files**
+2. **Create translation files**.
 
    Inside the "translations" folder, create a new subfolder for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
@@ -305,28 +303,28 @@ Adding translations to our project's documentation helps make it more accessible
       └── es/ (Spanish)
    ```
 
-3. **Translate content**
+3. **Translate content**.
 
    - For each language directory, create translated versions of the documentation files. Typically, you will translate Markdown files, but consider other formats as needed.
    - Maintain the same file structure and names as in the original documentation but with translated content.
 
-4. **Update links**
+4. **Update links**.
 
    In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
 
-5. **Add language selector**
+5. **Add language selector**.
 
    Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
 
-6. **Testing and validation**
+6. **Testing and validation**.
 
    Test the translated documentation to ensure accuracy and readability.  Ensure all links work correctly and the content is culturally appropriate.
 
-7. **Submit contributions**
+7. **Submit contributions**.
 
    If you haven't already, submit your translations as a pull request. Ensure you provide clear information about the languages you've translated and any specific details related to your contributions.
 
-8. **Collaborate and review**
+8. **Collaborate and review**.
 
    Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
 
