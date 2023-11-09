@@ -199,13 +199,13 @@ After your contribution is accepted, your new chapter will become part of our co
 
 ## Using Markdown for This Project
 
-Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
-
-We have our [style guide](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) as the convention to use Markdown for this project that you need to follow.
+We have a [style guide](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) to use Markdown for our projects. So, when contributing to this project, you must follow this convention.
 
 ### Markdown Basics
 
-Below are some Markdown elements that you will commonly use in this project with examples, following our convention:
+Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
+
+Below are some Markdown elements that you will commonly use in this project with examples, following our style guide:
 
 #### 1. Headings
 
