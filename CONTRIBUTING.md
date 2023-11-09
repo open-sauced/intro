@@ -298,10 +298,11 @@ Adding translations to our project's documentation helps make it more accessible
    Inside the documentation directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
    ```markdown
-   - docs/
-   - en/ (English)
-   - fr/ (French)
-   - es/ (Spanish)
+   .
+   └── translations/
+      ├── en/ (English)
+      ├── fr/ (French)
+      └── es/ (Spanish)
    ```
 
 3. **Translate content**
