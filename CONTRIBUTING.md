@@ -15,7 +15,7 @@ When you contribute to the project for the first time, please consider checking 
 
 If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
-Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag our `@open-sauced/community` in the issue's comment to notify them.
+Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag our `@open-sauced/community` in the comment to notify them.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or GitHub Discussions if you get stuck while working on your changes or need clarification.
 
@@ -40,7 +40,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
 ### Running the Project Locally
 
-It's essential to run the project locally to see your changes in real time and test them thoroughly when you're contributing.
+Running the project locally is essential to see your changes in real-time and test them thoroughly when you're contributing.
 
 We recommend one of these two methods for running the project on your local machine:
 
@@ -75,11 +75,11 @@ We recommend one of these two methods for running the project on your local mach
 
 5. **Stop the server**
 
-   When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
+   After making and testing the changes, you can stop the local server by pressing Ctrl + C in the terminal. you can stop the local server by pressing `Ctrl + C` in the terminal.
 
 #### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
 
-Live Server extension allows you to launch a local development server and preview your changes in real-time in your browser.
+Live Server extension allows you to launch a local development server and preview your changes in real time in your browser.
 
 1. **Install Visual Studio Code**
 
@@ -116,11 +116,11 @@ The contents of this course are written in [Markdown](https://www.markdownguide.
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the [Glossary](10-glossary.md) chapter, ensure definitions are added in **alphabetical order**.
+If you add definitions to the [Glossary](10-glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
 
 ### Adding a New Section to a Chapter
 
-If your content can fall under the category of one of the course chapters, please add it as a new section to the chapter. Create a subheading (heading 2) and write your content.
+If your content can fall under the category of one of the course chapters, consider adding it as a new section to the chapter. Create a subheading (heading 2) and write your content.
 
 You can add a new chapter if it's more suitable for a standalone section.
 
@@ -160,11 +160,11 @@ Follow these steps to add a new chapter to our course:
 
 5. **Testing your changes**
 
-   Before finalizing your new chapter, it's advisable to test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
+   Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
 6. **Updating the sidebar**
 
-   After you finish adding a new chapter, you must add it to the sidebar for the users to discover the content.
+   After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
 #### Adding New Chapters to the Sidebar
 
