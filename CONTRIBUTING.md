@@ -148,7 +148,7 @@ Follow these steps to add a new chapter to our course:
 
 3. **Write content**
 
-   Open the newly created Markdown file in a text editor or Markdown editor and write the content for your chapter using Markdown syntax.
+   Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax.
 
    You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
