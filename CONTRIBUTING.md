@@ -94,7 +94,7 @@ Live Server extension allows you to launch a local development server and previe
    - Click "View" on the top bar of the VS Code.
    - Click "Extensions".
 
-   Alternatively, press the shortcut `Ctrl + Shift + X` to open the "Extension" menu.
+   Alternatively, press the shortcut `Ctrl + Shift + X` to open the "Extensions" menu.
 
    - Search for "Live Server" by Ritwick Dey and install it.
 
@@ -102,7 +102,7 @@ Live Server extension allows you to launch a local development server and previe
 
    Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open the project in a new tab on your browser at a local address.
 
-5. **Make and Test Changes**.
+5. **Make and test changes**.
 
    With the Live Server running, you can make changes to the files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
 
@@ -126,7 +126,7 @@ You can add a new chapter if it's more suitable for a standalone section.
 
 ### Adding a New Chapter and Adding it to the Sidebar
 
-In this guide, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
+In this section, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
 
 #### Adding a New Chapter
 
