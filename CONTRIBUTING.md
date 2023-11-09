@@ -209,7 +209,7 @@ Below are some Markdown elements that you will commonly use in this project with
 
 #### 1. Headings
 
-Use the hash (`#`) symbol to create headings (titles and subtitles). The number of symbols indicates the heading level. There are six levels of section headings.
+Use the hash (`#`) symbol to create headings (titles and subtitles). There are six levels of section headings, and the number of symbols indicates the heading level.
 
 ```markdown
 # Heading 1
