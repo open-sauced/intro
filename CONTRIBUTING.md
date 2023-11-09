@@ -75,7 +75,7 @@ We recommend one of these two methods for running the project on your local mach
 
 5. **Stop the server**.
 
-   After making and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
+   After completing and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
 #### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
 
@@ -154,11 +154,11 @@ Follow these steps to add a new chapter to our course:
 
    There should only be one number for each chapter (no duplication), and the numbers must be in order to make the course flow. You need to rename other files that follow your new file by changing the chapter number accordingly.
 
-5. **Testing your changes**.
+5. **Test your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-6. **Updating the sidebar**.
+6. **Update the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
@@ -185,7 +185,7 @@ Follow these steps to add new chapters to the sidebar:
 
    The chapter's numbers should be in order. So, you must change the chapter numbers in the relative paths that follow the new chapter.
 
-4. **Submitting your contribution**.
+4. **Create a pull request**.
 
    Once you have created the new chapter and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
@@ -305,7 +305,7 @@ Adding translations to our project's documentation helps make it more accessible
 
 3. **Translate content**.
 
-   - For each language directory, create translated versions of the documentation files. Typically, you will translate Markdown files, but consider other formats as needed.
+   - For each language directory, create translated versions of the documentation files. Typically, you translate Markdown files but consider other formats as needed.
    - Maintain the same file structure and names as in the original documentation but with translated content.
 
 4. **Update links**.
