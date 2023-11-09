@@ -112,7 +112,7 @@ Live Server extension allows you to launch a local development server and previe
 
 ## Working with the Content
 
-The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for Intro to Open Source Course](#using-markdown-for-intro-to-open-source-course) section for details about how to use Markdown in this project.
+The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for This Project](#using-markdown-for-this-project) section for details about how to use Markdown in this project.
 
 ### Adding Definitions to the Glossary
 
