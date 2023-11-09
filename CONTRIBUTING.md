@@ -44,8 +44,8 @@ It's essential to run the project locally to see your changes in real-time and t
 
 We recommend two methods for running the project on your local machine:
 
-1. Using the Docsify CLI
-2. Leveraging Visual Studio Code's Go Live feature.
+1. Using the [Docsify CLI](https://docsify.js.org/#/).
+2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension by Ritwick Dey.
 
 #### Method 1: Using the Docsify CLI
 
