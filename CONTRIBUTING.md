@@ -282,6 +282,7 @@ git pull
 
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
 - Keep your Markdown content organized, and use headings to structure your sections.
+- There can only be one `heading 1` in each chapter. 
 - Use code blocks to highlight code snippets or configuration examples.
 - Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
