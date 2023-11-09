@@ -219,9 +219,9 @@ Use `#` to create headings. The number of symbols indicates the heading level (e
 
 #### 2. Text Formatting
 
-- Make text bold by enclosing it with double asterisks (\*\*).
-- Make text italic by enclosing it with single underscores (\_).
-- Create inline code by wrapping text with backticks (``).
+- Make text bold by enclosing it with double asterisks (`**`).
+- Make text italic by enclosing it with single underscores (`_`).
+- Create inline code by wrapping text with backticks (`` ` ``).
 
 ```markdown
 **This is a bold text.**
@@ -233,10 +233,8 @@ This is an `inline code`.
 
 #### 3. Lists:
 
-- Create ordered lists using numbers followed by a period (1., 2., etc.).
-- Create unordered lists using asterisks (\*), plus signs (+), or hyphens (-).
-
-For instance:
+- Create ordered lists using numbers followed by a period (`1.`, `2.`, etc.).
+- Create unordered lists using hyphens (`-`).
 
 ```markdown
 1.  Item 1
@@ -248,7 +246,7 @@ For instance:
 
 #### 4. Links:
 
-Create links using square brackets for the link text and parentheses for the URL.
+Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
 [Link Text](https://opensauced.pizza/)
@@ -256,7 +254,7 @@ Create links using square brackets for the link text and parentheses for the URL
 
 #### 5. Images
 
-Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL.
+Embed images using an exclamation mark (`!`), followed by square brackets (`[]`) for the alt text, and parentheses (`()`) for the image URL.
 
 ```markdown
 ![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
