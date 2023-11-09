@@ -205,7 +205,7 @@ We have our [style guide](https://github.com/open-sauced/pizza-verse/blob/main/s
 
 ### Markdown Basics
 
-Below are some Markdown elements that you will commonly use in this project:
+Below are some Markdown elements that you will commonly use in this project with examples, following our convention:
 
 #### 1. Headings
 
@@ -249,7 +249,7 @@ This is an `inline code`.
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
-[Link Text](https://opensauced.pizza/)
+[OpenSauced](https://opensauced.pizza/)
 ```
 
 #### 5. Images
@@ -257,7 +257,7 @@ Create links using square brackets (`[]`) for the link text and parentheses (`()
 Embed images using an exclamation mark (`!`), followed by square brackets (`[]`) for the alt text, and parentheses (`()`) for the image URL.
 
 ```markdown
-![Alt Text](https://github.com/open-sauced/intro/blob/main/opensauced-signup.png)
+![OpenSauced Highlights](https://github.com/open-sauced/intro/blob/main/images/opensauced-highlights.png)
 ```
 
 #### 6. Blockquotes
