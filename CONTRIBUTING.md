@@ -278,13 +278,12 @@ git pull
 ```
 ````
 
-### Markdown Tips:
+### Markdown Tips
 
-- Keep your Markdown content well organized, and use headings to structure your sections.
-- Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
-
-Check out more on markdown [here](https://www.markdownguide.org/basic-syntax/).
+- Keep your Markdown content organized, and use headings to structure your sections.
+- Use code blocks to highlight code snippets or configuration examples.
+- Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
 ## Adding Translations to Documentation
 
