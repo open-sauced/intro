@@ -296,7 +296,7 @@ Adding translations to our project's documentation helps make it more accessible
 
 2. **Create translation files**.
 
-   Inside the "translations" folder, create a new subfolder for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
+   Inside the "translations" directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
 
    ```markdown
    .
@@ -309,7 +309,7 @@ Adding translations to our project's documentation helps make it more accessible
 3. **Translate content**.
 
    - For each language directory, create translated versions of the documentation files. Typically, you translate Markdown files but consider other formats as needed.
-   - Maintain the same file structure and names as in the original documentation but with translated content.
+   - Maintain the same file names and structure as in the original documentation but with translated content.
 
 4. **Update links**.
 
