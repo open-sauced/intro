@@ -223,6 +223,14 @@ Use `#` to create headings. The number of symbols indicates the heading level (e
 - Make text italic by enclosing it with single underscores (\_).
 - Create inline code by wrapping text with backticks (``).
 
+```markdown
+**This is a bold text.**
+
+_This is an italic text._
+
+This is an `inline code`.
+```
+
 #### 3. Lists:
 
 - Create ordered lists using numbers followed by a period (1., 2., etc.).
