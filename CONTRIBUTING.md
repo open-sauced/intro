@@ -270,7 +270,7 @@ Create blockquotes using the greater-than symbol (`>`).
 
 #### 7. Code Blocks
 
-Create code blocks by using triple backticks (` ``` `) for fenced code blocks and specify a language next to the backticks before the fenced code block to highlight the syntax.
+Create code blocks using triple backticks (` ``` `) for fenced code blocks and specify a language next to the backticks before the fenced code block to highlight the syntax.
 
 ````
 ```bash
@@ -308,7 +308,7 @@ Adding translations to our project's documentation helps make it more accessible
 3. **Translate content**
 
    - For each language directory, create translated versions of the documentation files. Typically, you will translate Markdown files, but consider other formats as needed.
-   - Maintain the same file structure and file names as in the original documentation, but with translated content.
+   - Maintain the same file structure and names as in the original documentation but with translated content.
 
 4. **Update links**
 
@@ -320,11 +320,11 @@ Adding translations to our project's documentation helps make it more accessible
 
 6. **Testing and validation**
 
-   Test the translated documentation to ensure accuracy and readability. Make sure that all links work correctly and that the content is culturally appropriate.
+   Test the translated documentation to ensure accuracy and readability.  Ensure all links work correctly and the content is culturally appropriate.
 
 7. **Submit contributions**
 
-   If you haven't already, submit your translations as a pull request. Ensure that you provide clear information about the languages you've translated and any specific details related to your contributions.
+   If you haven't already, submit your translations as a pull request. Ensure you provide clear information about the languages you've translated and any specific details related to your contributions.
 
 8. **Collaborate and review**
 
@@ -334,5 +334,5 @@ Adding translations to our project's documentation helps make it more accessible
 
 - Maintain consistency in terminology and style throughout the translated documentation.
 - Work with another contributor who speaks the language you're translating to.
-- It helps to mention specific tools so that developers who want to translate documentation can see how it's done.
+- It helps to mention specific tools you use so developers who want to translate documentation can see how it's done.
 - Keep translations up to date with changes in the original documentation.
