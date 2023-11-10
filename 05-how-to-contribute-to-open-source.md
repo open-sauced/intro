@@ -144,7 +144,7 @@ Congratulations! You just made an open source contribution! In the next chapter,
 
 #### Prerequisites
 
-Ensure you have Git and the GitLens extension installed in VS Code. GitLens is a powerful Git extension that enhances Git-related features in VS Code.
+Ensure you have [VS Code](https://code.visualstudio.com/) installed on your computer and the latest version of [Git](https://git-scm.com/).
 
 #### Step-by-Step Guide
 
