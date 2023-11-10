@@ -140,7 +140,7 @@ Congratulations! You just made an open source contribution! In the next chapter,
 - Merge conflicts happen when two branches have made different changes to the same lines in a file. Git cannot automatically determine which change to keep, and this results in a conflict.
 - When a merge conflict occurs, Git adds special markers (<<<<<<<, =======, and >>>>>>) to the conflicted part of the file, indicating the conflicting sections from different branches.
 
-## Resolving Merge Conflicts in VS Code
+### Resolving Merge Conflicts in VS Code
 
 ### Prerequisites
 
