@@ -142,7 +142,7 @@ Congratulations! You just made an open source contribution! In the next chapter,
 
 ### Resolving Merge Conflicts in VS Code
 
-### Prerequisites
+#### Prerequisites
 
 Ensure you have Git and the GitLens extension installed in VS Code. GitLens is a powerful Git extension that enhances Git-related features in VS Code.
 
