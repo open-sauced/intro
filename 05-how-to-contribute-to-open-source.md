@@ -146,7 +146,7 @@ Congratulations! You just made an open source contribution! In the next chapter,
 
 Ensure you have Git and the GitLens extension installed in VS Code. GitLens is a powerful Git extension that enhances Git-related features in VS Code.
 
-### Step-by-Step Guide
+#### Step-by-Step Guide
 
 1. Open VS Code: Launch Visual Studio Code and open the repository where the merge conflict exists.
 2. Check for Conflicts: If you've just performed a pull or merge operation and a conflict occurs, VS Code will automatically detect it.
