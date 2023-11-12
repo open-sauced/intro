@@ -1,4 +1,4 @@
-# 🌐 i18n Guide
+# 🌐 i18n Guidelines
 
 At the moment, we have the course in the following languages:
 
