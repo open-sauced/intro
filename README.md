@@ -42,7 +42,7 @@ This chapter focuses on providing lesser-known strategies and tips for making a 
 
 This chapter explains the non-coding and coding types of contributions involved with open-source projects.
 
-## Additional Information
+### Additional Information
 
 As this is the beginning of your open source journey, we've provided some additional resources to help you get started:
 
@@ -59,7 +59,7 @@ As you work through the course, we encourage you to experiment with the tools an
 
 One of the unique features of this course is that it guides you to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
 
-To learn more about using OpenSauced to build your open source resume, be sure to check out the [Building Your Open Source Resume](/06-the-secret-sauce.md#building-your-open-source-resume) section in [The Secret Sauce](/06-the-secret-sauce.md) chapter.
+To learn more about using OpenSauced to build your open source resume, check out the [Building Your Open Source Resume](/06-the-secret-sauce.md#building-your-open-source-resume) section in [The Secret Sauce](/06-the-secret-sauce.md) chapter.
 
 ---
 
