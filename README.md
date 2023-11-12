@@ -16,7 +16,7 @@ Like pizza, open source is meant to be shared with everyone. Click on the links 
 
 ## Course Overview
 
-The course is divided into five chapters, each covering a different aspect of open source:
+The course is divided into six chapters, each covering a different aspect of open source:
 
 ### 1. What is Open Source?
 
@@ -40,11 +40,11 @@ This chapter focuses on providing lesser-known strategies and tips for making a 
 
 ### 6. Types of Contributions
 
-This chapter explains the non-coding and coding types of contributions involved with open-source projects.
+This chapter explains the non-coding and coding types of contributions involved with open source projects.
 
 ### Additional Information
 
-As this is the beginning of your open source journey, we've provided some additional resources to help you get started:
+As this is the beginning of your open source journey, we've also provided additional information in these chapters:
 
 - [Glossary](/10-glossary.md): A glossary of common terms and definitions used in open source.
 - [Additional Resources](/08-additional-resources.md): A list of resources for further learning about open source, including blog posts, tutorials, and guides.
