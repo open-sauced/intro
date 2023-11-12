@@ -73,6 +73,6 @@ Happy learning and contributing!
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
 
-- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
+If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
