@@ -34,8 +34,8 @@ The course is divided into five chapters, each covering a different aspect of op
 
 This is the beginning of your open source journey, so we've provided some additional resources to help you get started:
 
-- [Glossary](09-glossary.md): A glossary of common terms and definitions used in open source.
-- [Additional Resources](./08-additional-resources.md): A list of additional resources for further learning about open source, including blog posts, tutorials, and guides.
+- [Glossary](/10-glossary.md): A glossary of common terms and definitions used in open source.
+- [Additional Resources](/08-additional-resources.md): A list of additional resources for further learning about open source, including blog posts, tutorials, and guides.
 
 ## Getting Started
 
