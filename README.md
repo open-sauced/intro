@@ -63,7 +63,7 @@ To learn more about using OpenSauced to build your open source resume, be sure t
 
 ---
 
-We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the OpenSauced Discord community.
+We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the [OpenSauced community Discord](https://discord.com/invite/U2peSNf23P).
 
 Happy learning and contributing!
 
