@@ -18,17 +18,25 @@ Like pizza, open source is meant to be shared with everyone. Click on the links 
 
 The course is divided into five chapters, each covering a different aspect of open source:
 
-1. **What is open source?** This chapter provides an introduction to open source, its history, and its importance in today's software development landscape.
+### 1. What is Open Source?
 
-2. **Why open source?** In this chapter, you'll learn about the benefits of open source software, such as increased collaboration, faster development, and improved quality.
+This chapter provides an introduction to open source, its history, and its importance in today's software development landscape.
 
-3. **Tools to be successful.** Discover the key tools and platforms necessary for a successful journey in open source development. From Git and GitHub for version control and collaboration to CodeSee for code visualization and VS Code as your code editor, this chapter provides an overview of how to leverage these essential tools.
+### 2. Why Open Source?
 
-4. **How to contribute to open source.**
-   This chapter covers finding projects to work on, submitting contributions, onboarding in new projects, and the outcomes after submitting contributions. Tips for finding projects include browsing GitHub and GitLab, following personal interests, joining open source communities, and utilizing platforms like OpenSauced.
+In this chapter, you'll learn about the benefits of open source software, such as increased collaboration, faster development, and improved quality.
 
-5. **The secret sauce.**
-   This chapter focuses on providing lesser-known strategies and tips for making a lasting impact in the open source community. This chapter provides strategies for finding issues, gaining traction in your open source journey, and leveraging OpenSauced to build your open source resume.
+### 3. Tools to be Successful
+
+Discover the key tools and platforms necessary for a successful journey in open source development. From Git and GitHub for version control and collaboration to CodeSee for code visualization and VS Code as your code editor, this chapter provides an overview of how to leverage these essential tools.
+
+### 4. How to Contribute to Open Source
+
+This chapter covers finding projects to work on, submitting contributions, onboarding in new projects, and the outcomes after submitting contributions. Tips for finding projects include browsing GitHub and GitLab, following personal interests, joining open source communities, and utilizing platforms like OpenSauced.
+
+### 5. The Secret Sauce
+
+This chapter focuses on providing lesser-known strategies and tips for making a lasting impact in the open source community. This chapter provides strategies for finding issues, gaining traction in your open source journey, and leveraging OpenSauced to build your open source resume.
 
 ## Additional Information
 
