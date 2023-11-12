@@ -13,9 +13,9 @@ At the moment, we have the course in the following languages:
   - **Community Translations**: We can’t always support the maintenance of translations. However, we do know that there are contributors out there willing to translate. For that reason, we have our Community Translations section. If you’ve forked the repository and created a translation, you can add a link to your forked translation to `community-translations.md`. We encourage you to also add it to the discussion board in the event it becomes popular enough and has enough support to be moved to an official translation.
 - **Review PRs and translations.** New to reviewing GitHub PRs and translations? No worries, we have you covered in our [Reviewer Process Guide](#reviewer-process-guide).
 
-## Adding Translations to Documentation
+## Adding Translations
 
-Adding translations to our project's documentation helps make it more accessible to a wider audience. If you're interested in contributing translations for our documentation, follow these steps to add translations:
+Please follow these steps to add translations:
 
 1. **Identify target languages**.
 
