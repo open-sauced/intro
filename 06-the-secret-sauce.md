@@ -2,7 +2,7 @@
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
-## Open issues, more than PRs that fix typos
+## Open Issues — More than PRs that Fix Typos
 
 While fixing typos and improving documentation are valuable contributions to open source projects, it's essential to look beyond these low-hanging fruits and focus on addressing open issues. Tackling open issues not only helps the project move forward but also allows you to develop a deeper understanding of the codebase and demonstrate your problem-solving abilities.
 
@@ -20,7 +20,7 @@ Here are some tips for finding and addressing open issues:
 
 By focusing on open issues rather than just fixing typos, you'll make a more significant impact on the projects you contribute to and demonstrate your commitment to the open source community.
 
-## Getting traction in contributions
+## Getting Traction in Contributions
 
 As you become more experienced in open source contributions, you may want to increase your impact on the projects you work on and gain recognition for your efforts. Here are some strategies for gaining traction in your contributions:
 
@@ -48,7 +48,7 @@ Building a strong open source resume can help you showcase your skills, experien
 
 Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
 
-## Effectively Highlight Your Contributions
+### Effectively Highlight Your Contributions
 
 Important information to include when you're highlighting your contributions:
 
@@ -58,7 +58,7 @@ Important information to include when you're highlighting your contributions:
 - The details of your contribution including improvements and impacts made on the project and on the community;
 - Collaboration and teamwork details;
 
-### Formatting your Highlight
+### Formatting Your Highlight
 
 To be most effective in highlighting your contributions, we recommend using the following format:
 
