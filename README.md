@@ -38,6 +38,10 @@ This chapter covers finding projects to work on, submitting contributions, onboa
 
 This chapter focuses on providing lesser-known strategies and tips for making a lasting impact in the open source community. This chapter provides strategies for finding issues, gaining traction in your open source journey, and leveraging OpenSauced to build your open source resume.
 
+### 6. Types of Contributions
+
+This chapter explains the non-coding and coding types of contributions involved with open-source projects.
+
 ## Additional Information
 
 This is the beginning of your open source journey, so we've provided some additional resources to help you get started:
