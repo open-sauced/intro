@@ -52,11 +52,11 @@ Let's showcase our guestbook contribution from the previous chapter! In your pro
 
 Important information to include when you're highlighting your contributions:
 
-- New material you've created;
-- Project details (tools, libraries, size, and complexity);
-- The type of your contributions: bug fix, feature, performance, documentation, etc.;
-- The details of your contribution including improvements and impacts made on the project and on the community;
-- Collaboration and teamwork details;
+- New material you've created,
+- Project details (tools, libraries, size, and complexity),
+- The type of your contributions: bug fix, feature, performance, documentation, etc.,
+- The details of your contribution including improvements and impacts made on the project and on the community,
+- Collaboration and teamwork details.
 
 ### Formatting Your Highlight
 
