@@ -1,5 +1,7 @@
 # 🌐 i18n Guidelines
 
+Welcome to our i18n Guidelines! We appreciate your interest in translating our Intro to Open Source course.
+
 At the moment, we have the course in the following languages:
 
 - English
