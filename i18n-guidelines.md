@@ -2,9 +2,9 @@
 
 At the moment, we have the course in the following languages:
 
-- Brazilian Portuguese
 - English
 - French
+- Brazilian Portuguese — work in progress
 
 ## How can I contribute?
 
