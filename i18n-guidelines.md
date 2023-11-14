@@ -3,7 +3,7 @@
 At the moment, we have the course in the following languages:
 
 - English
-- French
+- [French](https://intro.opensauced.pizza/#/translations/fr/README)
 - Brazilian Portuguese — work in progress
 
 ## How can I contribute?
