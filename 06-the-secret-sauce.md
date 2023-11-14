@@ -2,7 +2,7 @@
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
-## Open issues, more than PRs that fix typos
+## Open Issues — More than PRs that Fix Typos
 
 While fixing typos and improving documentation are valuable contributions to open source projects, it's essential to look beyond these low-hanging fruits and focus on addressing open issues. Tackling open issues not only helps the project move forward but also allows you to develop a deeper understanding of the codebase and demonstrate your problem-solving abilities.
 
@@ -20,7 +20,7 @@ Here are some tips for finding and addressing open issues:
 
 By focusing on open issues rather than just fixing typos, you'll make a more significant impact on the projects you contribute to and demonstrate your commitment to the open source community.
 
-## Getting traction in contributions
+## Getting Traction in Contributions
 
 As you become more experienced in open source contributions, you may want to increase your impact on the projects you work on and gain recognition for your efforts. Here are some strategies for gaining traction in your contributions:
 
@@ -34,7 +34,7 @@ As you become more experienced in open source contributions, you may want to inc
 
 5. **Mentor new contributors**: As you become more experienced in open source contributions, consider mentoring new contributors who are just starting their open source journey. This can help you give back to the community, develop your leadership skills, and build a positive reputation.
 
-## Develop your Open Source Resume
+## Building Your Open Source Resume
 
 Building a strong open source resume can help you showcase your skills, experience, and contributions to potential employers, collaborators, and the wider developer community. OpenSauced is an excellent tool for tracking your open source contributions and developing your open source resume. Let's look at how you can use OpenSauced to support your open source journey.
 
@@ -48,22 +48,25 @@ Building a strong open source resume can help you showcase your skills, experien
 
 Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
 
-## Effectively Highlight Your Contributions
-Important information to include when you're highlighting your contributions:
-- New material you've created;
-- Project details (tools, libraries, size, and complexity);
-- The type of your contributions: bug fix, feature, performance, documentation, etc.;
-- The details of your contribution including improvements and impacts made on the project and on the community;
-- Collaboration  and teamwork details;
+### Effectively Highlight Your Contributions
 
-### Formatting your Highlight
+Important information to include when you're highlighting your contributions:
+
+- New material you've created,
+- Project details (tools, libraries, size, and complexity),
+- The type of your contributions: bug fix, feature, performance, documentation, etc.,
+- The details of your contribution including improvements and impacts made on the project and on the community,
+- Collaboration and teamwork details.
+
+### Formatting Your Highlight
+
 To be most effective in highlighting your contributions, we recommend using the following format:
+
 - **Title**: This should be a short description of the contribution. For example, "Created a GitHub Action to automatically merge pull requests".
 - **Link**
 - **Description**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
- - Success verb + noun + metric + outcome.
- - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
-
+- Success verb + noun + metric + outcome.
+- Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
 
 ![Adding a highlight to your profile](./images/opensauced-highlights.png)
 
