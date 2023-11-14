@@ -8,7 +8,7 @@ At the moment, we have the course in the following languages:
 - [French](https://intro.opensauced.pizza/#/translations/fr/README)
 - Brazilian Portuguese — work in progress
 
-## How can I contribute?
+## How Can I Contribute?
 
 - **Translate our README**. There are two methods of translation contributions we accept.
   - **Official Translations**: Official translations start as a post in our discussion board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
