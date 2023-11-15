@@ -10,10 +10,27 @@ At the moment, we have the course in the following languages:
 
 ## How Can I Contribute?
 
-- **Translate our README**. There are two methods of translation contributions we accept.
-  - **Official Translations**: Official translations start as a post in our discussion board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
-  - **Community Translations**: We can’t always support the maintenance of translations. However, we do know that there are contributors out there willing to translate. For that reason, we have our Community Translations section. If you’ve forked the repository and created a translation, you can add a link to your forked translation to `community-translations.md`. We encourage you to also add it to the discussion board in the event it becomes popular enough and has enough support to be moved to an official translation.
-- **Review PRs and translations.** New to reviewing GitHub PRs and translations? No worries, we have you covered in our [Reviewer Process Guide](#reviewer-process-guide).
+There are two types of i18n contributions that we accept:
+1. Translate our Intro to Open Source course.
+2. Review PRs and translations.
+
+### Translate the Intro to Open Source Course
+
+We have two types of translations:
+
+#### 1. Official Translations
+
+Official translations start as a post on our discussion board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
+
+#### 2. Community Translations
+
+We can’t always support the maintenance of translations. However, we know that some contributors are willing to translate. For that reason, we have our Community Translations section. If you’ve forked the repository and created a translation, you can add a link to your forked translation to `community-translations.md`.
+
+We encourage you to add it to the discussion board as well. We will consider moving it to an official translation if it becomes popular and has enough support.
+
+### Review Pull Requests (PRs) and Translations
+
+If you are familiar with the translated language(s), you can help us review the translations and the PRs. Please head over to our [Reviewer Process Guide](#reviewer-process-guide) for more information.
 
 ## Adding Translations
 
@@ -52,9 +69,9 @@ Please follow these steps to add translations:
 
    Test the translated documentation to ensure accuracy and readability. Ensure all links work correctly and the content is culturally appropriate.
 
-7. **Submit contributions**.
+7. **Submit translations**.
 
-   If you haven't already, submit your translations as a pull request. Ensure you provide clear information about the languages you've translated and any specific details related to your contributions.
+   If you haven't already, submit your translations as a PR. Ensure you provide clear information about the languages you've translated and any specific details related to your contributions.
 
 8. **Collaborate and review**.
 
@@ -69,7 +86,7 @@ Please follow these steps to add translations:
 
 ## Reviewer Process Guide
 
-When it comes to reviewing a translation pull request (PR), ask yourself the following questions:
+When it comes to reviewing a translation PR, ask yourself the following questions:
 
 - Does the current translation match the instructions in the English version?
 - Are there links that could be localized? (e.g. Wikipedia and MDN links)
