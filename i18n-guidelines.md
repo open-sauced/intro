@@ -11,8 +11,9 @@ At the moment, we have the course in the following languages:
 ## How Can I Contribute?
 
 There are two types of i18n contributions that we accept:
+
 1. Translate our Intro to Open Source course.
-2. Review PRs and translations.
+2. Review pull requests (PRs) and translations.
 
 ### Translate the Intro to Open Source Course
 
@@ -24,7 +25,7 @@ Official translations start as a post on our [discussion board](https://github.c
 
 #### 2. Community Translations
 
-We can’t always support the maintenance of translations. However, we know that some contributors are willing to translate. For that reason, we have our Community Translations section. If you’ve forked the repository and created a translation, you can add a link to your forked translation to `community-translations.md`.
+We can’t always support the maintenance of translations. However, we know that some contributors are willing to translate. For that reason, we have our Community Translations section. If you've forked the repository and created a translation, you can add a link to your forked translation to the `community-translations.md` file.
 
 We encourage you to add it to the [discussion board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
