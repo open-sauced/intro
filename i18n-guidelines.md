@@ -20,13 +20,13 @@ We have two types of translations:
 
 #### 1. Official Translations
 
-Official translations start as a post on our discussion board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
+Official translations start as a post on our [discussion board](https://github.com/open-sauced/intro/discussions). If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
 
 #### 2. Community Translations
 
 We can’t always support the maintenance of translations. However, we know that some contributors are willing to translate. For that reason, we have our Community Translations section. If you’ve forked the repository and created a translation, you can add a link to your forked translation to `community-translations.md`.
 
-We encourage you to add it to the discussion board as well. We will consider moving it to an official translation if it becomes popular and has enough support.
+We encourage you to add it to the [discussion board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
 ### Review Pull Requests (PRs) and Translations
 
