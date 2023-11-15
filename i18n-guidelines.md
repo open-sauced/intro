@@ -34,7 +34,7 @@ If you are familiar with the translated language(s), you can help us review the 
 
 ## Adding Translations
 
-Please follow these steps to add translations:
+First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
 
 1. **Identify target languages**.
 
@@ -89,7 +89,7 @@ Please follow these steps to add translations:
 When it comes to reviewing a translation PR, ask yourself the following questions:
 
 - Does the current translation match the instructions in the English version?
-- Are there links that could be localized? (e.g. Wikipedia and MDN links)
+- Are there links that could be localized? (e.g., Wikipedia and MDN links)
 - Is the translation correctly written following the translated language's norms and practices?
 
 When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag one of the maintainers. (“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.)
