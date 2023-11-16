@@ -7,7 +7,7 @@ In this chapter, we'll guide you through the process of contributing to open sou
 - Onboarding in a new project
 - What happens next?
 
-## Finding projects to work on
+## Finding Projects to Work On
 
 One of the first challenges you might face when getting started with open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
 
@@ -19,7 +19,7 @@ One of the first challenges you might face when getting started with open source
 
 4. **Leverage OpenSauced**: [OpenSauced](https://opensauced.pizza/) is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
 
-### Discovering Open-Source with OpenSauced
+### Discovering Open Source with OpenSauced
 
 OpenSauced is a powerful tool for finding open source projects to contribute to. To get started with OpenSauced, follow these steps:
 
@@ -52,7 +52,7 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 ![issue assigned screenshot](./images/issue-assign.png)
 
-## How to submit a contribution
+## How to Submit a Contribution
 
 Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
 
@@ -133,7 +133,33 @@ Replace "your-username" with your GitHub username.
 
 Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
 
-## Onboarding in a new project
+## Merge Conflicts
+
+### Understanding Merge Conflicts
+
+- Merge conflicts happen when two branches have made different changes to the same lines in a file. Git cannot automatically determine which change to keep, and this results in a conflict.
+- When a merge conflict occurs, Git adds special markers (<<<<<<<, =======, and >>>>>>) to the conflicted part of the file, indicating the conflicting sections from different branches.
+
+### Resolving Merge Conflicts in VS Code
+
+#### Prerequisites
+
+Ensure you have [VS Code](https://code.visualstudio.com/) installed on your computer and the latest version of [Git](https://git-scm.com/).
+
+#### Step-by-Step Guide
+
+1. Open VS Code: Launch Visual Studio Code and open the repository where the merge conflict exists.
+2. Check for Conflicts: If you've just performed a pull or merge operation and a conflict occurs, VS Code will automatically detect it.
+You will see a notification in the source control tab or sidebar.
+3. View Conflicted Files: Click on the conflicted file in the source control tab. VS Code will display a "Merge Conflict" section in the file.
+4. Resolve Conflicts: Inside the "Merge Conflict" section, you'll see the conflicting changes separated by the conflict markers (<<<<<<<, =======, >>>>>>). From there, decide which changes to keep or combine.
+5. Save the file: After resolving the conflicts, save the file.
+6. Stage the Resolved File: In the Source Control tab, you should see options to stage the resolved file. Click on the "Mark as Resolved" or similar button.
+7. Commit the Changes: Once all conflicts are resolved, commit your changes using VS Code's built-in source control features.
+8. Push Your Changes: After committing, push the changes to the remote repository to complete the merge process.
+9. Verify the Merge: Verify that the merge conflict has been successfully resolved by checking the remote repository or using Git tools.
+
+## Onboarding in a New Project
 
 When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
 
@@ -147,7 +173,7 @@ When you join a new open source project, it's important to familiarize yourself 
 
 5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
 
-## What happens next?
+## What Happens Next?
 
 After your contribution has been submitted and reviewed, one of the following outcomes may occur:
 
