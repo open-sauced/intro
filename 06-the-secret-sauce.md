@@ -62,11 +62,11 @@ Important information to include when you're highlighting your contributions:
 
 To be most effective in highlighting your contributions, we recommend using the following format:
 
-- **Title**: This should be a short description of the contribution. For example, "Created a GitHub Action to automatically merge pull requests".
-- **Link**
 - **Description**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
-- Success verb + noun + metric + outcome.
-- Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
+  - Success verb + noun + metric + outcome.
+  - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
+- **Add a repo**: Provide the complete name of the repository to which you are making contributions.
+- **URL**: Paste the URL to your pull request, issue or your blog post.
 
 ![Adding a highlight to your profile](./images/opensauced-highlights.png)
 
