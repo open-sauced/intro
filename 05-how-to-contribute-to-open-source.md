@@ -7,7 +7,7 @@ In this chapter, we'll guide you through the process of contributing to open sou
 - Onboarding in a new project
 - What happens next?
 
-## Finding projects to work on
+## Finding Projects to Work On
 
 One of the first challenges you might face when getting started with open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
 
@@ -19,7 +19,7 @@ One of the first challenges you might face when getting started with open source
 
 4. **Leverage OpenSauced**: [OpenSauced](https://opensauced.pizza/) is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
 
-### Discovering Open-Source with OpenSauced
+### Discovering Open Source with OpenSauced
 
 OpenSauced is a powerful tool for finding open source projects to contribute to. To get started with OpenSauced, follow these steps:
 
@@ -52,7 +52,7 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 ![issue assigned screenshot](./images/issue-assign.png)
 
-## How to submit a contribution
+## How to Submit a Contribution
 
 Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
 
@@ -159,7 +159,7 @@ You will see a notification in the source control tab or sidebar.
 8. Push Your Changes: After committing, push the changes to the remote repository to complete the merge process.
 9. Verify the Merge: Verify that the merge conflict has been successfully resolved by checking the remote repository or using Git tools.
 
-## Onboarding in a new project
+## Onboarding in a New Project
 
 When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
 
@@ -173,7 +173,7 @@ When you join a new open source project, it's important to familiarize yourself 
 
 5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
 
-## What happens next?
+## What Happens Next?
 
 After your contribution has been submitted and reviewed, one of the following outcomes may occur:
 
