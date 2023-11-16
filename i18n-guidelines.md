@@ -64,7 +64,14 @@ First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the p
 
 5. **Add language selector**.
 
-   Consider adding a language selector to the documentation, allowing users to switch between different language versions. You can do this by modifying the navigation or header of your documentation.
+   Adding a language selector to the documentation allows users to switch between languages. You can do this by modifying the languages menu on the navigation bar:
+
+   1. Open the `navbar.md` file in the `_layout` folder.
+   2. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
+
+      ```markdown
+      - [:jp: Japanese](/translations/jp/)
+      ```
 
 6. **Testing and validation**.
 
