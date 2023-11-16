@@ -25,7 +25,9 @@ Official translations start as a post on our [discussion board](https://github.c
 
 #### 2. Community Translations
 
-We can’t always support the maintenance of translations. However, we know that some contributors are willing to translate. For that reason, we have our Community Translations section. If you've forked the repository and created a translation, you can add a link to your forked translation to the `community-translations.md` file.
+We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a Community Translations section.
+
+If you're interested in translating our Intro to OSS course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file.
 
 We encourage you to add it to the [discussion board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
