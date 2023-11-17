@@ -72,15 +72,6 @@ A repository is a central location where code is stored and managed. In open sou
 
 A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
 
-
-## Onboarding
-
-Onboarding documentation helps new team members or collaborators quickly become familiar with a project's structure, goals, and processes.
-
-## Release Notes
-
-Release notes are documents that detail changes, enhancements, bug fixes, and new features in each software release. They inform users and stakeholders about what to expect in a new version of the software.
-
 <a href="https://github.com/open-sauced/intro/edit/main/10-glossary.md">
  ✏️  Edit this page
   </a>
