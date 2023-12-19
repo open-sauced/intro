@@ -37,7 +37,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 4. **Save projects to your insights**: When you find projects you're interested in, you can add them to what are called "Insights" pages, that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
-5. **Start contributing**: When you click on the name of a repo, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcome.
+5. **Start contributing**: When you click on the name of a repository, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcome.
 
 By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
 
@@ -106,7 +106,7 @@ Now that you know how to find and contribute to open source projects, it's time 
 
 ### Prerequisite
 
-You'll need to have these tools donwloaded and installed in your local machine:
+You'll need to have these tools donwloaded and installed on your local machine:
 
 - [Node.js](https://nodejs.org)
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
@@ -124,7 +124,7 @@ You'll need to have these tools donwloaded and installed in your local machine:
    git checkout -b branch-name
    ```
 
-   Use a descriptive name related to your contribution. For example, `feat/add-alice`.
+   Use a descriptive name related to your contribution — for example, `feat/add-alice`.
 
 5. Add yourself to the guest book.
 
@@ -133,7 +133,7 @@ You'll need to have these tools donwloaded and installed in your local machine:
    - Using the CLI tool.
    - Manually editing the `.all-contributorsrc` file.
 
-   Although adding yourself to the guest book with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
+   Although adding yourself to the guest book with the CLI tool is simpler, we recommend manually editing the file to get more experience adding and committing your changes, creating pull requests, and pull request reviews. Below, you'll find the directions for each method:
 
    **CLI Tool**
 
@@ -144,7 +144,7 @@ You'll need to have these tools donwloaded and installed in your local machine:
    **Manual Addition**
 
    - Open the `.all-contributorsrc` file.
-   - Go to the last contributor in the contributors array.
+   - Go to the last contributor in the contributors' array.
    - Add a comma after the last closing curly bracket ( `},` ).
    - Copy and paste the template below:
 
@@ -169,7 +169,7 @@ You'll need to have these tools donwloaded and installed in your local machine:
      - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
      - **contribution**: Type of your contributions.
 
-       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill the values.
+       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the values.
 
        ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
 
@@ -221,35 +221,78 @@ You'll need to have these tools donwloaded and installed in your local machine:
 
 10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
 
-Congratulations on your first contribution! 🎉 <br> You can add this contribution to your [OpenSauced](https://opensauced.pizza) profile and start building your open source resume.
+Congratulations on your first contribution! 🎉
 
-> **Note**: While you're waiting for your PR to be reviewed, there could be a chance when a maintainer asks you to resolve a merge conflict. In the next section, we will discuss merge conflicts and how to resolve them in this project.
+## Keeping Branches Up to Date
+
+It is highly recommended that you update your remote and local branches habitually. That way, your branch will have the latest update when merged into the `main` branch of the remote original (`upstream`) repository.
+
+The best times to update your branches are before you push your changes to the remote repository and while you're waiting for your pull request to be reviewed.
+
+### Updating Branches
+
+First, you must update your forked (`origin`) repository:
+
+1. Go to your forked repository on GitHub.
+2. Click the "Sync fork" button.
+3. Click the green "Update branch" button.
+
+Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
+
+1. Go to your working branch.
+
+   ```bash
+   git checkout your-branch-name
+   ```
+
+2. Pull the latest changes with this command:
+
+   ```bash
+   git pull origin main
+   ```
 
 ## Merge Conflicts
 
-### Understanding Merge Conflicts
+Merge conflicts are something you'll commonly encounter when contributing to an open source project. When two branches have made different changes to the same line(s) in the same file(s), Git cannot automatically determine which change to keep, resulting in a conflict.
 
-- Merge conflicts happen when two branches have made different changes to the same lines in a file. Git cannot automatically determine which change to keep, and this results in a conflict.
-- When a merge conflict occurs, Git adds special markers (<<<<<<<, =======, and >>>>>>) to the conflicted part of the file, indicating the conflicting sections from different branches.
+When a merge conflict occurs, Git adds special markers (`<<<<<<<`, `=======`, and `>>>>>>`) to indicate the conflicting lines from different branches. Everything between the `<<<<<<<` and `=======` is the changes that you worked on (current changes). And everything between the `=======` to `>>>>>>>` is the incoming changes from the remote `main` branch.
 
-### Resolving Merge Conflicts in VS Code
+You need to pay attention to the conflicts and decide how you want to resolve them. You can keep only your change, incoming change, or both changes.
 
-#### Prerequisites
+### Merge Conflicts in the Guest Book Repository
 
-Ensure you have [VS Code](https://code.visualstudio.com/) installed on your computer and the latest version of [Git](https://git-scm.com/).
+Since the primary purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts.
 
-#### Step-by-Step Guide
+The conflicts happen when maintainers have merged pull requests before yours while you're working on your changes or waiting for your pull request to be reviewed. And you need to resolve them before your pull request can be merged.
 
-1. Open VS Code: Launch Visual Studio Code and open the repository where the merge conflict exists.
-2. Check for Conflicts: If you've just performed a pull or merge operation and a conflict occurs, VS Code will automatically detect it.
-   You will see a notification in the source control tab or sidebar.
-3. View Conflicted Files: Click on the conflicted file in the source control tab. VS Code will display a "Merge Conflict" section in the file.
-4. Resolve Conflicts: Inside the "Merge Conflict" section, you'll see the conflicting changes separated by the conflict markers (<<<<<<<, =======, >>>>>>). From there, decide which changes to keep or combine.
-5. Save the file: After resolving the conflicts, save the file.
-6. Stage the Resolved File: In the Source Control tab, you should see options to stage the resolved file. Click on the "Mark as Resolved" or similar button.
-7. Commit the Changes: Once all conflicts are resolved, commit your changes using VS Code's built-in source control features.
-8. Push Your Changes: After committing, push the changes to the remote repository to complete the merge process.
-9. Verify the Merge: Verify that the merge conflict has been successfully resolved by checking the remote repository or using Git tools.
+#### Resolving Merge Conflicts
+
+Before resolving merge conflicts, you must first [update your branches](#updating-branches). Then, follow these steps to resolve the conflicts:
+
+1. In the `.all-contributorsrc` file:
+
+   - Click the "Accept Both Change" option on the top of your workspace in VS Code.
+   - Move your profile details to the end of the contributors' array and fix anything necessary.
+
+2. In the `README.md` file:
+
+   - Click the "Accept Incoming Change" option on the top of your workspace in VS Code for each conflict in this file.
+
+3. Run `npm run contributors:generate`.
+
+   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors' list in the `README.md` file.
+
+4. Add and commit your changes.
+
+   ```bash
+   git commit -am "Resolve merge conflicts"
+   ```
+
+5. Push your commits to your remote branch.
+
+   ```bash
+   git push
+   ```
 
 ## Onboarding in a New Project
 
