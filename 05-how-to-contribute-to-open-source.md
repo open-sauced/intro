@@ -25,15 +25,15 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 1. **Sign up for an account**: Visit https://www.opensauced.pizza/ and sign up for an account using your GitHub credentials.
 
-![Image](./images/opensauced-signup.png)
+   ![Image](./images/opensauced-signup.png)
 
-During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
+   During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
 
 2. **Explore the dashboard**: Once you've signed up, you'll be taken to your dashboard, where you can view your current projects, goals, and contributions. Clicking "Explore" in the header will enable you to browse projects based on your interests and skills.
 
 3. **Search for projects**: In explore, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
-![Explore](./images/opensauced-explore.png)
+   ![Explore](./images/opensauced-explore.png)
 
 4. **Save projects to your insights**: When you find projects you're interested in, you can add them to what are called "Insights" pages, that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
@@ -42,6 +42,7 @@ During the signup process, you'll be asked to pick some interests and set your t
 By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
 
 ## Getting Started With Contributing
+
 Once you've found a project you'd like to contribute to, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors.
 
 1. **Familiarize Yourself with the Project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
@@ -50,7 +51,7 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 3. **Ask to be Assigned the Issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
 
-![issue assigned screenshot](./images/issue-assign.png)
+   ![issue assigned screenshot](./images/issue-assign.png)
 
 ## How to Submit a Contribution
 
@@ -60,38 +61,38 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 
 2. **Clone your fork**: Clone your forked repository to your local machine by running the following command in your terminal or command prompt:
 
-```
-git clone https://github.com/your-username/repository-name.git
-```
+   ```
+   git clone https://github.com/your-username/repository-name.git
+   ```
 
-Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
+   Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
 
 3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the main branch and make it easier to submit a pull request later. You can create a new branch using the following command:
 
-```
-git checkout -b your-branch-name
-```
+   ```
+   git checkout -b your-branch-name
+   ```
 
-Replace "your-branch-name" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+   Replace "your-branch-name" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
 
 4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Be sure to follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
 
 5. **Commit your changes**: Once you've made your changes, stage and commit them using the following commands:
 
-```
-git add .
-git commit -m "Your commit message"
-```
+   ```
+   git add .
+   git commit -m "Your commit message"
+   ```
 
-Replace "Your commit message" with a brief description of the changes you made.
+   Replace "Your commit message" with a brief description of the changes you made.
 
 6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
 
-```
-git push origin your-branch-name
-```
+   ```
+   git push origin your-branch-name
+   ```
 
-Replace "your-branch-name" with the name of your branch.
+   Replace "your-branch-name" with the name of your branch.
 
 7. **Submit a pull request**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
 
@@ -111,17 +112,17 @@ Now that you know how to find and contribute to open source projects, it's time 
    git clone git@github.com:[your_username]/guestbook.git
    ```
 
-> This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
+   > This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
 
 3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager and have it installed.
 
 4. **Create a new branch**: Before making any changes, remember to make a new branch in your local repository to work on your contribution. You can create a new branch using the following command:
 
-```
-git checkout -b feature/add-profile-[your-username]
-```
+   ```
+   git checkout -b feature/add-profile-[your-username]
+   ```
 
-Replace "your-username" with your GitHub username.
+   Replace "your-username" with your GitHub username.
 
 5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
 
@@ -150,7 +151,7 @@ Ensure you have [VS Code](https://code.visualstudio.com/) installed on your comp
 
 1. Open VS Code: Launch Visual Studio Code and open the repository where the merge conflict exists.
 2. Check for Conflicts: If you've just performed a pull or merge operation and a conflict occurs, VS Code will automatically detect it.
-You will see a notification in the source control tab or sidebar.
+   You will see a notification in the source control tab or sidebar.
 3. View Conflicted Files: Click on the conflicted file in the source control tab. VS Code will display a "Merge Conflict" section in the file.
 4. Resolve Conflicts: Inside the "Merge Conflict" section, you'll see the conflicting changes separated by the conflict markers (<<<<<<<, =======, >>>>>>). From there, decide which changes to keep or combine.
 5. Save the file: After resolving the conflicts, save the file.
@@ -177,9 +178,8 @@ When you join a new open source project, it's important to familiarize yourself 
 
 After your contribution has been submitted and reviewed, one of the following outcomes may occur:
 
-1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase.
-
-Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
+1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br>
+   Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
 
 2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
 
