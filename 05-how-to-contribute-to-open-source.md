@@ -317,8 +317,6 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
    git push
    ```
 
-6. In the pull request's comment, tag and inform the `@open-sauced/community` maintainers that you have resolved the conflicts.
-
 ## Onboarding in a New Project
 
 When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
