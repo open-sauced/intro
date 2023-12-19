@@ -292,7 +292,7 @@ The conflicts happen when maintainers have merged pull requests before yours whi
 
 #### Resolving Merge Conflicts
 
-Before resolving merge conflicts, you must first [update your branches](#updating-branches). Then, follow these steps to resolve the conflicts:
+Before resolving merge conflicts, you must first [update your branches](#updating-branches). Then, follow these steps:
 
 1. In the `.all-contributorsrc` file:
 
@@ -318,6 +318,8 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
    ```bash
    git push
    ```
+
+6. In the pull request's comment, tag and inform the `@open-sauced/community` maintainers that you have resolved the conflicts.
 
 ## Onboarding in a New Project
 
