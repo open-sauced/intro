@@ -168,7 +168,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
        Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the values.
 
-       ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
+       > ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
 
        The result would be like this:
 
@@ -186,7 +186,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
        }
        ```
 
-       ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
+       > ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
 6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
 
