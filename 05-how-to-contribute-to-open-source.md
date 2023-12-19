@@ -62,18 +62,18 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 2. **Clone your fork**: Clone your forked repository to your local machine by running the following command in your terminal or command prompt:
 
    ```
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
    ```
 
-   Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
+   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the name of the repository.
 
 3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the `main` branch and make it easier to submit a pull request later. You can create a new branch using the following command:
 
    ```
-   git checkout -b your-branch-name
+   git checkout -b YOUR-BRANCH-NAME
    ```
 
-   Replace "your-branch-name" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+   Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
 
 4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Be sure to follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
 
@@ -89,10 +89,10 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
 
    ```
-   git push origin your-branch-name
+   git push origin YOUR-BRANCH-NAME
    ```
 
-   Replace "your-branch-name" with the name of your branch.
+   Replace "YOUR-BRANCH-NAME" with the name of your branch.
 
 7. **Submit a pull request**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
 
@@ -121,7 +121,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
    Run this command on your terminal to create a new branch:
 
    ```bash
-   git checkout -b branch-name
+   git checkout -b YOUR-BRANCH-NAME
    ```
 
    Use a descriptive name related to your contribution — for example, `feat/add-alice`.
@@ -242,7 +242,7 @@ Then, pull the latest changes in the `main` branch in the `origin` repository to
 1. Go to your working branch.
 
    ```bash
-   git checkout your-branch-name
+   git checkout YOUR-BRANCH-NAME
    ```
 
 2. Pull the latest changes with this command:
