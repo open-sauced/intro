@@ -280,7 +280,7 @@ If a repository doesn't provide you with a pull request template, you need to ha
 
 #### Resolving Merge Conflicts Immediately
 
-When a maintainer asks you to resolve merge conflicts, fix them immediately. Then, tag the project's maintainers to let them know you have resolved the conflicts so they can review your pull request.
+When you notice merge conflicts in your PR or if a maintainer asks you to resolve merge conflicts, fix them immediately.
 
 ### Merge Conflicts in the Guest Book Repository
 
