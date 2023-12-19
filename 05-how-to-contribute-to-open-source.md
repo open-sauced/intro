@@ -100,7 +100,7 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 
    Replace "YOUR-BRANCH-NAME" with the name of your branch.
 
-7. **[Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+7. **[Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
 
 8. **Respond to feedback**: After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
 
@@ -123,7 +123,6 @@ You'll need to have these tools donwloaded and installed on your local machine:
 2. Clone your forked repository to your computer.
 3. Run `npm install` to install the dependencies.
 4. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
-
 5. Add yourself to the guest book.
 
    There are two ways you can complete this activity:
@@ -271,7 +270,7 @@ Ensure you follow the instructions in the project's README or Contributing Guide
 
 Complete the template form and fill in all areas when creating a pull request.
 
-If a repository doesn't provide you with a pull request template, you need to have these in your pull request:
+If a repository doesn't provide you with a pull request template, you need to have these in your pull request form:
 
 - A descriptive title
 - A clear description of your changes
