@@ -3,7 +3,11 @@
 In this chapter, we'll guide you through the process of contributing to open source projects. We'll cover the following topics:
 
 - Finding projects to work on
+- Getting started with contributing
 - How to submit a contribution
+- Let's get practical
+- Keeping branches up to date
+- Merge conflicts
 - Onboarding in a new project
 - What happens next?
 
@@ -249,7 +253,7 @@ Then, pull the latest changes in the `main` branch in the `origin` repository to
 
 Merge conflicts are something you'll commonly encounter when contributing to an open source project. When two branches have made different changes to the same line(s) in the same file(s), Git cannot automatically determine which change to keep, resulting in a conflict.
 
-When a merge conflict occurs, Git adds special markers (`<<<<<<<`, `=======`, and `>>>>>>`) to indicate the conflicting lines from different branches. Everything between the `<<<<<<<` and `=======` is the changes that you worked on (current changes). And everything between the `=======` to `>>>>>>>` is the incoming changes from the remote `main` branch.
+When a merge conflict occurs, Git adds conflict markers (`<<<<<<<`, `=======`, and `>>>>>>`) to indicate the conflicting lines from different branches. Everything between the `<<<<<<<` and `=======` is the changes that you worked on (current changes). And everything between the `=======` to `>>>>>>>` is the incoming changes from the remote `main` branch.
 
 You need to pay attention to the conflicts and decide how you want to resolve them. You can keep only your change, incoming change, or both changes.
 
