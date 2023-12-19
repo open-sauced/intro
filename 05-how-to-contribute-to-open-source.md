@@ -57,17 +57,19 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
 Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
 
-1. **Fork the repository**: Create a fork of the project's repository, which will create a copy of the repository under your GitHub account. This will allow you to make changes to the codebase without affecting the original project.
+1. **[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)**: Forking a repository means creating a copy of the repository under your GitHub account. It allows you to make changes to the codebase without affecting the original project.
 
-2. **Clone your fork**: Clone your forked repository to your local machine by running the following command in your terminal or command prompt:
+2. **[Clone your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)**: Make a copy of your forked repository to your local machine. Run the following command in your terminal:
 
    ```
    git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
    ```
 
-   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the name of the repository.
+   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the repository's name.
 
-3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the `main` branch and make it easier to submit a pull request later. You can create a new branch using the following command:
+3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. Creating a new branch is the best practice in open source because it keeps your changes separate from the `main` branch.
+
+   You can create a new branch using the following command:
 
    ```
    git checkout -b YOUR-BRANCH-NAME
@@ -75,16 +77,16 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 
    Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
 
-4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Be sure to follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
+4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
 
-5. **Commit your changes**: Once you've made your changes, stage and commit them using the following commands:
+5. **Add and commit your changes**: Once you've made your changes, add your changes to the staging area and commit them with these commands:
 
    ```
    git add .
    git commit -m "Your commit message"
    ```
 
-   Replace "Your commit message" with a brief description of the changes you made.
+   Replace "Your commit message" with a brief description of your changes.
 
 6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
 
@@ -94,7 +96,7 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 
    Replace "YOUR-BRANCH-NAME" with the name of your branch.
 
-7. **Submit a pull request**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+7. **[Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
 
 8. **Respond to feedback**: After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
 
@@ -113,18 +115,10 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 ### Getting Started
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) the [guest book repository](https://github.com/open-sauced/guestbook).
-2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
+1. Fork the [guest book repository](https://github.com/open-sauced/guestbook).
+2. Clone your forked repository to your computer.
 3. Run `npm install` to install the dependencies.
-4. Create a new branch.
-
-   Run this command on your terminal to create a new branch:
-
-   ```bash
-   git checkout -b YOUR-BRANCH-NAME
-   ```
-
-   Use a descriptive name related to your contribution — for example, `feat/add-alice`.
+4. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
 
 5. Add yourself to the guest book.
 
@@ -198,10 +192,10 @@ You'll need to have these tools donwloaded and installed on your local machine:
    Add and commit your changes by running the following command:
 
    ```bash
-   git commit -am "Your message"
+   git commit -am "Your commit message"
    ```
 
-   Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
+   Change `"Your commit message"` to your own message. For example, `"Add Alice as a contributor"`.
 
    > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
 
@@ -219,7 +213,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
    git push -u origin branch-name
    ```
 
-10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
+10. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
 
 Congratulations on your first contribution! 🎉
 
