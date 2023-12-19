@@ -259,6 +259,31 @@ When a merge conflict occurs, Git adds special markers (`<<<<<<<`, `=======`, an
 
 You need to pay attention to the conflicts and decide how you want to resolve them. You can keep only your change, incoming change, or both changes.
 
+### Tips to Avoid Further Conflicts
+
+Some open source repositories, such as our [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
+
+Below are some tips to avoid further conflicts when contributing to open source projects:
+
+#### Follow Instructions
+
+Ensure you follow the instructions in the project's README or Contributing Guide, and don't miss any step.
+
+#### Pull Request Form
+
+Complete the template form and fill in all areas when creating a pull request.
+
+If a repository doesn't provide you with a pull request template, you need to have these in your pull request:
+
+- A descriptive title
+- A clear description of your changes
+- The [link to the related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- A screenshot or screen recording when you make a UI change
+
+#### Resolve Conflicts Immediately
+
+When a maintainer asks you to resolve conflicts, fix them immediately. Then, tag the project's maintainers to let them know you have resolved the conflicts so they can review your pull request.
+
 ### Merge Conflicts in the Guest Book Repository
 
 Since the primary purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts.
