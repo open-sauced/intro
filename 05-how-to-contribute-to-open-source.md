@@ -225,7 +225,7 @@ Congratulations on your first contribution! 🎉
 
 ## Keeping Branches Up to Date
 
-It is highly recommended that you update your remote and local branches habitually. That way, your branch will have the latest update when merged into the `main` branch of the remote original (`upstream`) repository.
+It is highly recommended that you update your remote and local branches habitually. That way, your branch will have the latest update when merged into the `main` branch of the original (`upstream`) repository.
 
 The best times to update your branches are before you push your changes to the remote repository and while you're waiting for your pull request to be reviewed.
 
@@ -261,7 +261,7 @@ You need to pay attention to the conflicts and decide how you want to resolve th
 
 ### Tips to Avoid Further Conflicts
 
-Some open source repositories, such as our [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
+Some open source repositories, such as OpenSauced's [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
 
 Below are some tips to avoid further conflicts when contributing to open source projects:
 
