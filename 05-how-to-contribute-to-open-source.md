@@ -39,9 +39,9 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
    ![Explore](./images/opensauced-explore.png)
 
-4. **Save projects to your insights**: When you find projects you're interested in, you can add them to what are called "Insights" pages, that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
+4. **Save projects to your Insights pages**: When you find projects you're interested in, you can add them to "Insights" pages that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
-5. **Start contributing**: When you click on the name of a repository, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcome.
+5. **Start contributing**: When you click on the name of a repository, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcomed.
 
 By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
 
@@ -49,11 +49,11 @@ By using OpenSauced, you can streamline the process of finding open source proje
 
 Once you've found a project you'd like to contribute to, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors.
 
-1. **Familiarize Yourself with the Project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
+1. **Familiarize yourself with the project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
 
-2. **Find an Issue or Create an Issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
+2. **Find an issue or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
 
-3. **Ask to be Assigned the Issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment in the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
+3. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment on the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
 
    ![issue assigned screenshot](./images/issue-assign.png)
 
@@ -90,7 +90,7 @@ Once you've found a project you'd like to contribute to, the next step is to sub
    git commit -m "Your commit message"
    ```
 
-   Replace "Your commit message" with a brief description of your changes.
+   Replace `"Your commit message"` with a brief description of your changes.
 
 6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
 
@@ -199,7 +199,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
    git commit -am "Your commit message"
    ```
 
-   Change `"Your commit message"` to your own message. For example, `"Add Alice as a contributor"`.
+   Replace `"Your commit message"` to your own message. For example, `"Add Alice as a contributor"`.
 
    > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
 
@@ -263,7 +263,7 @@ Some open source repositories, such as OpenSauced's [guest book](https://github.
 
 Below are some tips to avoid further conflicts when contributing to open source projects:
 
-#### Follow Instructions
+#### Following Instructions
 
 Ensure you follow the instructions in the project's README or Contributing Guide, and don't miss any step.
 
@@ -278,9 +278,9 @@ If a repository doesn't provide you with a pull request template, you need to ha
 - The [link to the related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - A screenshot or screen recording when you make a UI change
 
-#### Resolve Conflicts Immediately
+#### Resolving Merge Conflicts Immediately
 
-When a maintainer asks you to resolve conflicts, fix them immediately. Then, tag the project's maintainers to let them know you have resolved the conflicts so they can review your pull request.
+When a maintainer asks you to resolve merge conflicts, fix them immediately. Then, tag the project's maintainers to let them know you have resolved the conflicts so they can review your pull request.
 
 ### Merge Conflicts in the Guest Book Repository
 
