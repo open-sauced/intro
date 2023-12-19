@@ -67,7 +67,7 @@ Once you've found a project you'd like to contribute to, the next step is to sub
 
    Replace "your-username" with your GitHub username and "repository-name" with the name of the repository.
 
-3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the main branch and make it easier to submit a pull request later. You can create a new branch using the following command:
+3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. This will help you keep your changes separate from the `main` branch and make it easier to submit a pull request later. You can create a new branch using the following command:
 
    ```
    git checkout -b your-branch-name
@@ -102,37 +102,128 @@ By following these steps, you'll be able to submit your contributions to open so
 
 ## Let's Get Practical
 
-Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's guest book using the [all contributors specification](https://allcontributors.org/).
+Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's [guest book repository](https://github.com/open-sauced/guestbook).
 
-1. Let's start by forking the repo as described above, but this time, it's the guest book repo: [https://github.com/open-sauced/guestbook](https://github.com/open-sauced/guestbook). Clicking "Fork" on GitHub will create a copy of the repo under your GitHub account.
+### Prerequisite
 
-2. Next, let's clone this repo to our local machine. In your terminal or command prompt, run the following command:
+You'll need to have these tools donwloaded and installed in your local machine:
 
+- [Node.js](https://nodejs.org)
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+
+### Getting Started
+
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) the [guest book repository](https://github.com/open-sauced/guestbook).
+2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
+3. Run `npm install` to install the dependencies.
+4. Create a new branch.
+
+   Run this command on your terminal to create a new branch:
+
+   ```bash
+   git checkout -b branch-name
    ```
-   git clone git@github.com:[your_username]/guestbook.git
+
+   Use a descriptive name related to your contribution. For example, `feat/add-alice`.
+
+5. Add yourself to the guest book.
+
+   There are two ways you can complete this activity:
+
+   - Using the CLI tool.
+   - Manually editing the `.all-contributorsrc` file.
+
+   Although adding yourself to the guest book with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
+
+   **CLI Tool**
+
+   - Run `npm run contributors:add` in your terminal.
+
+     Follow the instructions to add yourself to the guest book. After you finish and click enter, you must click enter again to confirm your choices.
+
+   **Manual Addition**
+
+   - Open the `.all-contributorsrc` file.
+   - Go to the last contributor in the contributors array.
+   - Add a comma after the last closing curly bracket ( `},` ).
+   - Copy and paste the template below:
+
+     ```javascript
+     {
+        "login": "",
+        "name": "",
+        "avatar_url": "",
+        "profile": "",
+        "contributions": []
+     }
+     ```
+
+   - Add yourself manually to the guest book by updating this information:
+
+     - **login**: Your GitHub's username.
+     - **name**: Your name.
+     - **avatar_url**: URL to your avatar on GitHub.
+
+       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end (for example, `https://github.com/USER_NAME.png`), and click enter. Copy and paste the link here.
+
+     - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
+     - **contribution**: Type of your contributions.
+
+       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill the values.
+
+       ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
+
+       The result would be like this:
+
+       ```javascript
+       {
+         "login": "github-username",
+         "name": "User Name",
+         "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
+         "profile": "URL link",
+         "contributions": [
+            "question",
+            "blog",
+            "code"
+         ]
+       }
+       ```
+
+       ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
+
+6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
+
+7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
+
+   Add and commit your changes by running the following command:
+
+   ```bash
+   git commit -am "Your message"
    ```
 
-   > This tutorial expects that you've got Node.js installed on your machine, which is needed to work with this project. If you don't have Node.js installed, you can download it from https://nodejs.org/en/download/.
+   Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
 
-3. Once it's cloned, open up the project in your terminal and run `npm install` to install its dependencies. Alternatively, you can run `pnpm install` if you prefer the different package manager and have it installed.
+   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
 
-4. **Create a new branch**: Before making any changes, remember to make a new branch in your local repository to work on your contribution. You can create a new branch using the following command:
+8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
+   If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
+
+   ```bash
+   docs: add @your_username as a contributor
    ```
-   git checkout -b feature/add-profile-[your-username]
+
+9. Push the commit to your forked repository with this command:
+
+   ```bash
+   git push -u origin branch-name
    ```
 
-   Replace "your-username" with your GitHub username.
+10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
 
-5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+Congratulations on your first contribution! 🎉 <br> You can add this contribution to your [OpenSauced](https://opensauced.pizza) profile and start building your open source resume.
 
-6. Run `npm run contributors:generate` to generate the new contributors list.
-
-7. Commit your changes and push them to your forked repository.
-
-8. Once pushed, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
-
-Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
+> **Note**: While you're waiting for your PR to be reviewed, there could be a chance when a maintainer asks you to resolve a merge conflict. In the next section, we will discuss merge conflicts and how to resolve them in this project.
 
 ## Merge Conflicts
 
