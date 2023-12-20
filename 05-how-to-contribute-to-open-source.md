@@ -47,17 +47,19 @@ By using OpenSauced, you can streamline the process of finding open source proje
 
 ## Onboarding in a New Project
 
-When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
+When you're interested in contributing to a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow and take the initiative to onboard yourself.
 
-1. **Read the documentation**: Start by reading the project's documentation, including the README file, contributing guidelines, and code of conduct. This will help you understand the project's goals, requirements, and expectations for contributors.
+Here are some tips to help you onboard successfully:
 
-2. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
+1. **Read the project's documentation**: Read the README file, Contributing Guidelines, and Code of Conduct to familiarize yourself with the project. This will help you understand the project's goals, requirements, and expectations for contributors.
 
-3. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
+2. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
 
-4. **Ask for help**: If you're unsure about something or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming, and other contributors will be happy to assist you.
+3. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
 
-5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
+4. **Ask for help**: If you need clarification or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming; other contributors will gladly assist you.
+
+5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient, and don't be discouraged by setbacks or mistakes. You'll become more comfortable and confident in your contributions with persistence and practice.
 
 ## Getting Started With Contributing
 
