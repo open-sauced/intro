@@ -57,7 +57,7 @@ Once you've found a project you'd like to contribute to, you need to investigate
 
    ![issue assigned screenshot](./images/issue-assign.png)
 
-## How to Submit a Contribution
+## Contribution Workflow
 
 Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
 
