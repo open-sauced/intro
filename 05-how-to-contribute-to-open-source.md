@@ -65,11 +65,9 @@ Here are some tips to help you onboard successfully:
 
 Once you've onboarded yourself in the project, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors:
 
-1. **Familiarize yourself with the project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
+1. **Find an issue or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
 
-2. **Find an issue or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on and check if it aligns with the project's roadmap. This could include documentation updates, bug fixes, content changes, and more.
-
-3. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment on the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
+2. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements. If there are no directions in the CONTRIBUTING file, you can comment on the issue, "Can I please be assigned this issue?" When you've been assigned by the maintainer, you'll notice that the issue is now labeled with your username.
 
    ![issue assigned screenshot](./images/issue-assign.png)
 
