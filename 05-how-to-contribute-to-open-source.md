@@ -63,11 +63,13 @@ Here are some tips to help you onboard successfully:
 
 ## Getting Started With Contributing
 
-Once you've onboarded yourself in the project, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors:
+So, you've onboarded yourself in the project. Now, you can prepare to contribute by following these steps:
 
-1. **Find or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on. Check if it aligns with the project's roadmap and create an issue. This could include documentation updates, bug fixes, content changes, and more.
+1. **Read the Contributing Guidelines**: Investigate how the project receives contributions by reading the CONTRIBUTING file. You want to ensure that you follow the project's contributing rules.
 
-2. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements.
+2. **Find or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on. Check if it aligns with the project's roadmap and create an issue. This could include documentation updates, bug fixes, content changes, and more.
+
+3. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements.
 
    If there are no directions in the CONTRIBUTING file, you can leave a comment on the issue, "Can I please be assigned this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
 
