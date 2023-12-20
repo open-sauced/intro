@@ -122,6 +122,17 @@ Once a maintainer has assigned you an issue, the next step is to work on the cha
 
 By following these steps, you'll be able to submit your contributions to open source projects and collaborate with other developers to improve the codebase.
 
+## What Happens Next?
+
+After your contribution has been submitted and reviewed, one of the following outcomes may occur:
+
+1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br>
+   Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
+
+2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
+
+3. **Your contribution is rejected**: In some cases, your contribution may not align with the project's goals or requirements, or it may not be the best solution to a problem. If your contribution is rejected, don't be discouraged. Take the feedback you received as an opportunity to learn and improve. You can always try contributing to another project or submitting a different contribution to the same project.
+
 ## Let's Get Practical
 
 Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's [guest book repository](https://github.com/open-sauced/guestbook).
@@ -338,16 +349,7 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
    git push
    ```
 
-## What Happens Next?
-
-After your contribution has been submitted and reviewed, one of the following outcomes may occur:
-
-1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br>
-   Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
-
-2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
-
-3. **Your contribution is rejected**: In some cases, your contribution may not align with the project's goals or requirements, or it may not be the best solution to a problem. If your contribution is rejected, don't be discouraged. Take the feedback you received as an opportunity to learn and improve. You can always try contributing to another project or submitting a different contribution to the same project.
+<hr>
 
 As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
 
