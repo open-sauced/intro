@@ -45,6 +45,20 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
 
+## Onboarding in a New Project
+
+When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
+
+1. **Read the documentation**: Start by reading the project's documentation, including the README file, contributing guidelines, and code of conduct. This will help you understand the project's goals, requirements, and expectations for contributors.
+
+2. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
+
+3. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
+
+4. **Ask for help**: If you're unsure about something or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming, and other contributors will be happy to assist you.
+
+5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
+
 ## Getting Started With Contributing
 
 Once you've found a project you'd like to contribute to, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors.
@@ -315,20 +329,6 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
    ```bash
    git push
    ```
-
-## Onboarding in a New Project
-
-When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
-
-1. **Read the documentation**: Start by reading the project's documentation, including the README file, contributing guidelines, and code of conduct. This will help you understand the project's goals, requirements, and expectations for contributors.
-
-2. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
-
-3. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
-
-4. **Ask for help**: If you're unsure about something or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming, and other contributors will be happy to assist you.
-
-5. **Be patient and persistent**: Onboarding in a new project can be challenging, especially if you're new to open source development. Be patient with yourself, and don't be discouraged by setbacks or mistakes. With persistence and practice, you'll become more comfortable and confident in your contributions.
 
 ## What Happens Next?
 
