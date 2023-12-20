@@ -272,7 +272,7 @@ When a merge conflict occurs, Git adds conflict markers (`<<<<<<<`, `=======`, a
 
 You need to pay attention to the conflicts and decide how you want to resolve them. You can keep only your change, incoming change, or both changes.
 
-### Tips to Avoid Further Conflicts
+### Tips to Prevent Resolving Merge Conflicts Repeatedly
 
 Some open source repositories, such as OpenSauced's [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
 
