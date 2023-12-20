@@ -63,7 +63,7 @@ Here are some tips to help you onboard successfully:
 
 ## Getting Started With Contributing
 
-Once you've found a project you'd like to contribute to, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors.
+Once you've onboarded yourself in the project, you need to investigate how the project receives contributions. Here are some steps you can take to ensure you're following the processes the maintainers have created for contributors:
 
 1. **Familiarize yourself with the project**: Read the project's documentation, including the README file, to understand its purpose, goals, and coding conventions. Next, read through the CONTRIBUTING file to better understand the process for contributions. Familiarize yourself with the project's codebase, structure, and existing issues.
 
