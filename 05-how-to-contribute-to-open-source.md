@@ -75,7 +75,7 @@ Once you've onboarded yourself in the project, you need to investigate how the p
 
 ## Contribution Workflow
 
-Once you've found a project you'd like to contribute to, the next step is to submit a contribution. Here's a general outline of the process:
+Once a maintainer has assigned you an issue, the next step is to work on the changes. Here's a general workflow of the process:
 
 1. **[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)**: Forking a repository means creating a copy of the repository under your GitHub account. It allows you to push changes to the remote codebase without affecting the original project.
 
