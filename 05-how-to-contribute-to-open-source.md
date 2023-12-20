@@ -278,24 +278,30 @@ Some open source repositories, such as OpenSauced's [guest book](https://github.
 
 Below are some tips to avoid further conflicts when contributing to open source projects:
 
-#### Following Instructions
+#### 1. Following Instructions
 
 Ensure you follow the instructions in the project's README or Contributing Guide, and don't miss any step.
 
-#### Pull Request Form
+#### 2. Pull Request Form
 
 Complete the template form and fill in all areas when creating a pull request.
 
 If a repository doesn't provide you with a pull request template, you need to have these in your pull request form:
 
-- A descriptive title
-- A clear description of your changes
-- The [link to the related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-- A screenshot or screen recording when you make a UI change
+- **A descriptive title**: A descriptive title would help maintainers and other contributors gain an idea of what your contribution is. <br>
+  Consider using the following method to write your title: `type: brief description of your contribution`. For example, `fix: color contrast issue on the navbar`, `feat: create a warning button`, etc.
 
-#### Resolving Merge Conflicts Immediately
+- **A clear description of your pull request**: Describe your pull request clearly. Consider explaining your changes, thoughts behind the solution, etc. A clear description gives maintainers and other contributors insight into the details of your changes. Here is [an example of a clear description in a pull request](https://github.com/open-sauced/intro/pull/10).
 
-When you notice merge conflicts in your PR or if a maintainer asks you to resolve merge conflicts, fix them immediately.
+- **The [link to the related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)**: Linking a pull request to the addressed issue will close the linked issue automatically when the pull request gets merged. This makes it easier for maintainers to keep their projects organized.
+
+- **A screenshot or screen recording when you make a UI change**: Providing screenshots or screen recordings will make it easier for maintenance to visualize your changes and review your pull request.
+
+#### 3. Resolving Merge Conflicts Immediately
+
+If a branch has merge conflicts that must be resolved, the merge button is automatically disabled. So, maintainers are not able to merge the pull request.
+
+When you notice merge conflicts in your pull request or if a maintainer asks you to resolve merge conflicts, fix them immediately. The sooner you resolve the conflicts, the sooner maintainers can review and merge your pull request.
 
 ### Merge Conflicts in the Guest Book Repository
 
