@@ -280,7 +280,7 @@ You need to pay attention to the conflicts and decide how you want to resolve th
 
 Some open source repositories, such as OpenSauced's [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
 
-Below are some tips to avoid further conflicts when contributing to open source projects:
+Below are some tips to prevent you from resolving merge conflicts repeatedly when contributing to open source projects:
 
 #### 1. Following Instructions
 
