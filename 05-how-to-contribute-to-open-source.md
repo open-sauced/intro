@@ -1,15 +1,6 @@
 # How to Contribute to Open Source
 
-In this chapter, we'll guide you through the process of contributing to open source projects. We'll cover the following topics:
-
-- Finding projects to work on
-- Onboarding in a new project
-- Getting started with contributing
-- Contribution workflow
-- Let's get practical
-- Keeping branches up to date
-- Merge conflicts
-- What happens next?
+In this chapter, we'll guide you through the process of contributing to open source projects.
 
 ## Finding Projects to Work On
 
