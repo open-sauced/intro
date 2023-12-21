@@ -254,7 +254,7 @@ First, you must update your forked (`origin`) repository:
 2. Click the "Sync fork" button.
 3. Click the green "Update branch" button.
 
-Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
+Then, pull the latest changes in the `main` branch in the `origin` repository to update your local working branch by following these steps in your terminal:
 
 1. Go to your working branch.
 
