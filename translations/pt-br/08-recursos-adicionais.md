@@ -18,7 +18,7 @@ Felicitações por sua jornada no open source! Aqui estão alguns recursos para 
 
 - [Além da Criação de Conteúdo: Como as Contribuições de Open Source Podem Ajudá-lo a Ser Notado](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 
-- [Escrevendo sua primeira Pull Request: Dicas, Melhores Práticas e Ferramentas com Inteligência Artificial para o Sucesso](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
+- [Escrevendo a sua primeira Pull Request: Dicas, Melhores Práticas e Ferramentas com Inteligência Artificial para o Sucesso](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
 
 - [Como Contribuir para Open Source sem Saber Programar: Um guia com sugestões de projetos](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 

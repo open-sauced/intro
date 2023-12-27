@@ -6,9 +6,9 @@ Como concluímos este curso sobre como começar com open source, vamos recapitul
 
 Ao longo deste curso, cobrimos uma variedade de tópicos projetados para ajudá-lo a entender e navegar pelo mundo do open source:
 
-1. **O que é open source?**: Discutimos a definição de open source, sua história e os princípios básicos que orientam o movimento open source.
+1. **O que é open source?**: discutimos a definição de open source, sua história e os princípios básicos que orientam o movimento open source.
 
-2. **Por que open source?**: Exploramos os benefícios de se envolver com projetos de open source, incluindo acesso ao conhecimento, comunidade e desenvolvimento de habilidades.
+2. **Por que open source?**: exploramos os benefícios de se envolver com projetos de open source, incluindo acesso ao conhecimento, comunidade e desenvolvimento de habilidades.
 
 3. **Ferramentas para ter sucesso**: Apresentamos ferramentas e plataformas essenciais para colaboradores de open source, como GitHub, Git, CodeSee, Visual Studio Code e Discord.
 
@@ -18,7 +18,7 @@ Ao longo deste curso, cobrimos uma variedade de tópicos projetados para ajudá-
 
 Ao entender esses conceitos e aplicar as estratégias que discutimos, você estará bem equipado para embarcar em uma jornada de open source bem-sucedida.
 
-# O que vem a seguir?
+# O que segue?
 
 Com o conhecimento e as ferramentas que você adquiriu neste curso, você está pronto para mergulhar no mundo do open source e começar a fazer contribuições significativas. Aqui estão alguns próximos passos para ajudá-lo a continuar sua jornada de open source:
 

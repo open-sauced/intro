@@ -1,15 +1,12 @@
 # O segredo do sauce
 
-
 Neste capítulo, vamos compartilhar algumas estratégias e dicas menos conhecidas para causar um impacto duradouro na comunidade de código aberto. Discutiremos como focar em issues abertos, ganhar tração em suas contribuições e desenvolver seu currículo de código aberto usando o OpenSauced.
 
 ## Isues abertos, mais do que PRs que corrigem erros de digitação
 
-
 Enquanto corrigir erros de digitação e melhorar a documentação são contribuições valiosas para projetos de código aberto, é essencial olhar além desses frutos de baixo nível e focar na resolução de issues abertos. Abordar issues abertos não apenas ajuda o projeto a avançar, mas também permite que você desenvolva uma compreensão mais profunda da base de código e demonstre suas habilidades de resolução de issues.
 
 Aqui estão algumas dicas para encontrar e resolver abrir issues:
-
 
 1. **Navegue no rastreador de issues**: A maioria dos projetos de código aberto usa um rastreador de issues para gerenciar bugs, solicitações de recursos e outras tarefas. Navegue no rastreador de issues para encontrar issues que se alinhem com seus interesses e habilidades.
 
@@ -34,7 +31,6 @@ Enquanto você ganha mais experiência em contribuições de código aberto, pod
 3. **Colabore com os outros**: O código aberto é tudo sobre colaboração. Trabalhe com outros colaboradores para resolver issues, desenvolver recursos e compartilhar conhecimento. Ao colaborar efetivamente, você não apenas melhorará o projeto, mas também construirá uma forte rede de conexões na comunidade de código aberto.
 
 4. **Compartilhe seu conhecimento**: Compartilhe seu conhecimento e insights escrevendo postagens de blog, criando tutoriais ou dando apresentações sobre os projetos em que trabalha. Isso não apenas ajudará os outros a aprender com suas experiências, mas também o estabelecerá como um líder de pensamento na comunidade de código aberto.
-
 
 5. **Mentore novos colaboradores**: À medida que você ganha mais experiência em contribuições de código aberto, considere orientar novos colaboradores que estão começando sua jornada de código aberto. Isso pode ajudá-lo a retribuir à comunidade, desenvolver suas habilidades de liderança e construir uma reputação positiva.
 
