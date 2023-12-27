@@ -5,6 +5,6 @@
   - [Ferramentas utilizadas](/translations/pt-br/04-ferramentas-utilizadas.md)
   - [Como Contribuir Para Open Source](/translations/pt-br/05-como-contribuir-para-open-source.md)
   - [O segredo do sauce](/translations/pt-br/06-o-segredo-do-sauce.md)
-   - [Recursos Adicionais](/translations/pt-br/08-recursos-adicionais.md)
+  - [Recursos Adicionais](/translations/pt-br/08-recursos-adicionais.md)
   - [Conclusão](/translations/pt-br/09-conclusão.md)
   - [Glossário](/translations/pt-br/10-glossário.md)
