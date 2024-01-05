@@ -1,4 +1,4 @@
-Felicitações por sua jornada no open source! Aqui estão alguns recursos para aprender mais sobre como começar no open source:source:
+Felicitações por sua jornada no open source! Aqui estão alguns recursos para aprender mais sobre como começar no open source:
 
 ## Guias e Tutoriais
 
@@ -14,7 +14,7 @@ Felicitações por sua jornada no open source! Aqui estão alguns recursos para 
 
 - [Open Source Friday](https://opensourcefriday.com/) por GitHub: Um movimento global que incentiva indivíduos e organizações a contribuir para o open source todas as sextas-feiras. O site fornece recursos e guias sobre como começar no open source e encontrar projetos para contribuir.
 
-## Blog posts
+## Publicação no blogue
 
 - [Além da Criação de Conteúdo: Como as Contribuições de Open Source Podem Ajudá-lo a Ser Notado](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 
