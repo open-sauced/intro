@@ -37,3 +37,9 @@ Com o conhecimento e as ferramentas que você adquiriu neste curso, você está 
 7. **Continue aprendendo**: O open source é um campo dinâmico e em constante evolução. Mantenha-se atualizado com as últimas ferramentas, técnicas e melhores práticas participando de workshops, fazendo cursos on-line e lendo artigos e livros sobre desenvolvimento de open source. Incluímos uma [seção de recursos adicionais](/translations/pt-br/08-recursos-adicionais.md) para obter mais informações.
 
 Em conclusão, embarcar em uma jornada de open source é uma experiência gratificante e enriquecedora que pode ajudá-lo a desenvolver novas habilidades, se conectar com pessoas de mentalidade semelhante e ter um impacto duradouro nos projetos em que trabalha. Com o conhecimento e as ferramentas que você adquiriu neste curso, você está bem preparado para enfrentar os desafios e oportunidades emocionantes que o aguardam no mundo do open source. Então vá em frente e comece a contribuir - a comunidade de open source aguarda ansiosamente sua participação!
+
+[Próximo Capítulo ->](/translations/pt-br/10-glossário.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/09-conclusão.md">
+✏️  Editar esta página
+</a>

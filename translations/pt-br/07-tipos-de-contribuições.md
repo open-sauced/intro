@@ -94,13 +94,16 @@ Aqui estão alguns exemplos de contribuições que você pode fazer em um projet
 
 - **Refatoração de Código**: refatoração envolve reestruturação e melhoria do código existente sem mudar seu comportamento externo. Isso ajuda a melhorar a legibilidade de código, manutenção e escalabilidade, que são vitais para a saúde a longo prazo do projeto: [função CalcDistanceFromNow](https://github.com/open-sauced/app/pull/1633)
 
-- **Design e Manutenção de API**: Para projetos com API pública, os desenvolvedores podem contribuir para projetar, manter, e melhorar a API para garantir que ela permaneça estável e amigável para o desenvolvedor: [Atualizar token
-  ](https\://github. Um/IridiumIdentidade/iridium/pull/134)
+- **Design e Manutenção de API**: Para projetos com API pública, os desenvolvedores podem contribuir para projetar, manter, e melhorar a API para garantir que ela permaneça estável e amigável para o desenvolvedor: [Atualizar token](https://github.com/IridiumIdentidade/iridium/pull/134)
 
-- **Desenvolvimento de recursos**: Os desenvolvedores contribuem implementando novos recursos ou funcionalidades em resposta às necessidades do usuário ou objetivos do projeto. O desenvolvimento de recursos geralmente envolve planejamento, design e codificação de novos componentes ou recursos : Adicionado a página de contato
+- **Desenvolvimento de recursos**: Os desenvolvedores contribuem implementando novos recursos ou funcionalidades em resposta às necessidades do usuário, ou objetivos do projeto. O desenvolvimento de recursos geralmente envolve planejamento, design e codificação de novos componentes ou recursos : Adicionado a página de contato
 
 - **Otimização de desempenho**: Os codificadores podem trabalhar na otimização do desempenho do software refatorando o código, melhorando os algoritmos ou otimizando o uso de recursos. Este tipo de contribuição visa fazer o software funcionar mais eficientemente: [Tabela de repos em telas pequenas não mostra seleto](https://github.com/open-sauced/app/pull/1559)
 
 - **Teste e Garantia de Qualidade**: Escrever testes automatizados, incluindo testes de unidade, testes de integração e testes de ponta a ponta, é uma contribuição de codificação que garante confiabilidade do software. Testar ajuda a capturar e prevenir regressões e problemas: [Adicionar componente de login forçado para projetar o sistema](https://github.com/open-sauced/app/pull/1330)
 
-[Próxima Seção ->](08-recursos-adicionais.md)
+[Próxima Seção ->](/translations/pt-br/08-recursos-adicionais.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/07-tipos-de-contribuições.md">
+✏️  Editar esta página
+</a>

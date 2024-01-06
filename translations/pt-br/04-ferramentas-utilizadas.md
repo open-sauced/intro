@@ -136,3 +136,7 @@ Para começar com o Discord, visite o site oficial (https://discord.com/) e insc
 Familiarizando-se com essas ferramentas e plataformas, você estará equipado para colaborar efetivamente, gerir os seus projetos e contribuir para projetos de código aberto. No próximo capítulo, discutiremos como contribuir para projetos de código aberto, incluindo encontrar projetos para trabalhar, enviar contribuições e o que acontece depois que a sua contribuição é aceite.
 
 [Próximo Capítulo ->](/translations/pt-br/05-como-contribuir-para-open-source.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/04-ferramentas-utilizadas.md">
+✏️  Editar esta página
+</a>

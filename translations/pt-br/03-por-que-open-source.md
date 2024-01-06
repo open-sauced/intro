@@ -55,3 +55,7 @@ Além dos benefícios mencionados acima, contribuir para projetos de código abe
 No próximo capítulo, discutiremos as ferramentas e recursos essenciais de que você precisará para ter sucesso em sua jornada de código aberto, incluindo GitHub, Git, CodeSee, VS Code e Discord. Ao se familiarizar com essas ferramentas, você estará melhor equipado para colaborar com outras pessoas, gerenciar seus projetos e contribuir efetivamente para projetos de código aberto.
 
 [Próximo Capítulo -->](/translations/pt-br/04-ferramentas-utilizadas.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/03-por-que-open-source.md">
+✏️  Editar esta página
+</a>

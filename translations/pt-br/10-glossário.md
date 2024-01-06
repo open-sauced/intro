@@ -43,3 +43,7 @@ Merge é o processo de combinar alterações de uma ramificação em outra. Quan
 Isso é uma abreviação da palavra "documentação", um pedaço de texto que fornece informações sobre como contribuir para projetos de código aberto e expectativas para os contribuidores.
 O Markdown, uma linguagem de codificação baseada em texto, é frequentemente usado para criar esse tipo de conteúdo.
 Quer ver um exemplo em ação? Confira o [Guia de Estilo no nosso repositório Pizza Verse](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/10-glossário.md">
+✏️  Editar esta página
+</a>

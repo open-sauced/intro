@@ -67,3 +67,7 @@ O crescente interesse e adoção do código aberto também levaram a ecossistema
 No próximo capítulo, exploraremos os muitos benefícios de contribuir para projetos de código aberto e discutiremos como a colaboração de código aberto pode ajudá-lo a acessar conhecimento, se conectar com uma comunidade e desenvolver habilidades valiosas.
 
 [Próximo Capítulo ->](/translations/pt-br/03-por-que-open-source.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/02-o-que-é-open-source.md">
+✏️  Editar esta página
+</a>

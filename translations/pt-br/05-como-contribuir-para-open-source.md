@@ -46,3 +46,7 @@ OpenSauced é uma ferramenta poderosa para encontrar projetos de open source par
 Ao usar o OpenSauced, você pode agilizar o processo de localização de projetos de open source para trabalhar e focar na contribuição para os projetos que se alinham aos seus interesses e objetivos.
 
 [Próximo Capítulo ->](/translations/pt-br/06-o-segredo-do-sauce.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/05-como-contribuir-para-open-source.md">
+✏️  Editar esta página
+</a>

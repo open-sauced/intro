@@ -75,4 +75,8 @@ Ao alavancar o OpenSauced para rastrear suas contribuições de código aberto e
 
 Para concluir, começar a contribuir para o código aberto e causar um impacto duradouro nos projetos em que você trabalha requer uma combinação de habilidades técnicas, colaboração e persistência. Ao se concentrar em issues abertas, ganhar tração em suas contribuições e alavancar ferramentas como OpenSauced, você estará bem encaminhado para uma jornada de código aberto bem-sucedida e gratificante.
 
-[Último Capítulo ->](/translations/pt-br/07-conclusão.md)
+[Último Capítulo ->](/translations/pt-br/07-tipos-de-contribuições.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/06-o-segredo-do-sauce.md">
+✏️  Editar esta página
+</a>

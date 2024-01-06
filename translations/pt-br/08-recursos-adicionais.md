@@ -23,3 +23,9 @@ Felicitações por sua jornada no open source! Aqui estão alguns recursos para 
 - [Como Contribuir para Open Source sem Saber Programar: Um guia com sugestões de projetos](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
 - [Como Escrever uma Boa Issue: Dicas para Comunicação Eficaz em Open Source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
+
+[Próximo Capítulo ->](/translations/pt-br/09-conclusão.md)
+
+<a href="https://github.com/open-sauced/intro/edit/main/translations/pt-br/08-recursos-adicionais.md">
+✏️  Editar esta página
+</a>
