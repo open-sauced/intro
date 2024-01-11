@@ -40,7 +40,7 @@ Contribuir para projetos de código aberto pode ajudá-lo a desenvolver uma ampl
 
 5. **Aprenda gerenciamento e organização de projetos**: contribuir para projetos de código aberto pode expô-lo a vários aspetos do gerenciamento e organização de projetos, como planejamento, documentação e controle de versão. Ao aprender a gerenciar projetos de código aberto, você pode desenvolver habilidades que podem ser aplicadas a projetos pessoais e profissionais.
 
-6. **Desenvolva habilidades de liderança e mentoria**: ao ganhar experiência na comunidade de código aberto, você pode se encontrar numa posição para orientar e orientar novos contribuidores. Ao assumir esses papéis de liderança, você pode desenvolver habilidades essenciais, como comunicação, empatia e delegação, que podem ajudá-lo a ter sucesso em sua carreira e vida pessoal.
+6. **Desenvolva habilidades de liderança e mentoria**: ao ganhar experiência na comunidade de código aberto, você pode se encontrar numa posição para orientar e guiar novos contribuidores. Ao assumir esses papéis de liderança, você pode desenvolver habilidades essenciais, como comunicação, empatia e delegação, que podem ajudá-lo a ter sucesso em sua carreira e vida pessoal.
 
 ## Benefícios adicionais
 
