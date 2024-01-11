@@ -6,7 +6,7 @@ Neste capítulo, vamos mergulhar no conceito de open source, sua definição e s
 
 O termo "open source" refere-se a um tipo de software cujo código-fonte é disponibilizado ao público, permitindo que qualquer pessoa visualize, use, modifique e distribua o código. Isso é em contraste com o software proprietário, onde o código-fonte é mantido em segredo e apenas o programa compilado é distribuído. O princípio básico por trás do código aberto é a ideia de colaboração e a crença de que o compartilhamento de conhecimento e recursos leva a um software melhor, mais confiável e mais inovador.
 
-Um software de código aberto é construído com base na premissa de que, quando muitas pessoas trabalham juntas, elas podem criar algo maior do que a soma das suas partes. Os contribuidores para projetos de código aberto vêm de origens diversas e trazem uma ampla gama de habilidades, experiências e perspetivas para a mesa. Essa diversidade de pensamento e experiência leva a um software mais robusto, inovador e confiável.
+Um software de código aberto é construído com base na premissa de que, quando muitas pessoas trabalham juntas, elas podem criar algo maior do que a soma das suas partes. Os contribuidores para projetos de código aberto vêm de origens diversas e trazem uma ampla gama de habilidades, experiências e perspectivas para a mesa. Essa diversidade de pensamento e experiência leva a um software mais robusto, inovador e confiável.
 
 ### Licenças de código aberto
 
