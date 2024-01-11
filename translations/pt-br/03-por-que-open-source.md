@@ -8,7 +8,7 @@ Um dos principais benefícios de contribuir para projetos de código aberto é a
 
 1. **Aprenda com projetos reais**: Projetos de código aberto oferecem uma oportunidade única de estudar e aprender com bases de código do mundo real. Ao examinar como outros desenvolvedores enfrentaram problemas complexos, você pode obter insights sobre as melhores práticas, padrões de design e técnicas de ponta que pode aplicar aos seus próprios projetos.
 
-2. **Acesse perspetivas diversas**: Projetos de código aberto atraem contribuidores de todo o mundo, cada um trazendo seu próprio conjunto único de habilidades, experiências e perspectivas. Ao colaborar com outras pessoas, você pode ampliar sua compreensão de diferentes tecnologias, linguagens de programação e metodologias de desenvolvimento.
+2. **Acesse diversas perspectivas**: Projetos de código aberto atraem contribuidores de todo o mundo, cada um trazendo seu próprio conjunto único de habilidades, experiências e perspectivas. Ao colaborar com outras pessoas, você pode ampliar sua compreensão de diferentes tecnologias, linguagens de programação e metodologias de desenvolvimento.
 
 3. **Mantenha-se atualizado com as últimas tendências**: A comunidade de código aberto geralmente está na vanguarda da inovação, com novos projetos, ferramentas e tecnologias constantemente surgindo. Ao participar de projetos de código aberto, você pode se manter atualizado com os últimos desenvolvimentos em sua área e aprender sobre tendências emergentes e melhores práticas.
 
