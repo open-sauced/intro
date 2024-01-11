@@ -54,7 +54,7 @@ Este curso é dividido em vários capítulos, cada um projetado para cobrir um a
 6. **O segredo do sauce:** Este capítulo revelará as estratégias e técnicas para começar, ganhar tração em suas contribuições,
 7. **Conclusão:** Encerraremos o curso com as principais conclusões e discutiremos os próximos passos em sua jornada de open source.
 
-Ao longo deste curso, forneceremos exemplos e demonstrações para ajudar a ilustrar conceitos-chave e fornecer oportunidades práticas de prática. Quando possível, apresentaremos projetos e ferramentas de open source do mundo real, como [OpenSauced](https://opensauced.pizza/), para demonstrar como aplicar as habilidades que você aprendeu.
+Ao longo deste curso, forneceremos exemplos e demonstrações para ajudar a ilustrar conceitos-chave e fornecer exercícios práticos. Quando possível, apresentaremos projetos e ferramentas de open source do mundo real, como [OpenSauced](https://opensauced.pizza/), para demonstrar como aplicar as habilidades que você aprendeu.
 
 Por favor, note que enquanto esses exemplos e demonstrações são projetados para fornecer orientação e inspiração, sua própria jornada de open source pode ser diferente, dependendo de seus interesses, habilidades e projetos escolhidos.
 
