@@ -140,8 +140,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 ### Getting Started
 
 1. Create an issue by clicking the "New issue" button in the "Issues" tab and complete the form.
-2. Fork the [guest book repository](https://github.com/open-sauced/guestbook).
-
+2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
 5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
@@ -211,7 +210,6 @@ You'll need to have these tools donwloaded and installed on your local machine:
        > ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
 7. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
-
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
 
    > **Tip**: If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
