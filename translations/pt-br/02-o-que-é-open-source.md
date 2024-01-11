@@ -28,7 +28,7 @@ No entanto, na década de 1970, à medida que a indústria de software começou 
 
 Como consequência da crescente restrição ao acesso ao código-fonte, o programador Richard Stallman fundou a Free Software Foundation (FSF) em 1985. O objetivo da FSF era promover o desenvolvimento e o uso de software livre, que eles definiram como software que concede aos usuários a liberdade de executar, estudar, compartilhar e modificar o código. Esse conceito é semelhante ao código aberto, mas enfatiza mais os aspectos éticos e políticos da liberdade de software.
 
-Stallman e a FSF passaram a desenvolver o Projeto GNU (que significa "GNU's Not Unix"), um esforço ambicioso para criar um sistema operativo completamente livre e aberto. Embora o Projeto GNU tenha fornecido muitos componentes essenciais, faltava uma peça crítica: um kernel livre e aberto, o componente central de um sistema operativo.
+Stallman e a FSF passaram a desenvolver o Projeto GNU (que significa "GNU's Not Unix"), um esforço ambicioso para criar um sistema operacional completamente livre e aberto. Embora o Projeto GNU tenha fornecido muitos componentes essenciais, faltava uma peça crítica: um kernel livre e aberto, o componente central de um sistema operacional.
 
 ### O surgimento do Linux
 
