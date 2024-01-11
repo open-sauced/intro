@@ -62,7 +62,7 @@ O movimento de código aberto percorreu um longo caminho desde os seus primórdi
 
 À medida que o código aberto continua a evoluir, novos projetos, ferramentas e tecnologias estão constantemente surgindo, empurrando os limites do que é possível e impulsionando a inovação em uma ampla gama de indústrias.
 
-O crescente interesse e adoção do código aberto também levaram a ecossistema de código aberto próspero de conferências, meetups e comunidades online onde os desenvolvedores podem se reunir para aprender, colaborar e compartilhar os seus conhecimentos. Ao participar desses eventos e se envolver com a comunidade de código aberto, você terá a oportunidade de expandir as suas habilidades, construir a sua rede e se manter atualizado com os últimos desenvolvimentos na �rea.
+O crescente interesse e adoção do código aberto também levaram a um ecossistema de código aberto próspero de conferências, meetups e comunidades online onde os desenvolvedores podem se reunir para aprender, colaborar e compartilhar os seus conhecimentos. Ao participar desses eventos e se envolver com a comunidade de código aberto, você terá a oportunidade de expandir as suas habilidades, construir a sua rede e se manter atualizado com os últimos desenvolvimentos na área.
 
 No próximo capítulo, exploraremos os muitos benefícios de contribuir para projetos de código aberto e discutiremos como a colaboração de código aberto pode ajudá-lo a acessar conhecimento, se conectar com uma comunidade e desenvolver habilidades valiosas.
 
