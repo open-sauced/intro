@@ -22,7 +22,7 @@ A comunidade de código aberto é uma rede diversificada e global de desenvolved
 
 2. **Expanda a sua rede**: A comunidade de código aberto é vasta e interconectada, com inúmeros projetos, eventos e fóruns onde os desenvolvedores se reúnem para colaborar e compartilhar conhecimento. Ao participar dessas atividades, você pode expandir sua rede profissional e se conectar com potenciais mentores, colaboradores e até empregadores.
 
-3. **Desenvolva habilidades de comunicação e colaboração**: trabalhar em projetos de código aberto geralmente envolve colaborar com outras pessoas, remota ou pessoalmente. Isso pode ajudá-lo a desenvolver habilidades essenciais de comunicação e colaboração, como fornecer feedback construtivo, resolver conflitos e trabalhar efetivamente em equipe.
+3. **Desenvolva habilidades de comunicação e colaboração**: trabalhar em projetos de código aberto geralmente envolve colaborar com outras pessoas, remotamente ou pessoalmente. Isso pode ajudá-lo a desenvolver habilidades essenciais de comunicação e colaboração, como fornecer feedback construtivo, resolver conflitos e trabalhar efetivamente em equipe.
 
 4. **Retribua à comunidade**: Contribuir para projetos de código aberto é uma maneira de retribuir à comunidade que lhe forneceu conhecimento e recursos valiosos. Compartilhando as suas habilidades e experiência, você pode ajudar a apoiar o crescimento e o sucesso contínuo do movimento de código aberto.
 
