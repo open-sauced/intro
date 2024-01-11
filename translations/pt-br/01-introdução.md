@@ -8,7 +8,7 @@ Mas primeiro, vamos preparar o cenário discutindo os pré-requisitos, objetivos
 ## Pré-requisitos
 
 Antes de mergulhar no mundo do open source, é essencial ter uma compreensão básica dos conceitos de programação e alguma experiência trabalhando com código.
-Embora o curso forneça exemplos e demonstrações, você obterá o máximo do material se tiver algum conhecimento prévio.
+Embora o curso forneça exemplos e demonstrações, você aproveitará o máximo do conteúdo se tiver algum conhecimento prévio.
 
 Além disso, este curso pressupõe que você esteja familiarizado com o Git e o GitHub.
 O Git é um sistema de controle de versão amplamente utilizado, e o GitHub é uma plataforma popular para hospedar e colaborar em repositórios Git.
