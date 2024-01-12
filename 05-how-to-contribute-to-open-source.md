@@ -139,11 +139,12 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 ### Getting Started
 
-1. Fork the [guest book repository](https://github.com/open-sauced/guestbook).
-2. Clone your forked repository to your computer.
-3. Run `npm install` to install the dependencies.
-4. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
-5. Add yourself to the guest book.
+1. Create an issue by clicking the "New issue" button in the "Issues" tab and complete the form.
+2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
+3. Clone your forked repository to your computer.
+4. Run `npm install` to install the dependencies.
+5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
+6. Add yourself to the guest book.
 
    There are two ways you can complete this activity:
 
@@ -208,9 +209,12 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
        > ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
-6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
+7. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
+8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
 
-7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
+   > **Tip**: If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+
+9. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
 
    Add and commit your changes by running the following command:
 
@@ -222,7 +226,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
 
-8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+10. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
    If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
 
@@ -230,13 +234,13 @@ You'll need to have these tools donwloaded and installed on your local machine:
    docs: add @your_username as a contributor
    ```
 
-9. Push the commit to your forked repository with this command:
+11. Push the commit to your forked repository with this command:
 
    ```bash
    git push -u origin branch-name
    ```
 
-10. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
+12. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
 
 Congratulations on your first contribution! 🎉
 
