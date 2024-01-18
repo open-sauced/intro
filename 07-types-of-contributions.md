@@ -1,22 +1,27 @@
 # Types of contributions
+
 In this chapter, we will discuss the non-coding and coding types of contributions involved with open-source projects.
 
 ## Non-Coding Type Of Contributions
+
   Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
 > [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
 **Common types of non-coding contributions**
+
   - Documentation
   - Graphic design
   - Blog writing
 
 ### Documentation
+
 Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
 
 This involves creating, improving, or maintaining the written resources that accompany open-source software projects. Documentation is crucial to open-source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors and encourage repeat contributions.
 
-### How to Contribute to Documentation
+#### How to Contribute to Documentation
+
 *If you're interested in contributing to documentation, here are a few tips:*
 
 - **Read the documentation**: This will help you understand how the product is used.
@@ -26,7 +31,8 @@ This involves creating, improving, or maintaining the written resources that acc
 - **Use the product**: Gaining user insight will help you see which information is needed or not useful in the docs.
   
 - **Be patient and persistent**: It takes time to write good documentation. Don't be afraid to ask for help if you get stuck.
-#### Examples of documentation contributions:
+
+##### Examples of documentation contributions:
 
   - Write a README file that explains how to install and use the project: [The OpenSauced App 
   ](https://github.com/open-sauced/app/blob/beta/README.md)
@@ -47,6 +53,7 @@ This involves creating, improving, or maintaining the written resources that acc
 Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, get involved!
 
 ### Graphic Design
+
 This open-source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open-source software more appealing, user-friendly, and recognizable.
  - **Logo and Branding**: Designing a unique and memorable logo for an open-source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
 
@@ -63,9 +70,11 @@ This open-source contribution involves creating visual assets, such as logos, ic
 - **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices.
 
 ### Blog Writing
+
 This type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
-### Ways to use Blogging as a Open Source Contribution
+#### Ways to use Blogging as a Open Source Contribution
+
 - You can write about the latest features of an open-source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
 - You can write a tutorial on how to install and configure the software: [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
