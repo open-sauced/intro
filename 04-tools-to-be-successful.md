@@ -112,7 +112,7 @@ To get started with CodeSee, visit the official website (https://www.codesee.io/
 
 ## VS Code
 
-Visual Studio Code (VS Code) is a popular, free, and open-source code editor developed by Microsoft. It supports a wide range of programming languages and offers many features that make it a great choice for open source development, including:
+Visual Studio Code (VS Code) is a popular, free, and open source code editor developed by Microsoft. It supports a wide range of programming languages and offers many features that make it a great choice for open source development, including:
 
 - **Built-in Git support**: VS Code provides built-in support for Git, allowing you to manage your Git repositories, stage and commit changes, and resolve merge conflicts directly from the editor.
 - **Extensibility**: VS Code offers a rich ecosystem of extensions that can enhance your development experience and add support for additional languages, tools, and frameworks.

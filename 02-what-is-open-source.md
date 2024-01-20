@@ -32,7 +32,7 @@ Stallman and the FSF went on to develop the GNU Project (which stands for "GNU's
 
 ### The Arrival of Linux
 
-In 1991, a Finnish computer science student named Linus Torvalds developed a free and open-source kernel called Linux. When combined with the GNU system, Linux formed a complete, free, and open-source operating system that is still widely used today. The success of Linux helped to popularize the concept of open source and sparked a wave of new projects, tools, and technologies.
+In 1991, a Finnish computer science student named Linus Torvalds developed a free and open source kernel called Linux. When combined with the GNU system, Linux formed a complete, free, and open source operating system that is still widely used today. The success of Linux helped to popularize the concept of open source and sparked a wave of new projects, tools, and technologies.
 
 ### The Open Source Initiative
 
@@ -46,13 +46,13 @@ As the open source movement gained momentum, numerous communities and platforms 
 
 - **SourceForge**: Launched in 1999, SourceForge was one of the first web-based platforms to provide tools and resources for developers to collaborate on open source projects. At its peak, SourceForge hosted thousands of projects and attracted millions of users.
 - **GitHub**: Founded in 2008, GitHub quickly became the go-to platform for hosting and collaborating on Git repositories. Today, GitHub is home to millions of open source projects and boasts a vibrant community of contributors from around the world.
-- **GitLab**: Launched in 2011 as an open-source alternative to GitHub, GitLab offers a suite of tools and features for managing Git repositories, tracking issues, and facilitating collaboration.
+- **GitLab**: Launched in 2011 as an open source alternative to GitHub, GitLab offers a suite of tools and features for managing Git repositories, tracking issues, and facilitating collaboration.
 
 These platforms have played a crucial role in fostering the growth of open source communities and making it easier for developers to contribute to and collaborate on projects.
 
 ### The Rise of Corporate Involvement
 
-In recent years, there has been a significant increase in corporate involvement in open source projects. Many companies now recognize the value of open source and actively contribute to and support various projects. Some companies have even gone so far as to open-source their own internal tools and technologies, such as Google's TensorFlow and Facebook's React.
+In recent years, there has been a significant increase in corporate involvement in open source projects. Many companies now recognize the value of open source and actively contribute to and support various projects. Some companies have even gone so far as to open source their own internal tools and technologies, such as Google's TensorFlow and Facebook's React.
 
 This increased corporate involvement has not only led to more resources and support for open source projects but has also helped to legitimize the open source movement and encourage wider adoption.
 
