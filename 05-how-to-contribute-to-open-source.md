@@ -128,7 +128,7 @@ After your contribution has been submitted and reviewed, one of the following ou
 
 ## Let's Get Practical
 
-Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's [guest book repository](https://github.com/open-sauced/guestbook).
+Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's [guestbook repository](https://github.com/open-sauced/guestbook).
 
 ### Prerequisite
 
@@ -144,20 +144,20 @@ You'll need to have these tools donwloaded and installed on your local machine:
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
 5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
-6. Add yourself to the guest book.
+6. Add yourself to the guestbook.
 
    There are two ways you can complete this activity:
 
    - Using the CLI tool.
    - Manually editing the `.all-contributorsrc` file.
 
-   Although adding yourself to the guest book with the CLI tool is simpler, we recommend manually editing the file to get more experience adding and committing your changes, creating pull requests, and pull request reviews. Below, you'll find the directions for each method:
+   Although adding yourself to the guestbook with the CLI tool is simpler, we recommend manually editing the file to get more experience adding and committing your changes, creating pull requests, and pull request reviews. Below, you'll find the directions for each method:
 
    **CLI Tool**
 
    - Run `npm run contributors:add` in your terminal.
 
-     Follow the instructions to add yourself to the guest book. After you finish and click enter, you must click enter again to confirm your choices.
+     Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
 
    **Manual Addition**
 
@@ -176,7 +176,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
      }
      ```
 
-   - Add yourself manually to the guest book by updating this information:
+   - Add yourself manually to the guestbook by updating this information:
 
      - **login**: Your GitHub's username.
      - **name**: Your name.
@@ -209,12 +209,12 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
        > ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
-7. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
+7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
 
    > **Tip**: If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
-9. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
+9. If you used the CLI tool method in step 5 to add yourself to the guestbook, **skip this step**. Otherwise:
 
    Add and commit your changes by running the following command:
 
@@ -282,7 +282,7 @@ You need to pay attention to the conflicts and decide how you want to resolve th
 
 ### Tips to Prevent Resolving Merge Conflicts Repeatedly
 
-Some open source repositories, such as OpenSauced's [guest book](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
+Some open source repositories, such as OpenSauced's [guestbook](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
 
 Below are some tips to prevent you from resolving merge conflicts repeatedly when contributing to open source projects:
 
@@ -311,9 +311,9 @@ If a branch has merge conflicts that must be resolved, the merge button is autom
 
 When you notice merge conflicts in your pull request or if a maintainer asks you to resolve merge conflicts, fix them immediately. The sooner you resolve the conflicts, the sooner maintainers can review and merge your pull request.
 
-### Merge Conflicts in the Guest Book Repository
+### Merge Conflicts in the Guestbook Repository
 
-Since the primary purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts.
+Since the primary purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts.
 
 The conflicts happen when maintainers have merged pull requests before yours while you're working on your changes or waiting for your pull request to be reviewed. And you need to resolve them before your pull request can be merged.
 
