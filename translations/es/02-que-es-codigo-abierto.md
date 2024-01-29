@@ -66,4 +66,4 @@ La creciente popularidad del código abierto también ha dado lugar a un próspe
 
 En el próximo capítulo, exploraremos los muchos beneficios de contribuir a proyectos de código abierto y discutiremos cómo la colaboración de código abierto puede ayudarle a acceder al conocimiento, conectarse con una comunidad y desarrollar habilidades valiosas.
 
-[Siguiente Sección ->](03-why-open-source.md)
+[Siguiente Sección ->](03-por-que-codigo-abierto.md)
