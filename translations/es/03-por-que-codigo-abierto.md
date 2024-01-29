@@ -34,7 +34,7 @@ Contribuir a proyectos de código abierto puede ayudarle a desarrollar una ampli
 
 2. **Adquiera experiencia con nuevas tecnologías**: Los proyectos de código abierto a menudo implican tecnologías y herramientas de vanguardia que es posible que no se utilicen en su trabajo o estudios diarios. Al contribuir a estos proyectos, puede adquirir experiencia práctica con nuevas tecnologías y ampliar sus habilidades.
 
-3. **Cree su cartera**: Contribuir a proyectos de código abierto le permite crear un registro público de su trabajo, mostrando sus habilidades y experiencia a posibles empleadores. Un sólido portafolio de contribuciones de código abierto puede ayudarlo a destacarse en el mercado laboral y demostrar su compromiso con el aprendizaje continuo y el crecimiento profesional.
+3. **Cree su portafolio**: Contribuir a proyectos de código abierto le permite crear un registro público de su trabajo, mostrando sus habilidades y experiencia a posibles empleadores. Un sólido portafolio de contribuciones de código abierto puede ayudarlo a destacarse en el mercado laboral y demostrar su compromiso con el aprendizaje continuo y el crecimiento profesional.
 
 4. **Desarrollar habilidades de resolución de problemas y pensamiento crítico**: trabajar en proyectos de código abierto a menudo implica abordar problemas complejos y tomar decisiones importantes. Al afrontar estos desafíos, puede desarrollar valiosas habilidades de pensamiento crítico y resolución de problemas que pueden aplicarse a diversos aspectos de su vida y carrera.
 
