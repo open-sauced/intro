@@ -54,4 +54,4 @@ Además de los beneficios mencionados anteriormente, contribuir a proyectos de c
 
 En el siguiente capítulo, analizaremos las herramientas y recursos esenciales que necesitará para tener éxito en su viaje hacia el código abierto, incluidos GitHub, Git, CodeSee, VS Code y Discord. Al familiarizarse con estas herramientas, estará mejor equipado para colaborar con otros, administrar sus proyectos y contribuir de manera efectiva a proyectos de código abierto.
 
-[Siguiente Sección ->](04-tools-to-be-successful.md)
+[Siguiente Sección ->](04-herramientas-para-tener-exito.md)
