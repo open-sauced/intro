@@ -54,4 +54,4 @@ Utilice los ejemplos y demostraciones como punto de partida, pero no tema explor
 
 Ahora que hemos preparado el escenario, ¡es hora de embarcarse en su viaje hacia el código abierto! En el próximo capítulo, profundizaremos en la definición de código abierto y exploraremos su historia, sentando las bases para una comprensión más profunda de la colaboración de código abierto. ¡Empecemos!
 
-[Siguiente Sección ->](02-what-is-open-source.md)
+[Siguiente Sección ->](02-que-es-codigo-abierto.md)
