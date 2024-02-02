@@ -1,10 +1,10 @@
 # Types of contributions
 
-In this chapter, we will discuss the non-coding and coding types of contributions involved with open-source projects.
+In this chapter, we will discuss the non-coding and coding types of contributions involved with open source projects.
 
 ## Non-Coding Type Of Contributions
 
-  Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open-source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
+  Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
 > [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
@@ -18,7 +18,7 @@ In this chapter, we will discuss the non-coding and coding types of contribution
 
 Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
 
-This involves creating, improving, or maintaining the written resources that accompany open-source software projects. Documentation is crucial to open-source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors and encourage repeat contributions.
+This involves creating, improving, or maintaining the written resources that accompany open source software projects. Documentation is crucial to open source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors and encourage repeat contributions.
 
 #### How to Contribute to Documentation
 
@@ -50,12 +50,12 @@ This involves creating, improving, or maintaining the written resources that acc
     
   - Add missing information to the documentation: [Add More Information to Use This Template in the README](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
 
-Contributing to documentation is a great way to help open-source projects and make them more accessible to everyone. If you have the skills and the interest, get involved!
+Contributing to documentation is a great way to help open source projects and make them more accessible to everyone. If you have the skills and the interest, get involved!
 
 ### Graphic Design
 
-This open-source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open-source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open-source software more appealing, user-friendly, and recognizable.
- - **Logo and Branding**: Designing a unique and memorable logo for an open-source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
+This open source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
+ - **Logo and Branding**: Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
 
 - **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project: [Eventhub signup](https://github.com/WebXGuild/webx-guild/pull/13)
 
@@ -71,25 +71,25 @@ This open-source contribution involves creating visual assets, such as logos, ic
 
 ### Blog Writing
 
-This type of open-source contribution involves creating and publishing blog posts, articles, or tutorials related to open-source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
+This type of open source contribution involves creating and publishing blog posts, articles, or tutorials related to open source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
 #### Ways to use Blogging as a Open Source Contribution
 
-- You can write about the latest features of an open-source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
+- You can write about the latest features of an open source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
 - You can write a tutorial on how to install and configure the software: [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
 
-- Write about the impact of an open-source project, such as how it has been used to make a difference in the world: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
+- Write about the impact of an open source project, such as how it has been used to make a difference in the world: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
 
-- Coding and Non-coding Types of Contributions, such as how to get started with open-source: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+- Coding and Non-coding Types of Contributions, such as how to get started with open source: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
 ## Coding Type Of Contributions
 
-Coding contributions power open-source development. They entail writing, modifying, or improving the actual source code of an open-source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open-source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
-- **Writing New Code**: This is the most common type of coding contribution. Developers write new code to add features, fix bugs, or enhance the functionality of an open-source project. These contributions are typically submitted in the form of pull requests (PRs) or patches: [Show who reacted to highlights](https://github.com/open-sauced/app/pull/1591)
+- **Writing New Code**: This is the most common type of coding contribution. Developers write new code to add features, fix bugs, or enhance the functionality of an open source project. These contributions are typically submitted in the form of pull requests (PRs) or patches: [Show who reacted to highlights](https://github.com/open-sauced/app/pull/1591)
 
 - **Bug Fixes**: Identifying and fixing bugs is a critical coding contribution. Developers locate issues within the codebase, diagnose the problem, and then write code to correct it. Bug fixes improve the stability and reliability of the software: [Lint check happening two times on commit
 ](https://github.com/open-sauced/app/pull/1635)
