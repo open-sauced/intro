@@ -55,7 +55,7 @@ Para practicar el uso de GitHub, veremos cómo crear un repositorio, clonarlo, r
 
 1. **Cree un nuevo repositorio**: inicie sesión en su cuenta de GitHub y navegue hasta [https://github.com/new](https://github.com/new) o haga clic en el icono "+". en la esquina superior derecha y seleccione "Nuevo repositorio" en el menú desplegable.
 
-Elija usted mismo como propietario del repositorio e ingrese un nombre para su repositorio. Para este ejemplo, usaremos `repositorio-practica`.
+Elija usted mismo como propietario del repositorio e ingrese un nombre para su repositorio. Para este ejemplo, usaremos `practice-repository`.
 
 ![nueva captura de pantalla del repositorio](../../images/new-repo.png)
 
@@ -69,16 +69,16 @@ Para este ejemplo, inicialice el repositorio con un archivo README.
 git clone https://github.com/nombre-de-usuario/nombre-repositorio.git
 ```
 
-Reemplace "nombre-de-usuario" con su nombre de usuario de GitHub y "nombre-repositorio" con `repositorio-practica`.
+Reemplace "nombre-de-usuario" con su nombre de usuario de GitHub y "nombre-repositorio" con `practice-repository`.
 
-3. **Acceda a su repositorio en su editor de código**: para este ejemplo, estamos usando VS Code. Abra VS Code, navegue hasta la pestaña del archivo y luego abra su `repositorio-practica`.
+3. **Acceda a su repositorio en su editor de código**: para este ejemplo, estamos usando VS Code. Abra VS Code, navegue hasta la pestaña del archivo y luego abra su `practice-repository`.
 
-4. **Realizar cambios y confirmar**: Debería haber un archivo en su repositorio: `README.md`. Dentro de ese archivo, debajo de `#repositorio-practica`, escribe '¡hola mundo!' Una vez que haya realizado cambios, puede prepararlos y confirmarlos.
+4. **Realizar cambios y confirmar**: Debería haber un archivo en su repositorio: `README.md`. Dentro de ese archivo, debajo de `#practice-repository`, escribe '¡hola mundo!' Una vez que haya realizado cambios, puede prepararlos y confirmarlos.
 
 Abra su terminal y asegúrese de estar en el directorio correcto. Por ejemplo, mis proyectos de codificación están dentro de mi carpeta `proyectos`. Usando mi terminal, accedería a este repositorio ejecutando este comando:
 
 ```
-cd proyectos/repositorio-practica
+cd proyectos/practice-repository
 ```
 
 Una vez que esté en el repositorio correcto, use los siguientes comandos para agregar los cambios que realizó y escriba un mensaje de confirmación con una descripción de los cambios:
