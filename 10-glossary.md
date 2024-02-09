@@ -4,7 +4,7 @@ A branch is a separate version of the code that's created for development purpos
 
 ## Bug
 
-A bug refers to an error, flaw, or defect in code that adversely affects the proper functioning of the software. Open-source projects often depend on contributions from the community to identify and rectify these bugs.
+A bug refers to an error, flaw, or defect in code that adversely affects the proper functioning of the software. Open source projects often depend on contributions from the community to identify and rectify these bugs.
 
 ## Clone
 
@@ -16,7 +16,7 @@ A contributor is anyone who makes changes, additions, or suggestions to an open 
 
 ## Core Member
 
-A core member is a contributor who has been granted additional privileges or responsibilities within an open-source project. Core members are typically trusted contributors who have demonstrated a deep understanding of the project and have made significant contributions to its development.
+A core member is a contributor who has been granted additional privileges or responsibilities within an open source project. Core members are typically trusted contributors who have demonstrated a deep understanding of the project and have made significant contributions to its development.
 
 ## Docs
 
@@ -32,7 +32,7 @@ An issue is a problem or bug that needs to be addressed in the code. Issues can 
 
 ## Maintainer
 
-A maintainer is a person or a group of people responsible for maintaining a specific open-source project. Maintainers are typically responsible for reviewing and accepting or rejecting contributions from other contributors. They also have the authority to make final decisions about the direction and scope of the project.
+A maintainer is a person or a group of people responsible for maintaining a specific open source project. Maintainers are typically responsible for reviewing and accepting or rejecting contributions from other contributors. They also have the authority to make final decisions about the direction and scope of the project.
 
 ## Markdown
 
@@ -50,7 +50,7 @@ Onboarding documentation helps new team members or collaborators quickly become 
 
 ## OSS Projects
 
-OSS stands for "Open-Source Software" projects. These are software projects where the source code is made available to the public, allowing anyone to view, use and modify the software.
+OSS stands for "Open Source Software" projects. These are software projects where the source code is made available to the public, allowing anyone to view, use and modify the software.
 
 ## Pull Request
 
@@ -58,7 +58,7 @@ A pull request is a request from a contributor to a maintainer for changes made 
 
 ## Quality Assurance
 
-Quality assurance in open-source projects involves testing, reviewing, and ensuring the software meets the desired standards. Community members often contribute to testing and reporting issues to improve the software's quality.
+Quality assurance in open source projects involves testing, reviewing, and ensuring the software meets the desired standards. Community members often contribute to testing and reporting issues to improve the software's quality.
 
 ## Release Notes
 
