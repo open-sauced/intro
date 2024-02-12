@@ -1,4 +1,4 @@
-# Cómo contribuir a código abierto
+# Cómo contribuir al código abierto
 
 En este capítulo, lo guiaremos a través del proceso de contribución a proyectos de código abierto.
 
