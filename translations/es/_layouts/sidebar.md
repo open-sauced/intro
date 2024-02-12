@@ -1,9 +1,9 @@
 - Páginas
   - [Introducción](/translations/es/01-introduccion.md)
-  - [¿Qué es código abierto?](/translations/es/02-que-es-codigo-abierto.md)
-  - [¿Por qué código abierto?](/translations/es/03-por-que-codigo-abierto.md)
+  - [¿Qué es Open Source?](/translations/es/02-que-es-open-source.md)
+  - [¿Por qué Open Source?](/translations/es/03-por-que-open-source.md)
   - [Herramientas para tener éxito](/translations/es/04-herramientas-para-tener-exito.md)
-  - [Cómo contribuir a código abierto](/translations/es/05-como-contribuir-a-codigo-abierto.md)
+  - [Cómo contribuir al Open Source](/translations/es/05-como-contribuir-al-open-source.md)
   - [La Salsa Secreta](/translations/es/06-la-salsa-secreta.md)
   - [Tipos de contribuciones](/translations/es/07-tipos-de-contribuciones.md)
   - [Recursos adicionales](/translations/es/08-recursos-adicionales.md)
