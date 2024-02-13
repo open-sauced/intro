@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the "Getting Started with Open Source" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.
+Welcome to the "Intro to Open Source with OpenSauced" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.
 
 ## Prerequisites
 
@@ -50,7 +50,7 @@ Please note that while these examples and demos are designed to provide guidance
 
 Use the examples and demos as a starting point, but don't be afraid to explore other projects, tools, and resources as you continue to learn and grow.
 
-## LFG 🚀
+## Let's Get Started 🚀
 
 Now that we've set the stage, it's time to embark on your open source journey! In the next chapter, we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
 
