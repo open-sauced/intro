@@ -1,22 +1,22 @@
-# Cómo contribuir al código abierto
+# Cómo contribuir al Open Source
 
-En este capítulo, lo guiaremos a través del proceso de contribución a proyectos de código abierto.
+En este capítulo, lo guiaremos a través del proceso de contribución a proyectos Open Source.
 
 ## Encontrar proyectos en los que trabajar
 
-Uno de los primeros desafíos que puede enfrentar al comenzar con el código abierto es encontrar un proyecto en el que contribuir. A continuación se ofrecen algunos consejos que le ayudarán a descubrir proyectos que se alineen con sus intereses y habilidades:
+Uno de los primeros desafíos que puede enfrentar al comenzar con el Open Source es encontrar un proyecto en el que contribuir. A continuación se ofrecen algunos consejos que le ayudarán a descubrir proyectos que se alineen con sus intereses y habilidades:
 
-1. **Explore GitHub y GitLab**: Tanto GitHub como GitLab albergan una gran cantidad de proyectos de código abierto. Puede utilizar su función de búsqueda para encontrar proyectos basados ​​en palabras clave, lenguajes de programación o temas específicos.
+1. **Explore GitHub y GitLab**: Tanto GitHub como GitLab albergan una gran cantidad de proyectos Open Source. Puede utilizar su función de búsqueda para encontrar proyectos basados ​​en palabras clave, lenguajes de programación o temas específicos.
 
-2. **Siga sus intereses**: piense en las herramientas, marcos de trabajo y bibliotecas que utilizas o sobre las que te interesa aprender un poco más. Muchos de estos proyectos son de código abierto y agradecen las contribuciones de la comunidad.
+2. **Siga sus intereses**: piense en las herramientas, marcos de trabajo y bibliotecas que utilizas o sobre las que te interesa aprender un poco más. Muchos de estos proyectos son Open Source y agradecen las contribuciones de la comunidad.
 
-3. **Únase a comunidades de código abierto**: existen numerosas comunidades, foros y plataformas de chat en línea dedicados al desarrollo de código abierto. Al unirte a estas comunidades, puedes conectarte con otros desarrolladores, descubrir nuevos proyectos y encontrar oportunidades de colaboración. En el [Discord de OpenSauced ](https://discord.com/invite/U2peSNf23P), por ejemplo, compartimos "primeros buenos números", proyectos interesantes de GitHub y problemas que tenemos abiertos en nuestros repositorios.
+3. **Únase a comunidades Open Source**: existen numerosas comunidades, foros y plataformas de chat en línea dedicados al desarrollo Open Source. Al unirte a estas comunidades, puedes conectarte con otros desarrolladores, descubrir nuevos proyectos y encontrar oportunidades de colaboración. En el [Discord de OpenSauced ](https://discord.com/invite/U2peSNf23P), por ejemplo, compartimos "primeros buenos números", proyectos interesantes de GitHub y problemas que tenemos abiertos en nuestros repositorios.
 
-4. **Aproveche OpenSauced**: [OpenSauced](https://opensauced.pizza/) es una plataforma que ayuda a los desarrolladores a descubrir y contribuir a proyectos de código abierto. Al utilizar OpenSauced, puede encontrar proyectos que se alineen con sus intereses, habilidades y objetivos.
+4. **Aproveche OpenSauced**: [OpenSauced](https://opensauced.pizza/) es una plataforma que ayuda a los desarrolladores a descubrir y contribuir a proyectos Open Source. Al utilizar OpenSauced, puede encontrar proyectos que se alineen con sus intereses, habilidades y objetivos.
 
-### Descubriendo el código abierto con OpenSauced
+### Descubriendo el Open Source con OpenSauced
 
-OpenSauced es una poderosa herramienta para encontrar proyectos de código abierto en los que contribuir. Para comenzar con OpenSauced, siga estos pasos:
+OpenSauced es una poderosa herramienta para encontrar proyectos Open Source en los que contribuir. Para comenzar con OpenSauced, siga estos pasos:
 
 1. **Regístrese para obtener una cuenta**: visite https://www.opensauced.pizza/ y regístrese para obtener una cuenta utilizando sus credenciales de GitHub.
 
@@ -34,11 +34,11 @@ OpenSauced es una poderosa herramienta para encontrar proyectos de código abier
 
 5. **Empieza a contribuir**: cuando haces clic en el nombre de un repositorio, accederás a su página de GitHub, donde podrás explorar temas que están abiertos y listos para contribuir, sabiendo que la comunidad que rodea este proyecto está activo y sus contribuciones serán bienvenidas.
 
-Al utilizar OpenSauced, puede agilizar el proceso de búsqueda de proyectos de código abierto en los que trabajar y concentrarse en contribuir a los proyectos que se alinean con sus intereses y objetivos.
+Al utilizar OpenSauced, puede agilizar el proceso de búsqueda de proyectos Open Source en los que trabajar y concentrarse en contribuir a los proyectos que se alinean con sus intereses y objetivos.
 
 ## Incorporación en un nuevo proyecto
 
-Cuando esté interesado en contribuir a un nuevo proyecto de código abierto, es importante familiarizarse con las pautas, convenciones y flujo de trabajo del proyecto y tomar la iniciativa de incorporarse.
+Cuando esté interesado en contribuir a un nuevo proyecto Open Source, es importante familiarizarse con las pautas, convenciones y flujo de trabajo del proyecto y tomar la iniciativa de incorporarse.
 
 A continuación se ofrecen algunos consejos que le ayudarán a incorporarse con éxito:
 
@@ -46,11 +46,11 @@ A continuación se ofrecen algunos consejos que le ayudarán a incorporarse con 
 
 2. **Empiece poco a poco**: cuando es nuevo en un proyecto, es una buena idea comenzar con tareas pequeñas y manejables, como corregir errores, agregar pruebas o actualizar documentación. Esto le ayudará a familiarizarse con la base del código y el flujo de trabajo de desarrollo sin sentirse abrumado.
 
-3. **Únase a la comunidad**: muchos proyectos de código abierto tienen comunidades, foros o plataformas de chat en línea donde los desarrolladores pueden hacer preguntas, compartir conocimientos y colaborar. Al unirse a estas comunidades, puede conectarse con otros contribuyentes, aprender de sus experiencias y obtener ayuda con cualquier problema que encuentre.
+3. **Únase a la comunidad**: muchos proyectos Open Source tienen comunidades, foros o plataformas de chat en línea donde los desarrolladores pueden hacer preguntas, compartir conocimientos y colaborar. Al unirse a estas comunidades, puede conectarse con otros contribuyentes, aprender de sus experiencias y obtener ayuda con cualquier problema que encuentre.
 
-4. **Pide ayuda**: Si necesitas una aclaración o encuentras algún problema, no dudes en pedir ayuda. Las comunidades de código abierto generalmente son solidarias y acogedoras; Otros contribuyentes estarán encantados de ayudarle.
+4. **Pide ayuda**: Si necesitas una aclaración o encuentras algún problema, no dudes en pedir ayuda. Las comunidades Open Source generalmente son solidarias y acogedoras; Otros contribuyentes estarán encantados de ayudarle.
 
-5. **Sea paciente y persistente**: incorporarse a un nuevo proyecto puede ser un desafío, especialmente si es nuevo en el desarrollo de código abierto. Sea paciente y no se desanime ante los obstáculos o errores. Te sentirás más cómodo y seguro en tus contribuciones con perseverancia y práctica.
+5. **Sea paciente y persistente**: incorporarse a un nuevo proyecto puede ser un desafío, especialmente si es nuevo en el desarrollo Open Source. Sea paciente y no se desanime ante los obstáculos o errores. Te sentirás más cómodo y seguro en tus contribuciones con perseverancia y práctica.
 
 ## Comenzando a contribuir
 
@@ -80,7 +80,7 @@ Una vez que un mantenedor le haya asignado un problema, el siguiente paso es tra
 
    Reemplace "TU-USUARIO" con su nombre de usuario de GitHub y "NOMBRE-DEL-REPOSITORIO" con el nombre del repositorio.
 
-3. **Crea una nueva rama**: antes de realizar cualquier cambio, crea una nueva rama en tu repositorio local para trabajar en tu contribución. Crear una nueva rama es la mejor práctica en código abierto porque mantiene los cambios separados de la rama "principal".
+3. **Crea una nueva rama**: antes de realizar cualquier cambio, crea una nueva rama en tu repositorio local para trabajar en tu contribución. Crear una nueva rama es la mejor práctica en Open Source porque mantiene los cambios separados de la rama "principal".
 
    Puede crear una nueva rama usando el siguiente comando:
 
@@ -113,14 +113,14 @@ Una vez que un mantenedor le haya asignado un problema, el siguiente paso es tra
 
 8. **Responder a los comentarios**: después de enviar su solicitud de extracción, los mantenedores del proyecto pueden proporcionar comentarios o solicitar cambios. Asegúrese de responder con prontitud y abordar cualquier inquietud o sugerencia que puedan tener.
 
-Si sigue estos pasos, podrá enviar sus contribuciones a proyectos de código abierto y colaborar con otros desarrolladores para mejorar el código base.
+Si sigue estos pasos, podrá enviar sus contribuciones a proyectos Open Source y colaborar con otros desarrolladores para mejorar el código base.
 
 ## ¿Qué pasa después?
 
 Una vez enviada y revisada su contribución, puede ocurrir uno de los siguientes resultados:
 
 1. **Se acepta su contribución**: si los mantenedores del proyecto aprueban su contribución, se fusionará en la rama principal del código base. <br>
-   ¡Felicidades! Su trabajo ahora es parte del proyecto y ha realizado una valiosa contribución a la comunidad de código abierto.
+   ¡Felicidades! Su trabajo ahora es parte del proyecto y ha realizado una valiosa contribución a la comunidad Open Source.
 
 2. **Su contribución requiere cambios**: A veces, los mantenedores del proyecto pueden solicitar cambios en su contribución antes de que pueda ser aceptada. Esto podría deberse a problemas de codificación, conflictos con otros cambios o la necesidad de documentación adicional. En este caso, realice los cambios solicitados y vuelva a enviar su solicitud de extracción.
 
@@ -128,7 +128,7 @@ Una vez enviada y revisada su contribución, puede ocurrir uno de los siguientes
 
 ## Seamos prácticos
 
-Ahora que sabes cómo encontrar y contribuir a proyectos de código abierto, es hora de poner tus habilidades en práctica. Hagámoslo contribuyendo al [repositorio de libros de visitas de OpenSauced](https://github.com/open-sauced/guestbook).
+Ahora que sabes cómo encontrar y contribuir a proyectos Open Source, es hora de poner tus habilidades en práctica. Hagámoslo contribuyendo al [repositorio de libros de visitas de OpenSauced](https://github.com/open-sauced/guestbook).
 
 ### Requisito previo
 
@@ -200,9 +200,9 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
          "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
          "profile": "URL link",
          "contributions": [
-            "pregunta",
-            "Blog",
-            "código"
+            "question",
+            "blog",
+            "code"
          ]
        }
        ```
@@ -274,7 +274,7 @@ Luego, extraiga los últimos cambios en la rama `main` en el repositorio `origin
 
 ## Fusionar conflictos
 
-Los conflictos de fusión son algo que encontrarás comúnmente al contribuir a un proyecto de código abierto. Cuando dos ramas han realizado cambios diferentes en las mismas líneas en los mismos archivos, Git no puede determinar automáticamente qué cambio conservar, lo que genera un conflicto.
+Los conflictos de fusión son algo que encontrarás comúnmente al contribuir a un proyecto Open Source. Cuando dos ramas han realizado cambios diferentes en las mismas líneas en los mismos archivos, Git no puede determinar automáticamente qué cambio conservar, lo que genera un conflicto.
 
 Cuando ocurre un conflicto de fusión, Git agrega marcadores de conflicto (`<<<<<<<`, `=======` y `>>>>>>`) para indicar las líneas en conflicto de diferentes ramas. Todo lo que está entre `<<<<<<<` y `=======` son los cambios en los que trabajó (cambios actuales). Y todo entre `=======` a `>>>>>>>` son los cambios entrantes de la rama remota `main`.
 
@@ -282,9 +282,9 @@ Debes prestar atención a los conflictos y decidir cómo quieres resolverlos. Pu
 
 ### Consejos para evitar resolver conflictos de fusión repetidamente
 
-Algunos repositorios de código abierto, como los repositorios [libro de visitas](https://github.com/open-sauced/guestbook) y [pizza verse](https://github.com/open-sauced/pizza-verse) de OpenSauced, tienen actividades de alta contribución en los mismos archivos que pueden causar conflictos de fusión.
+Algunos repositorios Open Source, como los repositorios [libro de visitas](https://github.com/open-sauced/guestbook) y [pizza verse](https://github.com/open-sauced/pizza-verse) de OpenSauced, tienen actividades de alta contribución en los mismos archivos que pueden causar conflictos de fusión.
 
-A continuación se ofrecen algunos consejos para evitar que resuelva conflictos de fusión repetidamente cuando contribuya a proyectos de código abierto:
+A continuación se ofrecen algunos consejos para evitar que resuelva conflictos de fusión repetidamente cuando contribuya a proyectos Open Source:
 
 #### 1. Seguir instrucciones
 
@@ -348,6 +348,6 @@ Antes de resolver conflictos de fusión, primero debe [actualizar sus ramas](#ac
 
 <hr>
 
-A medida que continúe contribuyendo a proyectos de código abierto, obtendrá experiencia valiosa, desarrollará nuevas habilidades y creará un sólido portafolio de trabajo. En el próximo capítulo, analizaremos algunas estrategias para comenzar con las contribuciones de código abierto, ganar terreno en sus contribuciones y desarrollar su currículum de código abierto utilizando OpenSauced.
+A medida que continúe contribuyendo a proyectos Open Source, obtendrá experiencia valiosa, desarrollará nuevas habilidades y creará un sólido portafolio de trabajo. En el próximo capítulo, analizaremos algunas estrategias para comenzar con las contribuciones en Open Source, ganar terreno en sus contribuciones y desarrollar su currículum de Open Source utilizando OpenSauced.
 
 [Siguiente Sección ->](06-la-salsa-secreta.md)
