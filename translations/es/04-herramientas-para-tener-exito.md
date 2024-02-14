@@ -1,6 +1,6 @@
 # Herramientas para tener éxito
 
-Para tener éxito en su viaje hacia el código abierto, es esencial familiarizarse con las herramientas y plataformas comúnmente utilizadas por la comunidad. Estas herramientas lo ayudarán a colaborar de manera efectiva, administrar sus proyectos y contribuir a proyectos de código abierto. En este capítulo, analizaremos las siguientes herramientas esenciales para la colaboración de código abierto:
+Para tener éxito en su viaje hacia el Open Source, es esencial familiarizarse con las herramientas y plataformas comúnmente utilizadas por la comunidad. Estas herramientas lo ayudarán a colaborar de manera efectiva, administrar sus proyectos y contribuir a proyectos Open Source. En este capítulo, analizaremos las siguientes herramientas esenciales para la colaboración en Open Source:
 
 - GitHub y Git
 - CodeSee
@@ -98,7 +98,7 @@ git push origin main
 
 Esto enviará sus cambios a la rama "principal" de su repositorio remoto. Si desea comprobar su trabajo, navegue hasta su repositorio de GitHub. Ahora deberías ver '¡hola mundo!' en su archivo README.md.
 
-¡Ahora ha configurado con éxito Git y GitHub en su máquina local y está listo para colaborar en proyectos de código abierto!
+¡Ahora ha configurado con éxito Git y GitHub en su máquina local y está listo para colaborar en proyectos Open Source!
 
 ## CodeSee
 
@@ -112,7 +112,7 @@ Para comenzar con CodeSee, visite el sitio web oficial (https://www.codesee.io/)
 
 ## VS Code
 
-Visual Studio Code (VS Code) es un editor de código popular, gratuito y de código abierto desarrollado por Microsoft. Admite una amplia gama de lenguajes de programación y ofrece muchas características que lo convierten en una excelente opción para el desarrollo de código abierto, que incluyen:
+Visual Studio Code (VS Code) es un editor de código popular, gratuito y Open Source desarrollado por Microsoft. Admite una amplia gama de lenguajes de programación y ofrece muchas características que lo convierten en una excelente opción para el desarrollo Open Source, que incluyen:
 
 - **Soporte Git integrado**: VS Code proporciona soporte integrado para Git, lo que le permite administrar sus repositorios Git, preparar y confirmar cambios y resolver conflictos de fusión directamente desde el editor.
 - **Extensibilidad**: VS Code ofrece un rico ecosistema de extensiones que pueden mejorar su experiencia de desarrollo y agregar soporte para lenguajes, herramientas y marcos adicionales.
@@ -123,15 +123,15 @@ Para descargar e instalar VS Code, visite el sitio web oficial (https://code.vis
 
 ## Discord
 
-Discord es una popular plataforma de mensajería y chat de voz ampliamente utilizada por comunidades de código abierto para comunicación y colaboración. Al unirte a servidores de Discord relacionados con tus intereses y proyectos, podrás:
+Discord es una popular plataforma de mensajería y chat de voz ampliamente utilizada por comunidades Open Source para comunicación y colaboración. Al unirte a servidores de Discord relacionados con tus intereses y proyectos, podrás:
 
 - **Conéctate con otros desarrolladores**: Discord te permite chatear con otros desarrolladores, hacer preguntas y compartir tus conocimientos con la comunidad.
-- **Manténgase actualizado**: muchos proyectos de código abierto utilizan Discord para compartir actualizaciones, anuncios y otra información importante. Al unirte a sus servidores, podrás mantenerte informado sobre los últimos desarrollos y contribuir de manera más efectiva.
-- **Participe en debates**: los servidores de Discord suelen albergar debates sobre diversos temas relacionados con el desarrollo de código abierto. Al participar en estas discusiones, puede aprender de otros, compartir sus ideas y contribuir al conocimiento colectivo de la comunidad.
+- **Manténgase actualizado**: muchos proyectos Open Source utilizan Discord para compartir actualizaciones, anuncios y otra información importante. Al unirte a sus servidores, podrás mantenerte informado sobre los últimos desarrollos y contribuir de manera más efectiva.
+- **Participe en debates**: los servidores de Discord suelen albergar debates sobre diversos temas relacionados con el desarrollo Open Source. Al participar en estas discusiones, puede aprender de otros, compartir sus ideas y contribuir al conocimiento colectivo de la comunidad.
 - **Encuentra oportunidades de colaboración**: los servidores de Discord pueden ser un excelente lugar para encontrar otras personas que comparten tus intereses y buscan oportunidades de colaboración. Al establecer contactos con otros desarrolladores, puede descubrir nuevos proyectos en los que trabajar y formar asociaciones valiosas.
 
-Para comenzar con Discord, visite el sitio web oficial (https://discord.com/) y regístrese para obtener una cuenta. Una vez que tenga una cuenta, puede buscar comunidades y proyectos de código abierto en plataformas como GitHub, GitLab u OpenSauced para encontrar sus servidores Discord y unirse a la conversación.
+Para comenzar con Discord, visite el sitio web oficial (https://discord.com/) y regístrese para obtener una cuenta. Una vez que tenga una cuenta, puede buscar comunidades y proyectos Open Source en plataformas como GitHub, GitLab u OpenSauced para encontrar sus servidores Discord y unirse a la conversación.
 
-Al familiarizarse con estas herramientas y plataformas, estará equipado para colaborar de manera efectiva, administrar sus proyectos y contribuir a proyectos de código abierto. En el próximo capítulo, analizaremos cómo contribuir a proyectos de código abierto, incluida la búsqueda de proyectos en los que trabajar, el envío de contribuciones y lo que sucede después de que se acepta su contribución.
+Al familiarizarse con estas herramientas y plataformas, estará equipado para colaborar de manera efectiva, administrar sus proyectos y contribuir a proyectos Open Source. En el próximo capítulo, analizaremos cómo contribuir a proyectos Open Source, incluida la búsqueda de proyectos en los que trabajar, el envío de contribuciones y lo que sucede después de que se acepta su contribución.
 
-[Siguiente Sección ->](05-como-contribuir-a-codigo-abierto.md)
+[Siguiente Sección ->](05-como-contribuir-al-open-source.md)
