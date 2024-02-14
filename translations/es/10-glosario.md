@@ -1,6 +1,6 @@
 ## Aseguramiento de la calidad
 
-El aseguramiento de la calidad en proyectos de código abierto implica probar, revisar y garantizar que el software cumpla con los estándares deseados. Los miembros de la comunidad a menudo contribuyen a probar e informar problemas para mejorar la calidad del software.
+El aseguramiento de la calidad en proyectos Open Source implica probar, revisar y garantizar que el software cumpla con los estándares deseados. Los miembros de la comunidad a menudo contribuyen a probar e informar problemas para mejorar la calidad del software.
 
 ## Bifurcación
 
@@ -8,7 +8,7 @@ Una bifurcación es una copia de un repositorio. Cuando bifurcas un repositorio,
 
 ## Bug
 
-Un bug se refiere a un error, falla o defecto en el código que afecta negativamente el funcionamiento adecuado del software. Los proyectos de código abierto a menudo dependen de las contribuciones de la comunidad para identificar y rectificar estos errores.
+Un bug se refiere a un error, falla o defecto en el código que afecta negativamente el funcionamiento adecuado del software. Los proyectos Open Source a menudo dependen de las contribuciones de la comunidad para identificar y rectificar estos errores.
 
 ## Clonar
 
@@ -16,7 +16,7 @@ La clonación es el proceso utilizado para copiar un repositorio Git existente e
 
 ## Colaborador
 
-Un colaborador es cualquier persona que realiza cambios, adiciones o sugerencias a un proyecto de código abierto. Los contribuyentes pueden ser desarrolladores, diseñadores, escritores, evaluadores o cualquier otra persona que ayude a mejorar el proyecto.
+Un colaborador es cualquier persona que realiza cambios, adiciones o sugerencias a un proyecto Open Source. Los contribuyentes pueden ser desarrolladores, diseñadores, escritores, evaluadores o cualquier otra persona que ayude a mejorar el proyecto.
 
 ## Documentos
 
@@ -37,7 +37,7 @@ Una guía de estilo es un conjunto de reglas y convenciones que definen el forma
 
 ## Mantenedor
 
-Un mantenedor es una persona o un grupo de personas responsables de mantener un proyecto de código abierto específico. Los mantenedores suelen ser responsables de revisar y aceptar o rechazar las contribuciones de otros contribuyentes. También tienen la autoridad para tomar decisiones finales sobre la dirección y el alcance del proyecto.
+Un mantenedor es una persona o un grupo de personas responsables de mantener un proyecto Open Source específico. Los mantenedores suelen ser responsables de revisar y aceptar o rechazar las contribuciones de otros contribuyentes. También tienen la autoridad para tomar decisiones finales sobre la dirección y el alcance del proyecto.
 
 ## Markdown
 
@@ -45,7 +45,7 @@ Markdown es un lenguaje de marcado ligero que se utiliza habitualmente para crea
 
 ## Miembro principal
 
-Un miembro principal es un colaborador al que se le han otorgado privilegios o responsabilidades adicionales dentro de un proyecto de código abierto. Los miembros principales suelen ser colaboradores confiables que han demostrado un profundo conocimiento del proyecto y han realizado contribuciones significativas a su desarrollo.
+Un miembro principal es un colaborador al que se le han otorgado privilegios o responsabilidades adicionales dentro de un proyecto Open Source. Los miembros principales suelen ser colaboradores confiables que han demostrado un profundo conocimiento del proyecto y han realizado contribuciones significativas a su desarrollo.
 
 ## Notas de la versión
 
@@ -57,7 +57,7 @@ Un problema es un problema o error que debe abordarse en el código. Cualquiera 
 
 ## Proyectos OSS
 
-OSS significa proyectos de "software de código abierto". Se trata de proyectos de software en los que el código fuente se pone a disposición del público, lo que permite a cualquiera ver, utilizar y modificar el software.
+Proyectos OSS significa proyectos de "software Open Source". Se trata de proyectos de software en los que el código fuente se pone a disposición del público, lo que permite a cualquiera ver, utilizar y modificar el software.
 
 ## Rama
 
@@ -65,7 +65,7 @@ Una rama es una versión independiente del código que se crea con fines de desa
 
 ## Repositorio
 
-Un repositorio es una ubicación central donde se almacena y administra el código. En el código abierto, los repositorios suelen estar alojados en plataformas como GitHub, GitLab o Bitbucket. Cada repositorio puede contener uno o más proyectos y los contribuyentes pueden enviar cambios al código mediante solicitudes de extracción.
+Un repositorio es una ubicación central donde se almacena y administra el código. En el Open Source, los repositorios suelen estar alojados en plataformas como GitHub, GitLab o Bitbucket. Cada repositorio puede contener uno o más proyectos y los contribuyentes pueden enviar cambios al código mediante solicitudes de extracción.
 
 ## Solicitud de extracción
 
