@@ -1,12 +1,12 @@
 # Tipos de contribuciones
 
-En este capítulo, discutiremos los tipos de contribuciones de codificación y no codificación involucradas en proyectos de código abierto.
+En este capítulo, discutiremos los tipos de contribuciones de codificación y no codificación involucradas en proyectos Open Source.
 
 ## Tipo de contribuciones no codificadas
 
-  Las contribuciones sin codificación no implican escribir ni modificar código. Las contribuciones sin codificación son esenciales para la sostenibilidad y el crecimiento de los proyectos de código abierto. Permiten que personas con una variedad de habilidades y antecedentes participen y hagan contribuciones significativas al software y a la comunidad.
+  Las contribuciones sin codificación no implican escribir ni modificar código. Las contribuciones sin codificación son esenciales para la sostenibilidad y el crecimiento de los proyectos Open Source. Permiten que personas con una variedad de habilidades y antecedentes participen y hagan contribuciones significativas al software y a la comunidad.
 
-> [Cómo contribuir al código abierto sin saber codificar: una guía con sugerencias de proyectos](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
+> [Cómo contribuir al Open Source sin saber codificar: una guía con sugerencias de proyectos](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 
 **Tipos comunes de contribuciones no codificadas**
 
@@ -18,7 +18,7 @@ En este capítulo, discutiremos los tipos de contribuciones de codificación y n
 
 ¿Eres amante de las palabras? ¿Te irritan los errores gramaticales? ¿Te gusta analizar problemas complejos o ayudar a las personas a aprender? ¡Entonces la documentación es para ti!
 
-Esto implica crear, mejorar o mantener los recursos escritos que acompañan a los proyectos de software de código abierto. La documentación es crucial para los proyectos de código abierto. Puede hacer que un proyecto sea más accesible y fácil de usar, y puede ayudar a atraer nuevos contribuyentes y fomentar la repetición de contribuciones.
+Esto implica crear, mejorar o mantener los recursos escritos que acompañan a los proyectos de software Open Source. La documentación es crucial para los proyectos Open Source. Puede hacer que un proyecto sea más accesible y fácil de usar, y puede ayudar a atraer nuevos contribuyentes y fomentar la repetición de contribuciones.
 
 #### Cómo contribuir a la documentación
 
@@ -50,16 +50,16 @@ Esto implica crear, mejorar o mantener los recursos escritos que acompañan a lo
     
   - Agregue la información que falta a la documentación: [Agregue más información para usar esta plantilla en el README](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
 
-Contribuir a la documentación es una excelente manera de ayudar a los proyectos de código abierto y hacerlos más accesibles para todos. Si tienes las habilidades y el interés, ¡participa!
+Contribuir a la documentación es una excelente manera de ayudar a los proyectos Open Source y hacerlos más accesibles para todos. Si tienes las habilidades y el interés, ¡participa!
 
 ### Diseño gráfico
 
-Esta contribución de código abierto implica la creación de activos visuales, como logotipos, íconos, ilustraciones, diseños de sitios web y otros elementos gráficos, para proyectos de código abierto. Estos activos visuales desempeñan un papel importante a la hora de mejorar la experiencia general del usuario y la marca del proyecto. Las contribuciones al diseño gráfico pueden hacer que el software de código abierto sea más atractivo, fácil de usar y reconocible.
- - **Logotipo y marca**: Diseñar un logotipo único y memorable para un proyecto de código abierto puede ayudar a establecer su identidad y marca. Un logotipo bien diseñado puede hacer que el proyecto sea reconocible al instante y darle una imagen profesional.
+Esta contribución al Open Source implica la creación de activos visuales, como logotipos, íconos, ilustraciones, diseños de sitios web y otros elementos gráficos, para proyectos Open Source. Estos activos visuales desempeñan un papel importante a la hora de mejorar la experiencia general del usuario y la marca del proyecto. Las contribuciones al diseño gráfico pueden hacer que el software Open Source sea más atractivo, fácil de usar y reconocible.
+ - **Logotipo y marca**: Diseñar un logotipo único y memorable para un proyecto Open Source puede ayudar a establecer su identidad y marca. Un logotipo bien diseñado puede hacer que el proyecto sea reconocible al instante y darle una imagen profesional.
 
 - **Diseño de iconos**: los iconos son esenciales para las interfaces de usuario. Los diseñadores gráficos pueden crear íconos personalizados para aplicaciones de software o sitios web, mejorando el atractivo visual y la usabilidad del proyecto: [registro en Eventhub](https://github.com/WebXGuild/webx-guild/pull/13)
 
- - **Diseño de sitios web**: los proyectos de código abierto suelen tener sitios web para proporcionar información, documentación y enlaces de descarga. Los diseñadores gráficos pueden contribuir diseñando diseños de sitios web, gráficos, carteles y otros elementos visuales para hacer que el sitio sea más atractivo y fácil de usar.
+ - **Diseño de sitios web**: los proyectos Open Source suelen tener sitios web para proporcionar información, documentación y enlaces de descarga. Los diseñadores gráficos pueden contribuir diseñando diseños de sitios web, gráficos, carteles y otros elementos visuales para hacer que el sitio sea más atractivo y fácil de usar.
 
 - **Diseño de interfaz de usuario (UI)**: para proyectos de software, el diseño de UI es crucial. Los diseñadores pueden crear maquetas, bocetos y diseños de alta fidelidad para la interfaz de usuario, haciéndola más intuitiva y visualmente atractiva.
 
@@ -71,25 +71,25 @@ Esta contribución de código abierto implica la creación de activos visuales, 
 
 ### Escritura de blogs
 
-Este tipo de contribución de código abierto implica la creación y publicación de blogs, artículos o tutoriales relacionados con software, proyectos, tecnologías o mejores prácticas de código abierto. Al igual que la documentación, no necesariamente es necesario saber codificar para escribir estas publicaciones.
+Este tipo de contribución al Open Source implica la creación y publicación de blogs, artículos o tutoriales relacionados con software, proyectos, tecnologías o mejores prácticas del Open Source. Al igual que la documentación, no necesariamente es necesario saber codificar para escribir estas publicaciones.
 
-#### Formas de utilizar los blogs como contribución de código abierto
+#### Formas de utilizar los blogs como contribución al Open Source
 
-- Puede escribir sobre las últimas funciones de un proyecto de código abierto, como una nueva versión del software o un nuevo complemento: [Anuncio de la versión 0.2.0 de Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
+- Puede escribir sobre las últimas funciones de un proyecto Open Source, como una nueva versión del software o un nuevo complemento: [Anuncio de la versión 0.2.0 de Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
 - Puedes escribir un tutorial sobre cómo instalar y configurar el software: [Cómo hacer una deliciosa guía de contribución](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3 )
 
-- Escriba sobre el impacto de un proyecto de código abierto, como por ejemplo cómo se ha utilizado para marcar la diferencia en el mundo: [Reteniendo a los mejores ingenieros](https://opensauced.pizza/blog/retaining-the-best-engineers )
+- Escriba sobre el impacto de un proyecto Open Source, como por ejemplo cómo se ha utilizado para marcar la diferencia en el mundo: [Reteniendo a los mejores ingenieros](https://opensauced.pizza/blog/retaining-the-best-engineers )
 
-- Tipos de contribuciones codificadas y no codificadas, como cómo comenzar con el código abierto: [Código abierto 101: una guía para principiantes para comenzar](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+- Tipos de contribuciones codificadas y no codificadas, como cómo comenzar con el Open Source: [Open Source 101: una guía para principiantes para comenzar](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
 ## Tipos de contribuciones de codificación
 
-Las contribuciones de codificación impulsan el desarrollo de código abierto. Implican escribir, modificar o mejorar el código fuente real de un proyecto de código abierto, lo que afecta directamente la funcionalidad y la calidad del software. Los contribuyentes colaboran con los mantenedores del proyecto y la comunidad para garantizar que sus contribuciones de código se alineen con los objetivos del proyecto y los estándares de codificación. Además, los proyectos de código abierto suelen tener pautas y procesos para aceptar e integrar contribuciones de codificación, como revisiones de código e integración continua.
+Las contribuciones de codificación impulsan el desarrollo Open Source. Implican escribir, modificar o mejorar el código fuente real de un proyecto Open Source, lo que afecta directamente la funcionalidad y la calidad del software. Los contribuyentes colaboran con los mantenedores del proyecto y la comunidad para garantizar que sus contribuciones de código se alineen con los objetivos del proyecto y los estándares de codificación. Además, los proyectos Open Source suelen tener pautas y procesos para aceptar e integrar contribuciones de codificación, como revisiones de código e integración continua.
 
 A continuación, se muestran algunos ejemplos de contribuciones que puedes hacer a un proyecto con tus habilidades de codificación:
 
-- **Escribir código nuevo**: este es el tipo más común de contribución de codificación. Los desarrolladores escriben código nuevo para agregar funciones, corregir errores o mejorar la funcionalidad de un proyecto de código abierto. Estas contribuciones generalmente se envían en forma de solicitudes de extracción (PR) o parches: [Mostrar quién reaccionó a los momentos destacados](https://github.com/open-sauced/app/pull/1591)
+- **Escribir código nuevo**: este es el tipo más común de contribución de codificación. Los desarrolladores escriben código nuevo para agregar funciones, corregir errores o mejorar la funcionalidad de un proyecto Open Source. Estas contribuciones generalmente se envían en forma de solicitudes de extracción (PR) o parches: [Mostrar quién reaccionó a los momentos destacados](https://github.com/open-sauced/app/pull/1591)
 
 - **Corrección de errores**: identificar y corregir errores es una contribución fundamental a la codificación. Los desarrolladores localizan problemas dentro del código base, los diagnostican y luego escriben código para corregirlos. Las correcciones de errores mejoran la estabilidad y confiabilidad del software: [La verificación de pelusa ocurre dos veces al confirmar
 ](https://github.com/open-sauced/app/pull/1635)
