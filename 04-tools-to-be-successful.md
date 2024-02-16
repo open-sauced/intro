@@ -3,7 +3,6 @@
 To be successful in your open source journey, it's essential to familiarize yourself with the tools and platforms commonly used by the community. These tools will help you collaborate effectively, manage your projects, and contribute to open source projects. In this chapter, we'll discuss the following essential tools for open source collaboration:
 
 - GitHub & Git
-- CodeSee
 - VS Code (The Editor)
 - Discord
 
@@ -99,16 +98,6 @@ git push origin main
 This will push your changes to the "main" branch of your remote repository. If you want to check your work, navigate to your GitHub repository. You should now see 'hello world!' in your README.md file.
 
 You have now successfully set up Git and GitHub on your local machine and are ready to collaborate on open source projects!
-
-## CodeSee
-
-CodeSee is a powerful visualization tool that helps developers understand complex codebases and navigate large projects more efficiently. By providing a visual representation of your code, CodeSee enables you to:
-
-- **Identify dependencies**: CodeSee helps you understand how different parts of your codebase are connected and how changes in one area might impact other areas.
-- **Analyze code structure**: CodeSee allows you to visualize the structure of your code, making it easier to identify patterns, anti-patterns, and areas for improvement.
-- **Navigate large codebases**: With CodeSee, you can quickly navigate large codebases and find the parts of the code you need to work on.
-
-To get started with CodeSee, visit the official website (https://www.codesee.io/) and follow the instructions to install the browser extension and integrate it with your GitHub account.
 
 ## VS Code
 
