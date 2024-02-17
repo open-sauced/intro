@@ -118,7 +118,7 @@ Visual Studio Code (VS Code) é um editor de código popular, gratuito e de cód
 - **Suporte Git integrado**: O VS Code oferece suporte integrado para Git, permitindo que você gerencie os seus repositórios Git, estágio e confirme alterações e resolva conflitos de mesclagem diretamente do editor.
 - **Extensibilidade**: O VS Code oferece um rico ecossistema de extensões que podem aprimorar a sua experiência de desenvolvimento e adicionar suporte para idiomas, ferramentas e estruturas adicionais.
 - **Terminal integrado**: O VS Code inclui um terminal integrado que permite executar comandos, scripts e tarefas de compilação diretamente do editor.
-- **Customizável**: O VS Code é altamente customizável, permitindo que você adapte o editor às suas preferências e fluxo de trabalho. Você pode personalizar o tema, keybindings e configurações para criar um ambiente de desenvolvimento personalizado.
+- **Customizável**: O VS Code é altamente customizável, permitindo que você adapte o editor às suas preferências e fluxo de trabalho. Você pode personalizar o tema, atalhos de teclado e configurações para criar um ambiente de desenvolvimento personalizado.
 
 Para baixar e instalar o VS Code, visite o site oficial (https://code.visualstudio.com/) e siga as instruções para o seu sistema operativo.
 
