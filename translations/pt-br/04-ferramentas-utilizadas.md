@@ -109,7 +109,7 @@ CodeSee é uma poderosa ferramenta de visualização que ajuda os desenvolvedore
 - **Analisar a estrutura do código**: O CodeSee permite que você visualize a estrutura do seu código, facilitando identificar padrões, antipadrões e áreas para melhorias.
 - **Navegar em grandes bases de código**: com o CodeSee, você pode navegar rapidamente em grandes bases de código e encontrar as partes do código que você precisa trabalhar.
 
-Para começar com o CodeSee, visite o site oficial (https://www.codesee.io/) e siga as instruções para instalar a extensão do navegador e integrá-la com a sua conta do GitHub.ub account.
+Para começar com o CodeSee, visite o site oficial (https://www.codesee.io/) e siga as instruções para instalar a extensão do navegador e integrá-la com a sua conta do GitHub.
 
 ## VS Code
 
