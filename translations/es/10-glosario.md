@@ -57,7 +57,7 @@ Un problema es un problema o error que debe abordarse en el código. Cualquiera 
 
 ## Proyectos OSS
 
-Proyectos OSS significa proyectos de "software Open Source". Se trata de proyectos de software en los que el código fuente se pone a disposición del público, lo que permite a cualquiera ver, utilizar y modificar el software.
+Proyectos OSS significa proyectos de " Open Source Software". Se trata de proyectos de software en los que el código fuente se pone a disposición del público, lo que permite a cualquiera ver, utilizar y modificar el software.
 
 ## Rama
 
