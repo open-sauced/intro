@@ -17,7 +17,7 @@ Antes de completar o seguinte passo a passo, complete o seguinte:
 
 ### Introdução ao Git
 
-Git é um sistema de controlo de versão distribuído projetado para lidar com projetos pequenos e muito grandes com velocidade e eficiência. Foi criado por Linus Torvalds, o criador do kernel Linux, para gerir o desenvolvimento do próprio kernel Linux.
+Git é um sistema de controle de versão distribuído projetado para lidar com projetos pequenos e muito grandes com velocidade e eficiência. Foi criado por Linus Torvalds, o criador do kernel Linux, para gerir o desenvolvimento do próprio kernel Linux.
 
 Git permite que os desenvolvedores acompanhem as alterações no seu código, colaborem com outros desenvolvedores e gerenciem várias versões dos seus projetos. Alguns dos recursos principais do Git incluem:
 
