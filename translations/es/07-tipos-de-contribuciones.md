@@ -57,7 +57,7 @@ Contribuir a la documentación es una excelente manera de ayudar a los proyectos
 Esta contribución al Open Source implica la creación de activos visuales, como logotipos, íconos, ilustraciones, diseños de sitios web y otros elementos gráficos, para proyectos Open Source. Estos activos visuales desempeñan un papel importante a la hora de mejorar la experiencia general del usuario y la marca del proyecto. Las contribuciones al diseño gráfico pueden hacer que el software Open Source sea más atractivo, fácil de usar y reconocible.
  - **Logotipo y marca**: Diseñar un logotipo único y memorable para un proyecto Open Source puede ayudar a establecer su identidad y marca. Un logotipo bien diseñado puede hacer que el proyecto sea reconocible al instante y darle una imagen profesional.
 
-- **Diseño de iconos**: los iconos son esenciales para las interfaces de usuario. Los diseñadores gráficos pueden crear íconos personalizados para aplicaciones de software o sitios web, mejorando el atractivo visual y la usabilidad del proyecto: [registro en Eventhub](https://github.com/WebXGuild/webx-guild/pull/13)
+- **Diseño de iconos**: los iconos son esenciales para las interfaces de usuario. Los diseñadores gráficos pueden crear íconos personalizados para aplicaciones de software o sitios web, mejorando el atractivo visual y la facilidad de uso del proyecto: [registro en Eventhub](https://github.com/WebXGuild/webx-guild/pull/13)
 
  - **Diseño de sitios web**: los proyectos Open Source suelen tener sitios web para proporcionar información, documentación y enlaces de descarga. Los diseñadores gráficos pueden contribuir diseñando diseños de sitios web, gráficos, carteles y otros elementos visuales para hacer que el sitio sea más atractivo y fácil de usar.
 
