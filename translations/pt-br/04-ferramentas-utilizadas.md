@@ -22,7 +22,7 @@ Git é um sistema de controlo de versão distribuído projetado para lidar com p
 Git permite que os desenvolvedores acompanhem as alterações no seu código, colaborem com outros desenvolvedores e gerenciem várias versões dos seus projetos. Alguns dos recursos principais do Git incluem:
 
 - **Branch**: Git permite que os desenvolvedores criem ramificações, cópias separadas da sua base de código. Isso permite que eles trabalhem em novos recursos ou correções de bugs sem afetar a base de código principal. Uma vez que as alterações estejam concluídas, eles podem mesclar a ramificação de volta para a base de código principal.
-- **Área de preparação(Stagging area)**: Git fornece uma área de preparação onde os desenvolvedores podem preparar as suas alterações antes de as comprometerem com o repositório. Isso permite que eles revisem e organizem as suas alterações antes de as tornarem permanentes.
+- **Ambiente de preparação(Stagging area)**: Git fornece uma área de preparação onde os desenvolvedores podem preparar as suas alterações antes de as aplicarem ao repositório. Isso permite que eles revisem e organizem as suas alterações antes de as tornarem permanentes.
 - **Controle de versão distribuído**: Ao contrário dos sistemas de controlo de versão centralizados, o Git é um sistema de controlo de versão distribuído. Isso significa que cada desenvolvedor tem uma cópia completa do repositório na máquina local, permitindo-lhes trabalhar offline e independentemente de um servidor central.
 
 ### Introdução ao GitHub
