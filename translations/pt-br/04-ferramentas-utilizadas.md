@@ -27,7 +27,7 @@ Git permite que os desenvolvedores acompanhem as alterações no seu código, co
 
 ### Introdução ao GitHub
 
-O GitHub é uma plataforma baseada na web para controlo de versão e colaboração que utiliza o Git como tecnologia subjacente. Ele fornece uma interface simples e amigável para gerir repositórios Git, bem como uma série de recursos e ferramentas para colaborar com outros desenvolvedores.
+O GitHub é uma plataforma baseada na web para controle de versão e colaboração que utiliza o Git como tecnologia subjacente. Ele fornece uma interface simples e amigável para gerir repositórios Git, bem como uma série de recursos e ferramentas para colaborar com outros desenvolvedores.
 
 Algumas das principais funcionalidades do GitHub incluem:
 
