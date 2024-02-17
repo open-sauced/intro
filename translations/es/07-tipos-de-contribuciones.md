@@ -75,7 +75,7 @@ Este tipo de contribución al Open Source implica la creación y publicación de
 
 #### Formas de utilizar los blogs como contribución al Open Source
 
-- Puede escribir sobre las últimas funciones de un proyecto Open Source, como una nueva versión del software o un nuevo complemento: [Anuncio de la versión 0.2.0 de Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
+- Puedes escribir sobre las últimas funciones de un proyecto Open Source, como una nueva versión del software o un nuevo complemento: [Anuncio de la versión 0.2.0 de Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
 - Puedes escribir un tutorial sobre cómo instalar y configurar el software: [Cómo hacer una deliciosa guía de contribución](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3 )
 
