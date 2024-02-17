@@ -81,7 +81,7 @@ Este tipo de contribución al Open Source implica la creación y publicación de
 
 - Escriba sobre el impacto de un proyecto Open Source, como por ejemplo cómo se ha utilizado para marcar la diferencia en el mundo: [Reteniendo a los mejores ingenieros](https://opensauced.pizza/blog/retaining-the-best-engineers )
 
-- Tipos de contribuciones codificadas y no codificadas, como cómo comenzar con el Open Source: [Open Source 101: una guía para principiantes para comenzar](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+- Tipos de contribuciones codificadas y no codificadas, y cómo comenzar con el Open Source: [Open Source 101: una guía para principiantes para comenzar](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
 ## Tipos de contribuciones de codificación
 
