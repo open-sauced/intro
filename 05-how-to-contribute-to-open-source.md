@@ -144,20 +144,8 @@ You'll need to have these tools donwloaded and installed on your local machine:
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
 5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
-6. Add yourself to the guestbook.
-
-   There are two ways you can complete this activity:
-
-   - Using the CLI tool.
-   - Manually editing the `.all-contributorsrc` file.
-
-   Although adding yourself to the guestbook with the CLI tool is simpler, we recommend manually editing the file to get more experience adding and committing your changes, creating pull requests, and pull request reviews. Below, you'll find the directions for each method:
-
-   **CLI Tool**
-
-   - Run `npm run contributors:add` in your terminal.
-
-     Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
+6. Run `npm run contributors: add` in your terminal.
+   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices
 
    **Manual Addition**
 
@@ -214,35 +202,21 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    > **Tip**: If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
-9. If you used the CLI tool method in step 5 to add yourself to the guestbook, **skip this step**. Otherwise:
+9. Run `git log` to check if your changes have been automatically committed. Here's what you should expect to see as your commit message:
 
-   Add and commit your changes by running the following command:
+   `docs: add @your_username as a contributor`
 
-   ```bash
-   git commit -am "Your commit message"
-   ```
+   Then, press `Q` to run the log.
 
-   Replace `"Your commit message"` to your own message. For example, `"Add Alice as a contributor"`.
+10. Push the commit to your forked repository with this command:
 
-   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
+```bash
+git push -u origin branch-name
+```
 
-10. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+11. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
 
-   If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
-
-   ```bash
-   docs: add @your_username as a contributor
-   ```
-
-11. Push the commit to your forked repository with this command:
-
-   ```bash
-   git push -u origin branch-name
-   ```
-
-12. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
-
-Congratulations on your first contribution! 🎉
+Congratulations on your first contribution! 🎉 If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
 
 ## Keeping Branches Up to Date
 
