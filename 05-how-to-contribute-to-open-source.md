@@ -147,8 +147,6 @@ You'll need to have these tools donwloaded and installed on your local machine:
 6. Run `npm run contributors: add` in your terminal.
    Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices
 
-   **Manual Addition**
-
    - Open the `.all-contributorsrc` file.
    - Go to the last contributor in the contributors' array.
    - Add a comma after the last closing curly bracket ( `},` ).
