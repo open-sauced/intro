@@ -145,66 +145,21 @@ You'll need to have these tools donwloaded and installed on your local machine:
 4. Run `npm install` to install the dependencies.
 5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
 6. Run `npm run contributors: add` in your terminal.
-   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices
 
-   - Open the `.all-contributorsrc` file.
-   - Go to the last contributor in the contributors' array.
-   - Add a comma after the last closing curly bracket ( `},` ).
-   - Copy and paste the template below:
-
-     ```javascript
-     {
-        "login": "",
-        "name": "",
-        "avatar_url": "",
-        "profile": "",
-        "contributions": []
-     }
-     ```
-
-   - Add yourself manually to the guestbook by updating this information:
-
-     - **login**: Your GitHub's username.
-     - **name**: Your name.
-     - **avatar_url**: URL to your avatar on GitHub.
-
-       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end (for example, `https://github.com/USER_NAME.png`), and click enter. Copy and paste the link here.
-
-     - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
-     - **contribution**: Type of your contributions.
-
-       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the values.
-
-       > ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
-
-       The result would be like this:
-
-       ```javascript
-       {
-         "login": "github-username",
-         "name": "User Name",
-         "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
-         "profile": "URL link",
-         "contributions": [
-            "question",
-            "blog",
-            "code"
-         ]
-       }
-       ```
-
-       > ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
+   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choice.
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
 
-   > **Tip**: If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+   !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
-9. Run `git log` to check if your changes have been automatically committed. Here's what you should expect to see as your commit message:
+9. Run `git log` to check if your changes have been automatically committed. To close the log, press `Q`.
 
-   `docs: add @your_username as a contributor`
+   Here's what you should expect to see as your commit message:
 
-   Then, press `Q` to run the log.
+   ```bash
+   docs: add @your_username as a contributor`
+   ```
 
 10. Push the commit to your forked repository with this command:
 
@@ -214,7 +169,9 @@ git push -u origin branch-name
 
 11. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
 
-Congratulations on your first contribution! 🎉 If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
+Congratulations on your first contribution! 🎉
+
+?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
 
 ## Keeping Branches Up to Date
 
