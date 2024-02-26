@@ -146,7 +146,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
 6. Run `npm run contributors: add` in your terminal.
 
-   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choice.
+   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
@@ -158,20 +158,20 @@ You'll need to have these tools donwloaded and installed on your local machine:
    Here's what you should expect to see as your commit message:
 
    ```bash
-   docs: add @your_username as a contributor`
+   docs: add @your_username as a contributor
    ```
 
 10. Push the commit to your forked repository with this command:
 
-   ```bash
-   git push -u origin branch-name
-   ```
+    ```bash
+    git push -u origin branch-name
+    ```
 
 11. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
 
-   Congratulations on your first contribution! 🎉
-   
-   ?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
+Congratulations on your first contribution! 🎉
+
+?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
 
 ## Keeping Branches Up to Date
 
