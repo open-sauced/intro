@@ -148,7 +148,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
 
-   ![Image](./images/cli-tool.gif)
+   ![screenshot of a terminal displaying the steps to creating a profile for the guestbook](./images/cli-tool.gif)
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
