@@ -1,8 +1,8 @@
-# Types of contributions
+# Types of Contributions
 
 In this chapter, we will discuss the non-coding and coding types of contributions involved with open source projects.
 
-## Non-Coding Type Of Contributions
+## Non-Coding Type of Contributions
 
 Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
 
@@ -29,7 +29,7 @@ _If you're interested in contributing to documentation, here are a few tips:_
 - **Use the product**: Gaining user insight will help you see which information is needed or not useful in the docs.
 - **Be patient and persistent**: It takes time to write good documentation. Don't be afraid to ask for help if you get stuck.
 
-##### Examples of documentation contributions:
+##### Examples of Documentation Contributions
 
 - Write a README file that explains how to install and use the project: [The OpenSauced App
   ](https://github.com/open-sauced/app/blob/beta/README.md)
@@ -70,7 +70,7 @@ This open source contribution involves creating visual assets, such as logos, ic
 
 This type of open source contribution involves creating and publishing blog posts, articles, or tutorials related to open source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
-#### Ways to use Blogging as a Open Source Contribution
+#### Ways to Use Blogging as an Open Source Contribution
 
 - You can write about the latest features of an open source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
 
@@ -80,7 +80,7 @@ This type of open source contribution involves creating and publishing blog post
 
 - Coding and Non-coding Types of Contributions, such as how to get started with open source: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
 
-## Coding Type Of Contributions
+## Coding Type of Contributions
 
 Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
