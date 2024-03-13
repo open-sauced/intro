@@ -20,7 +20,7 @@ Documentation is crucial to open source projects. It involves creating, improvin
 
 If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the entire documentation**. This will help you better understand how the product is used.
+- **Read the entire documentation**. Reading the whole documentation will help you better understand how the product is used.
 - **Find a task that fits your skills and interests**. If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
 - **Use the product**. Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
 - **Be patient and persistent**. Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
@@ -33,7 +33,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 - **Create a tutorial**. When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
 
-- **Update the project's documentation**. Sometimes, a project has new changes or launches, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
+- **Update the project's documentation**. Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
 - **Translations**. If you're bilingual, you can contribute to a project by translating the documentation into other languages to reach broader users.
 
@@ -41,21 +41,25 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 ### Graphic Design
 
-This open source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
+Are you an artsy and creative person? If so, you might want to consider contributing to a project through design.
 
-- **Logo and Branding**: Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
+This contribution involves creating visual assets for open source projects, such as logos, icons, illustrations, website designs, and other graphical elements. These visual assets play a significant role in enhancing the project's overall user experience and branding. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
 
-- **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project: [Eventhub signup](https://github.com/WebXGuild/webx-guild/pull/13)
+Here are some examples of what to contribute through design:
 
-- **Website Design**: Open source projects often have websites to provide information, documentation, and download links. Graphic designers can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
+- **Logo and branding**. Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project recognizable and give it a professional image.
 
-- **User Interface (UI) Design**: For software projects, UI design is crucial. Designers can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
+- **Icon design**. Icons are essential for user interfaces. You can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
-- **User Experience (UX) Design**: UX designers focus on improving the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
+- **Website design**. Open source projects often have websites to provide information and documentation about the project. You can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
 
-- **Accessibility Design**: Ensuring that the project's graphical elements are accessible to all users, including those with disabilities, is an important aspect of graphic design. Designers can create accessible color schemes and ensure that visual elements are perceivable and operable.
+- **User Interface (UI) design**. UI design is crucial for software projects. You can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
 
-- **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices.
+- **User Experience (UX) design**. You can help to improve the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
+
+- **Accessibility design**. Software and websites must be accessible to all users, regardless of whether they have disabilities. To help achieve this, you can create accessible color schemes and contrast and ensure that all visual elements are clear and easy to use.
+
+- **Responsive design**. Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
 ### Blog Writing
 
