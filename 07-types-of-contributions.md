@@ -46,7 +46,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 ### Graphic Design
 
-Are you an artsy and creative person? If so, you might want to consider contributing to a project through design.
+Are you a creative person who likes to design? If so, you might want to consider contributing to a project through design.
 
 This contribution involves creating visual assets for open source projects, such as logos, icons, illustrations, website designs, and other graphical elements. These visual assets play a significant role in enhancing the project's overall user experience and branding. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
 
@@ -76,7 +76,7 @@ Here are some ideas about what to create:
 
 - **Tutorial**. <br/> Most of the time, documentation has limited space to explain the project to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
 
-- **Impact**. <br/> You can consider sharing about the open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
+- **Impact**. <br/> You can consider sharing about an open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
 
 - **Open source best practices**. <br/> Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
 
@@ -84,7 +84,7 @@ Here are some ideas about what to create:
 
 Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the software's functionality and quality.
 
-Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+Contributors collaborate with project maintainers and the community to ensure their code contributions align with project goals and coding standards. Open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
