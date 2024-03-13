@@ -1,6 +1,8 @@
 # Types of Open Source Contributions
 
-In this chapter, we will discuss the non-coding and coding types of contributions involved with open source projects.
+Open source covers many types of contributions, including coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
+
+In this chapter, we will discuss the non-coding and coding types of contributions in open source.
 
 ## Non-Coding Contributions
 
@@ -20,7 +22,7 @@ Documentation is crucial to open source projects. It involves creating, improvin
 
 If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the entire documentation**. Reading the whole documentation will help you better understand how the product is used.
+- **Read the entire documentation**. Reading the whole documentation will help you better understand how to use the product.
 - **Find a task that fits your skills and interests**. If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
 - **Use the product**. Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
 - **Be patient and persistent**. Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
