@@ -74,26 +74,25 @@ Here are some ideas about what to create:
 
 ## Coding Type of Contributions
 
-Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the software's functionality and quality.
+
+Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
-- **Writing New Code**: This is the most common type of coding contribution. Developers write new code to add features, fix bugs, or enhance the functionality of an open source project. These contributions are typically submitted in the form of pull requests (PRs) or patches: [Show who reacted to highlights](https://github.com/open-sauced/app/pull/1591)
+- **Writing new code**. This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
 
-- **Bug Fixes**: Identifying and fixing bugs is a critical coding contribution. Developers locate issues within the codebase, diagnose the problem, and then write code to correct it. Bug fixes improve the stability and reliability of the software: [Lint check happening two times on commit
-  ](https://github.com/open-sauced/app/pull/1635)
+- **Bug fix**. Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the stability and reliability of the software.
 
-- **Code Refactoring**: Refactoring involves restructuring and improving existing code without changing its external behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project: [CalcDistanceFromToday function](https://github.com/open-sauced/app/pull/1633)
+- **Code refactor**. Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project
 
-- **API Design and Maintenance**: For projects with public APIs, developers can contribute to designing, maintaining, and improving the API to ensure it remains stable and developer-friendly: [Refresh token
-  ](https://github.com/IridiumIdentity/iridium/pull/134)
+- **API design and maintenance**. For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
 
-- **Feature Development**: Developers contribute by implementing new features or functionalities in response to user needs or project goals. Feature development often involves planning, designing, and coding new components or capabilities: [Added the contact page
-  ](https://github.com/TechIsHiring/techishiring-website/pull/53)
+- **Feature development**. You can help implement new features or functionalities in response to user needs or project goals. Feature development involves planning, designing, and coding new components or capabilities.
 
-- **Performance Optimization**: Coders may work on optimizing the software's performance by refactoring code, improving algorithms, or optimizing resource usage. This type of contribution aims to make the software run more efficiently: [Repos table in small screens does not show select](https://github.com/open-sauced/app/pull/1559)
+- **Performance optimization**. You can contribute to optimizing the software's performance by improving algorithms or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
 
-- **Testing and Quality Assurance**: Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues: [Add force login component to design system](https://github.com/open-sauced/app/pull/1330)
+- **Testing and Quality Assurance (QA)**. Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
 [Next Section ->](08-additional-resources.md)
 
