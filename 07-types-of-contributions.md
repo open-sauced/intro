@@ -63,17 +63,14 @@ Here are some examples of what to contribute through design:
 
 ### Content Creation
 
-This type of open source contribution involves creating and publishing blog posts, articles, or tutorials related to open source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
+Contribution through content creation, such as blog posts, videos, or streaming, involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices. Like documentation, you don't necessarily have to know how to code to create these contents.
 
-#### Ways to Use Blogging as an Open Source Contribution
+Here are some ideas about what to create:
 
-- You can write about the latest features of an open source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
-
-- You can write a tutorial on how to install and configure the software: [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
-
-- Write about the impact of an open source project, such as how it has been used to make a difference in the world: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
-
-- Coding and Non-coding Types of Contributions, such as how to get started with open source: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+- **Latest features**. You can share the latest features of an open source project, such as a new version of the software or a new plugin.
+- **Tutorial**. Most of the time, documentation has limited space to explain the project to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
+- **Impact**. You can consider sharing about the open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
+- **Open source best practices**. Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
 
 ## Coding Type of Contributions
 
