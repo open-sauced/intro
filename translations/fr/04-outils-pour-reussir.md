@@ -3,7 +3,6 @@
 Pour réussir votre parcours dans l'open source, il est essentiel de vous familiariser avec les outils et les plateformes couramment utilisés par la communauté. Ces outils vous aideront à collaborer efficacement, à gérer vos projets et à contribuer aux projets open source. Dans ce chapitre, nous aborderons les outils essentiels suivants pour la collaboration open source:
 
 - GitHub et Git
-- CodeSee
 - VS Code (l'éditeur)
 - Discord
 
@@ -80,7 +79,6 @@ Remplacez "username" par votre nom d'utilisateur GitHub et "repository-name" par
 
 Ouvrez votre terminal et assurez-vous que vous êtes dans le bon répertoire. Par exemple, mes projets de codage se trouvent dans mon dossier Projects. En utilisant mon terminal, j'accèderais à ce dépôt en exécutant la commande suivante:
 
-
 ```
 cd projects/practice-repository
 ```
@@ -99,19 +97,10 @@ Remplacez "Votre message de commit" par une brève description des modifications
 ```
 git push origin main
 ```
+
 Ceci enverra vos changements vers la branche "main" de votre dépôt distant. Si vous voulez vérifier votre travail, naviguez vers votre dépôt GitHub. Vous devriez maintenant voir 'hello world!' dans votre fichier README.md.
 
 Vous avez maintenant configuré avec succès Git et GitHub sur votre machine locale et vous êtes prêt à collaborer sur des projets open source!
-
-## CodeSee
-
-CodeSee est un outil de visualisation puissant qui aide les développeurs à comprendre les bases de code complexes et à naviguer plus efficacement dans les grands projets. En fournissant une représentation visuelle de votre code, CodeSee vous permet de:
-
-- **Identifier les dépendances**: CodeSee vous aide à comprendre comment les différentes parties de votre base de code sont connectées et comment les changements dans un domaine peuvent avoir un impact sur d'autres domaines.
-- **Analyser la structure du code**: CodeSee allows you to visualize the structure of your code, making it easier to identify patterns, anti-patterns, and areas for improvement.
-- **Naviguer dans les grands codebases**: Avec CodeSee, vous pouvez naviguer rapidement dans de grandes bases de code et trouver les parties du code sur lesquelles vous devez travailler.
-
-Pour commencer à utiliser CodeSee, visitez le site officiel (https://www.codesee.io/) et suivez les instructions pour installer l'extension dans le navigateur et l'intégrer à votre compte GitHub.
 
 ## VS Code
 
@@ -123,7 +112,6 @@ Visual Studio Code (VS Code) est un éditeur de code populaire, gratuit et open-
 - **Personnalisable**: VS Code est hautement personnalisable, ce qui vous permet d'adapter l'éditeur à vos préférences et à votre flux de travail. Vous pouvez personnaliser le thème, les raccourcis clavier et les paramètres pour créer un environnement de développement personnalisé.
 
 Pour télécharger et installer VS Code, visitez le site officiel (https://code.visualstudio.com/) et suivez les instructions correspondant à votre système d'exploitation.
-
 
 ## Discord
 
