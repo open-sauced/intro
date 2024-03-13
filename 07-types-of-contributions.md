@@ -1,6 +1,6 @@
 # Types of Open Source Contributions
 
-Open source covers many types of contributions, including coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
+Open source covers many contributions, including coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
 
 In this chapter, we will discuss the non-coding and coding types of contributions in open source.
 
@@ -22,13 +22,13 @@ Documentation is crucial to open source projects. It involves creating, improvin
 
 If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the entire documentation** <br/> Reading the whole documentation will help you better understand how to use the product.
+- **Read the entire documentation**. <br/> Reading the whole documentation will help you better understand how to use the product.
 
-- **Find a task that fits your skills and interests** <br/> If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
+- **Find a task that fits your skills and interests**. <br/> If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
 
-- **Use the product** <br/> Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
+- **Use the product**. <br/> Using the product yourself will help you gain user insight and help you determine which information needs to be added to or removed from the documentation.
 
-- **Be patient and persistent** <br/> Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
+- **Be patient and persistent**. <br/> Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
 
 #### Examples of Documentation Contributions
 
@@ -40,7 +40,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 - **Update the project's documentation** <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
-- **Translations** <br/> If you're bilingual, you can contribute to a project by translating the documentation into other languages to reach broader users.
+- **Translations** <br/> If you are proficient in other languages, you can help a project by translating the documentation to expand its reach to more users.
 
 - **Fix typos and grammatical errors** <br/> Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
 
@@ -62,7 +62,7 @@ Here are some examples of what to contribute through design:
 
 - **User Experience (UX) design** <br/> You can help to improve the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
 
-- **Accessibility design** <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. To help achieve this, you can create accessible color schemes and contrast and ensure that all visual elements are clear and easy to use.
+- **Accessibility design** <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. You can contribute by creating accessible color schemes and contrast and ensuring that all visual elements are clear and easy to use.
 
 - **Responsive design** <br/> Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
@@ -74,7 +74,7 @@ Here are some ideas about what to create:
 
 - **Latest features** <br/> You can share the latest features of an open source project, such as a new version of the software or a new plugin.
 
-- **Tutorial** <br/> Most of the time, documentation has limited space to explain the project to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
+- **Tutorial** <br/> Most of the time, documentation has limited space to explain the project in detail to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
 
 - **Impact** <br/> You can consider sharing about an open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
 
@@ -88,11 +88,11 @@ Contributors collaborate with project maintainers and the community to ensure th
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
-- **Writing new code** <br/> This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
+- **Write new code** <br/> This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
 
-- **Bug fix** <br/> Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the stability and reliability of the software.
+- **Bug fix** <br/> Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the software's stability and reliability.
 
-- **Code refactor** <br/> Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project.
+- **Code refactor** <br/> Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the project's long-term health.
 
 - **API design and maintenance** <br/> For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
 
