@@ -22,24 +22,27 @@ Documentation is crucial to open source projects. It involves creating, improvin
 
 If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the entire documentation**. Reading the whole documentation will help you better understand how to use the product.
-- **Find a task that fits your skills and interests**. If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
-- **Use the product**. Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
-- **Be patient and persistent**. Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
+- **Read the entire documentation**. <br/> Reading the whole documentation will help you better understand how to use the product.
+
+- **Find a task that fits your skills and interests**. <br/> If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
+
+- **Use the product**. <br/> Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
+
+- **Be patient and persistent**. <br/> Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
 
 #### Examples of Documentation Contributions
 
 Now, you might wonder what you should do to contribute to a project's documentation. Here are some examples of what to contribute:
 
-- **Write or update the README file**. If you see that a project needs a README explaining how to install and use it, you can offer to write one. Or, if you notice information or instructions are missing from the README, you can create an issue and suggest how to update it.
+- **Write or update the README file**. <br/> If you see that a project needs a README explaining how to install and use it, you can offer to write one. Or, if you notice information or instructions are missing from the README, you can create an issue and suggest how to update it.
 
-- **Create a tutorial**. When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
+- **Create a tutorial**. <br/> When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
 
-- **Update the project's documentation**. Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
+- **Update the project's documentation**. <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
-- **Translations**. If you're bilingual, you can contribute to a project by translating the documentation into other languages to reach broader users.
+- **Translations**. <br/> If you're bilingual, you can contribute to a project by translating the documentation into other languages to reach broader users.
 
-- **Fix typos and grammatical errors**. Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
+- **Fix typos and grammatical errors**. <br/> Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
 
 ### Graphic Design
 
@@ -49,30 +52,33 @@ This contribution involves creating visual assets for open source projects, such
 
 Here are some examples of what to contribute through design:
 
-- **Logo and branding**. Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project recognizable and give it a professional image.
+- **Logo and branding**. <br/> Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project recognizable and give it a professional image.
 
-- **Icon design**. Icons are essential for user interfaces. You can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
+- **Icon design**. <br/> Icons are essential for user interfaces. You can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
-- **Website design**. Open source projects often have websites to provide information and documentation about the project. You can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
+- **Website design**. <br/> Open source projects often have websites to provide information and documentation about the project. You can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
 
-- **User Interface (UI) design**. UI design is crucial for software projects. You can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
+- **User Interface (UI) design**. <br/> UI design is crucial for software projects. You can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
 
-- **User Experience (UX) design**. You can help to improve the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
+- **User Experience (UX) design**. <br/> You can help to improve the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
 
-- **Accessibility design**. Software and websites must be accessible to all users, regardless of whether they have disabilities. To help achieve this, you can create accessible color schemes and contrast and ensure that all visual elements are clear and easy to use.
+- **Accessibility design**. <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. To help achieve this, you can create accessible color schemes and contrast and ensure that all visual elements are clear and easy to use.
 
-- **Responsive design**. Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
+- **Responsive design**. <br/> Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
 ### Content Creation
 
-Contribution through content creation, such as blog posts, videos, or streaming, involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices. Like documentation, you don't necessarily have to know how to code to create these contents.
+Contribution through content creation—blog posts, videos, or streaming—involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices. Like documentation, you don't necessarily have to know how to code to create these contents.
 
 Here are some ideas about what to create:
 
-- **Latest features**. You can share the latest features of an open source project, such as a new version of the software or a new plugin.
-- **Tutorial**. Most of the time, documentation has limited space to explain the project to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
-- **Impact**. You can consider sharing about the open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
-- **Open source best practices**. Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
+- **Latest features**. <br/> You can share the latest features of an open source project, such as a new version of the software or a new plugin.
+
+- **Tutorial**. <br/> Most of the time, documentation has limited space to explain the project to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
+
+- **Impact**. <br/> You can consider sharing about the open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
+
+- **Open source best practices**. <br/> Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
 
 ## Coding Contributions
 
@@ -82,19 +88,19 @@ Contributors collaborate with project maintainers and the community to ensure th
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
-- **Writing new code**. This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
+- **Writing new code**. <br/> This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
 
-- **Bug fix**. Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the stability and reliability of the software.
+- **Bug fix**. <br/> Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the stability and reliability of the software.
 
-- **Code refactor**. Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project.
+- **Code refactor**. <br/> Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project.
 
-- **API design and maintenance**. For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
+- **API design and maintenance**. <br/> For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
 
-- **Feature development**. You can help implement new features or functionalities in response to user needs or project goals. Feature development involves planning, designing, and coding new components or capabilities.
+- **Feature development**. <br/> You can help implement new features or functionalities in response to user needs or project goals. Feature development involves planning, designing, and coding new components or capabilities.
 
-- **Performance optimization**. You can contribute to optimizing the software's performance by improving algorithms or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
+- **Performance optimization**. <br/> You can contribute to optimizing the software's performance by improving algorithms or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
 
-- **Testing and Quality Assurance (QA)**. Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
+- **Testing and Quality Assurance (QA)**. <br/> Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
 [Next Section ->](08-additional-resources.md)
 
