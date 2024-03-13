@@ -1,8 +1,8 @@
-# Types of Contributions
+# Types of Open Source Contributions
 
 In this chapter, we will discuss the non-coding and coding types of contributions involved with open source projects.
 
-## Non-Coding Type of Contributions
+## Non-Coding Contributions
 
 Non-coding contributions are types of contributions that do not involve writing or modifying code. However, they are essential for the sustainability and growth of open source projects.
 
@@ -72,7 +72,7 @@ Here are some ideas about what to create:
 - **Impact**. You can consider sharing about the open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
 - **Open source best practices**. Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
 
-## Coding Type of Contributions
+## Coding Contributions
 
 Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the software's functionality and quality.
 
@@ -84,7 +84,7 @@ Here are some examples of contributions you can make to a project with your codi
 
 - **Bug fix**. Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the stability and reliability of the software.
 
-- **Code refactor**. Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project
+- **Code refactor**. Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project.
 
 - **API design and maintenance**. For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
 
