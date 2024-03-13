@@ -1,5 +1,6 @@
 * [Accueil](/translations/fr/)
 * [⭐ Donner une étoile au projet](https://github.com/open-sauced/intro)
-* Languages
+* Langues
     * [:us: Anglais ](/)
     * [:fr: Français ](/translations/fr/)
+    * [🇧🇷 Portugais](/translations/pt-br/)
