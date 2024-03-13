@@ -4,13 +4,11 @@ In this chapter, we will discuss the non-coding and coding types of contribution
 
 ## Non-Coding Type of Contributions
 
-Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community. You can read [this article](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5) to learn more about contributing to open source projects without knowing how to code.
+Non-coding contributions are types of contributions that do not involve writing or modifying code. However, they are essential for the sustainability and growth of open source projects.
 
-**Common types of non-coding contributions**
+These types of contributions allow individuals with various skills and backgrounds to participate and make meaningful contributions to the software and the community. You can read [this article](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5) to learn more about contributing to open source projects without knowing how to code.
 
-- Documentation
-- Graphic design
-- Blog writing
+Next, we will talk about some common non-coding contributions.
 
 ### Documentation
 
