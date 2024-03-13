@@ -12,37 +12,32 @@ Next, we will talk about some common non-coding contributions.
 
 ### Documentation
 
-Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
+Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then, documentation is for you!
 
-This involves creating, improving, or maintaining the written resources that accompany open source software projects. Documentation is crucial to open source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors and encourage repeat contributions.
+Documentation is crucial to open source projects. It involves creating, improving, or maintaining the written resources accompanying open source software projects. Documentation can make a project more accessible and user-friendly, help attract new users, and encourage repeat contributions to the project.
 
-#### How to Contribute to Documentation
+#### Tips for Contributing to Documentation
 
-_If you're interested in contributing to documentation, here are a few tips:_
+If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the documentation**: This will help you understand how the product is used.
-- **Find a task that's a good fit for your skills and interests**: If you're not sure where to start, take a look at the issues or discussions before reaching out to a maintainer.
-- **Use the product**: Gaining user insight will help you see which information is needed or not useful in the docs.
-- **Be patient and persistent**: It takes time to write good documentation. Don't be afraid to ask for help if you get stuck.
+- **Read the entire documentation**. This will help you better understand how the product is used.
+- **Find a task that fits your skills and interests**. If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
+- **Use the product**. Gaining user insight will help you determine which information needs to be added to or removed from the documentation.
+- **Be patient and persistent**. Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
 
-##### Examples of Documentation Contributions
+#### Examples of Documentation Contributions
 
-- Write a README file that explains how to install and use the project: [The OpenSauced App
-  ](https://github.com/open-sauced/app/blob/beta/README.md)
+Now, you might wonder what you should do to contribute to a project's documentation. Here are some examples of what to contribute:
 
-- Create a tutorial that walks users through the project's features: [OpenSauced Highlights Feature](https://docs.opensauced.pizza/community/highlights/)
+- **Write or update the README file**. If you see that a project needs a README explaining how to install and use it, you can offer to write one. Or, if you notice information or instructions are missing from the README, you can create an issue and suggest how to update it.
 
-- Update the project's documentation to reflect new changes: [Add Dev Cards to Getting Started](https://github.com/open-sauced/docs/issues/156)
+- **Create a tutorial**. When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
 
-- Translate the project's documentation into other languages: [Translate the course into another language](https://github.com/open-sauced/intro/issues/16)
+- **Update the project's documentation**. Sometimes, a project has new changes or launches, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
-- Fix typos and grammatical errors in the documentation: [Adding information about possessives
-  ](https://github.com/StyleGuides/WritingStyleGuide/pull/519)
+- **Translations**. If you're bilingual, you can contribute to a project by translating the documentation into other languages to reach broader users.
 
-- Improve the formatting of the documentation: [Incorrect Link Destination in Documentation](https://github.com/open-sauced/docs/pull/144)
-- Add missing information to the documentation: [Add More Information to Use This Template in the README](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
-
-Contributing to documentation is a great way to help open source projects and make them more accessible to everyone. If you have the skills and the interest, get involved!
+- **Fix typos and grammatical errors**. Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
 
 ### Graphic Design
 
