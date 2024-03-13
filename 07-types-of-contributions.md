@@ -61,7 +61,7 @@ Here are some examples of what to contribute through design:
 
 - **Responsive design**. Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
-### Blog Writing
+### Content Creation
 
 This type of open source contribution involves creating and publishing blog posts, articles, or tutorials related to open source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
 
