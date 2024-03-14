@@ -74,7 +74,7 @@ Here are some ideas about what to create:
 
 - **Latest features** <br/> You can share the latest features of an open source project, such as a new version of the software or a new plugin.
 
-- **Tutorial** <br/> Most of the time, documentation has limited space to explain the project in detail to all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
+- **Tutorial** <br/> Most of the time, documentation has limited space to explain the project in detail to accommodate all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
 
 - **Impact** <br/> You can consider sharing about an open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
 
