@@ -1,6 +1,6 @@
 # Types of Open Source Contributions
 
-Open source covers many contributions, including coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
+Contributions to open source projects can take many forms, such as coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
 
 In this chapter, we will discuss the non-coding and coding types of contributions in open source.
 
@@ -22,13 +22,13 @@ Documentation is crucial to open source projects. It involves creating, improvin
 
 If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the entire documentation**. <br/> Reading the whole documentation will help you better understand how to use the product.
+- **Read the entire documentation**. <br/> Reading the whole documentation will help you better understand the product and how to use it.
 
-- **Find a task that fits your skills and interests**. <br/> If you're unsure where to start, look at the issues or discussions you believe you can tackle before reaching out to a maintainer.
+- **Find a task that fits your skills and interests**. <br/> If you're unsure where to start, look for issues or discussions you believe you can solve before reaching out to a maintainer.
 
 - **Use the product**. <br/> Using the product yourself will help you gain user insight and help you determine which information needs to be added to or removed from the documentation.
 
-- **Be patient and persistent**. <br/> Writing good documentation takes time. Don't be afraid to ask for help if you get stuck.
+- **Be patient and persistent**. <br/> Writing good documentation takes time. Don't be afraid to ask for help if you need it.
 
 #### Examples of Documentation Contributions
 
@@ -38,7 +38,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 - **Create a tutorial** <br/> When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
 
-- **Update the project's documentation** <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
+- **Update documentation** <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
 - **Translations** <br/> If you are proficient in other languages, you can help a project by translating the documentation to expand its reach to more users.
 
@@ -46,7 +46,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 ### Graphic Design
 
-Are you a creative person who likes to design? If so, you might want to consider contributing to a project through design.
+Are you a creative person who's into design? If so, you might want to consider contributing to an open source project through design.
 
 This contribution involves creating visual assets for open source projects, such as logos, icons, illustrations, website designs, and other graphical elements. These visual assets play a significant role in enhancing the project's overall user experience and branding. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
 
@@ -60,15 +60,15 @@ Here are some examples of what to contribute through design:
 
 - **User Interface (UI) design** <br/> UI design is crucial for software projects. You can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
 
-- **User Experience (UX) design** <br/> You can help to improve the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
+- **User Experience (UX) design** <br/> By considering how users interact with the software, you can contribute to improving the overall user experience. This includes designing user flows, navigation, and usability testing.
 
-- **Accessibility design** <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. You can contribute by creating accessible color schemes and contrast and ensuring that all visual elements are clear and easy to use.
+- **Accessibility design** <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. You can contribute, for example, by creating accessible color schemes and contrast or positioning visual elements within the project. You can help ensure all visual elements are clear and easy to use.
 
 - **Responsive design** <br/> Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
 ### Content Creation
 
-Contribution through content creation—blog posts, videos, or streaming—involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices. Like documentation, you don't necessarily have to know how to code to create these contents.
+Contribution through content creation—blog posts, videos, or streaming—involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices to attract more users and contributors. Like documentation, you don't necessarily have to know how to code to create these contents.
 
 Here are some ideas about what to create:
 
@@ -94,7 +94,7 @@ Here are some examples of contributions you can make to a project with your codi
 
 - **Code refactor** <br/> Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the project's long-term health.
 
-- **API design and maintenance** <br/> For projects with public APIs, you can help design, maintain, and improve the API to ensure its quality and reliability.
+- **API design and maintenance** <br/> You can contribute to projects with public APIs by designing, maintaining, or improving the API to ensure its quality and reliability.
 
 - **Feature development** <br/> You can help implement new features or functionalities in response to user needs or project goals. Feature development involves planning, designing, and coding new components or capabilities.
 
