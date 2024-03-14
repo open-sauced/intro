@@ -40,7 +40,7 @@ Now, you might wonder what you should do to contribute to a project's documentat
 
 - **Update documentation** <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
 
-- **Translations** <br/> If you are proficient in other languages, you can help a project by translating the documentation to expand its reach to more users.
+- **Translate documentation** <br/> If you are proficient in other languages, you can help a project by translating the documentation to expand its reach to more users.
 
 - **Fix typos and grammatical errors** <br/> Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
 
