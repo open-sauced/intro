@@ -1,9 +1,9 @@
-# Tools to be successful
+# Tools to be Successful
 
 To be successful in your open source journey, it's essential to familiarize yourself with the tools and platforms commonly used by the community. These tools will help you collaborate effectively, manage your projects, and contribute to open source projects. In this chapter, we'll discuss the following essential tools for open source collaboration:
 
 - GitHub & Git
-- VS Code (The Editor)
+- Visual Studio Code (VS Code)
 - Discord
 
 ## Prerequisites
@@ -38,7 +38,7 @@ Some of the key features of GitHub include:
 
 To get started with Git and GitHub, follow these steps:
 
-1. **Install Git**: Download and install Git on your computer by visiting the official Git website (https://git-scm.com/) and following the installation instructions for your operating system.
+1. **Install Git**: Download and install Git on your computer by visiting the [official Git website](https://git-scm.com/) and following the installation instructions for your operating system.
 
 2. **Configure Git**: After installing Git, open a terminal or command prompt and configure your Git user information by running the following commands:
 
@@ -52,7 +52,7 @@ Replace "Your Name" with your full name and "your.email@example.com" with the em
 #### Practicing Contributing with VS Code
 To practice using GitHub, we're going to walk through creating a repository, cloning the repository, making changes, and pushing those changes. 
 
-1. **Create a new repository**: Log in to your GitHub account and navigate to [https://github.com/new](https://github.com/new) or click on the "+" icon in the upper right corner and select "New repository" from the dropdown menu. 
+1. **Create a new repository**: Log in to your GitHub account and click the green "New" button on the sidebar. Alternatively, click the "+" icon in the upper right corner and select "New repository" from the dropdown menu. 
 
 Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
 
@@ -108,7 +108,7 @@ Visual Studio Code (VS Code) is a popular, free, and open source code editor dev
 - **Integrated terminal**: VS Code includes an integrated terminal that allows you to run commands, scripts, and build tasks directly from the editor.
 - **Customizable**: VS Code is highly customizable, allowing you to tailor the editor to your preferences and workflow. You can customize the theme, keybindings, and settings to create a personalized development environment.
 
-To download and install VS Code, visit the official website (https://code.visualstudio.com/) and follow the instructions for your operating system.
+To download and install VS Code, visit the [official website](https://code.visualstudio.com/) and follow the instructions for your operating system.
 
 ## Discord
 
@@ -119,7 +119,7 @@ Discord is a popular messaging and voice chat platform that is widely used by op
 - **Participate in discussions**: Discord servers often host discussions on various topics related to open source development. By participating in these discussions, you can learn from others, share your insights, and contribute to the collective knowledge of the community.
 - **Find collaboration opportunities**: Discord servers can be a great place to find others who share your interests and are looking for collaboration opportunities. By networking with other developers, you can discover new projects to work on and form valuable partnerships.
 
-To get started with Discord, visit the official website (https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub, GitLab, or OpenSauced to find their Discord servers and join the conversation.
+To get started with Discord, visit the [official website](https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub, GitLab, or OpenSauced to find their Discord servers and join the conversation.
 
 By familiarizing yourself with these tools and platforms, you'll be equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the next chapter, we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.
 
