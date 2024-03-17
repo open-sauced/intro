@@ -14,7 +14,7 @@ Like pizza, open source is meant to be shared with everyone. We provide and main
 
 - [French](./translations/fr/README.md)
 
-For translations in other languages that are maintained by our community, please go to the [Community Translations](community-translations.md) section.
+For translations in other languages that are maintained by our community, please go to the [Community Translations](../community-translations.md) section.
 
 ## Course Overview
 
@@ -48,12 +48,12 @@ This chapter explains the non-coding and coding types of contributions involved 
 
 As this is the beginning of your open source journey, we've also provided additional information in these chapters:
 
-- [Glossary](/10-glossary.md): A glossary of common terms and definitions used in open source.
-- [Additional Resources](/08-additional-resources.md): A list of resources for further learning about open source, including blog posts, tutorials, and guides.
+- [Glossary](./10-glossary.md): A glossary of common terms and definitions used in open source.
+- [Additional Resources](./08-additional-resources.md): A list of resources for further learning about open source, including blog posts, tutorials, and guides.
 
 ## Getting Started
 
-To start the course, navigate to the [`intro` file](/01-intro.md) in the repository or visit the [Intro to Open Source with OpenSauced website](https://intro.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To start the course, navigate to the [`intro` file](/intro-to-oss/01-intro.md) in the repository or visit the [Intro to Open Source with OpenSauced website](https://intro.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to an open source project or building your project from scratch!
 
@@ -61,7 +61,7 @@ As you work through the course, we encourage you to experiment with the tools an
 
 One of the unique features of this course is that it guides you to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
 
-To learn more about using OpenSauced to build your open source resume, check out the [Building Your Open Source Resume](/06-the-secret-sauce.md#building-your-open-source-resume) section in [The Secret Sauce](/06-the-secret-sauce.md) chapter.
+To learn more about using OpenSauced to build your open source resume, check out the [Building Your Open Source Resume](/intro-to-oss/06-the-secret-sauce.md#building-your-open-source-resume) section in [The Secret Sauce](/intro-to-oss/06-the-secret-sauce.md) chapter.
 
 ---
 
@@ -73,9 +73,9 @@ Happy learning and contributing!
 
 ## 🤝 Contributing to this Repository
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
+If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](../i18n-guidelines.md).
 
 ## ⚖️ LICENSE
 
