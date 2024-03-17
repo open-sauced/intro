@@ -7,7 +7,9 @@ To be successful in your open source journey, it's essential to familiarize your
 - Discord
 
 ## Prerequisites
+
 Before completing the following walkthrough, complete the following:
+
 - Create a [GitHub account](https://github.com/)
 - Download [VS Code](https://code.visualstudio.com/)
 
@@ -42,60 +44,61 @@ To get started with Git and GitHub, follow these steps:
 
 2. **Configure Git**: After installing Git, open a terminal or command prompt and configure your Git user information by running the following commands:
 
-```
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-```
+   ```
+   git config --global user.name "Your Name"
+   git config --global user.email "your.email@example.com"
+   ```
 
-Replace "Your Name" with your full name and "your.email@example.com" with the email address you used to sign up for GitHub.
+   Replace `Your Name` with your full name and `your.email@example.com` with the email address you used to sign up for GitHub.
 
 #### Practicing Contributing with VS Code
-To practice using GitHub, we're going to walk through creating a repository, cloning the repository, making changes, and pushing those changes. 
 
-1. **Create a new repository**: Log in to your GitHub account and click the green "New" button on the sidebar. Alternatively, click the "+" icon in the upper right corner and select "New repository" from the dropdown menu. 
+To practice using GitHub, we're going to walk through creating a repository, cloning the repository, making changes, and pushing those changes.
 
-Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
+1. **Create a new repository**: Log in to your GitHub account and click the green "New" button on the sidebar. Alternatively, click the "+" icon in the upper right corner and select "New repository" from the dropdown menu.
 
-![new repo screenshot](./images/new-repo.png)
+   Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
 
-Choose whether you want it to be public or private. You can also choose to initialize the repository with a README file, a .gitignore file, and/or a license. 
+   ![Create new repository](../_assets/images/new-repo.png)
 
-For this example, initialize the repository with a README file. 
+   Choose whether you want it to be public or private. You can also choose to initialize the repository with a README file, a `.gitignore` file, and/or a license.
+
+   For this example, initialize the repository with a README file.
 
 2. **Clone the repository**: Once you have created a new repository, you can clone it to your local machine by running the following command in your terminal or command prompt:
 
-```
-git clone https://github.com/username/repository-name.git
-```
+   ```
+   git clone https://github.com/username/repository-name.git
+   ```
 
-Replace "username" with your GitHub username and "repository-name" with `practice-repository`.
+   Replace "username" with your GitHub username and "repository-name" with `practice-repository`.
 
-3. **Access your repository in your code editor**: For this example, we're using VS Code. Open VS Code, navigate to the file tab, and then open your `practice-repository`. 
+3. **Access your repository in your code editor**: For this example, we're using VS Code. Open VS Code, navigate to the file tab, and then open your `practice-repository`.
 
-4. **Make changes and commit**: There should be one file in your repository: `README.md`. Inside that file, below `# practice-repository`, type 'hello world!' Once you have made changes, you can stage and commit them. 
+4. **Make changes and commit**: There should be one file in your repository: `README.md`. Inside that file, below `# practice-repository`, type 'hello world!' Once you have made changes, you can stage and commit them.
 
-Open your terminal and make sure you are in the right directory. For example, my coding projects are inside of my `Projects` folder. Using my terminal, I would access this repository by running this command:
+   Open your terminal and make sure you are in the right directory. For example, my coding projects are inside of my `Projects` folder. Using my terminal, I would access this repository by running this command:
 
-```
-cd projects/practice-repository
-```
+   ```
+   cd projects/practice-repository
+   ```
 
-Once in the correct repository, use the following commands to add the changes you made and write a commit message with a description of the changes:
+   Once in the correct repository, use the following commands to add the changes you made and write a commit message with a description of the changes:
 
-```
-git add .
-git commit -m "Your commit message"
-```
+   ```
+   git add .
+   git commit -m "Your commit message"
+   ```
 
-Replace "Your commit message" with a brief description of the changes you made.
+   Replace "Your commit message" with a brief description of the changes you made.
 
 5. **Push your changes**: After committing your changes, you can push them to your remote GitHub repository by running the following command:
 
-```
-git push origin main
-```
+   ```
+   git push origin main
+   ```
 
-This will push your changes to the "main" branch of your remote repository. If you want to check your work, navigate to your GitHub repository. You should now see 'hello world!' in your README.md file.
+   This will push your changes to the `main` branch of your remote repository. If you want to check your work, navigate to your GitHub repository. You should now see 'hello world!' in your README.md file.
 
 You have now successfully set up Git and GitHub on your local machine and are ready to collaborate on open source projects!
 

@@ -20,7 +20,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 1. **Sign up for an account**: Visit https://www.opensauced.pizza/ and sign up for an account using your GitHub credentials.
 
-   ![Image](./images/opensauced-signup.png)
+   ![OpenSauced signup](../_assets/images/opensauced-signup.png)
 
    During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
 
@@ -28,7 +28,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 3. **Search for projects**: In Explore, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
-   ![Explore](./images/opensauced-explore.png)
+   ![OpenSauced explore tab](../_assets/images/opensauced-explore.png)
 
 4. **Save projects to your Insights pages**: When you find projects you're interested in, you can add them to "Insights" pages that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
@@ -64,7 +64,7 @@ So, you've onboarded yourself in the project. Now, you can prepare to contribute
 
    If there are no directions in the CONTRIBUTING file, you can leave a comment on the issue, "Can I please be assigned this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
 
-   ![issue assigned screenshot](./images/issue-assign.png)
+   ![Issue assignees section on GitHub](../_assets/images/issue-assign.png)
 
 ## Contribution Workflow
 
@@ -148,7 +148,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
 
-   ![adding contributor with CLI on a terminal](./images/cli-tool.gif)
+   ![Adding contributor with CLI on a terminal](../_assets/gifs/cli-tool.gif)
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
