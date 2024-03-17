@@ -20,7 +20,7 @@ Congratulations on your journey into open source! Here are some resources for fu
 -[How to Write a Good Issue: Tips for Effective Communication in Open Source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
 - [Good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist)
 
-[Next Section ->](09-conclusion.md)
+[Next Section ->](./09-conclusion.md)
 
 <a href="https://github.com/open-sauced/intro/edit/main/08-additional-resources.md">
  ✏️  Edit this page

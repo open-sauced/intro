@@ -173,7 +173,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 Congratulations on your first contribution! 🎉
 
-?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
+?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](./06-the-secret-sauce.md) in this course.
 
 ## Keeping Branches Up to Date
 
@@ -213,7 +213,7 @@ You need to pay attention to the conflicts and decide how you want to resolve th
 
 ### Tips to Prevent Resolving Merge Conflicts Repeatedly
 
-Some open source repositories, such as OpenSauced's [guestbook](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
+Some open source repositories, such as OpenSauced's [guestbook](https://github.com/open-sauced/guestbook) and [pizza-verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
 
 Below are some tips to prevent you from resolving merge conflicts repeatedly when contributing to open source projects:
 
@@ -281,7 +281,7 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
 
 As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
 
-[Next Section ->](06-the-secret-sauce.md)
+[Next Section ->](./06-the-secret-sauce.md)
 
 <a href="https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md">
   ✏️  Edit this page
