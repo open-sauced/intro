@@ -1,6 +1,6 @@
 # Contributing to OpenSauced Intro
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
+Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
 
 ## Recommended Communication Style
 
@@ -11,13 +11,13 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 ## Issues
 
-When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+- When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
-If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
+- If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
-Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag our `@open-sauced/community` maintainers in the comment to notify them.
+- Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But our triage team and maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag `@open-sauced/triage` and `@open-sauced/docs` teams in the comment to notify them.
 
-You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or GitHub Discussions if you get stuck while working on your changes or need clarification.
+You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ We recommend one of these two methods for running the project on your local mach
 3. **Run the project**.
 
    ```bash
-   docsify serve
+   docsify serve docs
    ```
 
    This command will start a local development server, and you can access the project in your web browser at `http://localhost:3000`.
@@ -100,7 +100,7 @@ Live Server extension allows you to launch a local development server and previe
 
 4. **Launch the Live Server**.
 
-   Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open the project in a new tab on your browser at a local address.
+   Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open a new tab on your browser at a local address. Then, click the "docs" folder to see the project in live mode.
 
 5. **Make and test changes**.
 
@@ -116,7 +116,7 @@ The contents of this course are written in [Markdown](https://www.markdownguide.
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the [Glossary](10-glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
+If you add definitions to the [Glossary](../intro-to-oss/10-glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
 
 ### Adding a New Section to a Chapter
 
