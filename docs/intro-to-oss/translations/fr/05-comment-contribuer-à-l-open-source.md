@@ -25,15 +25,15 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
-![Image](../../images/opensauced-signup.png)
+   ![OpenSauced signup](../../../_assets/images/opensauced-signup.png)
 
-Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
+   Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
 
 2. **Explorez le tableau de bord**: Une fois que vous vous êtes inscrit, vous accédez à votre tableau de bord, où vous pouvez consulter vos projets en cours, vos objectifs et vos contributions. En cliquant sur "Explorer" dans l'en-tête, vous pourrez parcourir les projets en fonction de vos intérêts et de vos compétences.
 
 3. **Rechercher des projets**: Dans Explorer, vous pouvez voir une liste de dépôts et leurs niveaux d'activité et d'engagement pertinents qui sont actuellement en tendance. Vous pouvez également rechercher des projets en tapant dans la barre de recherche. Vous pouvez rechercher des projets par nom, par description ou par sujet et utiliser cet outil pour trouver quelque chose qui vous correspond.
 
-![Explore](../../images/opensauced-explore.png)
+   ![Explore tab](../../../_assets/images/opensauced-explore.png)
 
 4. **Enregistrez des projets dans vos pages "Insights"**: Lorsque vous trouvez des projets qui vous intéressent, vous pouvez les ajouter à ce que l'on appelle les pages "Insights", qui vous donnent plus de détails sur l'activité des projets. Vous pouvez également passer à l'étape suivante si vous préférez vous plonger dans le projet et y apporter votre contribution.
 
@@ -49,7 +49,7 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 3. **Demandez à ce que le problème vous soit attribué**: Lorsque vous apportez votre première contribution à un projet, il est conseillé de demander aux responsables de vous attribuer le problème. Cela vous permettra de vous assurer que vous ne faites pas double travail et que votre contribution est conforme aux objectifs et aux exigences du projet. S'il n'y a pas d'instructions dans le fichier CONTRIBUTING, vous pouvez faire un commentaire dans le problème, "Can I please be assigned this issue ?" (Puis-je me voir attribuer ce problème ?) Lorsque le responsable vous aura assigné ce problème, vous remarquerez que le problème est maintenant étiqueté avec votre nom d'utilisateur.
 
-![issue assigned screenshot](../../images/issue-assign.png)
+   ![Issue assignees section on GitHub](../../../_assets/images/issue-assign.png)
 
 ## Comment soumettre une contribution ?
 
@@ -59,38 +59,38 @@ Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivan
 
 2. **Clonez votre fork**: Clonez votre dépôt forké sur votre machine locale en exécutant la commande suivante dans votre terminal ou votre invite de commande:
 
-```
-git clone https://github.com/username/repository-name.git
-```
+   ```
+   git clone https://github.com/username/repository-name.git
+   ```
 
-Remplacez "username" par votre nom d'utilisateur GitHub et "repository-name" par le nom du dépôt.
+   Remplacez "username" par votre nom d'utilisateur GitHub et "repository-name" par le nom du dépôt.
 
 3. **Créer une nouvelle branche**: Avant d'apporter des modifications, créez une nouvelle branche dans votre dépôt local pour travailler sur votre contribution. Cela vous aidera à garder vos modifications séparées de la branche principale et facilitera la soumission d'une demande de tirage (pull request) plus tard. Vous pouvez créer une nouvelle branche en utilisant la commande suivante:
 
-```
-git checkout -b votre-nom-de-branche
-```
+   ```
+   git checkout -b votre-nom-de-branche
+   ```
 
-Remplacez "votre-nom-de-branche" par un nom descriptif de votre branche, tel que "fix-bug-123" ou "add-new-feature".
+   Remplacez "votre-nom-de-branche" par un nom descriptif de votre branche, tel que "fix-bug-123" ou "add-new-feature".
 
 4. **Effectuez vos modifications**: Maintenant que vous disposez d'une nouvelle branche, vous pouvez apporter des modifications au codebase. Veillez à respecter les directives et conventions de codage du projet, et testez vos modifications pour vous assurer qu'elles fonctionnent comme prévu.
 
 5. **Validez vos modifications (commit)**: Une fois que vous avez effectué vos modifications, mettez-les en zone de préparation et validez-les (commiter les modifications) à l'aide des commandes suivantes:
 
-```
-git add .
-git commit -m "Votre message de commit"
-```
+   ```
+   git add .
+   git commit -m "Votre message de commit"
+   ```
 
-Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
+   Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
 
-5. **Envoyer vos modifications (push)**: Envoyer vos modifications vers votre dépôt forké sur GitHub en exécutant la commande suivante:
+6. **Envoyer vos modifications (push)**: Envoyer vos modifications vers votre dépôt forké sur GitHub en exécutant la commande suivante:
 
-```
-git push -b votre-nom-de-branche
-```
+   ```
+   git push -b votre-nom-de-branche
+   ```
 
-Remplacez "votre-nom-de-branche" par le nom de votre branche.
+   Remplacez "votre-nom-de-branche" par le nom de votre branche.
 
 7. **Soumettez une demande de tirage**: Une fois que vous avez pushé vos modifications, naviguez vers le dépôt du projet original sur GitHub et cliquez sur le bouton "Nouvelle demande de tirage" (New pull request). Dans la liste déroulante "rébase repository", sélectionnez le dépôt original, et dans la liste déroulante "head repository", sélectionnez votre dépôt forké. Choisissez votre branche dans la liste déroulante "compare", et cliquez sur "Créer la demande de tirage" (Create pull request). Remplissez les informations requises et soumettez votre demande de tirage.
 
@@ -106,21 +106,21 @@ Maintenant que vous savez comment trouver et contribuer à des projets open sour
 
 2. Ensuite, clonons ce dépôt sur notre machine locale. Dans votre terminal ou votre invite de commande, exécutez la commande suivante:
 
-```
-git clone git@github.com:[votre-username]/guestbook.git
-```
+   ```
+   git clone git@github.com:[votre-username]/guestbook.git
+   ```
 
-> Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de <https://nodejs.org/fr/download/>.
+   > Ce tutoriel suppose que Node.js est installé sur votre machine, ce qui est nécessaire pour travailler avec ce projet. Si vous n'avez pas installé Node.js, vous pouvez le télécharger à partir de <https://nodejs.org/fr/download/>.
 
 3. Une fois cloné, ouvrez le projet dans votre terminal et lancez `npm install` pour installer ses dépendances. Vous pouvez également lancer `pnpm install` si vous préférez un autre gestionnaire de paquets et l'installer.
 
 4. **Créez une nouvelle branche**: Avant d'effectuer des modifications, n'oubliez pas de créer une nouvelle branche dans votre dépôt local pour travailler sur votre contribution. Vous pouvez créer une nouvelle branche en utilisant la commande suivante :
 
-```
-git checkout -b feature/add-profile-[votre-username]
-```
+   ```
+   git checkout -b feature/add-profile-[votre-username]
+   ```
 
-N'oubliez pas de remplacer "votre-username" par votre nom d'utilisateur GitHub.
+   N'oubliez pas de remplacer "votre-username" par votre nom d'utilisateur GitHub.
 
 5. Exécutez `npm run contributors:add` pour vous ajouter à la liste des contributeurs et remplir le formulaire en fonction de vos contributions.
 
@@ -189,15 +189,15 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 1. **Créer un compte**: Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
-![Image](../../images/opensauced-signup.png)
+   ![OpenSauced signup](../../../_assets/images/opensauced-signup.png)
 
-Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
+   Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
 
 2. **Explorez le tableau de bord**: Une fois que vous vous êtes inscrit, vous accédez à votre tableau de bord, où vous pouvez consulter vos projets en cours, vos objectifs et vos contributions. En cliquant sur "Explorer" dans l'en-tête, vous pourrez parcourir les projets en fonction de vos intérêts et de vos compétences.
 
 3. **Rechercher des projets**: Dans Explorer, vous pouvez voir une liste de dépôts et leurs niveaux d'activité et d'engagement pertinents qui sont actuellement en tendance. Vous pouvez également rechercher des projets en tapant dans la barre de recherche. Vous pouvez rechercher des projets par nom, par description ou par sujet et utiliser cet outil pour trouver quelque chose qui vous correspond.
 
-![Explore](../../images/opensauced-explore.png)
+   ![Explore tab](../../../_assets/images/opensauced-explore.png)
 
 4. **Enregistrez des projets dans vos pages "Insights"**: Lorsque vous trouvez des projets qui vous intéressent, vous pouvez les ajouter à ce que l'on appelle les pages "Insights", qui vous donnent plus de détails sur l'activité des projets. Vous pouvez également passer à l'étape suivante si vous préférez vous plonger dans le projet et y apporter votre contribution.
 
@@ -213,7 +213,7 @@ Une fois que vous avez trouvé un projet auquel vous aimeriez contribuer, vous d
 
 3. **Demandez à ce que le problème vous soit attribué**: Lorsque vous apportez votre première contribution à un projet, il est conseillé de demander aux responsables de vous attribuer le problème. Cela vous permettra de vous assurer que vous ne faites pas double travail et que votre contribution est conforme aux objectifs et aux exigences du projet. S'il n'y a pas d'instructions dans le fichier CONTRIBUTING, vous pouvez faire un commentaire dans le problème, "Can I please be assigned this issue ?" (Puis-je me voir attribuer ce problème ?) Lorsque le responsable vous aura assigné ce problème, vous remarquerez que le problème est maintenant étiqueté avec votre nom d'utilisateur.
 
-![issue assigned screenshot](../../images/issue-assign.png)
+   ![Issue assignees section on GitHub](../../../_assets/images/issue-assign.png)
 
 ## Comment soumettre une contribution?
 

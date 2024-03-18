@@ -44,12 +44,12 @@ Pour débuter avec GitHub, suivez les étapes suivantes:
 
 2. **Configurez Git**: Après avoir installé Git, ouvrez un terminal ou une invite de commande et configurez vos informations d'utilisateur Git en exécutant les commandes suivantes :
 
-```
-git config --global user.name "Votre nom utilisateur"
-git config --global user.email "votre.mail@exemple.com"
-```
+   ```
+   git config --global user.name "Votre nom utilisateur"
+   git config --global user.email "votre.mail@exemple.com"
+   ```
 
-Remplacez "Votre nom utilisateur" par votre nom complet et "votre.mail@exemple.com" par l'adresse e-mail que vous avez utilisée pour vous inscrire sur GitHub.
+   Remplacez `Votre nom utilisateur` par votre nom complet et `votre.mail@exemple.com` par l'adresse e-mail que vous avez utilisée pour vous inscrire sur GitHub.
 
 ### S'entraîner à contribuer avec VS Code
 
@@ -57,48 +57,48 @@ Pour nous entraîner à utiliser GitHub, nous allons créer un dépôt, le clone
 
 1. **Créez un nouveau dépôt**: Connectez-vous à votre compte GitHub et naviguez vers https://github.com/new ou cliquez sur l'icône "+" dans le coin supérieur droit et sélectionnez "Nouveau dépôt" dans le menu déroulant.
 
-Choisissez vous-même comme propriétaire du dépôt, et saisissez un nom pour votre dépôt. Pour cet exemple, nous utiliserons `practice-repository`.
+   Choisissez vous-même comme propriétaire du dépôt, et saisissez un nom pour votre dépôt. Pour cet exemple, nous utiliserons `practice-repository`.
 
-![new repo screenshot](../../images/new-repo.png)
+   ![Create new repository on GitHub](../../../_assets/images/new-repo.png)
 
-Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier .gitignore, et/ou une licence.
+   Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier .gitignore, et/ou une licence.
 
-Pour cet exemple, initialiser le dépôt avec un fichier README.
+   Pour cet exemple, initialiser le dépôt avec un fichier README.
 
 2. **Cloner le dépôt**: Une fois que vous avez créé un nouveau dépôt, vous pouvez le cloner sur votre machine locale en exécutant la commande suivante dans votre terminal ou votre invite de commande:
 
-```
-git clone https://github.com/username/repository-name.git
-```
+   ```
+   git clone https://github.com/username/repository-name.git
+   ```
 
-Remplacez "username" par votre nom d'utilisateur GitHub et "repository-name" par `practice-repository`.
+   Remplacez "username" par votre nom d'utilisateur GitHub et "repository-name" par `practice-repository`.
 
 3. **Accédez à votre dépôt dans votre éditeur de code**: Pour cet exemple, nous utilisons VS Code. Ouvrez VS Code, naviguez jusqu'à l'onglet File, puis ouvrez votre practice-repository.
 
 4. **Apportez des modifications et validez**: Il devrait y avoir un fichier dans votre dépôt : `README.md`. Dans ce fichier, sous `# practice-repository`, tapez 'hello world !'. Une fois que vous avez fait des changements, vous pouvez les mettre en scène et les livrer.
 
-Ouvrez votre terminal et assurez-vous que vous êtes dans le bon répertoire. Par exemple, mes projets de codage se trouvent dans mon dossier Projects. En utilisant mon terminal, j'accèderais à ce dépôt en exécutant la commande suivante:
+   Ouvrez votre terminal et assurez-vous que vous êtes dans le bon répertoire. Par exemple, mes projets de codage se trouvent dans mon dossier Projects. En utilisant mon terminal, j'accèderais à ce dépôt en exécutant la commande suivante:
 
-```
-cd projects/practice-repository
-```
+   ```
+   cd projects/practice-repository
+   ```
 
-Une fois dans le bon dépôt, utilisez les commandes suivantes pour ajouter les modifications que vous avez effectuées et écrivez un message de validation avec une description des modifications:
+   Une fois dans le bon dépôt, utilisez les commandes suivantes pour ajouter les modifications que vous avez effectuées et écrivez un message de validation avec une description des modifications:
 
-```
-git add .
-git commit -m "Votre message de commit"
-```
+   ```
+   git add .
+   git commit -m "Votre message de commit"
+   ```
 
-Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
+   Remplacez "Votre message de commit" par une brève description des modifications que vous avez apportées.
 
 5. **Envoyer vos modifications**: Après avoir validé vos modifications, vous pouvez les pusher vers votre dépôt GitHub distant en exécutant la commande suivante:
 
-```
-git push origin main
-```
+   ```
+   git push origin main
+   ```
 
-Ceci enverra vos changements vers la branche "main" de votre dépôt distant. Si vous voulez vérifier votre travail, naviguez vers votre dépôt GitHub. Vous devriez maintenant voir 'hello world!' dans votre fichier README.md.
+   Ceci enverra vos changements vers la branche `main` de votre dépôt distant. Si vous voulez vérifier votre travail, naviguez vers votre dépôt GitHub. Vous devriez maintenant voir 'hello world!' dans votre fichier README.md.
 
 Vous avez maintenant configuré avec succès Git et GitHub sur votre machine locale et vous êtes prêt à collaborer sur des projets open source!
 

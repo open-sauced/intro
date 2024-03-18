@@ -28,7 +28,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 3. **Search for projects**: In Explore, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
-   ![OpenSauced explore tab](../_assets/images/opensauced-explore.png)
+   ![Explore tab](../_assets/images/opensauced-explore.png)
 
 4. **Save projects to your Insights pages**: When you find projects you're interested in, you can add them to "Insights" pages that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 

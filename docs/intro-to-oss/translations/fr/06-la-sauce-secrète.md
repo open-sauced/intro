@@ -42,7 +42,7 @@ Construire un CV open source solide peut vous aider à présenter vos compétenc
 
 2. **Visitez votre page de profil public**: Après votre inscription, une page de profil public sera créée pour vous. Cette page affichera les informations de votre profil GitHub et une liste de vos contributions open source. Vous pouvez y accéder en cliquant sur votre nom d'utilisateur dans le coin supérieur droit de la page.
 
-![Navigation vers votre page de profil public](../../images/opensauced-profile.png)
+![Navigation vers votre page de profil public](../../../_assets/images/opensauced-profile.png)
 
 3. **Construisez votre CV Open Source**: à partir de là, vous pourrez ajouter des points forts aux demandes d'extraction et aux problèmes auxquels vous avez contribué. Vous pouvez également ajouter une description et des liens vers votre CV open source. Celles-ci seront regroupées en une seule page que vous pourrez partager avec d'autres, ainsi qu'un résumé de vos contributions qui sera affiché sur votre page de profil public.
 
@@ -56,17 +56,19 @@ Informations importantes à inclure lorsque vous mettez en avant vos contributio
 - Détails du projet (outils, bibliothèques, taille et complexité);
 - Le type de vos contributions: correction de bug, fonctionnalité, performance, documentation, etc.
 - Les détails de votre contribution incluant les améliorations et impacts apportés sur le projet et sur la communauté ;
-- Détails sur la collaboration et le travail d'équipe. 
+- Détails sur la collaboration et le travail d'équipe.
 
 ### Formatage de votre Highlight
+
 Pour être plus efficace dans la mise en valeur de vos contributions, nous vous recommandons d'utiliser le format suivant:
+
 - **Titre**: il doit s'agir d'une brève description de la contribution. Par exemple, "Création d'une action GitHub pour fusionner automatiquement les demandes d'extraction".
 - **Lien**
 - **Description**: Lorsque vous mettez en avant votre contribution, nous vous recommandons de mentionner l'impact qu'elle a eu sur l'ensemble du projet. Cela serait utile pour mettre en évidence vos qualifications pour les postes, surtout si vous avez des lacunes en matière d'emploi. Envisagez d'utiliser le modèle suivant pour vous aider à transformer ce point culminant en une histoire:
 - Verbe succès + nom + métrique + résultat.
 - Exemple : pendant que j'examinais certaines demandes d'extraction pour le GirlScript Summer of Code de cette année, j'ai remarqué que la plupart d'entre elles ne fusionnaient pas malgré mon approbation et celle du propriétaire. J'ai donc **créé une action GitHub où les demandes d'extraction fusionnent automatiquement une fois qu'elles ont passé les étapes de déploiement (verbe successif + nom)**, ce qui **a augmenté les taux de productivité de 80 % (métrique + résultat).**
 
-![Ajouter une surbrillance à votre profil](../../images/opensauced-highlights.png)
+![Ajouter une surbrillance à votre profil](../../../_assets/images/opensauced-highlights.png)
 
 **Partagez-le!**: Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
 
