@@ -324,4 +324,4 @@ Félicitations ! Votre travail fait désormais partie du projet et vous avez app
 
 En continuant à contribuer à des projets open source, vous acquerrez une expérience précieuse, développerez de nouvelles compétences et constituerez un solide portefeuille de travaux. Dans le prochain chapitre, nous discuterons de quelques stratégies pour commencer à contribuer à des projets open source, pour gagner du terrain dans vos contributions et pour développer votre CV open source à l'aide d'OpenSauced.
 
-[Section suivante ->](/translations/fr/06-la-sauce-secrète.md)
+[Section suivante ->](/intro-to-oss/translations/fr/06-la-sauce-secrète.md)

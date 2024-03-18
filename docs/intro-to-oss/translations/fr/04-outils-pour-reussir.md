@@ -61,7 +61,7 @@ Pour nous entraîner à utiliser GitHub, nous allons créer un dépôt, le clone
 
    ![Create new repository on GitHub](../../../_assets/images/new-repo.png)
 
-   Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier .gitignore, et/ou une licence.
+   Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier `.gitignore`, et/ou une licence.
 
    Pour cet exemple, initialiser le dépôt avec un fichier README.
 
@@ -126,4 +126,4 @@ Pour commencer à utiliser Discord, visitez le site web officiel (https://discor
 
 En vous familiarisant avec ces outils et plateformes, vous serez en mesure de collaborer efficacement, de gérer vos projets et de contribuer à des projets open source. Dans le prochain chapitre, nous verrons comment contribuer à des projets open source, notamment en trouvant des projets sur lesquels travailler, en soumettant des contributions et en expliquant ce qui se passe une fois que votre contribution est acceptée.
 
-[Section suivante ->](/translations/fr/05-comment-contribuer-à-l-open-source.md)
+[Section suivante ->](/intro-to-oss/translations/fr/05-comment-contribuer-à-l-open-source.md)

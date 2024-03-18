@@ -54,4 +54,4 @@ Outre les avantages susmentionnés, la participation à des projets open source 
 
 Dans le chapitre suivant, nous aborderons les outils et ressources essentiels dont vous aurez besoin pour réussir votre parcours dans l'open source, notamment GitHub, Git, CodeSee, VS Code et Discord. En vous familiarisant avec ces outils, vous serez mieux équipé pour collaborer avec les autres, gérer vos projets et contribuer efficacement aux projets open source.
 
-[Section suivante ->](/translations/fr/04-outils-pour-reussir.md)
+[Section suivante ->](/intro-to-oss/translations/fr/04-outils-pour-reussir.md)

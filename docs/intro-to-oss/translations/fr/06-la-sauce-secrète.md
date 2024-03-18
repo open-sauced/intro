@@ -68,12 +68,12 @@ Pour être plus efficace dans la mise en valeur de vos contributions, nous vous 
 - Verbe succès + nom + métrique + résultat.
 - Exemple : pendant que j'examinais certaines demandes d'extraction pour le GirlScript Summer of Code de cette année, j'ai remarqué que la plupart d'entre elles ne fusionnaient pas malgré mon approbation et celle du propriétaire. J'ai donc **créé une action GitHub où les demandes d'extraction fusionnent automatiquement une fois qu'elles ont passé les étapes de déploiement (verbe successif + nom)**, ce qui **a augmenté les taux de productivité de 80 % (métrique + résultat).**
 
-![Ajouter une surbrillance à votre profil](../../../_assets/images/opensauced-highlights.png)
+  ![Ajouter une surbrillance à votre profil](../../../_assets/images/opensauced-highlights.png)
 
-**Partagez-le!**: Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
+- **Partagez-le!**: Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
 
 En tirant parti d'OpenSauced pour suivre vos contributions open source et développer votre CV, vous serez mieux équipé pour mettre en valeur vos compétences, votre expérience et votre impact dans la communauté open source.
 
 En conclusion, démarrer avec des contributions open source et avoir un impact durable sur les projets sur lesquels vous travaillez nécessite une combinaison de compétences techniques, de collaboration et de persévérance. En vous concentrant sur les problèmes ouverts, en gagnant du terrain dans vos contributions et en tirant parti d'outils comme OpenSauced, vous serez sur la bonne voie pour un voyage open source réussi et épanouissant.
 
-[Section finale ->](07-conclusion.md)
+[Section finale ->](/intro-to-oss/translations/fr/07-conclusion.md)
