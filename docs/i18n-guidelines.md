@@ -4,11 +4,11 @@ Welcome to our i18n Guidelines! We appreciate your interest in translating our I
 
 At the moment, we have the course in the following languages:
 
-- English
-- [French](https://intro.opensauced.pizza/#/translations/fr/README)
+- [English](/intro-to-oss/)
+- [French](/intro-to-oss/translations/fr/README)
 - Brazilian Portuguese — work in progress
 
-## How Can I Contribute?
+## How can I Contribute?
 
 There are two types of i18n contributions that we accept:
 
@@ -21,23 +21,23 @@ We have two types of translations:
 
 #### 1. Official Translations
 
-Official translations start as a post on our [discussion board](https://github.com/open-sauced/intro/discussions). If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
+Official translations start as a post on our [GitHub Discussions](https://github.com/open-sauced/intro/discussions) board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
 
 #### 2. Community Translations
 
-We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](community-translations.md) section.
+We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](./community-translations.md) section.
 
 If you're interested in translating our Intro to Open Source course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file that you can find in the root directory.
 
-We encourage you to add it to the [discussion board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
+We encourage you to add it to the [discussions board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
 ### Review Pull Requests (PRs) and Translations
 
-If you are familiar with the translated language(s), you can help us review the translations and the PRs. Please head over to our [Reviewer Process Guide](#reviewer-process-guide) for more information.
+If you are familiar with the translated language(s), you can help us review the translations and the PRs. Please head over to the "[Reviewer Process Guide](#reviewer-process-guide)" section for more information.
 
 ## Adding Translations
 
-First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
+First, please read our [Contributing Guide](./CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
 
 1. **Identify target languages**.
 
@@ -45,14 +45,16 @@ First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the p
 
 2. **Create translation files**.
 
-   Inside the "translations" directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
+   1. Open the `intro-to-oss` directory inside the `docs` folder.
+   2. Open the `translations` directory.
+   3. Create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French, etc.) as directory names.
 
    ```markdown
    .
    └── translations/
-      ├── en/ (English)
-      ├── fr/ (French)
-      └── es/ (Spanish)
+      ├── en/
+      ├── fr/
+      └── es/
    ```
 
 3. **Translate content**.
@@ -64,12 +66,13 @@ First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the p
 
    In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
 
-5. **Add language selector**.
+5. **Add a language selector**.
 
    Adding a language selector to the documentation allows users to switch between languages. You can do this by modifying the languages menu on the navigation bar:
 
-   1. Open the `navbar.md` file in the `_layout` folder.
-   2. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
+   1. Open the `docs` directory.
+   2. Open the `_navbar.md` file in the `intro-to-oss` directory.
+   3. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
 
       ```markdown
       - [:jp: Japanese](/translations/jp/)
@@ -102,4 +105,4 @@ When it comes to reviewing a translation PR, ask yourself the following question
 - Are there links that could be localized and translated? (e.g., Wikipedia and MDN links)
 - Is the translation correctly written following the translated language's norms and practices?
 
-When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/community` maintainers. (“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.)
+When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers. (“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.)
