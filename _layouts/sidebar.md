@@ -5,7 +5,7 @@
   - [Tools to be Successful](/04-tools-to-be-successful.md)
   - [How to Contribute to Open Source](/05-how-to-contribute-to-open-source.md)
   - [The Secret Sauce](/06-the-secret-sauce.md)
-  - [Types of Contributions](/07-types-of-contributions.md)
+  - [Types of Open Source Contributions](/07-types-of-contributions.md)
   - [Additional Resources](/08-additional-resources.md)
   - [Conclusion](/09-conclusion.md)
   - [Glossary](/10-glossary.md)
