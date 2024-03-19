@@ -1,6 +1,5 @@
-- Menu
-  - [Homepage](../README.md)
-  - [Intro to OpenSauced](/intro-to-oss/README.md)
+- [Homepage](../README.md)
+- [Getting Started](/intro-to-oss/README.md)
   <!-- - [⭐ Star The Repo](https://github.com/open-sauced/intro) -->
 - Languages
   - [:us: English](/intro-to-oss/)
