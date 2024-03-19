@@ -65,5 +65,3 @@ Le mouvement open source a parcouru un long chemin depuis ses débuts. Aujourd'h
 La popularité croissante de l'open source a également donné naissance à un écosystème florissant de conférences, de rencontres et de communautés en ligne où les développeurs peuvent se réunir pour apprendre, collaborer et partager leurs connaissances. En participant à ces événements et en vous engageant auprès de la communauté open source, vous aurez l'occasion de développer vos compétences, de construire votre réseau et de vous tenir au courant des derniers développements dans ce domaine.
 
 Dans le prochain chapitre, nous explorerons les nombreux avantages de la contribution aux projets open source et nous verrons comment la collaboration open source peut vous aider à accéder à la connaissance, à vous connecter à une communauté et à développer des compétences précieuses.
-
-[Section suivante ->](/intro-to-oss/translations/fr/03-pourquoi-open-source.md)

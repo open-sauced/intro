@@ -38,8 +38,6 @@ With the knowledge and tools you've gained from this course, you're ready to div
 
 In conclusion, embarking on an open source journey is a rewarding and enriching experience that can help you develop new skills, connect with like-minded individuals, and make a lasting impact on the projects you work on. With the knowledge and tools you've gained from this course, you're well-prepared to take on the exciting challenges and opportunities that await you in the open source world. So go forth and start contributing – the open source community eagerly awaits your participation!
 
-[Next Section ->](./10-glossary.md)
-
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/09-conclusion.md">✏️ Edit this page</a>
 </footer>

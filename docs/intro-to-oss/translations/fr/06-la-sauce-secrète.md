@@ -75,5 +75,3 @@ Pour être plus efficace dans la mise en valeur de vos contributions, nous vous 
 En tirant parti d'OpenSauced pour suivre vos contributions open source et développer votre CV, vous serez mieux équipé pour mettre en valeur vos compétences, votre expérience et votre impact dans la communauté open source.
 
 En conclusion, démarrer avec des contributions open source et avoir un impact durable sur les projets sur lesquels vous travaillez nécessite une combinaison de compétences techniques, de collaboration et de persévérance. En vous concentrant sur les problèmes ouverts, en gagnant du terrain dans vos contributions et en tirant parti d'outils comme OpenSauced, vous serez sur la bonne voie pour un voyage open source réussi et épanouissant.
-
-[Section finale ->](/intro-to-oss/translations/fr/07-conclusion.md)

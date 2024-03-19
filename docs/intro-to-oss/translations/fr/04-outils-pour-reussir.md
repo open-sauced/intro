@@ -125,5 +125,3 @@ Discord est une plateforme populaire de messagerie et de chat vocal largement ut
 Pour commencer à utiliser Discord, visitez le site web officiel (https://discord.com/) et ouvrez un compte. Une fois que vous avez un compte, vous pouvez rechercher des communautés et des projets open source sur des plateformes telles que GitHub, GitLab ou OpenSauced pour trouver leurs serveurs Discord et participer à la conversation.
 
 En vous familiarisant avec ces outils et plateformes, vous serez en mesure de collaborer efficacement, de gérer vos projets et de contribuer à des projets open source. Dans le prochain chapitre, nous verrons comment contribuer à des projets open source, notamment en trouvant des projets sur lesquels travailler, en soumettant des contributions et en expliquant ce qui se passe une fois que votre contribution est acceptée.
-
-[Section suivante ->](/intro-to-oss/translations/fr/05-comment-contribuer-à-l-open-source.md)
