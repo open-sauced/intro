@@ -1,6 +1,7 @@
 Congratulations on your journey into open source! Here are some resources for further learning about getting started in open source:
 
 ## Guides and Tutorials
+
 - [Open Source Guides](https://opensource.guide/) by GitHub: Comprehensive guides on various aspects of open source, including getting started, contributing, maintaining projects, and building communities.
 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) by Roshan Jossey: A beginner-friendly guide that walks you through making your first contribution to an open source project.
@@ -14,14 +15,14 @@ Congratulations on your journey into open source! Here are some resources for fu
 - [Open Source Friday](https://opensourcefriday.com/) by GitHub: A global movement that encourages individuals and organizations to contribute to open source every Friday. The website provides resources and guides on how to get started in open source and find projects to contribute to.
 
 ## Blog posts
+
 - [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 - [Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
-- [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
--[How to Write a Good Issue: Tips for Effective Communication in Open Source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
+- [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5) -[How to Write a Good Issue: Tips for Effective Communication in Open Source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
 - [Good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist)
 
 [Next Section ->](./09-conclusion.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/08-additional-resources.md">
- ✏️  Edit this page
-  </a>
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/08-additional-resources.md">✏️ Edit this page</a>
+</footer>

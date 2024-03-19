@@ -56,6 +56,6 @@ In the next chapter, we'll discuss the essential tools and resources you'll need
 
 [Next Section ->](./04-tools-to-be-successful.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/03-why-open-source.md">
-  ✏️  Edit this page
-  </a>
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/03-why-open-source.md">✏️ Edit this page</a>
+</footer>

@@ -68,6 +68,6 @@ In the next chapter, we'll explore the many benefits of contributing to open sou
 
 [Next Section ->](./03-why-open-source.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/02-what-is-open-source.md">
-  ✏️  Edit this page
-</a>
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/02-what-is-open-source.md">✏️ Edit this page</a>
+</footer>

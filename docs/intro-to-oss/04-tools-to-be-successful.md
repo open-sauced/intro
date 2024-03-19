@@ -128,6 +128,6 @@ By familiarizing yourself with these tools and platforms, you'll be equipped to 
 
 [Next Section ->](./05-how-to-contribute-to-open-source.md)
 
-<a href= "https://github.com/open-sauced/intro/edit/main/04-tools-to-be-successful.md"> 
-  ✏️  Edit this page
-  </a>
+<footer>
+   <a href= "https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/04-tools-to-be-successful.md">✏️ Edit this page</a>
+</footer>

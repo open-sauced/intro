@@ -40,6 +40,6 @@ In conclusion, embarking on an open source journey is a rewarding and enriching 
 
 [Next Section ->](./10-glossary.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/09-conclusion.md">
- ✏️  Edit this page
-  </a>
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/09-conclusion.md">✏️ Edit this page</a>
+</footer>

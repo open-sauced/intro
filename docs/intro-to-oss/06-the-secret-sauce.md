@@ -78,6 +78,6 @@ In conclusion, getting started with open source contributions and making a lasti
 
 [Final Section ->](./07-types-of-contributions.md)
 
-<a href= "https://github.com/open-sauced/intro/edit/main/06-the-secret-sauce.md">
-  ✏️  Edit this page
-  </a>
+<footer>
+  <a href= "https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/06-the-secret-sauce.md">✏️ Edit this page</a>
+</footer>
