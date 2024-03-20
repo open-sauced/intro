@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
+  <img alt="OpenSauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
   <h1>🍕 Introduction à l'Open Source avec OpenSauced 🍕</h1>
   <strong>Le site fournit des supports de cours pour l'introduction à l'Open Source d'OpenSauced.</strong>
 </div>
