@@ -1,0 +1,31 @@
+nav>ul>li {
+	padding-bottom: .2em;
+}
+
+nav>ul>li>ul>li {
+	padding-top: .2em;
+}
+
+.app-nav>ul>li>ul>li {
+	color: #091a28;
+}
+
+.app-nav>ul>li:nth-child(3)>ul {
+	padding-right: 1.2em;
+}
+
+.sidebar-nav>ul>li:nth-child(1) {
+	font-size: 1.2rem;
+}
+
+footer {
+	margin-top: 3em;
+}
+
+.docsify-pagination-container {
+	margin-top: 0 !important;
+}
+
+.pagination-item-title {
+	font-size: 1.3rem !important;
+}
