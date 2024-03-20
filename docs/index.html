@@ -25,9 +25,15 @@
 				name: "",
 				repo: "open-sauced/intro",
 				themeColor: "#ED6A32",
-				loadSidebar: "_sidebar.md",
-				loadNavbar: "_navbar.md",
+				loadSidebar: "docs/_sidebar.md",
+				loadNavbar: "docs/_navbar.md",
 				mergeNavbar: true,
+				alias: {
+					// courses sidebar
+					"/.*/intro-to-oss/_sidebar.md": "/intro-to-oss/_sidebar.md",
+					// courses navbar
+					"/.*/intro-to-oss/_navbar.md": "/intro-to-oss/_navbar.md",
+				},
 				relativePath: true,
 				subMaxLevel: 3,
 				search: "auto",
