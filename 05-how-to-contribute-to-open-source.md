@@ -170,6 +170,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
     ```
 
 11. Go to your forked repository on GitHub and create a pull request with the title `feat: Add <@github-username> as a contributor`.
+   !> Your pull request will be marked as invalid and may be closed if the form is incomplete.
 
 Congratulations on your first contribution! 🎉
 
