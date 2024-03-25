@@ -1,0 +1,6 @@
+- [Página de inicio](/)
+- [⭐ Repositorio Estrella](https://github.com/open-sauced/intro)
+- Idiomas
+  - [:us: Inglés ](/)
+  - [:fr: Francés ](/translations/fr/)
+  - [:es: Español ](/translations/es/)
