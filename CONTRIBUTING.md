@@ -35,16 +35,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
    ```bash
    cd intro
    ```
-<<<<<<< HEAD
- 4. Create a new branch to work on your changes.
 
-      ```bash
-      git checkout -b YOUR-BRANCH-NAME
-      ```
-
-      Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
-
-=======
 4. Create a new branch to work on your changes.
 
    ```bash
@@ -53,7 +44,6 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
    Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
    
->>>>>>> fc777066b4073d0dc0f2d53a297c8b396f1a21ef
 5. Run the project.
 
 ### Running the Project Locally
