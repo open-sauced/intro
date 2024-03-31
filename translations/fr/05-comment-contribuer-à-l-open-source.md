@@ -116,165 +116,165 @@ Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivan
 En suivant ces étapes, vous pourrez soumettre vos contributions à des projets open source et collaborer avec d'autres développeurs pour améliorer le codebase.
 
 
-## What Happens Next?
+## Que se passe-t-il ensuite ?
 
-After your contribution has been submitted and reviewed, one of the following outcomes may occur:
+Une fois que votre contribution a été soumise et examinée, l'un des résultats suivants peut se produire :
 
-1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br>
-   Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
+1. **Votre contribution est acceptée** : Si votre contribution est approuvée par les mainteneurs du projet, elle sera fusionnée dans la branche principale de la base de code. <br>
+   Félicitations ! Votre travail fait désormais partie du projet et vous avez apporté une contribution précieuse à la communauté open source.
 
-2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
+2. **Votre contribution nécessite des changements** : Il peut arriver que les mainteneurs du projet demandent des modifications à votre contribution avant qu'elle ne soit acceptée. Cela peut être dû à des problèmes de codage, à des conflits avec d'autres modifications ou à la nécessité d'une documentation supplémentaire. Dans ce cas, apportez les modifications demandées et soumettez à nouveau votre demande de modification.
 
-3. **Your contribution is rejected**: In some cases, your contribution may not align with the project's goals or requirements, or it may not be the best solution to a problem. If your contribution is rejected, don't be discouraged. Take the feedback you received as an opportunity to learn and improve. You can always try contributing to another project or submitting a different contribution to the same project.
+3. **Votre contribution est rejetée** : Dans certains cas, il se peut que votre contribution ne corresponde pas aux objectifs ou aux exigences du projet, ou qu'elle ne soit pas la meilleure solution à un problème. Si votre contribution est rejetée, ne vous découragez pas. Prenez les commentaires que vous avez reçus comme une occasion d'apprendre et de vous améliorer. Vous pouvez toujours essayer de contribuer à un autre projet ou de soumettre une contribution différente pour le même projet.
 
-## Let's Get Practical
+## Passons à la pratique
 
-Now that you know how to find and contribute to open source projects, it's time to put your skills into practice. Let's do this by contributing to OpenSauced's [guestbook repository](https://github.com/open-sauced/guestbook).
+Maintenant que vous savez comment trouver des projets open source et y contribuer, il est temps de mettre vos compétences en pratique. C'est ce que nous allons faire en contribuant au [dépôt du livre d'or d'OpenSauced](https://github.com/open-sauced/guestbook).
 
-### Prerequisite
+### Prérequis
 
-You'll need to have these tools donwloaded and installed on your local machine:
+Ces outils doivent être téléchargés et installés sur votre machine locale :
 
 - [Node.js](https://nodejs.org)
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
 
-### Getting Started
+### Démarrage
 
-1. Create an issue by clicking the "New issue" button in the "Issues" tab and complete the form.
-2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
-3. Clone your forked repository to your computer.
-4. Run `npm install` to install the dependencies.
-5. Create a new branch and use a descriptive name related to your contribution — for example, `feat/add-alice`.
-6. Run `npm run contributors:add` in your terminal.
+1. Créez une issue en cliquant sur le bouton "New issue" dans l'onglet "Issues" et remplissez le formulaire.
+2. Faites un "Fork" du [guestbook repository](https://github.com/open-sauced/guestbook).
+3. Clonez votre dépôt forké sur votre ordinateur.
+4. Exécutez `npm install` pour installer les dépendances.
+5. Créez une nouvelle branche et utilisez un nom descriptif lié à votre contribution - par exemple, `feat/add-alice`.
+6. Lancez `npm run contributors:add` dans votre terminal.
 
-   Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
+   Suivez les instructions pour vous ajouter au livre d'or. Une fois que vous avez terminé et que vous avez cliqué sur "enter", vous devez cliquer à nouveau sur "entrer" pour confirmer vos choix.
 
-   ![adding contributor with CLI on a terminal](./images/cli-tool.gif)
+   ![Ajout d'un contributeur avec le CLI](../../images/cli-tool.gif)
 
-7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
-8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
+7. Lancez `npm run contributors:generate` dans votre terminal pour générer le livre d'or du README.
+8. Copiez et collez le Markdown du README dans [Markdown Live Preview](https://markdownlivepreview.com/) et faites une capture d'écran de votre profil généré. Vous en aurez besoin plus tard lors de la création d'une pull request.
 
-   !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+   Si vous ne voyez pas votre profil dans la section "Contributeurs", dézoomez l'écran jusqu'à ce que vous puissiez le voir avant de faire une capture d'écran.
 
-9. Run `git log` to check if your changes have been automatically committed. To close the log, press `Q`.
+9. Lancez `git log` pour vérifier si vos changements ont été automatiquement validés. Pour fermer le journal, appuyez sur `Q`.
 
-   Here's what you should expect to see as your commit message:
+   Voici ce que vous devez vous attendre à voir dans votre message de validation :
 
    ```bash
    docs: add @your_username as a contributor
    ```
 
-10. Push the commit to your forked repository with this command:
+10. Poussez le commit dans votre dépôt forké avec cette commande :
 
     ```bash
     git push -u origin branch-name
     ```
 
-11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request form.
+11. Allez sur votre dépôt forké sur GitHub. Créez une pull request avec le titre `feat : Add <@github-username> as a contributor` et remplissez tous les champs du formulaire de demande de fusion.
 
-!> Your pull request will be marked as invalid and may be closed if the form is incomplete.
+!> Votre demande sera marquée comme invalide et pourra être fermée si le formulaire est incomplet.
 
-Congratulations on your first contribution! 🎉
+Félicitations pour votre première contribution ! 🎉
 
-?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](06-the-secret-sauce.md) in this course.
+?> Si vous êtes prêt pour votre prochaine contribution, rendez-vous sur le [dépôt pizza-verse](https://github.com/open-sauced/pizza-verse) et suivez les directives de contribution pour votre prochaine contribution. Une fois que vous avez terminé, rendez-vous au [chapitre 6](06-la-sauce-secrète.md) de ce cours.
 
-## Keeping Branches Up to Date
+## Maintenir les branches à jour
 
-It is highly recommended that you update your remote and local branches habitually. That way, your branch will have the latest update when merged into the `main` branch of the original (`upstream`) repository.
+Il est fortement recommandé de mettre à jour régulièrement vos branches locales et distantes. De cette façon, votre branche aura la dernière mise à jour lorsqu'elle sera fusionnée dans la branche `main` du dépôt original (`upstream`).
 
-The best times to update your branches are before you push your changes to the remote repository and while you're waiting for your pull request to be reviewed.
+Les meilleurs moments pour mettre à jour vos branches sont avant de pousser vos changements vers le dépôt distant et pendant que vous attendez que votre demande de fusion soit revue.
 
-### Updating Branches
+### Mise à jour des branches
 
-First, you must update your forked (`origin`) repository:
+Tout d'abord, vous devez mettre à jour votre dépôt forké (`origin`) :
 
-1. Go to your forked repository on GitHub.
-2. Click the "Sync fork" button.
-3. Click the green "Update branch" button.
+1. Allez sur votre dépôt forké sur GitHub.
+2. Cliquez sur le bouton "Sync fork".
+3. Cliquez sur le bouton vert "Update branch".
 
-Then, pull the latest changes in the `main` branch in the `origin` repository to update your local working branch by following these steps in your terminal:
+Ensuite, récupérez les derniers changements dans la branche `main` du dépôt `origin` pour mettre à jour votre branche de travail locale en suivant ces étapes dans votre terminal :
 
-1. Go to your working branch.
+1. Rendez-vous sur votre branche active.
 
    ```bash
    git checkout YOUR-BRANCH-NAME
    ```
 
-2. Pull the latest changes with this command:
+2. Cette commande permet d'extraire les dernières modifications :
 
    ```bash
    git pull origin main
    ```
 
-## Merge Conflicts
+## Fusionner les conflits
 
-Merge conflicts are something you'll commonly encounter when contributing to an open source project. When two branches have made different changes to the same line(s) in the same file(s), Git cannot automatically determine which change to keep, resulting in a conflict.
+Les conflits de fusion sont quelque chose que vous rencontrerez fréquemment lorsque vous contribuez à un projet open source. Lorsque deux branches ont apporté des modifications différentes à la (aux) même(s) ligne(s) dans le (les) même(s) fichier(s), Git ne peut pas déterminer automatiquement quelle modification conserver, ce qui donne lieu à un conflit.
 
-When a merge conflict occurs, Git adds conflict markers (`<<<<<<<`, `=======`, and `>>>>>>`) to indicate the conflicting lines from different branches. Everything between the `<<<<<<<` and `=======` is the changes that you worked on (current changes). And everything between the `=======` to `>>>>>>>` is the incoming changes from the remote `main` branch.
+Quand un conflit de fusion se produit, Git ajoute des marqueurs de conflit (`<<<<<<<`, `=======`, et `>>>>>>`) pour indiquer les lignes en conflit dans les différentes branches. Tout ce qui se trouve entre `<<<<<<<` et `=======` sont les changements sur lesquels vous avez travaillé (changements actuels). Et tout ce qui se trouve entre `=======` et `>>>>>>>` sont les changements entrants de la branche distante `main`.
 
-You need to pay attention to the conflicts and decide how you want to resolve them. You can keep only your change, incoming change, or both changes.
+Vous devez prêter attention aux conflits et décider de la manière dont vous souhaitez les résoudre. Vous pouvez conserver uniquement votre modification, la modification entrante ou les deux modifications.
 
-### Tips to Prevent Resolving Merge Conflicts Repeatedly
+### Conseils pour éviter de résoudre les conflits de fusion de manière répétée
 
-Some open source repositories, such as OpenSauced's [guestbook](https://github.com/open-sauced/guestbook) and [pizza verse](https://github.com/open-sauced/pizza-verse) repositories, have high contribution activities in the same files that can cause merge conflicts.
+Certains dépôts open source, tels que les dépôts [guestbook](https://github.com/open-sauced/guestbook) et [pizza verse](https://github.com/open-sauced/pizza-verse) d'OpenSauced, ont des activités de contribution importantes dans les mêmes fichiers, ce qui peut entraîner des conflits de fusion.
 
-Below are some tips to prevent you from resolving merge conflicts repeatedly when contributing to open source projects:
+Voici quelques conseils pour vous éviter de résoudre des conflits de fusion à répétition lorsque vous contribuez à des projets open source :
 
-#### 1. Following Instructions
+#### 1. Suivre les instructions
 
-Ensure you follow the instructions in the project's README or Contributing Guide, and don't miss any step.
+Veillez à suivre les instructions du README ou du Guide de contribution du projet, et ne manquez aucune étape.
 
-#### 2. Pull Request Form
+#### 2. Formulaire de demande de fusion
 
-Complete the template form and fill in all areas when creating a pull request.
+Complétez le modèle de formulaire et remplissez tous les champs lorsque vous créez une demande de fusion.
 
-If a repository doesn't provide you with a pull request template, you need to have these in your pull request form:
+Si un dépôt ne vous fournit pas de modèle de demande de fusion, vous devez avoir ces éléments dans votre formulaire de demande de fusion :
 
-- **A descriptive title**: A descriptive title would help maintainers and other contributors gain an idea of what your contribution is. <br>
-  Consider using the following method to write your title: `type: brief description of your contribution`. For example, `fix: color contrast issue on the navbar`, `feat: create a warning button`, etc.
+- **Un titre descriptif** : Un titre descriptif aiderait les mainteneurs et les autres contributeurs à se faire une idée de votre contribution. <br>
+  Pensez à utiliser la méthode suivante pour écrire votre titre : `type: brève description de votre contribution`. Par exemple, `fix: problème de contraste des couleurs dans la barre de navigation`, `feat: création d'un bouton d'avertissement`, etc.
 
-- **A clear description of your pull request**: Describe your pull request clearly. Consider explaining your changes, thoughts behind the solution, etc. A clear description gives maintainers and other contributors insight into the details of your changes. Here is [an example of a clear description in a pull request](https://github.com/open-sauced/intro/pull/10).
+- **Une description claire de votre demande de fusion** : Décrivez clairement votre pull request. Pensez à expliquer vos changements, les idées derrière la solution, etc. Une description claire donne aux mainteneurs et aux autres contributeurs un aperçu des détails de vos changements. Voici [un exemple de description claire dans une demande de fusion](https://github.com/open-sauced/intro/pull/10).
 
-- **The [link to the related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)**: Linking a pull request to the addressed issue will close the linked issue automatically when the pull request gets merged. This makes it easier for maintainers to keep their projects organized.
+- **Le [lien vers le numéro correspondant](https://docs.github.com/fr/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)** : Le fait de lier une demande de fusion à une issue traitée, la fermera automatiquement la question liée lorsque la demande de fusion sera fusionnée. Cela permet aux mainteneurs de mieux organiser leurs projets.
 
-- **A screenshot or screen recording when you make a UI change**: Providing screenshots or screen recordings will make it easier for maintenance to visualize your changes and review your pull request.
+- **Une capture d'écran ou un enregistrement d'écran lorsque vous effectuez une modification de l'UI** : Fournir des captures d'écran ou des enregistrements d'écran permettra à la maintenance de visualiser plus facilement vos changements et d'examiner votre demande de fusion.
 
-#### 3. Resolving Merge Conflicts Immediately
+#### 3. Résoudre immédiatement les conflits de fusion
 
-If a branch has merge conflicts that must be resolved, the merge button is automatically disabled. So, maintainers are not able to merge the pull request.
+Si une branche a des conflits de fusion qui doivent être résolus, le bouton de fusion est automatiquement désactivé. Les mainteneurs ne peuvent donc pas fusionner la Pull Request.
 
-When you notice merge conflicts in your pull request or if a maintainer asks you to resolve merge conflicts, fix them immediately. The sooner you resolve the conflicts, the sooner maintainers can review and merge your pull request.
+Lorsque vous remarquez des conflits de fusion dans votre demande de fusion ou si un mainteneur vous demande de résoudre des conflits de fusion, corrigez-les immédiatement. Plus vite vous résoudrez les conflits, plus vite les mainteneurs pourront réviser et fusionner votre demande.
 
-### Merge Conflicts in the Guestbook Repository
+### Fusionner les conflits dans le dépôt du livre d'or
 
-Since the primary purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts.
+Puisque le but primaire du livre d'or est d'ajouter votre nom à `.all-contributorsrc` et aux fichiers `README.md`, il y a de fortes chances que vous rencontriez des conflits de fusion.
 
-The conflicts happen when maintainers have merged pull requests before yours while you're working on your changes or waiting for your pull request to be reviewed. And you need to resolve them before your pull request can be merged.
+Les conflits surviennent lorsque les mainteneurs ont fusionné des demandes de modification avant la vôtre pendant que vous travaillez sur vos modifications ou que vous attendez que votre demande de modification soit examinée. Et vous devez les résoudre avant que votre demande ne soit fusionnée.
 
-#### Resolving Merge Conflicts
+#### Résoudre les conflits de fusion
 
-Before resolving merge conflicts, you must first [update your branches](#updating-branches). Then, follow these steps:
+Avant de résoudre les conflits de fusion, vous devez d'abord [mettre à jour vos branches](#mise-à-jour-des-branches). Ensuite, suivez les étapes suivantes :
 
-1. In the `.all-contributorsrc` file:
+1. Dans le fichier `.all-contributorsrc` :
 
-   - Click the "Accept Both Change" option on the top of your workspace in VS Code.
-   - Move your profile details to the end of the contributors' array and fix anything necessary.
+   - Cliquez sur l'option "Accept Both Change" en haut de votre espace de travail dans VS Code.
+   - Déplacez les détails de votre profil à la fin du tableau des contributeurs et corrigez tout ce qui est nécessaire.
 
-2. In the `README.md` file:
+2. Dans le fichier `README.md` :
 
-   - Click the "Accept Incoming Change" option on the top of your workspace in VS Code for each conflict in this file.
+   - Cliquez sur l'option "Accept Incoming Change" en haut de votre espace de travail dans VS Code pour chaque conflit dans ce fichier.
 
-3. Run `npm run contributors:generate`.
+3. Lancez `npm run contributors:generate`.
 
-   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors' list in the `README.md` file.
+   Vous verrez maintenant que le badge all contributors a été incrémenté, et que votre profil est généré à la fin de la liste des contributeurs dans le fichier `README.md`.
 
-4. Add and commit your changes.
+4. Ajoutez et validez vos modifications.
 
    ```bash
    git commit -am "Resolve merge conflicts"
    ```
 
-5. Push your commits to your remote branch.
+5. Transférez vos modifications sur votre branche distante.
 
    ```bash
    git push
@@ -282,7 +282,7 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
 
 <hr>
 
-As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
+En continuant à contribuer à des projets open source, vous acquerrez une expérience précieuse, développerez de nouvelles compétences et constituerez un solide portfolio. Dans le prochain chapitre, nous discuterons de quelques stratégies pour commencer à contribuer à des projets open source, pour gagner du terrain dans vos contributions et pour développer votre CV open source à l'aide d'OpenSauced.
 
 [Section suivante ->](06-la-sauce-secrète.md)
 
