@@ -48,7 +48,7 @@ Ce chapitre explique les types de contributions (codage et non-codage) impliqué
 
 Il s'agit du début de votre parcours dans le domaine de l'open source, c'est pourquoi nous avons mis à votre disposition quelques ressources supplémentaires pour vous aider à démarrer :
 
-- [Glossaire](09-glossaire.md) : Un glossaire des termes et définitions couramment utilisés dans le domaine de l'open source.
+- [Glossaire](10-glossaire) : Un glossaire des termes et définitions couramment utilisés dans le domaine de l'open source.
 - [Ressources additionnelles](08-ressources-additionnelles.md) : Une liste de ressources supplémentaires pour en savoir plus sur l'open source, y compris des articles de blog, des tutoriels et des guides.
 
 ## Pour débuter

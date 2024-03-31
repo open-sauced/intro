@@ -76,7 +76,7 @@ En tirant parti d'OpenSauced pour suivre vos contributions open source et dével
 
 En conclusion, démarrer avec des contributions open source et avoir un impact durable sur les projets sur lesquels vous travaillez nécessite une combinaison de compétences techniques, de collaboration et de persévérance. En vous concentrant sur les problèmes ouverts, en gagnant du terrain dans vos contributions et en tirant parti d'outils comme OpenSauced, vous serez sur la bonne voie pour un voyage open source réussi et épanouissant.
 
-[Section finale ->](07-conclusion.md)
+[Section finale ->](07-différents-types-de-contributions.md)
 
 <a href= "https://github.com/open-sauced/intro/edit/main/translations/fr/07-la-sauce-secrète.md">
   ✏️ Éditer cette page
