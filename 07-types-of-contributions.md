@@ -1,110 +1,106 @@
-# Types of contributions
+# Types of Open Source Contributions
 
-In this chapter, we will discuss the non-coding and coding types of contributions involved with open source projects.
+Contributions to open source projects can take many forms, such as coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
 
-## Non-Coding Type Of Contributions
+In this chapter, we will discuss the non-coding and coding types of contributions in open source.
 
-  Non-coding contributions do not involve writing or modifying code. Non-coding contributions are essential for the sustainability and growth of open source projects. They allow individuals with a variety of skills and backgrounds to participate and make meaningful contributions to the software and the community.
+## Non-Coding Contributions
 
-> [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
+Non-coding contributions are types of contributions that do not involve writing or modifying code. However, they are essential for the sustainability and growth of open source projects.
 
-**Common types of non-coding contributions**
+These types of contributions allow individuals with various skills and backgrounds to participate and make meaningful contributions to the software and the community. You can read [this article](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5) to learn more about contributing to open source projects without knowing how to code.
 
-  - Documentation
-  - Graphic design
-  - Blog writing
+Next, we will talk about some common non-coding contributions.
 
 ### Documentation
 
-Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then documentation is for you!
+Are you a lover of words? Do grammar errors irritate you? Do you like breaking down complex problems or helping people learn? Then, documentation is for you!
 
-This involves creating, improving, or maintaining the written resources that accompany open source software projects. Documentation is crucial to open source projects. It can make a project more accessible and user-friendly, and it can help attract new contributors and encourage repeat contributions.
+Documentation is crucial to open source projects. It involves creating, improving, or maintaining the written resources accompanying open source software projects. Documentation can make a project more accessible and user-friendly, help attract new users, and encourage repeat contributions to the project.
 
-#### How to Contribute to Documentation
+#### Tips for Contributing to Documentation
 
-*If you're interested in contributing to documentation, here are a few tips:*
+If you are interested in contributing to documentation, here are a few tips that you might find helpful:
 
-- **Read the documentation**: This will help you understand how the product is used.
-  
-- **Find a task that's a good fit for your skills and interests**: If you're not sure where to start, take a look at the issues or discussions before reaching out to a maintainer.
-  
-- **Use the product**: Gaining user insight will help you see which information is needed or not useful in the docs.
-  
-- **Be patient and persistent**: It takes time to write good documentation. Don't be afraid to ask for help if you get stuck.
+- **Read the entire documentation**. <br/> Reading the whole documentation will help you better understand the product and how to use it.
 
-##### Examples of documentation contributions:
+- **Find a task that fits your skills and interests**. <br/> If you're unsure where to start, look for issues or discussions you believe you can solve before reaching out to a maintainer.
 
-  - Write a README file that explains how to install and use the project: [The OpenSauced App 
-  ](https://github.com/open-sauced/app/blob/beta/README.md)
+- **Use the product**. <br/> Using the product yourself will help you gain user insight and help you determine which information needs to be added to or removed from the documentation.
 
-  - Create a tutorial that walks users through the project's features: [OpenSauced Highlights Feature](https://docs.opensauced.pizza/community/highlights/)
+- **Be patient and persistent**. <br/> Writing good documentation takes time. Don't be afraid to ask for help if you need it.
 
-  - Update the project's documentation to reflect new changes: [Add Dev Cards to Getting Started](https://github.com/open-sauced/docs/issues/156)
+#### Examples of Documentation Contributions
 
-  - Translate the project's documentation into other languages: [Translate the course into another language](https://github.com/open-sauced/intro/issues/16)
+Now, you might wonder what you should do to contribute to a project's documentation. Here are some examples of what to contribute:
 
-  - Fix typos and grammatical errors in the documentation: [Adding information about possessives
-  ](https://github.com/StyleGuides/WritingStyleGuide/pull/519)
+- **Write or update the README file** <br/> If you see that a project needs a README explaining how to install and use it, you can offer to write one. Or, if you notice information or instructions are missing from the README, you can create an issue and suggest how to update it.
 
-  - Improve the formatting of the documentation: [Incorrect Link Destination in Documentation](https://github.com/open-sauced/docs/pull/144)
-    
-  - Add missing information to the documentation: [Add More Information to Use This Template in the README](https://github.com/open-sauced/100-days-of-oss-template/pull/8)
+- **Create a tutorial** <br/> When the documentation about a feature is unavailable, you can address this and create a tutorial that guides users through the feature.
 
-Contributing to documentation is a great way to help open source projects and make them more accessible to everyone. If you have the skills and the interest, get involved!
+- **Update documentation** <br/> Sometimes, a project has new changes or releases, but the maintainers still need to update the documentation. You can help update the documentation to reflect these new changes.
+
+- **Translate documentation** <br/> If you are proficient in other languages, you can help a project by translating the documentation to expand its reach to more users.
+
+- **Fix typos and grammatical errors** <br/> Although they seem small, fixing typos and grammatical errors can help maintain consistency and clarify the documentation.
 
 ### Graphic Design
 
-This open source contribution involves creating visual assets, such as logos, icons, illustrations, website designs, and other graphical elements, for open source projects. These visual assets play a significant role in enhancing the overall user experience and branding of the project. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
- - **Logo and Branding**: Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project instantly recognizable and give it a professional image.
+Are you a creative person who's into design? If so, you might want to consider contributing to an open source project through design.
 
-- **Icon Design**: Icons are essential for user interfaces. Graphic designers can create custom icons for software applications or websites, improving the visual appeal and usability of the project: [Eventhub signup](https://github.com/WebXGuild/webx-guild/pull/13)
+This contribution involves creating visual assets for open source projects, such as logos, icons, illustrations, website designs, and other graphical elements. These visual assets play a significant role in enhancing the project's overall user experience and branding. Graphic design contributions can make open source software more appealing, user-friendly, and recognizable.
 
- - **Website Design**: Open source projects often have websites to provide information, documentation, and download links. Graphic designers can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
+Here are some examples of what to contribute through design:
 
-- **User Interface (UI) Design**: For software projects, UI design is crucial. Designers can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
+- **Logo and branding** <br/> Designing a unique and memorable logo for an open source project can help establish its identity and brand. A well-designed logo can make the project recognizable and give it a professional image.
 
-- **User Experience (UX) Design**: UX designers focus on improving the overall user experience by considering how users interact with the software. This includes designing user flows, navigation, and usability testing.
+- **Icon design** <br/> Icons are essential for user interfaces. You can create custom icons for software applications or websites, improving the visual appeal and usability of the project.
 
-- **Accessibility Design**: Ensuring that the project's graphical elements are accessible to all users, including those with disabilities, is an important aspect of graphic design. Designers can create accessible color schemes and ensure that visual elements are perceivable and operable.
+- **Website design** <br/> Open source projects often have websites to provide information and documentation about the project. You can contribute by designing website layouts, graphics, banners, and other visual elements to make the site more attractive and user-friendly.
 
-- **Responsive Design**: Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures that the project looks good and functions properly on both desktop and mobile devices.
+- **User Interface (UI) design** <br/> UI design is crucial for software projects. You can create mockups, wireframes, and high-fidelity designs for the user interface, making it more intuitive and visually appealing.
 
-### Blog Writing
+- **User Experience (UX) design** <br/> By considering how users interact with the software, you can contribute to improving the overall user experience. This includes designing user flows, navigation, and usability testing.
 
-This type of open source contribution involves creating and publishing blog posts, articles, or tutorials related to open source software, projects, technologies, or best practices. Like documentation, you don't necessarily have to know how to code to write these posts.
+- **Accessibility design** <br/> Software and websites must be accessible to all users, regardless of whether they have disabilities. You can contribute, for example, by creating accessible color schemes and contrast or positioning visual elements within the project. You can help ensure all visual elements are clear and easy to use.
 
-#### Ways to use Blogging as a Open Source Contribution
+- **Responsive design** <br/> Designing visuals that work well on various devices and screen sizes is crucial for modern web applications. Responsive design ensures the project looks good and functions properly on desktop and mobile devices.
 
-- You can write about the latest features of an open source project, such as a new version of the software or a new plugin: [Announcing the 0.2.0 release of Analog](https://dev.to/analogjs/announcing-the-020-release-of-analog-aa1)
+### Content Creation
 
-- You can write a tutorial on how to install and configure the software: [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
+Contribution through content creation—blog posts, videos, or streaming—involves researching, writing or recording, editing, and publishing the content. The goal is to inform and educate others on a particular open source software, project, technology, or best practices to attract more users and contributors. Like documentation, you don't necessarily have to know how to code to create these contents.
 
-- Write about the impact of an open source project, such as how it has been used to make a difference in the world: [Retaining the best engineers](https://opensauced.pizza/blog/retaining-the-best-engineers)
+Here are some ideas about what to create:
 
-- Coding and Non-coding Types of Contributions, such as how to get started with open source: [Open Source 101: A Beginner's Guide to Getting Started](https://opensauced.pizza/blog/open-source-101-a-beginner's-guide-to-getting-started)
+- **Latest features** <br/> You can share the latest features of an open source project, such as a new version of the software or a new plugin.
 
-## Coding Type Of Contributions
+- **Tutorial** <br/> Most of the time, documentation has limited space to explain the project in detail to accommodate all levels of users. You can take this opportunity to target particular audiences and create a tutorial on installing and configuring the software or using it.
 
-Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the functionality and quality of the software. Contributors collaborate with project maintainers and the community to ensure that their code contributions align with project goals and coding standards. Also, open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
+- **Impact** <br/> You can consider sharing about an open source project's impact on its users. Why do they want to use it, or what are the benefits of using the software? That way, you are helping to promote the project to gain more users.
+
+- **Open source best practices** <br/> Although many content creators have shared information about how to use Git and GitHub or how to contribute to open source, whenever you learn something new, you can always share it through your content. You never know if what you create can inspire and help others contribute to open source.
+
+## Coding Contributions
+
+Coding contributions power open source development. They entail writing, modifying, or improving the actual source code of an open source project, directly impacting the software's functionality and quality.
+
+Contributors collaborate with project maintainers and the community to ensure their code contributions align with project goals and coding standards. Open source projects typically have guidelines and processes for accepting and integrating coding contributions, such as code reviews and continuous integration.
 
 Here are some examples of contributions you can make to a project with your coding skills:
 
-- **Writing New Code**: This is the most common type of coding contribution. Developers write new code to add features, fix bugs, or enhance the functionality of an open source project. These contributions are typically submitted in the form of pull requests (PRs) or patches: [Show who reacted to highlights](https://github.com/open-sauced/app/pull/1591)
+- **Write new code** <br/> This is the most common type of coding contribution. You write new code to add features or enhance the functionality of an open source project.
 
-- **Bug Fixes**: Identifying and fixing bugs is a critical coding contribution. Developers locate issues within the codebase, diagnose the problem, and then write code to correct it. Bug fixes improve the stability and reliability of the software: [Lint check happening two times on commit
-](https://github.com/open-sauced/app/pull/1635)
+- **Bug fix** <br/> Identifying and fixing bugs is a critical coding contribution. You locate issues within the codebase, diagnose them, and then write code to fix them. Bug fixes improve the software's stability and reliability.
 
-- **Code Refactoring**:  Refactoring involves restructuring and improving existing code without changing its external behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the long-term health of the project: [CalcDistanceFromToday function](https://github.com/open-sauced/app/pull/1633)
+- **Code refactor** <br/> Refactoring code involves restructuring and improving existing code without changing its behavior. This helps enhance code readability, maintainability, and scalability, which are vital for the project's long-term health.
 
-- **API Design and Maintenance**:  For projects with public APIs, developers can contribute to designing, maintaining, and improving the API to ensure it remains stable and developer-friendly: [Refresh token
-](https://github.com/IridiumIdentity/iridium/pull/134)
+- **API design and maintenance** <br/> You can contribute to projects with public APIs by designing, maintaining, or improving the API to ensure its quality and reliability.
 
-- **Feature Development**:  Developers contribute by implementing new features or functionalities in response to user needs or project goals. Feature development often involves planning, designing, and coding new components or capabilities: [Added the contact page
-](https://github.com/TechIsHiring/techishiring-website/pull/53)
+- **Feature development** <br/> You can help implement new features or functionalities in response to user needs or project goals. Feature development involves planning, designing, and coding new components or capabilities.
 
-- **Performance Optimization**: Coders may work on optimizing the software's performance by refactoring code, improving algorithms, or optimizing resource usage. This type of contribution aims to make the software run more efficiently: [Repos table in small screens does not show select](https://github.com/open-sauced/app/pull/1559)
+- **Performance optimization** <br/> You can contribute to optimizing the software's performance by improving algorithms or optimizing resource usage. This type of contribution aims to make the software run more efficiently.
 
-- **Testing and Quality Assurance**: Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues: [Add force login component to design system](https://github.com/open-sauced/app/pull/1330)
+- **Testing and Quality Assurance (QA)** <br/> Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
 [Next Section ->](08-additional-resources.md)
 
