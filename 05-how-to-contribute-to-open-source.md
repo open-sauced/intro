@@ -151,7 +151,9 @@ You'll need to have these tools donwloaded and installed on your local machine:
    ![adding contributor with CLI on a terminal](./images/cli-tool.gif)
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
-8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated. You will need this later when creating a pull request.
+8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated as the example below. You will need this later when creating a pull request.
+
+   ![Profile generated on README](./images/profile-generated.png)
 
    !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
