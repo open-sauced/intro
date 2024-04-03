@@ -115,7 +115,6 @@ Une fois le projet auquel vous souhaitez contribuer est trouvé, l'étape suivan
 
 En suivant ces étapes, vous pourrez soumettre vos contributions à des projets open source et collaborer avec d'autres développeurs pour améliorer le codebase.
 
-
 ## Que se passe-t-il ensuite ?
 
 Une fois que votre contribution a été soumise et examinée, l'un des résultats suivants peut se produire :
@@ -152,7 +151,9 @@ Ces outils doivent être téléchargés et installés sur votre machine locale :
    ![Ajout d'un contributeur avec le CLI](../../images/cli-tool.gif)
 
 7. Lancez `npm run contributors:generate` dans votre terminal pour générer le livre d'or du README.
-8. Copiez et collez le Markdown du README dans [Markdown Live Preview](https://markdownlivepreview.com/) et faites une capture d'écran de votre profil généré. Vous en aurez besoin plus tard lors de la création d'une pull request.
+8. Copiez et collez le Markdown du README dans [Markdown Live Preview](https://markdownlivepreview.com/) et faites une capture d'écran de votre profil généré comme dans l'exemple ci-dessous. Vous en aurez besoin plus tard lors de la création d'une Pull Request.
+
+   ![Profile generated on README](../../images/profile-generated.png)
 
    Si vous ne voyez pas votre profil dans la section "Contributeurs", dézoomez l'écran jusqu'à ce que vous puissiez le voir avant de faire une capture d'écran.
 
