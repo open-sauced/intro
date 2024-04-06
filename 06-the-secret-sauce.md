@@ -1,5 +1,5 @@
 # The Secret Sauce
-
+ 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
 ## Open Issues — More than PRs that Fix Typos
