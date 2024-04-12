@@ -20,7 +20,7 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 1. **Créez un compte** : Visitez <https://www.opensauced.pizza/> et créer un compte en utilisant vos identifiants GitHub.
 
-    ![Création d'un compte sur OpenSauced](../../images/opensauced-signup.png)
+    ![Création d'un compte sur OpenSauced](../../../_assets/images/opensauced-signup.png)
 
     Au cours de la procédure d'inscription, il vous sera demandé de choisir vos centres d'intérêt et de définir votre fuseau horaire. Cela aidera OpenSauced à vous recommander des projets qui correspondent à vos centres d'intérêt et à votre emploi du temps.
 
@@ -28,7 +28,7 @@ OpenSauced est un outil puissant pour trouver des projets open source auxquels c
 
 3. **Recherchez des projets** : Dans Explorer, vous pouvez voir une liste de dépôts et leurs niveaux d'activité et d'engagement pertinents qui sont actuellement en tendance. Vous pouvez également rechercher des projets en tapant dans la barre de recherche. Vous pouvez rechercher des projets par nom, par description ou par sujet et utiliser cet outil pour trouver quelque chose qui vous correspond.
 
-    ![Page d'exploration sur OpenSauced](../../images/opensauced-explore.png)
+    ![Page d'exploration sur OpenSauced](../../../_assets/images/opensauced-explore.png)
 
 4. **Enregistrez des projets dans vos pages "Insights"** : Lorsque vous trouvez des projets qui vous intéressent, vous pouvez les ajouter à ce que l'on appelle les pages "Insights", qui vous donnent plus de détails sur l'activité des projets. Vous pouvez également passer à l'étape suivante si vous préférez vous plonger dans le projet et y apporter votre contribution.
 
@@ -64,7 +64,7 @@ Vous vous êtes donc engagé dans le projet. Vous pouvez maintenant vous prépar
 
     S'il n'y a pas d'instructions dans le fichier CONTRIBUTING, vous pouvez laisser un commentaire sur le problème, "Can I please be assigned this issue ?" (Puis-je être assigné à ce problème ?) Lorsque le mainteneur vous aura assigné, vous remarquerez que votre nom d'utilisateur figure désormais dans la section "Assignees".
 
-    ![Capture d'écran d'une issue assignée](../../images/issue-assign.png)
+    ![Capture d'écran d'une issue assignée](../../../_assets/images/issue-assign.png)
 
 ## Processus de contribution
 
@@ -148,12 +148,12 @@ Ces outils doivent être téléchargés et installés sur votre machine locale :
 
    Suivez les instructions pour vous ajouter au livre d'or. Une fois que vous avez terminé et que vous avez cliqué sur "enter", vous devez cliquer à nouveau sur "entrer" pour confirmer vos choix.
 
-   ![Ajout d'un contributeur avec le CLI](../../images/cli-tool.gif)
+   ![Ajout d'un contributeur avec le CLI](../../../_assets/gifs/cli-tool.gif)
 
 7. Lancez `npm run contributors:generate` dans votre terminal pour générer le livre d'or du README.
 8. Copiez et collez le Markdown du README dans [Markdown Live Preview](https://markdownlivepreview.com/) et faites une capture d'écran de votre profil généré comme dans l'exemple ci-dessous. Vous en aurez besoin plus tard lors de la création d'une Pull Request.
 
-   ![Profile generated on README](../../images/profile-generated.png)
+   ![Profile generated on README](../../../_assets/images/profile-generated.png)
 
    Si vous ne voyez pas votre profil dans la section "Contributeurs", dézoomez l'écran jusqu'à ce que vous puissiez le voir avant de faire une capture d'écran.
 
