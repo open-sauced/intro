@@ -78,6 +78,6 @@ En conclusion, démarrer avec des contributions open source et avoir un impact d
 
 [Section finale ->](07-différents-types-de-contributions.md)
 
-<a href= "https://github.com/open-sauced/intro/edit/main/translations/fr/07-la-sauce-secrète.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/la-sauce-secrète.md">
   ✏️ Éditer cette page
 </a>
