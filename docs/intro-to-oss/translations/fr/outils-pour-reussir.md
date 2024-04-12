@@ -123,8 +123,6 @@ Pour commencer à utiliser Discord, [visitez le site web officiel](https://disco
 
 En vous familiarisant avec ces outils et plateformes, vous serez en mesure de collaborer efficacement, de gérer vos projets et de contribuer à des projets open source. Dans le prochain chapitre, nous verrons comment contribuer à des projets open source, notamment en trouvant des projets sur lesquels travailler, en soumettant des contributions et en expliquant ce qui se passe une fois que votre contribution est acceptée.
 
-[Section suivante ->](/translations/fr/05-comment-contribuer-à-l-open-source.md)
-
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/outils-pour-reussir.md">
   ✏️ Éditer cette page
 </a>

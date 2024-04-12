@@ -20,8 +20,6 @@ Félicitations pour votre voyage vers l'open source ! Voici quelques ressources 
 - [Comment rédiger une bonne suggestion de problème : conseils pour une communication efficace en open source](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 - [Les bons premiers numéros n'existent pas](https://opensauced.pizza/blog/good-first-issues-dont-exist)
 
-[Section suivante ->](09-conclusion.md)
-
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/ressources-additionnelles.md">
   ✏️ Éditer cette page
 </a>

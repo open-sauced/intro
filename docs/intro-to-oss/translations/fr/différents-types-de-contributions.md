@@ -102,8 +102,6 @@ Voici quelques exemples de contributions que vous pouvez apporter à un projet g
 
 - **Essais et assurance qualité (AQ)** <br/> L'écriture de tests automatisés, y compris les tests unitaires, les tests d'intégration et les tests de bout en bout, est une contribution au codage qui garantit la fiabilité du logiciel. Les tests permettent de détecter et de prévenir les régressions et les problèmes.
 
-[Section suivante ->](/translations/fr/08-ressources-additionnelles.md)
-
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/différents-types-de-contributions.md">
   ✏️ Éditer cette page
 </a>

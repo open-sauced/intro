@@ -54,8 +54,6 @@ Utilisez les exemples et les démonstrations comme point de départ, mais n'ayez
 
 Maintenant que nous avons planté le décor, il est temps de vous lancer dans votre aventure open source ! Dans le chapitre suivant, nous plongerons dans la définition de l'open source et explorerons son histoire, jetant les bases d'une compréhension plus approfondie de la collaboration open source. D'accord, allons-y !
 
-[Section suivante ->](/translations/fr/02-qu-est-ce-que-l-open-source.md)
-
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/introduction.md">
   ✏️ Éditer cette page
 </a>

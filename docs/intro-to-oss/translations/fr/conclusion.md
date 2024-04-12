@@ -38,8 +38,6 @@ Avec les connaissances et les outils que vous avez acquis dans ce cours, vous ê
 
 En conclusion, se lancer dans l'aventure de l'open source est une expérience gratifiante et enrichissante qui peut vous aider à développer de nouvelles compétences, à nouer des liens avec des personnes partageant les mêmes idées et à avoir un impact durable sur les projets sur lesquels vous travaillez. Avec les connaissances et les outils que vous avez acquis dans ce cours, vous êtes bien préparé à relever les défis passionnants et à saisir les opportunités qui vous attendent dans le monde de l'open source. Alors, allez-y et commencez à contribuer, la communauté open source attend impatiemment votre participation !
 
-[Section suivante ->](10-glossaire.md)
-
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/conclusion.md">
   ✏️ Éditer cette page
 </a>
