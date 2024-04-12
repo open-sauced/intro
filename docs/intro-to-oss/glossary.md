@@ -75,5 +75,5 @@ A repository is a central location where code is stored and managed. In open sou
 A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
 
 <footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/10-glossary.md">✏️ Edit this page</a>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/glossary.md">✏️ Edit this page</a>
 </footer>
