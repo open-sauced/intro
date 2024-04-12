@@ -15,7 +15,7 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 - If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
-- Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But our triage team and maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag `@open-sauced/triage` and `@open-sauced/docs` teams in the comment to notify them.
+- Do you have an idea and want to add a section or a chapter to this course? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag `@open-sauced/docs` team in the comment to notify them.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
