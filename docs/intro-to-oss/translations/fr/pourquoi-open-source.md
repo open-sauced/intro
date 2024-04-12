@@ -56,6 +56,6 @@ Dans le chapitre suivant, nous aborderons les outils et ressources essentiels do
 
 [Section suivante ->](/translations/fr/04-outils-pour-reussir.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/translations/fr/03-pourquoi-open-source.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/pourquoi-open-source.md">
   ✏️ Éditer cette page
 </a>
