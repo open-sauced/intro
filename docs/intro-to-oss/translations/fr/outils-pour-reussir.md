@@ -56,7 +56,7 @@ Pour nous entraîner à utiliser GitHub, nous allons créer un dépôt, le clone
 
    Choisissez vous-même comme propriétaire du dépôt, et saisissez un nom pour votre dépôt. Pour cet exemple, nous utiliserons `practice-repository`.
 
-![Capture d'écran d'un nouveau dépôt sur GitHub](../../images/new-repo.png)
+![Capture d'écran d'un nouveau dépôt sur GitHub](../../../_assets/images/new-repo.png)
 
 Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier `.gitignore`, et/ou une licence.
 
