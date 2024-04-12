@@ -56,6 +56,6 @@ Maintenant que nous avons planté le décor, il est temps de vous lancer dans vo
 
 [Section suivante ->](/translations/fr/02-qu-est-ce-que-l-open-source.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/translations/fr/01-introduction.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/introduction.md">
   ✏️ Éditer cette page
 </a>
