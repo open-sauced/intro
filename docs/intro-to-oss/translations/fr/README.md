@@ -73,7 +73,7 @@ Bon apprentissage et bonne contribution !
 
 ## 🤝 Contribuer à ce dépôt
 
-Nous vous encourageons à contribuer à OpenSauced ! Tous les contributeurs sont tenus de respecter notre [Code de Conduite](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). S'il vous plait consulter [le guide de Contribution](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) pour connaître les directives sur la façon de procéder avec votre contribution.
+Nous vous encourageons à contribuer à OpenSauced ! Tous les contributeurs sont tenus de respecter notre [Code de Conduite](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). S'il vous plait consulter [le guide de Contribution](./CONTRIBUTING.md) pour connaître les directives sur la façon de procéder avec votre contribution.
 
 Si vous souhaitez traduire notre cours Intro to Open Source, consultez nos [🌐 Lignes directrices pour i18n](../../../i18n-guidelines.md).
 
