@@ -1,4 +1,4 @@
-<div align="center">
+<div alidogn="center">
   <img alt="OpenSauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
   <h1>🍕 Open Source Education Path with OpenSauced 🍕</h1>
 </div>
@@ -17,7 +17,7 @@ This course is designed to equip you with the skills and knowledge you need to c
 
 Head to our [Intro to Open Source](./intro-to-oss/) course to start your learning journey!
 
-## Becoming Maintainer Course — Coming Soon!
+## Becoming a Maintainer Course — Coming Soon!
 
 This course is designed to aid people who are interested in becoming open source project maintainers. It guides you through maintainers' best practices and provides resources and tools that help maintainers perform their tasks. This course is equipped with a tutorial for you to get practical.
 
