@@ -70,6 +70,6 @@ Les notes de version sont des documents qui détaillent les changements, les am�
 
 Un guide de style est un ensemble de règles et de conventions qui définissent le formatage, le style d'écriture et les éléments visuels utilisés dans la documentation et d'autres contenus. Il permet de maintenir la cohérence et la clarté des documents, ce qui facilite leur lecture et leur compréhension.
 
-<a href= "https://github.com/open-sauced/intro/edit/main/translations/fr/10-glossaire.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/glossaire.md">
   ✏️ Éditer cette page
 </a>
