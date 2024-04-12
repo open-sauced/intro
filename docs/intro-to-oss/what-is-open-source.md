@@ -67,5 +67,5 @@ The growing popularity of open source has also led to a thriving ecosystem of co
 In the next chapter, we'll explore the many benefits of contributing to open source projects and discuss how open source collaboration can help you access knowledge, connect with a community, and develop valuable skills.
 
 <footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/02-what-is-open-source.md">✏️ Edit this page</a>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/what-is-open-source.md">✏️ Edit this page</a>
 </footer>
