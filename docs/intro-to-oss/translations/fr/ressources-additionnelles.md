@@ -22,6 +22,6 @@ Félicitations pour votre voyage vers l'open source ! Voici quelques ressources 
 
 [Section suivante ->](09-conclusion.md)
 
-<a href= "https://github.com/open-sauced/intro/edit/main/translations/fr/08-ressources-additionnelles.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/ressources-additionnelles.md">
   ✏️ Éditer cette page
 </a>
