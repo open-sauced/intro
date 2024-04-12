@@ -42,7 +42,7 @@ Construire un CV open source solide peut vous aider à présenter vos compétenc
 
 2. **Visitez votre page de profil public** : Après votre inscription, une page de profil public sera créée pour vous. Cette page affichera les informations de votre profil GitHub et une liste de vos contributions open source. Vous pouvez y accéder en cliquant sur votre nom d'utilisateur dans le coin supérieur droit de la page.
 
-    ![Navigation vers votre page de profil public](../../images/opensauced-profile.png)
+    ![Navigation vers votre page de profil public](../../../_assets/images/opensauced-profile.png)
 
 3. **Construisez votre CV Open Source** : À partir d'ici, vous pourrez ajouter des points forts aux demandes d'extraction et aux problèmes auxquels vous avez contribué. Vous pouvez également ajouter une description et des liens vers votre CV open source. Celles-ci seront regroupées en une seule page que vous pourrez partager avec d'autres, ainsi qu'un résumé de vos contributions qui sera affiché sur votre page de profil public.
 
