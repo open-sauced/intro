@@ -177,7 +177,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 Congratulations on your first contribution! 🎉
 
-?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to [chapter 6](./06-the-secret-sauce.md) in this course.
+?> If you're ready for your next contribution, head on over to the [pizza-verse repo](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines for your next contribution. Once you're done, head on over to "[The Secret Sauce](./the-secret-sauce.md)" chapter in this course.
 
 ## Keeping Branches Up to Date
 
