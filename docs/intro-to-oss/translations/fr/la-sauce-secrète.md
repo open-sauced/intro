@@ -70,7 +70,7 @@ Pour être plus efficace dans la mise en valeur de vos contributions, nous vous 
 
   ![Ajouter une surbrillance à votre profil](../../../_assets/images/opensauced-highlights.png)
 
-**Partagez-le !** : Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
+- **Partagez-le !** : Une fois que vous avez constitué un portefeuille de contributions open source, vous pouvez partager votre CV OpenSauced avec d'autres en cliquant sur le bouton de partage dans l'en-tête de votre page de profil. Cela peut être particulièrement utile lorsque vous postulez à des emplois, que vous travaillez en réseau avec d'autres développeurs ou que vous faites la promotion de votre travail dans la communauté open source.
 
 En tirant parti d'OpenSauced pour suivre vos contributions open source et développer votre CV, vous serez mieux équipé pour mettre en valeur vos compétences, votre expérience et votre impact dans la communauté open source.
 
