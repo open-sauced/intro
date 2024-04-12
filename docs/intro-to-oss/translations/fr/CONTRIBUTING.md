@@ -15,7 +15,7 @@ Lorsque vous contribuez au projet pour la première fois, pensez à vérifier le
 
 Si vous souhaitez travailler sur une issue ouverte, veuillez commenter avec `.take`, et il vous sera attribué. Si un problème n'est pas assigné, il est supposé être disponible pour n'importe qui. Par conséquent, attribuez-vous une issue avant de commencer à travailler afin d'éviter les conflits.
 
-Vous avez une idée et souhaitez ajouter une section ou un chapitre à ce cours ? Vous pouvez créer une issue pour y répondre. Mais les mainteneurs doivent trier l'issue avant que vous puissiez travailler dessus. Si vous souhaitez travailler sur l'issue, veuillez marquer nos mainteneurs `@open-sauced/community` dans le commentaire pour les avertir.
+Vous avez une idée et souhaitez ajouter une section ou un chapitre à ce cours ? Vous pouvez créer une issue pour y répondre. Mais les mainteneurs doivent trier l'issue avant que vous puissiez travailler dessus. Si vous souhaitez travailler sur l'issue, veuillez marquer nos mainteneurs `@open-sauced/docs` dans le commentaire pour les avertir.
 
 Vous pouvez toujours demander de l'aide dans le canal `🍕opensauced-contributors-chat` sur notre communauté [Discord](https://discord.com/invite/U2peSNf23P) ou dans les discussions GitHub si vous êtes bloqué pendant que vous travaillez sur vos modifications ou si vous avez besoin d'éclaircissements.
 
