@@ -104,6 +104,6 @@ Voici quelques exemples de contributions que vous pouvez apporter à un projet g
 
 [Section suivante ->](/translations/fr/08-ressources-additionnelles.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/translations/fr/08-ressources-additionnelles.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/différents-types-de-contributions.md">
   ✏️ Éditer cette page
 </a>
