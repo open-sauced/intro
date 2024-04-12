@@ -125,6 +125,6 @@ En vous familiarisant avec ces outils et plateformes, vous serez en mesure de co
 
 [Section suivante ->](/translations/fr/05-comment-contribuer-à-l-open-source.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/translations/fr/04-outils-pour-reussir.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/outils-pour-reussir.md">
   ✏️ Éditer cette page
 </a>
