@@ -124,7 +124,7 @@ Les contenus de ce cours sont écrits en [Markdown](https://www.markdownguide.or
 
 ### Ajouter des définitions au glossaire
 
-Si vous ajoutez des définitions au chapitre [Glossaire](10-glossaire.md), assurez-vous que les définitions sont ajoutées dans l'ordre **alphabétique**.
+Si vous ajoutez des définitions au chapitre [Glossaire](./glossaire.md), assurez-vous que les définitions sont ajoutées dans l'ordre **alphabétique**.
 
 ### Ajouter une nouvelle section à un chapitre
 
@@ -297,4 +297,4 @@ git pull
 
 ## Traduire le cours d'introduction à l'Open Source
 
-Traduire notre cours d'introduction à l'Open Source permet de le rendre plus accessible à un public plus large. Si vous souhaitez traduire ce cours, veuillez lire notre page [🌐 i18n Guidelines](/i18n-guidelines.md).
+Traduire notre cours d'introduction à l'Open Source permet de le rendre plus accessible à un public plus large. Si vous souhaitez traduire ce cours, veuillez lire notre page [🌐 i18n Guidelines](../../../i18n-guidelines.md).
