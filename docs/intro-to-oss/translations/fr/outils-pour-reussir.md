@@ -56,9 +56,9 @@ Pour nous entraîner à utiliser GitHub, nous allons créer un dépôt, le clone
 
    Choisissez vous-même comme propriétaire du dépôt, et saisissez un nom pour votre dépôt. Pour cet exemple, nous utiliserons `practice-repository`.
 
-![Capture d'écran d'un nouveau dépôt sur GitHub](../../../_assets/images/new-repo.png)
+   ![Capture d'écran d'un nouveau dépôt sur GitHub](../../../_assets/images/new-repo.png)
 
-Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier `.gitignore`, et/ou une licence.
+   Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également choisir d'initialiser le dépôt avec un fichier README, un fichier `.gitignore`, et/ou une licence.
 
    Pour cet exemple, initialiser le dépôt avec un fichier README.
 
@@ -74,13 +74,13 @@ Choisissez si vous voulez qu'il soit public ou privé. Vous pouvez également ch
 
 4. **Apportez des modifications et validez** : Il devrait y avoir un fichier dans votre dépôt : `README.md`. Dans ce fichier, sous `# practice-repository`, tapez 'hello world !'. Une fois que vous avez fait des changements, vous pouvez les mettre en scène et les livrer.
 
-Ouvrez votre terminal et assurez-vous que vous êtes dans le bon répertoire. Par exemple, mes projets de codage se trouvent dans mon dossier Projects. En utilisant mon terminal, j'accèderais à ce dépôt en exécutant la commande suivante :
+   Ouvrez votre terminal et assurez-vous que vous êtes dans le bon répertoire. Par exemple, mes projets de codage se trouvent dans mon dossier Projects. En utilisant mon terminal, j'accèderais à ce dépôt en exécutant la commande suivante :
 
    ```
    cd projects/practice-repository
    ```
 
-Une fois dans le bon dépôt, utilisez les commandes suivantes pour ajouter les modifications que vous avez effectuées et écrivez un message de validation avec une description des modifications :
+   Une fois dans le bon dépôt, utilisez les commandes suivantes pour ajouter les modifications que vous avez effectuées et écrivez un message de validation avec une description des modifications :
 
    ```
    git add .
