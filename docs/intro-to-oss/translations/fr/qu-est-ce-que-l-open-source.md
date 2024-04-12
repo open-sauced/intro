@@ -68,6 +68,6 @@ Dans le prochain chapitre, nous explorerons les nombreux avantages de la contrib
 
 [Section suivante ->](03-pourquoi-open-source.md)
 
-<a href="https://github.com/open-sauced/intro/edit/main/translations/fr/02-qu-est-ce-que-l-open-source.md">
+<a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source.md">
   ✏️ Éditer cette page
 </a>
