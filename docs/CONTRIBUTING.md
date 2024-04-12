@@ -43,7 +43,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
    ```
 
    Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
-   
+
 5. Run the project.
 
 ### Running the Project Locally
@@ -124,7 +124,7 @@ The contents of this course are written in [Markdown](https://www.markdownguide.
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the [Glossary](../intro-to-oss/10-glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
+If you add definitions to the [Glossary](../intro-to-oss/glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
 
 ### Adding a New Section to a Chapter
 
@@ -146,29 +146,17 @@ Follow these steps to add a new chapter to our course:
 
    > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-2. **Determine the chapter's number**.
-
-   We have specific conventions for numbering file names to maintain a consistent structure. In this project, the numbers in the file name represent chapters—for example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
-
-   Consider where the new chapter you'll work on logically falls in the course.
-
-   If you're not sure, please comment on the issue and tag the `@open-sauced/community` maintainers to ask for help.
-
-3. **Write content**.
+2. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    > **Note**: There should only be **one** `heading 1` in each file.
 
-4. **Ensure there are no duplicate chapter numbers, and they should be in order**.
-
-   There should only be one number for each chapter (no duplication), and the numbers must be in order to make the course flow. You need to rename other files that follow your new file by changing the chapter number accordingly.
-
-5. **Test your changes**.
+3. **Test your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-6. **Update the sidebar**.
+4. **Update the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
@@ -181,25 +169,20 @@ Follow these steps to add new chapters to the sidebar:
 1. Navigate to `_layouts/sidebar.js`.
 2. **Add the new chapter link**.
 
-   - Insert a new line in the list based on your chapter's number. For example, if your chapter number is `07`, insert this new line right after `06`.
+   - Insert your new chapter in the list. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
    - Use the below format to add the link to the new chapter:
 
      ```markdown
-     - [Intro](https://github.com/01-intro.md)
+     - [Intro](intro.md)
      ```
 
-     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
-     - Replace `/01-intro.md` with the relative path to the Markdown file of your new chapter.
+     Replace `[Intro]` with the title of your new chapter. _Be sure to capitalize the title_.
 
-3. **Ensure the chapter's numbers are in order**.
-
-   The chapter's numbers should be in order. So, you must change the chapter numbers in the relative paths that follow the new chapter.
-
-4. **Create a pull request**.
+3. **Create a pull request**.
 
    Once you have created the new chapter and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
-5. **Review and feedback**.
+4. **Review and feedback**.
 
    Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
