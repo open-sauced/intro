@@ -8,7 +8,8 @@ Welcome to the Open Source Education Path with OpenSauced!
 Open source projects offer potential for personal growth, networking and collaboration, and meaningful community contributions. Because of this, there is a growing interest in open source and a need for resources to help people get started.
 
 At OpenSauced, we aim to empower contributors, maintainers, and teams in open source, not only through [our product](https://opensauced.pizza/) but also through sharing knowledge. For that reason, we created courses designed to guide you into the open source world as a contributor or as a potential maintainer.
-## **Courses** 
+
+## **Courses**
 
 ### Intro to Open Source Course
 
