@@ -45,7 +45,7 @@ First, please read our [Contributing Guide](./CONTRIBUTING.md) to setting up the
 
 2. **Create translation files**.
 
-   1. Open the `intro-to-oss` directory inside the `docs` folder.
+   1. Open the course directory inside the `docs` folder.
    2. Open the `translations` directory.
    3. Create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French, etc.) as directory names.
 
@@ -71,7 +71,7 @@ First, please read our [Contributing Guide](./CONTRIBUTING.md) to setting up the
    Adding a language selector to the documentation allows users to switch between languages. You can do this by modifying the languages menu on the navigation bar:
 
    1. Open the `docs` directory.
-   2. Open the `_navbar.md` file in the `intro-to-oss` directory.
+   2. Open the `_navbar.md` file in the course directory.
    3. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
 
       ```markdown
