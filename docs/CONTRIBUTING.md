@@ -166,7 +166,7 @@ The sidebar in our course serves as a navigation menu. So, when you add a new ch
 
 Follow these steps to add new chapters to the sidebar:
 
-1. Navigate to `_layouts/sidebar.js`.
+1. Navigate to `_sidebar.md` in the course folder.
 2. **Add the new chapter link**.
 
    - Insert your new chapter in the list. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
