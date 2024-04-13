@@ -1,0 +1,11 @@
+- Intro to Open Source
+  - [Intro](intro.md)
+  - [What is Open Source?](what-is-open-source.md)
+  - [Why Open Source?](why-open-source.md)
+  - [Tools to be Successful](tools-to-be-successful.md)
+  - [How to Contribute to Open Source](how-to-contribute-to-open-source.md)
+  - [The Secret Sauce](the-secret-sauce.md)
+  - [Types of Open Source Contributions](types-of-contributions.md)
+  - [Additional Resources](additional-resources.md)
+  - [Conclusion](conclusion.md)
+  - [Glossary](glossary.md)

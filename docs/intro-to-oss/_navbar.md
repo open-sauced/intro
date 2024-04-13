@@ -1,0 +1,8 @@
+- [Homepage](../README.md)
+- Courses
+  - [Intro to Open Source](/intro-to-oss/README.md)
+  - Becoming a Maintainer - Coming Soon!
+- [⭐ Star The Repo](https://github.com/open-sauced/intro)
+- Languages
+  - [:us: English](/intro-to-oss/)
+  - [:fr: French](/intro-to-oss/translations/fr/)
