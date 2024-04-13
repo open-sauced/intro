@@ -176,7 +176,8 @@ Follow these steps to add new chapters to the sidebar:
      - [Intro](intro.md)
      ```
 
-     Replace `[Intro]` with the title of your new chapter. _Be sure to capitalize the title_.
+     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
+     - Replace `intro.md` with the name of the Markdown file of your new chapter.
 
 3. **Create a pull request**.
 
