@@ -283,7 +283,7 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
 
 <hr>
 
-As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the next chapter, we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
+As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the [next chapter](the-secret-sauce.md), we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
 
 <footer>
    <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/how-to-contribute-to-open-source.md">✏️ Edit this page</a>
