@@ -52,7 +52,7 @@ Outre les avantages susmentionnés, la participation à des projets open source 
 
 3. **Possibilités de reconnaissance** : Les projets open source attirent souvent l'attention des leaders du secteur, des personnes influentes et des médias. En apportant des contributions significatives à des projets de premier plan, vous pouvez être reconnu et vous imposer comme un expert dans votre domaine.
 
-Dans le chapitre suivant, nous aborderons les outils et ressources essentiels dont vous aurez besoin pour réussir votre parcours dans l'open source, notamment GitHub, Git, CodeSee, VS Code et Discord. En vous familiarisant avec ces outils, vous serez mieux équipé pour collaborer avec les autres, gérer vos projets et contribuer efficacement aux projets open source.
+Dans le chapitre suivant, nous aborderons les outils et ressources essentiels dont vous aurez besoin pour réussir votre parcours dans l'open source, notamment GitHub, Git, VS Code et Discord. En vous familiarisant avec ces outils, vous serez mieux équipé pour collaborer avec les autres, gérer vos projets et contribuer efficacement aux projets open source.
 
 <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/translations/fr/pourquoi-open-source.md">
   ✏️ Éditer cette page
