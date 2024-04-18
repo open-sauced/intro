@@ -20,6 +20,10 @@ For translations in other languages that are maintained by our community, please
 
 The course is divided into chapters, each covering a different aspect of open source:
 
+### Intro
+
+This chapter sets the stage for your open source journey and discusses prerequisites, objectives, and expectations.
+
 ### What is Open Source?
 
 This chapter provides an introduction to open source, its history, and its importance in today's software development landscape.
