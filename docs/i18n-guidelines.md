@@ -4,8 +4,8 @@ Welcome to our i18n Guidelines! We appreciate your interest in translating our I
 
 At the moment, we have the course in the following languages:
 
-- [English](/intro-to-oss/)
-- [French](/intro-to-oss/translations/fr/README)
+- [English](./intro-to-oss/README.md)
+- [French](./intro-to-oss/translations/fr/README.md)
 - Brazilian Portuguese — work in progress
 
 ## How can I Contribute?
@@ -25,7 +25,7 @@ Official translations start as a post on our [GitHub Discussions](https://github
 
 #### 2. Community Translations
 
-We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](./community-translations.md) section.
+We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](community-translations.md) section.
 
 If you're interested in translating our Intro to Open Source course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file that you can find in the root directory.
 
@@ -37,7 +37,7 @@ If you are familiar with the translated language(s), you can help us review the 
 
 ## Adding Translations
 
-First, please read our [Contributing Guide](./CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
+First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
 
 1. **Identify target languages**.
 
