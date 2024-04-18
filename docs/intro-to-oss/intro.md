@@ -52,7 +52,7 @@ Use the examples and demos as a starting point, but don't be afraid to explore o
 
 ## Let's Get Started 🚀
 
-Now that we've set the stage, it's time to embark on your open source journey! In the next chapter, we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
+Now that we've set the stage, it's time to embark on your open source journey! In the [next chapter](what-is-open-source.md), we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
 
 <footer>
     <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/intro.md">✏️ Edit this page</a>
