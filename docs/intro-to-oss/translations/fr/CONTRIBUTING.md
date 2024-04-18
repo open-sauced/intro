@@ -52,18 +52,18 @@ Il est essentiel d'exécuter le projet localement pour voir vos modifications en
 
 Nous recommandons l'une des deux méthodes suivantes pour exécuter le projet sur votre machine locale :
 
-1. Utiliser [Docsify CLI](https://docsify.js.org/#/).
+1. Utiliser [docsify CLI](https://docsify.js.org/#/).
 2. En utilisant l'extension [Live Server de Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-#### Méthode 1 : Utilisation du CLI de Docsify
+#### Méthode 1 : Utilisation du CLI de docsify
 
 1. **Installez Node.js**.
 
    Vous pouvez le télécharger à partir du [site web de Node.js officiel](https://nodejs.org/).
 
-2. **Installez Docsify globalement**.
+2. **Installez docsify globalement**.
 
-   Il est fortement recommandé d'installer Docsify globalement. Dans votre terminal, exécutez la commande suivante :
+   Il est fortement recommandé d'installer docsify globalement. Dans votre terminal, exécutez la commande suivante :
 
    ```bash
    npm install -g docsify-cli
@@ -120,11 +120,11 @@ L'extension Live Server vous permet de lancer un serveur de développement local
 
 ## Travailler avec le Contenu
 
-Les contenus de ce cours sont écrits en [Markdown](https://www.markdownguide.org/). Veuillez lire la section [Utilisation de Markdown pour ce projet](#using-markdown-for-this-project) pour plus de détails sur l'utilisation de Markdown dans ce projet.
+Les contenus de ce cours sont écrits en [Markdown](https://www.markdownguide.org/). Veuillez lire la section [Utilisation de Markdown pour ce projet](#notions-de-base-sur-le-markdown) pour plus de détails sur l'utilisation de Markdown dans ce projet.
 
 ### Ajouter des définitions au glossaire
 
-Si vous ajoutez des définitions au chapitre [Glossaire](./glossaire.md), assurez-vous que les définitions sont ajoutées dans l'ordre **alphabétique**.
+Si vous ajoutez des définitions au chapitre [Glossaire](glossaire.md), assurez-vous que les définitions sont ajoutées dans l'ordre **alphabétique**.
 
 ### Ajouter une nouvelle section à un chapitre
 
@@ -266,7 +266,7 @@ Créez des liens en utilisant des crochets (`[]`) pour le texte du lien et des p
 Pour intégrer des images, utilisez un point d'exclamation (`!`), suivi de crochets (`[]`) pour le texte alt et de parenthèses (`()`) pour l'URL de l'image.
 
 ```markdown
-![OpenSauced Highlights](https://github.com/open-sauced/intro/blob/main/images/opensauced-highlights.png)
+![Create new repository on GitHub](../_assets/images/new-repo.png)
 ```
 
 #### 6. Extrait de citation
