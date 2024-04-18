@@ -12,7 +12,7 @@ Bienvenue dans le cours d'introduction à l'Open Source avec OpenSauced ! Ce cou
 
 Comme la pizza, l'open source est destiné à être partagé avec tout le monde. Cliquez sur les liens ci-dessous pour suivre ce cours dans les différentes langues suivantes.
 
-- [Anglais](/intro-to-oss/)
+- [Anglais](../../README.md)
 
 Pour les traductions dans d'autres langues qui sont maintenues par notre communauté, veuillez consulter la section [Traductions des cours communautaires](../../../community-translations.md).
 
@@ -48,12 +48,12 @@ Ce chapitre explique les types de contributions (codage et non-codage) impliqué
 
 Il s'agit du début de votre parcours dans le domaine de l'open source, c'est pourquoi nous avons mis à votre disposition quelques ressources supplémentaires pour vous aider à démarrer :
 
-- [Glossaire](./glossaire.md) : Un glossaire des termes et définitions couramment utilisés dans le domaine de l'open source.
-- [Ressources additionnelles](./ressources-additionnelles.md) : Une liste de ressources supplémentaires pour en savoir plus sur l'open source, y compris des articles de blog, des tutoriels et des guides.
+- [Glossaire](glossaire.md) : Un glossaire des termes et définitions couramment utilisés dans le domaine de l'open source.
+- [Ressources additionnelles](ressources-additionnelles.md) : Une liste de ressources supplémentaires pour en savoir plus sur l'open source, y compris des articles de blog, des tutoriels et des guides.
 
 ## Pour débuter
 
-Pour commencer le cours, il suffit de naviguer vers le fichier [`intro`](./introduction.md) sur le dépôt et de commencer à lire ! Chaque chapitre s'appuie sur le précédent, nous recommandons donc de les lire dans l'ordre.
+Pour commencer le cours, il suffit de naviguer vers le fichier [`intro`](introduction.md) sur le dépôt et de commencer à lire ! Chaque chapitre s'appuie sur le précédent, nous recommandons donc de les lire dans l'ordre.
 
 Tout au long du cours, nous vous encourageons à expérimenter les outils et les concepts abordés dans chaque chapitre. La meilleure façon d'apprendre est de pratiquer, alors essayez de contribuer à un vrai projet open source ou de construire votre propre projet à partir de zéro !
 
@@ -61,7 +61,7 @@ Tout au long du cours, nous vous encourageons à expérimenter les outils et les
 
 L'une des caractéristiques uniques de ce cours est qu'il fournit des conseils sur la façon de construire votre CV open source en utilisant OpenSauced. OpenSauced est une plateforme qui vous aide à suivre et à présenter vos contributions open source, ce qui vous permet de vous faire remarquer plus facilement par des employeurs et des collaborateurs potentiels.
 
-Pour en savoir plus sur l'utilisation d'OpenSauced pour construire votre CV open source, n'oubliez pas de consulter la section `Construire votre CV open source` dans le chapitre [La sauce secrète](./la-sauce-secrète.md).
+Pour en savoir plus sur l'utilisation d'OpenSauced pour construire votre CV open source, n'oubliez pas de consulter la section [Construire votre CV open source](la-sauce-secrète.md#développez-votre-cv-open-source) dans le chapitre La sauce secrète.
 
 ---
 
@@ -73,7 +73,7 @@ Bon apprentissage et bonne contribution !
 
 ## 🤝 Contribuer à ce dépôt
 
-Nous vous encourageons à contribuer à OpenSauced ! Tous les contributeurs sont tenus de respecter notre [Code de Conduite](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). S'il vous plait consulter [le guide de Contribution](./CONTRIBUTING.md) pour connaître les directives sur la façon de procéder avec votre contribution.
+Nous vous encourageons à contribuer à OpenSauced ! Tous les contributeurs sont tenus de respecter notre [Code de Conduite](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). S'il vous plait consulter [le guide de Contribution](CONTRIBUTING.md) pour connaître les directives sur la façon de procéder avec votre contribution.
 
 Si vous souhaitez traduire notre cours Intro to Open Source, consultez nos [🌐 Lignes directrices pour i18n](../../../i18n-guidelines.md).
 
