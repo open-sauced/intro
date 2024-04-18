@@ -6,6 +6,6 @@
   - [Comment contribuer à l'Open Source](comment-contribuer-à-l-open-source.md)
   - [La Sauce Secrète](la-sauce-secrète.md)
   - [Types de contributions à l'Open Source](différents-types-de-contributions.md)
-  - [Ressources additionnelles](ressources-additionnelles.md)
   - [Conclusion](conclusion.md)
+  - [Ressources additionnelles](ressources-additionnelles.md)
   - [Glossaire](glossaire.md)

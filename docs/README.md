@@ -15,7 +15,7 @@ At OpenSauced, we aim to empower contributors, maintainers, and teams in open so
 
 This course is designed to equip you with the skills and knowledge you need to contribute to open source projects. It offers engaging exercises to help you begin your journey towards becoming a successful contributor, and even provides an opportunity to get your first pull request merged.
 
-**Head to our [Intro to Open Source](./intro-to-oss/) course to start your learning journey!**
+**Head to our [Intro to Open Source](./intro-to-oss/README.md) course to start your learning journey!**
 
 ### Becoming a Maintainer — Coming Soon!
 
@@ -23,9 +23,9 @@ This course is designed to aid people who are interested in becoming open source
 
 ## **Contributing to Our Courses**
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
+If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](i18n-guidelines.md).
 
 ## **Community**
 

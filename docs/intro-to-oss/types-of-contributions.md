@@ -102,6 +102,10 @@ Here are some examples of contributions you can make to a project with your codi
 
 - **Testing and Quality Assurance (QA)** <br/> Writing automated tests, including unit tests, integration tests, and end-to-end tests, is a coding contribution that ensures software reliability. Testing helps catch and prevent regressions and issues.
 
+---
+
+Congratulations on finishing this course! Let's recap what you have learned in the [next chapter](conclusion.md).
+
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/types-of-contributions.md">✏️ Edit this page</a>
 </footer>

@@ -52,18 +52,18 @@ Running the project locally is essential to see your changes in real-time and te
 
 We recommend one of these two methods for running the project on your local machine:
 
-1. Using the [Docsify CLI](https://docsify.js.org/#/).
+1. Using the [docsify CLI](https://docsify.js.org/#/).
 2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
-#### Method 1: Using the Docsify CLI
+#### Method 1: Using the docsify CLI
 
 1. **Install Node.js**.
 
    You can download it from the official [Node.js website](https://nodejs.org/).
 
-2. **Install Docsify globally**.
+2. **Install docsify globally**.
 
-   It's highly recommended to install Docsify globally. In your terminal, run the following command:
+   It's highly recommended to install docsify globally. In your terminal, run the following command:
 
    ```bash
    npm install -g docsify-cli
@@ -120,11 +120,11 @@ Live Server extension allows you to launch a local development server and previe
 
 ## Working with the Content
 
-The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the [Using Markdown for This Project](#using-markdown-for-this-project) section for details about how to use Markdown in this project.
+The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the "[Using Markdown for This Project](#using-markdown-for-this-project)" section for details about how to use Markdown in this project.
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the [Glossary](../intro-to-oss/glossary.md) chapter, ensure the definitions are added in **alphabetical order**.
+If you add definitions to the "[Glossary](./intro-to-oss/glossary.md)" chapter, ensure the definitions are added in **alphabetical order**.
 
 ### Adding a New Section to a Chapter
 
@@ -249,7 +249,7 @@ Create links using square brackets (`[]`) for the link text and parentheses (`()
 Embed images using an exclamation mark (`!`), followed by square brackets (`[]`) for the alt text, and parentheses (`()`) for the image URL.
 
 ```markdown
-![OpenSauced Highlights](https://github.com/open-sauced/intro/blob/main/images/opensauced-highlights.png)
+![Create new repository on GitHub](../_assets/images/new-repo.png)
 ```
 
 #### 6. Blockquotes
@@ -280,4 +280,4 @@ git pull
 
 ## Translating the Intro to Open Source Course
 
-Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
+Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](i18n-guidelines.md) page.

@@ -36,13 +36,13 @@ This course is designed to provide you with a solid foundation in open source co
 
 This course is divided into several chapters, each designed to cover a specific aspect of open source collaboration:
 
-- **Intro:** We'll begin by setting the stage for your open source journey, discussing prerequisites, objectives, and expectations.
-- **What is Open Source?:** In this chapter, we'll explore the definition of open source and its history, providing you with a solid foundation for understanding the context of open source collaboration.
-- **Why Open Source?:** We'll delve into the benefits of open source, including access to knowledge, community, and skills development.
-- **Tools to be successful:** This chapter will introduce you to the essential tools for successful open source collaboration, including GitHub, Git, CodeSee, VS Code, and Discord.
-- **How to Contribute to Open Source:** In this chapter, we'll discuss the process of finding projects to work on, submitting contributions, onboarding in a new project, and what to expect after your contribution has been submitted.
-- **The Secret Sauce:** This chapter will reveal the strategies and techniques for getting started, gaining traction in your contributions, and developing your open source resume.
-- **Conclusion:** We'll wrap up the course with key takeaways and discuss the next steps in your open source journey.
+- **[What is Open Source?](what-is-open-source.md):** In this chapter, we'll explore the definition of open source and its history, providing you with a solid foundation for understanding the context of open source collaboration.
+- **[Why Open Source?](what-is-open-source.md):** We'll delve into the benefits of open source, including access to knowledge, community, and skills development.
+- **[Tools to be Successful](tools-to-be-successful.md):** This chapter will introduce you to the essential tools for successful open source collaboration, including GitHub, Git, VS Code, and Discord.
+- **[How to Contribute to Open Source](how-to-contribute-to-open-source.md):** In this chapter, we'll discuss the process of finding projects to work on, submitting contributions, onboarding in a new project, and what to expect after your contribution has been submitted.
+- **[The Secret Sauce](the-secret-sauce.md):** This chapter will reveal the strategies and techniques for getting started, gaining traction in your contributions, and developing your open source resume.
+- **[Types of Open Source Contributions](types-of-contributions.md):** This chapter will discuss the types of open source contributions.
+- **[Conclusion](conclusion.md):** We'll wrap up the course with key takeaways and discuss the next steps in your open source journey.
 
 Throughout this course, we'll provide examples and demos to help illustrate key concepts and provide hands-on opportunities for practice. When possible, we'll feature real-world open source projects and tools, such as [OpenSauced](https://opensauced.pizza/), to demonstrate how to apply the skills you've learned.
 
@@ -52,7 +52,7 @@ Use the examples and demos as a starting point, but don't be afraid to explore o
 
 ## Let's Get Started 🚀
 
-Now that we've set the stage, it's time to embark on your open source journey! In the next chapter, we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
+Now that we've set the stage, it's time to embark on your open source journey! In the [next chapter](what-is-open-source.md), we'll dive into the definition of open source and explore its history, laying the groundwork for a deeper understanding of open source collaboration. Let's get started!
 
 <footer>
     <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/intro.md">✏️ Edit this page</a>

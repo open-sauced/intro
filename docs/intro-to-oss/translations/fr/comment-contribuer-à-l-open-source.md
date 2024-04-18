@@ -177,7 +177,7 @@ Ces outils doivent être téléchargés et installés sur votre machine locale :
 
 Félicitations pour votre première contribution ! 🎉
 
-?> Si vous êtes prêt pour votre prochaine contribution, rendez-vous sur le [dépôt pizza-verse](https://github.com/open-sauced/pizza-verse) et suivez les directives de contribution pour votre prochaine contribution. Une fois que vous avez terminé, rendez-vous au le chapitre [La sauce secrète](./la-sauce-secrète.md) de ce cours.
+?> Si vous êtes prêt pour votre prochaine contribution, rendez-vous sur le [dépôt pizza-verse](https://github.com/open-sauced/pizza-verse) et suivez les directives de contribution pour votre prochaine contribution. Une fois que vous avez terminé, rendez-vous au le chapitre [La sauce secrète](la-sauce-secrète.md) de ce cours.
 
 ## Maintenir les branches à jour
 
