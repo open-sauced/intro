@@ -1,4 +1,6 @@
-Congratulations on your journey into open source! Here are some resources for further learning about getting started in open source:
+# Additional Resources
+
+On this page, you can find resources to help you learn further about contributing to open source:
 
 ## Guides and Tutorials
 
@@ -14,7 +16,7 @@ Congratulations on your journey into open source! Here are some resources for fu
 
 - [Open Source Friday](https://opensourcefriday.com/) by GitHub: A global movement that encourages individuals and organizations to contribute to open source every Friday. The website provides resources and guides on how to get started in open source and find projects to contribute to.
 
-## Blog posts
+## Blog Posts
 
 - [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 - [Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
