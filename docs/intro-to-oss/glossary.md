@@ -20,7 +20,7 @@ A core member is a contributor who has been granted additional privileges or res
 
 ## Docs
 
-This is an abbreviation for the word documentation. Its primary use is to explain how to implement and use the product. Documentation also provides people with information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
+Docs is an abbreviation for "documentation". It primarily explains how to implement and use a product or an open source project. It also provides information on how to contribute to the project and expectations for contributors. Documentation is often written using [Markdown](https://www.markdownguide.org/), a lightweight markup language.
 
 ## Fork
 
@@ -41,10 +41,6 @@ Markdown is a lightweight markup language commonly used for creating formatted t
 ## Merge
 
 Merging is the process of combining changes from one branch into another. When a pull request is accepted and merged, the changes made in the pull request become part of the main codebase.
-
-## Docs
-
-This is an abbreviation for the word documentation, a piece of text that provides information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
 
 ## Onboarding
 
