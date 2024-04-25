@@ -95,7 +95,7 @@ This dashboard allows you to view more detailed information on each repository, 
 
 ?> To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
 
-![repositories tab](../_assets/images/repos-insights.png)
+![repositories dashboard](../_assets/images/repos-insights.png)
 
 ##### Contributors Dashboard
 
@@ -107,7 +107,7 @@ You can select and add your contributors to a [Contributor Insight Page](https:/
 
 The "Activity" dashboard shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
 
-You can use the information in this tab to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
+You can use the information in this dashboard to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
 ![activity graph](../_assets/images/activity-repos-insights.png)
 
