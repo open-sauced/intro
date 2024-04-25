@@ -2,7 +2,7 @@
 
 - **Chapters**
 
-  - [Open Source Maintainer](intro.md)
+  - [Understanding Maintainership](intro.md)
   - [Setting Up Your Project](how-to-setup-your-project.md)
   - [Managing Issues and Pull Requests](issues-and-pull-requests.md)
   - [Effective Communication and Collaboration](communication-and-collaboration.md)
