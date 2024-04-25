@@ -151,6 +151,8 @@ Check out [this guide](https://docs.github.com/en/organizations/organizing-membe
 
 Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project; you're adding people to your community. Make sure you're adding people who align with your project's values and goals and who will be a positive addition to your community.
 
+In the [next chapter](metrics-and-analytics.md), you will learn how metrics and analytics are helpful for new maintainers.
+
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/your-team.md">✏️ Edit this page</a>
 </footer>

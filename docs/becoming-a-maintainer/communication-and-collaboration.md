@@ -207,6 +207,8 @@ You can say something like:
 >
 > I hope you find this feedback helpful. If there's anything I can do to support you, please let me know."
 
+In the [next chapter](maintaining-code-quality.md), we will talk about maintaining code quality and documentation.
+
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/communication-and-collaboration.md">✏️ Edit this page</a>
 </footer>

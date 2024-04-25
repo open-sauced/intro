@@ -90,6 +90,8 @@ A vital component of any open source project is its community. Building a strong
 
 If your project is on GitHub, you can use [GitHub Discussions](https://docs.github.com/en/discussions) as a way for contributors to post questions and facilitate conversations. Consider creating communities on Discord or Slack and holding office hours or other events like X Spaces to encourage engagement. At one point, as you grow your community, you will want to recruit moderators to help maintain the healthy environment you set up.
 
+The [next chapter](how-to-setup-your-project.md) will teach you how to set up an open source project.
+
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/intro.md">✏️ Edit this page</a>
 </footer>
