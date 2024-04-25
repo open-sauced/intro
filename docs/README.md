@@ -1,9 +1,14 @@
-<div align="center">
-  <img alt="OpenSauced" src="/_assets/images/logo-on-dark.png" width="300px">
-  <h1>🍕 Open Source Education Path with OpenSauced 🍕</h1>
+
+<div style="text-align: center; padding: 20px;">
+    <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 10px 0;">
+       The Open Source Education Path from
+ <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
+            OpenSauced
+        </span>    </h1>
 </div>
 
-Welcome to the Open Source Education Path with OpenSauced!
+
+**Welcome to the Open Source Education Path with OpenSauced!**
 
 Open source projects offer potential for personal growth, networking and collaboration, and meaningful community contributions. Because of this, there is a growing interest in open source and a need for resources to help people get started.
 
