@@ -89,3 +89,7 @@ If you are maintaining a larger project, consider using documentation builders l
 A vital component of any open source project is its community. Building a strong community can help accelerate the growth of your open source project. As new contributors discover and start to contribute to your project, you will want to create spaces for communication and collaboration.
 
 If your project is on GitHub, you can use [GitHub Discussions](https://docs.github.com/en/discussions) as a way for contributors to post questions and facilitate conversations. Consider creating communities on Discord or Slack and holding office hours or other events like X Spaces to encourage engagement. At one point, as you grow your community, you will want to recruit moderators to help maintain the healthy environment you set up.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/intro.md">✏️ Edit this page</a>
+</footer>

@@ -177,3 +177,7 @@ A lot of maintainers will choose to go with this security policy template:
 ### Dependabot
 
 Dependabot is a GitHub feature that monitors your project's dependencies and reports any possible security vulnerabilities. You can configure Dependabot to report issues or create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/issues-and-pull-requests.md">✏️ Edit this page</a>
+</footer>

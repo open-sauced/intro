@@ -204,3 +204,7 @@ To create a new project:
 Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
 
 ![GitHub Project Boards GIF](../_assets/gifs/create-github-project.gif)
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/how-to-setup-your-project.md">✏️ Edit this page</a>
+</footer>

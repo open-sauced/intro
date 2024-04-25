@@ -206,3 +206,7 @@ You can say something like:
 > - Another thing that could be helpful is running and testing the code locally before submitting a PR. This way, you'll be able to ensure that the code runs as it should. It can save you time from going back and forth on revisions.
 >
 > I hope you find this feedback helpful. If there's anything I can do to support you, please let me know."
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/communication-and-collaboration.md">✏️ Edit this page</a>
+</footer>

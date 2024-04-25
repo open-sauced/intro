@@ -123,3 +123,7 @@ Open source is a journey of learning, growth, and opportunity. So, building and 
 A positive community culture that encourages diverse contributions and fosters new talents can help you attract and retain top talent, stimulate innovation, and increase productivity. By creating a supportive environment where people feel valued, respected, and empowered to share their ideas, you can unlock the full potential of your contributors and achieve your goals.
 
 However, building a positive community culture is not a one-time task; it requires continuous effort and commitment from everyone involved. You must invest in promoting diversity and inclusion, encouraging collaboration and teamwork, and fostering a sense of belonging. Doing so can create a culture of trust and respect that enables your community and projects to thrive. In short, building and nurturing a welcoming and supportive community is the right thing to do and a great strategy to help your project and your community succeed.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/building-community.md">✏️ Edit this page</a>
+</footer>

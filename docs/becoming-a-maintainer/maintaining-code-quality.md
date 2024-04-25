@@ -75,3 +75,7 @@ Regularly reviewing your project's documentation is recommended to ensure it is 
 Another thing to consider in your review is running through the installation and setup instructions to ensure they are accurate and up to date. Are there any steps that still need to be included? Are there any steps that are no longer necessary? If so, update the documentation to reflect the project's current state.
 
 If you have a more complex project, consider adding diagrams or images to help explain the project's architecture. This can help contributors understand how the project is structured and make it easier for them to contribute.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintaining-code-quality.md">✏️ Edit this page</a>
+</footer>

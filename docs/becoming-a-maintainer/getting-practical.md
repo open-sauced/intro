@@ -372,3 +372,7 @@ You can learn more about how to create a successful project with OpenSauced with
 Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](maintainers-guestbook.md) page.
 
 ?> Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/getting-practical.md">✏️ Edit this page</a>
+</footer>

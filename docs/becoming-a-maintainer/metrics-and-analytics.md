@@ -168,3 +168,7 @@ The "Highlights" dashboard gives you a list of the highlights that the contribut
 ### Leveraging OpenSauced for Project Success
 
 Embracing metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the open source journey is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/metrics-and-analytics.md">✏️ Edit this page</a>
+</footer>

@@ -136,3 +136,7 @@ There are some benefits to having this file in your repository:
 - **Branch protection**
 
   If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break production.
+
+<footer>
+  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintainer-powerups.md">✏️ Edit this page</a>
+</footer>
