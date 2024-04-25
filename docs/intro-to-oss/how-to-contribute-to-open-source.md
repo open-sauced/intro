@@ -24,9 +24,9 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
    During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
 
-2. **"Explore" dashboard**: Once you've signed up, you'll be taken to your dashboard, where you can view your current projects, goals, and contributions. Clicking "Explore" in the header will take you to the "Explore" dashboard where you can browse projects based on your interests and skills.
+2. **Explore dashboard**: Once you've signed up, you'll be taken to your dashboard, where you can view your current projects, goals, and contributions. Clicking "Explore" in the header will take you to the Explore dashboard where you can browse projects based on your interests and skills.
 
-3. **Search for projects**: In the "Explore" dashboard, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
+3. **Search for projects**: In the Explore dashboard, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
    ![Explore dashboard](../_assets/images/opensauced-explore.png)
 

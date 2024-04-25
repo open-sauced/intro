@@ -110,7 +110,7 @@ You can utilize OpenSauced [Repository Insights](https://docs.opensauced.pizza/f
 
 You can list the projects you maintain on a Repository Insights Page. This feature allows you to monitor your projects' activity and identify contributors who actively contribute to and impact them.
 
-You can find more information about your contributors in the "Contributors" dashboard. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
+You can find more information about your contributors in the Contributors dashboard. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
 
 #### 2. Using Contributor Insights
 

@@ -62,14 +62,14 @@ An OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) se
 
 To create a Workspace:
 
-1. Log in to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, click the "Workspace" dashboard, and you should see your personal workspace.
+1. Log in to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, click the "Workspace" on the top bar, and you should see your personal workspace.
 2. Click on the "Edit" button. You'll be prompted to name your workspace and add repositories.
 3. Add your project's repository.
 4. Click "Create Workspace" to create your Workspace.
 
 ![Workspaces](../_assets/images/workspace.png)
 
-Within the repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
+Within the Repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
 
 - **Pull Requests**: This includes the total opened and merged pull requests for the repositories included in your workspace, as well as the velocity of pull requests being merged.
 - **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
@@ -99,13 +99,13 @@ This dashboard allows you to view more detailed information on each repository, 
 
 ##### Contributors Dashboard
 
-The "Contributors" dashboard allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
+The Contributors dashboard allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
 You can select and add your contributors to a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to learn more about them.
 
 ##### Activity Dashboard
 
-The "Activity" dashboard shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
+The Activity dashboard shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
 
 You can use the information in this dashboard to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
@@ -149,11 +149,11 @@ There are three tabs that provide you with more information on these repositorie
 
 ##### Overview Dashboard
 
-The "Overview" dashboard gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
+The Overview dashboard gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
 
 ##### Activity Dashboard
 
-The "Activity" dashboard gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+The Activity dashboard gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
@@ -161,7 +161,7 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 ##### Highlights Dashboard
 
-The "Highlights" dashboard gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
+The Highlights dashboard gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
 ?> To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
 

@@ -112,7 +112,7 @@ There are two ways to add repositories to your Repository Insight Page:
 
 ![Sync team GIF](../_assets/gifs/team-sync-insights.gif)
 
-From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the "Contributors" dashboard and creating a new Contributor Insight Page.
+From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the Contributors dashboard and creating a new Contributor Insight Page.
 
 ![Contributor insights list](../_assets/images/contributors-insights.png)
 
