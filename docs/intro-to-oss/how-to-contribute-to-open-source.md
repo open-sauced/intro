@@ -139,7 +139,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 ### Getting Started
 
-1. Create an issue by clicking the "New issue" button in the "Issues" tab and complete the form.
+1. Create an issue by clicking the "Issues" tab on the top bar and then the green "New issue" button. Click the "Get started" button to add contributors, complete the form, and click the "Submit new issue" button.
 2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
