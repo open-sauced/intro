@@ -27,7 +27,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/<your-username>/intro.git
+   git clone https://github.com/YOUR-USERNAME/intro.git
    ```
 
 3. Navigate to and open the project in your code editor.
