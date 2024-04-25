@@ -81,9 +81,9 @@ Here's what it will look like in GitHub:
 
 ### Specific Examples
 
-- Triage Team: Grant "Triage" permission to the triage team's primary repository.
-- Maintainer Team: Grant "Write" or "Maintain" permissions to repositories they actively contribute to.
-- Documentation Team: Grant "Write" permission to the documentation repository, potentially "Read" access to other relevant repositories.
+- **Triage Team**: Grant "Triage" permission to the triage team's primary repository.
+- **Maintainer Team**: Grant "Write" or "Maintain" permissions to repositories they actively contribute to.
+- **Documentation Team**: Grant "Write" permission to the documentation repository, potentially "Read" access to other relevant repositories.
 
 You can see some of the options here:
 
