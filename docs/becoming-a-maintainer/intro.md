@@ -82,7 +82,7 @@ For automated testing, you can set up an automated test suite that runs on every
 
 A good open source project will have a comprehensive set of documentation so all users will know how to run and maintain the project. In your project's README, you will want to have a basic overview of the project, along with how to set it up and how to contribute. As your project grows over time, you should keep your documentation up to date.
 
-If you are maintaining a larger project, consider using documentation builders like [Docusaurus](https://docusaurus.io/) or [docsify](https://docsify.js.org/#/) to host your documentation. Documentation also includes writing tutorials, building diagrams, or creating in-depth guides for the project.
+If you are maintaining a larger project, consider using documentation builders like [Docusaurus](https://docusaurus.io/), [Starlight](https://starlight.astro.build/), or [docsify](https://docsify.js.org/#/) to host your documentation. Documentation also includes writing tutorials, building diagrams, or creating in-depth guides for the project.
 
 ### Community Management
 
