@@ -10,13 +10,13 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
 		/>
-		<link rel="stylesheet" href="./styles/custom.css" />
 		<link
 			rel="stylesheet"
 			href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
 			title="docsify-darklight-theme"
 			type="text/css"
 		/>
+		<link rel="stylesheet" href="./styles/custom.css" />
 	</head>
 	<body>
 		<div id="app"></div>
@@ -50,13 +50,27 @@
 					hideOtherSidebarContent: false,
 				},
 				darklightTheme: {
-					bodyFontSize: "16px",
+					siteFont: "Inter",
+					bodyFontSize: "17px",
 					dark: {
-						accent: "#d44e70",
-						coverBackground: "#091a28",
+						background: "#11181C",
+						textColor: "#FFFDFA",
+						accent: "#ED6A32",
+						highlightColor: "#ED6A32",
+						codeBackgroundColor: "#050505",
+						borderColor: "#ED6A32",
+						sidebarSublink: "#ED6A32",
+						blockQuoteColor: "#FFE4AD",
+						coverBackground: "#11181C",
 					},
 					light: {
-						accent: "#4ed4d2",
+						background: "#FFFDFA",
+						accent: "#BD430F",
+						highlightColor: "#BD430F",
+						borderColor: "#BD430F",
+						sidebarSublink: "#BD430F",
+						codeBackgroundColor: "#F2F2F2",
+						blockQuoteColor: "#3B555E",
 						coverBackground: "#FFFDFA",
 					},
 				},
