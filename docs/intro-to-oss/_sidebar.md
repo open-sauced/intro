@@ -1,4 +1,4 @@
-![OpenSauced Logo](../_assets/images/logo-on-dark.png)
+[![OpenSauced Logo](../_assets/images/logo-on-dark.png)](https://opensauced.pizza/)
 
 - Intro to Open Source
   - [Intro](intro.md)
