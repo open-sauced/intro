@@ -61,7 +61,7 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 ## Getting Started
 
-To start the course, navigate to the [`intro` file](intro.md) in the repository or visit the [Becoming a Maintainer Course with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading!
+To start the course, navigate to the [`intro` file](intro.md) in the repository or visit the [Becoming a Maintainer Course with OpenSauced website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
 
 ?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
 
@@ -83,9 +83,9 @@ Happy learning and contributing!
 
 ## 🤝 Contributing to OpenSauced Becoming a Maintainer Repository
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](i18n-guidelines.md).
+If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](../i18n-guidelines.md).
 
 ## ⚖️ LICENSE
 

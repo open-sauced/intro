@@ -50,7 +50,7 @@ Setting up testing can help ensure that new contributions don't break existing f
 
 If some tests in the new pull request don't pass the checks, contact the contributor and ask them to fix the failing tests. Sometimes, the contributor might need help understanding why the tests are failing. In these cases, you need to work with the contributor to help them understand the problem and fix the failing tests.
 
-To learn more about testing, please refer to [this section](/maintainer-powerups.md#testing) in the "Maintainer Power Ups" chapter.
+To learn more about testing, please refer to [this section](maintainer-powerups.md#testing) in the "Maintainer Power Ups" chapter.
 
 ### Code Quality Check
 
@@ -58,7 +58,7 @@ It is important to check for code quality and good software engineering practice
 
 Many tools can help you check for code quality. You can set up linting for your project to ensure no syntax errors or style issues. You can also set up code scanning tools to check for security vulnerabilities and other issues in the codebase.
 
-To learn more about these tools, please refer to [this section](/maintainer-powerups.md#code-scanning-tools) in the "Maintainer Power Ups" chapter.
+To learn more about these tools, please refer to [this section](maintainer-powerups.md#code-scanning-tools) in the "Maintainer Power Ups" chapter.
 
 ### Branch Protection Rules
 

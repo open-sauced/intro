@@ -37,7 +37,7 @@ If you're using our starter idea, you could use the following:
 
 ## Adding Repository Documentation
 
-Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
+Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
 
 ### Creating Your README
 
@@ -369,6 +369,6 @@ You can learn more about how to create a successful project with OpenSauced with
 
 ---
 
-Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](./maintainers-guestbook.md) page.
+Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](maintainers-guestbook.md) page.
 
 ?> Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.

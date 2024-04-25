@@ -32,7 +32,7 @@ Consider these when you write or update your documentation:
 
 ### Issue Labels
 
-Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths. The "[How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)" chapter covers this topic in more deeply.
+Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths. The "[How to Handle Open Issues and Pull Requests](issues-and-pull-requests.md)" chapter covers this topic in more deeply.
 
 The `good first issue` label is perfect to be added to beginner-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. Consider pointing to the code blocks and providing step-by-step instructions to work on the solutions for this type of issue.
 
@@ -124,7 +124,7 @@ You can add a section in your README or contributing guidelines to inform about 
 
 #### Timeline
 
-Let your contributors know how long they can expect you to review a pull request or answer their questions. Inform them, for example, if you won't be available on weekends or after working hours. If you prefer, you can automate this message with an action. Read our "[Maintainer Power Ups](./maintainer-powerups.md)" chapter for more information about GitHub Actions.
+Let your contributors know how long they can expect you to review a pull request or answer their questions. Inform them, for example, if you won't be available on weekends or after working hours. If you prefer, you can automate this message with an action. Read our "[Maintainer Power Ups](maintainer-powerups.md)" chapter for more information about GitHub Actions.
 
 #### Boundaries
 
