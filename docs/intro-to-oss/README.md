@@ -60,7 +60,7 @@ As this is the beginning of your open source journey, we've also provided additi
 
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Intro to Open Source with OpenSauced on the website](https://intro.opensauced.pizza/#/intro-to-oss/) and start reading!
 
-Each chapter builds on the previous one, so we recommend reading them in order.
+?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to an open source project or building your project from scratch!
 
