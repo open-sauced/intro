@@ -1,3 +1,5 @@
+![OpenSauced Logo](../_assets/images/logo-on-dark.png)
+
 - **Chapters**
 
   - [Open Source Maintainer](intro.md)

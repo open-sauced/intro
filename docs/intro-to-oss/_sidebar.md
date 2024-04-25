@@ -1,3 +1,5 @@
+![OpenSauced Logo](../_assets/images/logo-on-dark.png)
+
 - Intro to Open Source
   - [Intro](intro.md)
   - [What is Open Source?](what-is-open-source.md)

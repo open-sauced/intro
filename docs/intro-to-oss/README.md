@@ -1,12 +1,11 @@
-<div align="center">
-  <br>
-  <img alt="OpenSauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Intro to Open Source with OpenSauced 🍕</h1>
-  <strong>The site provides course materials for OpenSauced's Intro to Open Source.</strong>
+<div align="center" style="text-align: center;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="../_assets/images/pizza-slice.png" width="100" height="100" style="margin-right: 5px;">
+        <h1 style="margin: 0 0;">Intro to Open Source with OpenSauced</h1>
+    </div>
 </div>
-<br>
 
-Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.
+*Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.*
 
 ## Language Support
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="OpenSauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
+  <img alt="OpenSauced" src="/_assets/images/logo-on-dark.png" width="300px">
   <h1>🍕 Open Source Education Path with OpenSauced 🍕</h1>
 </div>
 
