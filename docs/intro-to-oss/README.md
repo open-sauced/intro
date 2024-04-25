@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
     <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="../_assets/images/pizza-slice.png" width="100" height="100" style="margin-right: 5px;">
+        <img alt="" src="../_assets/images/pizza-slice.png" width="100" height="100" style="margin-right: 5px;">
         <h1 style="margin: 0 0;">Intro to Open Source with <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
             OpenSauced
         </span> </h1>
