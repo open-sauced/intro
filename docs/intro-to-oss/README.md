@@ -5,7 +5,7 @@
     </div>
 </div>
 
-*Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.*
+Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.
 
 ## Language Support
 

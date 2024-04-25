@@ -1,10 +1,9 @@
-<div align="center">
-  <br>
-  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Becoming a Maintainer with OpenSauced 🍕</h1>
-  <strong>The site provides course materials for OpenSauced's Becoming a Maintainer Course.</strong>
+<div align="center" style="text-align: center;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="../_assets/images/pizza-slice.png" width="100" height="100" style="margin-right: 5px;">
+        <h1 style="margin: 0 0;">Intro to Open Source with OpenSauced</h1>
+    </div>
 </div>
-<br>
 
 Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
 
