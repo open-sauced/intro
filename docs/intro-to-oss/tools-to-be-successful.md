@@ -68,10 +68,10 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 2. **Clone the repository**: Once you have created a new repository, you can clone it to your local machine by running the following command in your terminal or command prompt:
 
    ```
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
    ```
 
-   Replace "username" with your GitHub username and "repository-name" with `practice-repository`.
+   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with `practice-repository`.
 
 3. **Access your repository in your code editor**: For this example, we're using VS Code. Open VS Code, navigate to the file tab, and then open your `practice-repository`.
 

@@ -1,5 +1,7 @@
+[![OpenSauced Logo](../_assets/images/logo-on-dark.png)](https://opensauced.pizza/)
+
 - Intro to Open Source
-  - [Intro](intro.md)
+  - [Introduction to Open Source](intro.md)
   - [What is Open Source?](what-is-open-source.md)
   - [Why Open Source?](why-open-source.md)
   - [Tools to be Successful](tools-to-be-successful.md)

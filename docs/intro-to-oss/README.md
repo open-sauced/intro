@@ -1,10 +1,9 @@
-<div align="center">
-  <br>
-  <img alt="OpenSauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Intro to Open Source with OpenSauced 🍕</h1>
-  <strong>The site provides course materials for OpenSauced's Intro to Open Source.</strong>
+<div align="center" style="text-align: center;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 25px 0;">Intro to Open Source with <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;"> OpenSauced
+        </span> </h1>
+    </div>
 </div>
-<br>
 
 Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.
 
@@ -59,7 +58,7 @@ As this is the beginning of your open source journey, we've also provided additi
 
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Intro to Open Source with OpenSauced on the website](https://intro.opensauced.pizza/#/intro-to-oss/) and start reading!
 
-Each chapter builds on the previous one, so we recommend reading them in order.
+?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to an open source project or building your project from scratch!
 

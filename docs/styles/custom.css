@@ -1,31 +1,25 @@
-nav>ul>li {
-	padding-bottom: .2em;
+a:hover {
+	text-decoration: underline;
 }
 
-nav>ul>li>ul>li {
-	padding-top: .2em;
+.token.property {
+	color: #205D3B;
 }
 
-.app-nav>ul>li>ul>li {
-	color: #091a28;
+.token.punctuation {
+	color: #205D3B;
 }
 
-.app-nav>ul>li:nth-child(3)>ul {
-	padding-right: 1.2em;
+.markdown-section p.tip code {
+	background-color: transparent;
 }
 
-.sidebar-nav>ul>li:nth-child(1) {
-	font-size: 1.2rem;
+.app-nav li ul {
+	background: #FFFDFA;
+	color: #11181C;
+	padding-right: 1.5em;
 }
 
-footer {
-	margin-top: 3em;
-}
-
-.docsify-pagination-container {
-	margin-top: 0 !important;
-}
-
-.pagination-item-title {
-	font-size: 1.3rem !important;
+section.cover p {
+	padding: 0 5em;
 }

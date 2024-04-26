@@ -15,7 +15,7 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 - If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
 
-- Do you have an idea and want to add a section or a chapter to this course? Or do you spot a bug or have an idea for enhancing our course? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag the `@open-sauced/docs` team in the comment to notify them.
+- Do you have an idea and want to add a section or a chapter to a course? Or do you spot a bug or have an idea for enhancing any of our courses? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag the `@open-sauced/docs` team in the comment to notify them.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
@@ -27,7 +27,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/<your-username>/intro.git
+   git clone https://github.com/YOUR-USERNAME/intro.git
    ```
 
 3. Navigate to and open the project in your code editor.
@@ -120,11 +120,13 @@ Live Server extension allows you to launch a local development server and previe
 
 ## Working with the Content
 
-The contents of this course are written in [Markdown](https://www.markdownguide.org/). Please read the "[Using Markdown for This Project](#using-markdown-for-this-project)" section for details about how to use Markdown in this project.
+The contents of our courses are written in [Markdown](https://www.markdownguide.org/), a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
+
+Please read the "[Using Markdown for This Project](#using-markdown-for-this-project)" section for details about how to use it in this project.
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the "[Glossary](./intro-to-oss/glossary.md)" chapter, ensure the definitions are added in **alphabetical order**.
+If you add definitions to the "Glossary" chapter in the [Intro to Open Source](./intro-to-oss/glossary.md) or [Becoming a Maintainer](./becoming-a-maintainer/glossary.md) course, ensure the definitions are added **alphabetically**.
 
 ### Adding a New Section to a Chapter
 
@@ -134,7 +136,7 @@ You can add a new chapter if it's more suitable for a standalone section.
 
 ### Adding a New Chapter and Adding it to the Sidebar
 
-In this section, we will walk you through how to add a new chapter to our Intro to Open Source course and add it to the sidebar.
+In this section, we will walk you through adding a new chapter to any of our courses and adding it to the sidebar.
 
 #### Adding a New Chapter
 
@@ -191,15 +193,9 @@ After your contribution is accepted, your new chapter will become part of our co
 
 ## Using Markdown for This Project
 
-We have a [style guide](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) to use Markdown for our projects. So, when contributing to this project, you must follow this convention.
+When contributing to this project, you must follow our Markdown convention below:
 
-### Markdown Basics
-
-Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
-
-Below are some Markdown elements that you will commonly use in this project with examples, following our style guide:
-
-#### 1. Headings
+### 1. Headings
 
 Use the hash (`#`) symbol to create headings (titles and subtitles). There are six levels of section headings, and the number of symbols indicates the heading level.
 
@@ -209,7 +205,7 @@ Use the hash (`#`) symbol to create headings (titles and subtitles). There are s
 ## Heading 2
 ```
 
-#### 2. Text Formatting
+### 2. Text Formatting
 
 - Make text bold by enclosing it with double asterisks (`**`).
 - Make text italic by enclosing it with single underscores (`_`).
@@ -223,7 +219,7 @@ _This is an italic text._
 This is an `inline code`.
 ```
 
-#### 3. Lists
+### 3. Lists
 
 - Create ordered lists using numbers followed by a period (`1.`, `2.`, etc.).
 - Create unordered lists using hyphens (`-`).
@@ -236,15 +232,15 @@ This is an `inline code`.
 - Unordered Item 2
 ```
 
-#### 4. Links
+### 4. Links
 
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
-[Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
+[Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/#/)
 ```
 
-#### 5. Images
+### 5. Images
 
 Embed images using an exclamation mark (`!`), followed by square brackets (`[]`) for the alt text, and parentheses (`()`) for the image URL.
 
@@ -252,7 +248,7 @@ Embed images using an exclamation mark (`!`), followed by square brackets (`[]`)
 ![Create new repository on GitHub](../_assets/images/new-repo.png)
 ```
 
-#### 6. Blockquotes
+### 6. Blockquotes
 
 Create blockquotes using the greater-than symbol (`>`).
 
@@ -260,7 +256,7 @@ Create blockquotes using the greater-than symbol (`>`).
 > This is a blockquote.
 ```
 
-#### 7. Code Blocks
+### 7. Code Blocks
 
 Create code blocks using triple backticks (` ``` `) for fenced code blocks and specify a language next to the backticks before the fenced code block to highlight the syntax.
 
@@ -278,6 +274,6 @@ git pull
 - Use code blocks to highlight code snippets or configuration examples.
 - Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
-## Translating the Intro to Open Source Course
+## Translating the Courses
 
-Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](i18n-guidelines.md) page.
+Translating our Intro to Open Source and Becoming a Maintainer courses helps make them more accessible to a broader audience. If you want to translate one of these courses, please read our [🌐 i18n Guidelines](i18n-guidelines.md) page.

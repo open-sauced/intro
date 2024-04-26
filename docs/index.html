@@ -3,20 +3,20 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title>OpenSauced</title>
-		<link rel="icon" href="./_assets/images/pizza-slice.png" />
+		<link rel="icon" href="./_assets/images/slice-Gradient-White.png" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta name="description" content="Description" />
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
 		/>
-		<link rel="stylesheet" href="./styles/custom.css" />
 		<link
 			rel="stylesheet"
 			href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
 			title="docsify-darklight-theme"
 			type="text/css"
 		/>
+		<link rel="stylesheet" href="./styles/custom.css" />
 	</head>
 	<body>
 		<div id="app"></div>
@@ -24,15 +24,19 @@
 			window.$docsify = {
 				name: "",
 				repo: "open-sauced/intro",
-				themeColor: "#ED6A32",
+				themeColor: "#25c2a0",
 				loadSidebar: "_sidebar.md",
 				loadNavbar: "_navbar.md",
 				mergeNavbar: true,
 				alias: {
 					// courses sidebar
 					"/.*/intro-to-oss/_sidebar.md": "/intro-to-oss/_sidebar.md",
+					"/.*/becoming-a-maintainer/_sidebar.md":
+						"/becoming-a-maintainer/_sidebar.md",
 					// courses navbar
 					"/.*/intro-to-oss/_navbar.md": "/intro-to-oss/_navbar.md",
+					"/.*/becoming-a-maintainer/_navbar.md":
+						"/becoming-a-maintainer/_navbar.md",
 				},
 				relativePath: true,
 				subMaxLevel: 3,
@@ -46,14 +50,28 @@
 					hideOtherSidebarContent: false,
 				},
 				darklightTheme: {
-					bodyFontSize: "16px",
+					siteFont: "Inter",
+					bodyFontSize: "17px",
 					dark: {
-						accent: "#d44e70",
-						coverBackground: "#091a28",
+						background: "#2F3239",
+						textColor: "#FFFDFA",
+						accent: "#25c2a0",
+						highlightColor: "#25c2a0",
+						codeBackgroundColor: "#050505",
+						borderColor: "#25c2a0",
+						sidebarSublink: "#ffffff",
+						blockQuoteColor: "#FFE4AD",
+						coverBackground: "#11181C",
 					},
 					light: {
-						accent: "#4ed4d2",
-						coverBackground: "#FFFDFA",
+						background: "#FFFFFF",
+						accent: "#205d3b",
+						highlightColor: "#205d3b",
+						borderColor: "#205d3b",
+						sidebarSublink: "#141414",
+						codeBackgroundColor: "#F2F2F2",
+						blockQuoteColor: "#3B555E",
+						coverBackground: "#FFFFFF",
 					},
 				},
 				auto2top: true,

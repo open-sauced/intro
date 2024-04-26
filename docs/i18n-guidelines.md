@@ -1,21 +1,29 @@
 # 🌐 i18n Guidelines
 
-Welcome to our i18n Guidelines! We appreciate your interest in translating our Intro to Open Source course.
+Welcome to our i18n Guidelines! We appreciate your interest in translating our courses.
 
-At the moment, we have the course in the following languages:
+## Translations
+
+At the moment, we have the courses in the following languages:
+
+### Intro to Open Source Course
 
 - [English](./intro-to-oss/README.md)
 - [French](./intro-to-oss/translations/fr/README.md)
 - Brazilian Portuguese — work in progress
 
+### Becoming a Maintainer Course
+
+- [English](./becoming-a-maintainer/README.md)
+
 ## How can I Contribute?
 
 There are two types of i18n contributions that we accept:
 
-1. Translate our Intro to Open Source course.
+1. Translate our Intro to Open Source or Becoming a Maintainer course.
 2. Review pull requests (PRs) and translations.
 
-### Translate the Intro to Open Source Course
+### Translate the Courses
 
 We have two types of translations:
 
@@ -105,4 +113,6 @@ When it comes to reviewing a translation PR, ask yourself the following question
 - Are there links that could be localized and translated? (e.g., Wikipedia and MDN links)
 - Is the translation correctly written following the translated language's norms and practices?
 
-When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers. (“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.)
+When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers.
+
+?> “LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.
