@@ -1,7 +1,7 @@
 
 <div style="text-align: center; padding: 20px;">
     <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 10px 0;">
-       The Open Source Education Path from
+       The Open Source Education Path with
  <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
             OpenSauced
         </span>    </h1>
