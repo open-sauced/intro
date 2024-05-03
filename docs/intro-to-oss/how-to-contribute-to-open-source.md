@@ -42,7 +42,7 @@ When you're interested in contributing to a new open source project, it's import
 
 Here are some tips to help you onboard successfully:
 
-1. **Read the project's documentation**: Read the README file, Contributing Guidelines, and Code of Conduct to familiarize yourself with the project. This will help you understand the project's goals, requirements, and expectations for contributors.
+1. **Read the project's documentation**: Read the README file, contributing guidelines, and code of conduct to familiarize yourself with the project. They will help you understand the project's goals, requirements, and expectations for contributors.
 
 2. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
 
@@ -64,7 +64,7 @@ Start by reading the README and familiarizing yourself with the project. A READM
 
 Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. You can find these guidelines in the CONTRIBUTING file at the root of the project.
 
-Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. Here is the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) as an example.
+Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. You can take a look at the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) as an example.
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
