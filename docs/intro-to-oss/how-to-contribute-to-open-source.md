@@ -56,9 +56,19 @@ Here are some tips to help you onboard successfully:
 
 So, you've onboarded yourself in the project. Now, you can prepare to contribute by following these steps:
 
-### 1. Read the Contributing Guidelines
+### 1. Read the Documentation
 
-Investigate how the project receives contributions by reading the CONTRIBUTING file. You want to ensure that you follow the project's contributing rules.
+We touched on this briefly in the previous section, but it's worth emphasizing: **Thoroughly reading the project's documentation before you start contributing is essential**.
+
+Start by reading the README and familiarizing yourself with the project. A README contains an introduction to the project, such as how it works, its purpose, the tech stacks it uses, and how to set up and run the local environment.
+
+Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. You can find these guidelines in the CONTRIBUTING file at the root of the project.
+
+Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. Here is the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) as an example.
+
+Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
+
+!> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
 
 ### Find or Create an Issue
 
