@@ -68,11 +68,15 @@ Every project has different contributing rules. These rules are written in the c
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
-!> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+?> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
 
 ### Find or Create an Issue
 
-Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on. Check if it aligns with the project's roadmap and create an issue. This could include documentation updates, bug fixes, content changes, and more.
+After reading the documentation, you can start looking for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. When choosing which issues to work on, consider your interests, skill level, and available time. 
+
+If you find a bug or have ideas for a feature or improvement of the project or its documentation, you can create an issue to report the bug or propose your idea.
+
+In open source, it is crucial to accompany a pull request with an issue. Issues can be seen as proposals for changes and the history of the project's development. Maintainers might reject your pull request if it's not aligned with the project's goal or is not a priority. So, working on an existing issue or creating an issue before making a pull request can save you time working on something unnecessary for the project and prevent your pull request from getting rejected. And remember, waiting for the maintainer to finish triaging your issue would be best before you work on it.
 
 ### Ask to be Assigned the Issue
 
