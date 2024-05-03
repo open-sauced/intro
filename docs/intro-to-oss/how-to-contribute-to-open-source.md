@@ -70,7 +70,7 @@ Some projects also have conventions, such as code and Markdown style, how to wri
 
 ?> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
 
-### Find or Create an Issue
+### 2. Find or Create an Issue
 
 After reading the documentation, you can start looking for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. When choosing which issues to work on, consider your interests, skill level, and available time. 
 
@@ -78,11 +78,13 @@ If you find a bug or have ideas for a feature or improvement of the project or i
 
 In open source, it is crucial to accompany a pull request with an issue. Issues can be seen as proposals for changes and the history of the project's development. Maintainers might reject your pull request if it's not aligned with the project's goal or is not a priority. So, working on an existing issue or creating an issue before making a pull request can save you time working on something unnecessary for the project and prevent your pull request from getting rejected. And remember, waiting for the maintainer to finish triaging your issue would be best before you work on it.
 
-### Ask to be Assigned the Issue
+### 3. Ask to be Assigned to an Issue
 
-When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements.
+Certain projects may have specific rules regarding the assignment of issues. Some projects may require you to ask permission before working on an issue, while others allow you to assign yourself to an issue. That's why reviewing the project's contributing guidelines is essential to knowing how to claim issues.
 
-If there are no directions in the CONTRIBUTING file, you can leave a comment on the issue, "Can I please be assigned this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
+If the contributing guidelines do not state how to claim an issue, you can ask the maintainers to assign it to you. This will ensure no duplication and that your contribution is aligned with the project's goals and requirements.
+
+You can leave a comment on the issue, like, "Can I please be assigned to this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
 
 ![Issue assignees section on GitHub](../_assets/images/issue-assign.png)
 
