@@ -86,7 +86,7 @@ In open source, it is crucial to accompany a pull request with an issue for seve
 
 - **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar feature exists, if the proposed change aligns with the project's scope, or if alternative approaches exist. This helps you avoid wasting time and effort working on something that may not be accepted or conflict with existing plans.
 
-- **Avoiding spam pull requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and damage your reputation.
+- **Avoiding Spam Pull Requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and damage your reputation.
 
 ### 3. Ask to be Assigned to an Issue
 
