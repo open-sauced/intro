@@ -78,15 +78,15 @@ Issues can be seen as proposals for changes. If you find a bug or have ideas for
 
 In open source, it is crucial to accompany a pull request with an issue for several reasons:
 
-- **Context and Discussion**: Giving context to your proposal and discussing it with the maintainers can help to ensure that the proposed change is aligned with the project's goals, architecture, and roadmap. This discussion helps set clear expectations and increases the likelihood of your pull request being accepted.
+- **Context and Discussion**: Giving context to your proposal and discussing it with the maintainers can help to ensure that the proposed change is aligned with the project's goals, architecture, and roadmap. This discussion helps set clear expectations and increases the chance of your pull request being accepted.
 
 - **Documentation and Tracking**: Issues act as a form of documentation, providing a historical record of the identified problem, proposed solution, and decision-making process behind the change. They help maintainers track the project's progress and prioritize tasks. At the same time, they also allow other contributors to understand the context and rationale behind the changes introduced in the pull request.
 
-- **Reduced Back-and-Forth Communication**: By discussing and agreeing upon the proposed changes in advance through the issue, there is less likelihood of back-and-forth communication during the pull request review process. This saves time for both yours and maintainers.
+- **Reduced Back-and-Forth Communication**: By discussing and agreeing upon the proposed changes in advance through the issue, there is less likelihood of back-and-forth communication during the pull request review process. This can save both your time and the maintainers' time.
 
-- **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar feature already exists, if the proposed change aligns with the project's scope, or if alternative approaches exist. This helps you avoid wasting time and effort working on something that may not be accepted or conflict with existing plans.
+- **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar feature exists, if the proposed change aligns with the project's scope, or if alternative approaches exist. This helps you avoid wasting time and effort working on something that may not be accepted or conflict with existing plans.
 
-- **Avoiding spam pull requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. It would be a disadvantage for you if your pull request is marked as spam because it will most likely be rejected, you will lose the opportunity to contribute to the same project, and it can damage your reputation.
+- **Avoiding spam pull requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and damage your reputation.
 
 ### 3. Ask to be Assigned to an Issue
 
