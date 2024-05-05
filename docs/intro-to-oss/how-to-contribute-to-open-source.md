@@ -58,13 +58,13 @@ So, you've onboarded yourself in the project. Now, you can prepare to contribute
 
 ### 1. Read the Documentation
 
-We touched on this briefly in the previous section, but it's worth emphasizing: **Thoroughly reading the project's documentation before you start contributing is essential**.
+We touched on this briefly in the previous section. But it's worth revisiting because it's important to read the project's documentation thoroughly before you start contributing.
 
 Start by reading the README and familiarizing yourself with the project. A README contains an introduction to the project, such as how it works, its purpose, the tech stacks it uses, and how to set up and run the local environment.
 
-Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. You can find these guidelines in the CONTRIBUTING file at the root of the project.
+Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. These guidelines are in the CONTRIBUTING file at the project's root. If the file is unavailable, you can find them in the README.
 
-Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. You can take a look at the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) as an example.
+Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. For example, you can look at the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
@@ -74,19 +74,19 @@ Some projects also have conventions, such as code and Markdown style, how to wri
 
 After reading the documentation, you can start looking for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. When choosing which issues to work on, consider your interests, skill level, and available time.
 
-Issues can be seen as proposals for changes. If you find a bug or have ideas for a feature or improvement of the project or its documentation, you can create an issue to report the bug or propose your idea.
+Issues can be seen as proposals for changes. Suppose you want to report a bug or have ideas for a feature or improvement of the project or its documentation and want to propose them. In that case, you can create an issue to propose your intention.
 
 In open source, it is crucial to accompany a pull request with an issue for several reasons:
 
 - **Context and Discussion**: Giving context to your proposal and discussing it with the maintainers can help to ensure that the proposed change is aligned with the project's goals, architecture, and roadmap. This discussion helps set clear expectations and increases the chance of your pull request being accepted.
 
-- **Documentation and Tracking**: Issues act as a form of documentation, providing a historical record of the identified problem, proposed solution, and decision-making process behind the change. They help maintainers track the project's progress and prioritize tasks. At the same time, they also allow other contributors to understand the context and rationale behind the changes introduced in the pull request.
+- **Documentation and Tracking**: Issues act as a form of documentation, providing a historical record of the identified problem, proposed solution, and decision-making process behind the change. They help maintainers track the project's progress and prioritize tasks. At the same time, they also allow other contributors to understand the context and reasons behind the changes introduced in the pull request.
 
-- **Reduced Back-and-Forth Communication**: By discussing and agreeing upon the proposed changes in advance through the issue, there is less likelihood of back-and-forth communication during the pull request review process. This can save both your time and the maintainers' time.
+- **Reducing Back-and-Forth Communication**: Discussing and agreeing upon the proposed changes in advance through the issue can reduce the back-and-forth communication during the pull request review process. This can save both your time and the maintainers' time.
 
-- **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar feature exists, if the proposed change aligns with the project's scope, or if alternative approaches exist. This helps you avoid wasting time and effort working on something that may not be accepted or conflict with existing plans.
+- **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar issue exists, if the proposed change aligns with the project's goals, or if alternative approaches are preferable. This helps you avoid wasting time and effort working on something that may not be accepted because it conflicts with existing plans.
 
-- **Avoiding Spam Pull Requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and damage your reputation.
+- **Avoiding Spam Pull Requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and potentially damage your reputation.
 
 ### 3. Ask to be Assigned to an Issue
 
