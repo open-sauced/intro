@@ -6,3 +6,4 @@
 - Languages
   - [:us: English](/intro-to-oss/)
   - [:fr: French](/intro-to-oss/translations/fr/)
+  - [:es: Spanish ](/intro-to-oss/translations/es/)
