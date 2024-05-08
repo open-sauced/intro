@@ -11,8 +11,8 @@
 
 Al igual que la pizza, el Open Source debe compartirse con todos. Proporcionamos y mantenemos traducciones en los siguientes idiomas como nuestras traducciones oficiales:.
 
-- [Inglés](/README.md)
-- [Francés](/translations/fr/README.md)
+- [Inglés](../../README.md)
+- [Francés](../../translations/fr/README.md)
 
 Para traducciones en otros idiomas mantenidas por nuestra comunidad, vaya a la sección [Traducciones de la comunidad](../../../community-translations.md).
 
