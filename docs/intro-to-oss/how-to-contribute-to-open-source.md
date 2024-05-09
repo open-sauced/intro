@@ -42,7 +42,7 @@ When you're interested in contributing to a new open source project, it's import
 
 Here are some tips to help you onboard successfully:
 
-1. **Read the project's documentation**: Read the README file, Contributing Guidelines, and Code of Conduct to familiarize yourself with the project. This will help you understand the project's goals, requirements, and expectations for contributors.
+1. **Read the project's documentation**: Read the README file, contributing guidelines, and code of conduct to familiarize yourself with the project. They will help you understand the project's goals, requirements, and expectations for contributors.
 
 2. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
 
@@ -56,15 +56,47 @@ Here are some tips to help you onboard successfully:
 
 So, you've onboarded yourself in the project. Now, you can prepare to contribute by following these steps:
 
-1. **Read the Contributing Guidelines**: Investigate how the project receives contributions by reading the CONTRIBUTING file. You want to ensure that you follow the project's contributing rules.
+### 1. Read the Documentation
 
-2. **Find or create an issue**: Look for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. Alternatively, identify a feature or improvement you'd like to work on. Check if it aligns with the project's roadmap and create an issue. This could include documentation updates, bug fixes, content changes, and more.
+We touched on this briefly in the previous section. But it's worth revisiting because it's important to read the project's documentation thoroughly before you start contributing.
 
-3. **Ask to be assigned the issue**: When making your first contribution to a project, it's a good idea to ask the maintainers to assign the issue to you. This will ensure that you're not duplicating work and that your contribution is aligned with the project's goals and requirements.
+Start by reading the README and familiarizing yourself with the project. A README contains an introduction to the project, such as how it works, its purpose, the tech stacks it uses, and how to set up and run the local environment.
 
-   If there are no directions in the CONTRIBUTING file, you can leave a comment on the issue, "Can I please be assigned this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
+Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. These guidelines are in the CONTRIBUTING file at the project's root. If the file is unavailable, you can find them in the README.
 
-   ![Issue assignees section on GitHub](../_assets/images/issue-assign.png)
+Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. For example, you can look at the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
+
+Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
+
+?> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+
+### 2. Find or Create an Issue
+
+After reading the documentation, you can start looking for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. When choosing which issues to work on, consider your interests, skill level, and available time.
+
+Issues can be seen as proposals for changes. Suppose you want to report a bug or have ideas for a feature or improvement of the project or its documentation and want to propose them. In that case, you can create an issue to propose your intention.
+
+In open source, it is crucial to accompany a pull request with an issue for several reasons:
+
+- **Context and Discussion**: Giving context to your proposal and discussing it with the maintainers can help to ensure that the proposed change is aligned with the project's goals, architecture, and roadmap. This discussion helps set clear expectations and increases the chance of your pull request being accepted.
+
+- **Documentation and Tracking**: Issues act as a form of documentation, providing a historical record of the identified problem, proposed solution, and decision-making process behind the change. They help maintainers track the project's progress and prioritize tasks. At the same time, they also allow other contributors to understand the context and reasons behind the changes introduced in the pull request.
+
+- **Reducing Back-and-Forth Communication**: Discussing and agreeing upon the proposed changes in advance through the issue can reduce the back-and-forth communication during the pull request review process. This can save both your time and the maintainers' time.
+
+- **Avoiding Unnecessary Work**: Creating an issue allows maintainers to provide early feedback on the proposed change. They can advise if a similar issue exists, if the proposed change aligns with the project's goals, or if alternative approaches are preferable. This helps you avoid wasting time and effort working on something that may not be accepted because it conflicts with existing plans.
+
+- **Avoiding Spam Pull Requests**: Unsolicited (pull requests without an issue) and unwanted pull requests may be marked as spam because they're seen as introducing irrelevant, low-quality, or harmful changes to the project's codebase. Having your pull request marked as spam can lead to rejection, lost contribution opportunities, and potentially damage your reputation.
+
+### 3. Ask to be Assigned to an Issue
+
+Certain projects may have specific rules regarding the assignment of issues. Some projects may require you to ask permission before working on an issue, while others allow you to assign yourself to an issue. That's why reviewing the project's contributing guidelines is essential to knowing how to claim issues.
+
+If the contributing guidelines do not state how to claim an issue, you can ask the maintainers to assign it to you. This will ensure no duplication and that your contribution is aligned with the project's goals and requirements.
+
+You can leave a comment on the issue, like, "Can I please be assigned to this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
+
+![Issue assignees section on GitHub](../_assets/images/issue-assign.png)
 
 ## Contribution Workflow
 
@@ -139,7 +171,15 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 ### Getting Started
 
-1. Create an issue by clicking the "Issues" tab on the top bar and then the green "New issue" button. Click the "Get started" button to add contributors, complete the form, and click the "Submit new issue" button.
+1. Create an issue by following these instructions:
+   - Click the "Issues" tab on the top bar.
+   - Click the green "New issue" button at the top right.
+   - Click the "Get started" button to add contributors.
+   - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
+   - Complete the form. You can refer to the example in each textarea to fill them in, as shown in the screenshot below with the red line.
+
+      ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+   - Click the "Submit new issue" button.
 2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
