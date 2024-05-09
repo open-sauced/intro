@@ -42,7 +42,7 @@ Cuando esté interesado en contribuir a un nuevo proyecto Open Source, es import
 
 A continuación se ofrecen algunos consejos que le ayudarán a incorporarse con éxito:
 
-1. **Lea la documentación del proyecto**: lea el archivo README, las pautas de contribución y el código de conducta para familiarizarse con el proyecto. Esto le ayudará a comprender los objetivos, requisitos y expectativas del proyecto para los contribuyentes.
+1. **Lea la documentación del proyecto**: lea el archivo README, las pautas de contribución y el código de conducta para familiarizarse con el proyecto. Le ayudarán a comprender los objetivos, requisitos y expectativas del proyecto para los contribuyentes.
 
 2. **Empiece poco a poco**: cuando es nuevo en un proyecto, es una buena idea comenzar con tareas pequeñas y manejables, como corregir errores, agregar pruebas o actualizar documentación. Esto le ayudará a familiarizarse con la base del código y el flujo de trabajo de desarrollo sin sentirse abrumado.
 
@@ -56,15 +56,47 @@ A continuación se ofrecen algunos consejos que le ayudarán a incorporarse con 
 
 Entonces, te has incorporado al proyecto. Ahora puedes prepararte para contribuir siguiendo estos pasos:
 
-1. **Lea las Pautas de contribución**: investigue cómo el proyecto recibe contribuciones leyendo el archivo CONTRIBUCIÓN. Desea asegurarse de seguir las reglas de contribución del proyecto.
+### 1. Lea la documentación
 
-2. **Busque o cree un problema**: busque problemas etiquetados como "buen primer problema" o "apto para principiantes" que sean adecuados para su nivel de habilidad. Alternativamente, identifique una característica o mejora en la que le gustaría trabajar. Compruebe si se alinea con la hoja de ruta del proyecto y cree un problema. Esto podría incluir actualizaciones de documentación, correcciones de errores, cambios de contenido y más.
+Tocamos esto brevemente en la sección anterior. Pero vale la pena volver a visitarlo porque es importante leer detenidamente la documentación del proyecto antes de comenzar a contribuir.
 
-3. **Solicite que se le asigne el problema**: al realizar su primera contribución a un proyecto, es una buena idea pedirles a los mantenedores que le asignen el problema. Esto asegurará que no duplique el trabajo y que su contribución esté alineada con los objetivos y requisitos del proyecto.
+Comience leyendo el README y familiarizándose con el proyecto. Un README contiene una introducción al proyecto, como cómo funciona, su propósito, el stack tecnológico que utiliza y cómo configurar y ejecutar el entorno local.
 
-   Si no hay instrucciones en el archivo CONTRIBUTING, puede dejar un comentario sobre el problema: "¿Me pueden asignar este problema?" Cuando el mantenedor lo haya asignado, notará que su nombre de usuario ahora se encuentra en la sección "Asignados".
+Una vez que esté familiarizado con el proyecto y esté interesado en contribuir, no se lance sin leer las pautas de contribución. Estas pautas se encuentran en el archivo CONTRIBUTING en la raíz del proyecto. Si el archivo no está disponible, puede encontrarlo en el archivo README.
 
-   ![Sección de asignatarios de problemas en GitHub](../../../_assets/images/issue-assign.png)
+Cada proyecto tiene diferentes reglas de contribución. Estas reglas están escritas en las pautas de contribución, que contienen información sobre cómo reclamar y trabajar con problemas, crear solicitudes de extracción y métodos de comunicación preferibles. Por ejemplo, puede consultar las [Pautas de contribución de OpenSauced](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
+
+Algunos proyectos también tienen convenciones, como código y estilo Markdown, cómo escribir mensajes de confirmación, solicitudes de extracción y títulos de problemas, etc. Puede encontrarlos en su guía de estilo o en sus pautas de contribución.
+
+?> Lea atentamente las pautas de contribución para comprender cómo el proyecto recibe contribuciones. Seguir estas pautas hará que su proceso de contribución sea más sencillo.
+
+### 2. Buscar o crear un problema
+
+Después de leer la documentación, puede comenzar a buscar problemas etiquetados como "buen primer problema" o "apto para principiantes" que sean adecuados para su nivel de habilidad. Al elegir en qué problema trabajar, considere sus intereses, nivel de habilidad y tiempo disponible.
+
+Los problemas pueden verse como propuestas de cambios. Supongamos que desea informar un error o tiene ideas para una característica o mejora del proyecto o su documentación y desea proponerlas. En ese caso, puedes crear un problema para proponer tu intención.
+
+En open source, es crucial acompañar una solicitud de extracción con un problema por varias razones:
+
+- **Contexto y discusión**: Dar contexto a su propuesta y discutirla con los mantenedores puede ayudar a garantizar que el cambio propuesto esté alineado con los objetivos, la arquitectura y la hoja de ruta del proyecto. Esta discusión ayuda a establecer expectativas claras y aumenta las posibilidades de que se acepte su solicitud de extracción.
+
+- **Documentación y Seguimiento**: Los problemas actúan como una forma de documentación, proporcionando un registro histórico del problema identificado, la solución propuesta y el proceso de toma de decisiones detrás del cambio. Ayudan a los mantenedores a seguir el progreso del proyecto y priorizar las tareas. Al mismo tiempo, también permiten que otros contribuyentes comprendan el contexto y las razones detrás de los cambios introducidos en la solicitud de extracción.
+
+- **Disminuir la comunicación bidireccional**: Discutir y acordar los cambios propuestos con anticipación a través del problema puede reducir la comunicación bidireccional durante el proceso de revisión de la solicitud de extracción. Esto puede ahorrarle tiempo a usted y a los mantenedores.
+
+- **Evitar el trabajo innecesario**: La creación de un problema permite a los mantenedores brindar comentarios tempranos sobre el cambio propuesto. Pueden avisarte si existe un problema similar, si el cambio propuesto se alinea con los objetivos del proyecto o si existen métodos alternativos que sean más convenientes. Esto le ayuda a evitar perder tiempo y esfuerzo trabajando en algo que tal vez no sea aceptado porque entra en conflicto con los planes existentes.
+
+- **Evitar solicitudes de extracción de spam**: Las solicitudes de extracción no solicitadas (solicitudes de extracción sin problemas) y no deseadas pueden marcarse como spam porque se considera que introducen cambios irrelevantes, de baja calidad o dañinos en el código base del proyecto. Marcar su solicitud de extracción como spam puede provocar rechazo, pérdida de oportunidades de contribución y potencialmente dañar su reputación.
+
+### 3. Solicitar que se te asigne un problema
+
+Ciertos proyectos pueden tener reglas específicas con respecto a la asignación de problemas. Es posible que algunos proyectos requieran que solicites permiso antes de trabajar en un problema, mientras que otros te permiten asignarte un problema. Es por eso que revisar las pautas de contribución del proyecto es esencial para saber cómo reclamar problemas.
+
+Si las pautas de contribución no indican cómo reclamar un problema, puede pedirles a los mantenedores que se lo asignen. Esto asegurará que no haya duplicaciones y que su contribución esté alineada con los objetivos y requisitos del proyecto.
+
+Puede dejar un comentario sobre el problema, como "¿Me pueden asignar este problema?" Cuando el mantenedor te lo haya asignado, notarás que tu nombre de usuario ahora se encuentra en la sección "Asignados".
+
+![Sección de asignatarios de problemas en GitHub](../../../_assets/images/issue-assign.png)
 
 ## Flujo de trabajo de contribución
 
@@ -139,7 +171,15 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
 
 ### Empezando
 
-1. Cree un problema haciendo clic en el botón "Nuevo problema" en la pestaña "Problemas" y complete el formulario.
+1. Cree un problema siguiendo estas instrucciones:
+   - Haga clic en la pestaña "Problemas" en la barra superior.
+   - Haga clic en el botón verde "Nuevo problema" en la parte superior derecha.
+   - Haga clic en el botón "Comenzar" para agregar contribuyentes.
+   - Agregue un título, por ejemplo, `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Cambie "@GITHUB-USERNAME" por su nombre de usuario de GitHub.
+   - Completa el formulario. Puede consultar el ejemplo en cada área de texto para completarlos, como se muestra en la captura de pantalla a continuación con la línea roja.
+
+      ![Formulario de problemas del libro de visitas](../../../_assets/images/guestbook-issue-form.png)
+   - Haga clic en el botón "Enviar nuevo problema".
 2. Bifurque el [repositorio de libros de visitas](https://github.com/open-sauced/guestbook).
 3. Clona tu repositorio bifurcado en tu computadora.
 4. Ejecute `npm install` para instalar las dependencias.
