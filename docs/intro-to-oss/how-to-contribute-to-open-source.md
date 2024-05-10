@@ -305,7 +305,7 @@ Every project has its own pull request structure and information that the mainta
 
   The issue number is right after the issue title, as shown below. So, if the issue number is 180, you should write: Closes #180. Don't add anything else here.
 
-  IMG
+  ![issue number](../_assets/images/issue-number.png)
 
 - **Screenshots or screen recordings**
 
