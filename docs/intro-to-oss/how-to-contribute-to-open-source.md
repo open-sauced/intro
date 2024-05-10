@@ -102,48 +102,64 @@ You can leave a comment on the issue, like, "Can I please be assigned to this is
 
 Once a maintainer has assigned you an issue, the next step is to work on the changes. Here's a general workflow of the process:
 
-1. **[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)**: Forking a repository means creating a copy of the repository under your GitHub account. It allows you to push changes to the remote codebase without affecting the original project.
+### 1. Fork the Repository
 
-2. **[Clone your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)**: Make a copy of your forked repository to your local machine. Run the following command in your terminal:
+[Forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) means creating a copy of the repository under your GitHub account. It allows you to push changes to the remote codebase without affecting the original project.
 
-   ```
-   git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
-   ```
+### 2. Clone the Forked Repository
 
-   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the repository's name.
+[Cloning your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) means making a copy of your forked repository to your local machine. Run the following command in your terminal:
 
-3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. Creating a new branch is the best practice in open source because it keeps your changes separate from the `main` branch.
+```
+git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+```
 
-   You can create a new branch using the following command:
+Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the repository's name.
 
-   ```
-   git checkout -b YOUR-BRANCH-NAME
-   ```
+### 3. Create a New Branch
 
-   Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+Before making any changes, create a new branch in your local repository to work on your contribution. Creating a new branch is the best practice in open source because it keeps your changes separate from the `main` branch.
 
-4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
+You can create a new branch using the following command:
 
-5. **Add and commit your changes**: Once you've made your changes, add your changes to the staging area and commit them with these commands:
+```
+git checkout -b YOUR-BRANCH-NAME
+```
 
-   ```
-   git add .
-   git commit -m "Your commit message"
-   ```
+Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
 
-   Replace `"Your commit message"` with a brief description of your changes.
+### 4. Make Changes
 
-6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
+Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
 
-   ```
-   git push origin YOUR-BRANCH-NAME
-   ```
+### 5. Add and Commit the Changes
 
-   Replace "YOUR-BRANCH-NAME" with the name of your branch.
+Once you've made your changes, add your changes to the staging area and commit them with these commands:
 
-7. **[Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "Compare & pull request" button. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
+```
+git add .
+git commit -m "Your commit message"
+```
 
-8. **Respond to feedback**: After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
+Replace `"Your commit message"` with a brief description of your changes.
+
+### 6. Push the Changes
+
+Push your changes to your forked repository on GitHub by running the following command:
+
+```
+git push origin YOUR-BRANCH-NAME
+```
+
+Replace "YOUR-BRANCH-NAME" with the name of your branch.
+
+### 7. Create a Pull Request
+
+Once you've pushed your changes, you can now [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Navigate to the original project's repository on GitHub and click the "Compare & pull request" button. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
+
+### 8. Respond to Feedback
+
+After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
 
 By following these steps, you'll be able to submit your contributions to open source projects and collaborate with other developers to improve the codebase.
 
@@ -172,14 +188,17 @@ You'll need to have these tools donwloaded and installed on your local machine:
 ### Getting Started
 
 1. Create an issue by following these instructions:
+
    - Click the "Issues" tab on the top bar.
    - Click the green "New issue" button at the top right.
    - Click the "Get started" button to add contributors.
    - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
    - Complete the form. You can refer to the example in each textarea to fill them in, as shown in the screenshot below with the red line.
 
-      ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+     ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+
    - Click the "Submit new issue" button.
+
 2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
