@@ -349,15 +349,15 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 1. Create an issue by following these instructions:
 
-- Click the "Issues" tab on the top bar.
-- Click the green "New issue" button at the top right.
-- Click the "Get started" button to add contributors.
-- Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
-- Complete the form. You can refer to the example in each textarea to fill them in, as shown in the screenshot below with the red line.
+   - Click the "Issues" tab on the top bar.
+   - Click the green "New issue" button at the top right.
+   - Click the "Get started" button to add contributors.
+   - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
+   - Complete the form. Read the instructions under each input label and fill in the textareas using the example shown in the screenshot below with the red line.
 
-  ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+     ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
 
-- Click the "Submit new issue" button.
+   - Click the "Submit new issue" button.
 
 2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
@@ -372,17 +372,17 @@ Follow the instructions to add yourself to the guestbook. After you finish and c
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated as the example below. You will need this later when creating a pull request.
 
-![Profile generated on README](../_assets/images/profile-generated.png)
+   ![Profile generated on README](../_assets/images/profile-generated.png)
 
-!> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+   !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
 9. Run `git log` to check if your changes have been automatically committed. To close the log, press `Q`.
 
-Here's what you should expect to see as your commit message:
+   Here's what you should expect to see as your commit message:
 
-```bash
-docs: add @your_username as a contributor
-```
+   ```bash
+   docs: add @your_username as a contributor
+   ```
 
 10. Push the commit to your forked repository with this command:
 
