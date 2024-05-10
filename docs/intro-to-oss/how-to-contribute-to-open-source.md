@@ -130,9 +130,15 @@ Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix
 
 ### 4. Make Changes
 
-Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
+Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions.
 
-### 5. Add and Commit the Changes
+### 5. Run the Changes Locally
+
+You always want to run and check your changes locally, regardless of how small they are. This is important to ensure they work as expected and won't break the production.
+
+You can find the instructions on how to run a project locally in the README file.
+
+### 6. Add and Commit the Changes
 
 Once you've made your changes, add your changes to the staging area and commit them with these commands:
 
@@ -143,7 +149,7 @@ git commit -m "Your commit message"
 
 Replace `"Your commit message"` with a brief description of your changes.
 
-### 6. Push the Changes
+### 7. Push the Changes
 
 Push your changes to your forked repository on GitHub by running the following command:
 
@@ -153,11 +159,11 @@ git push origin YOUR-BRANCH-NAME
 
 Replace "YOUR-BRANCH-NAME" with the name of your branch.
 
-### 7. Create a Pull Request
+### 8. Create a Pull Request
 
 Once you've pushed your changes, you can now [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Navigate to the original project's repository on GitHub and click the "Compare & pull request" button. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
 
-### 8. Respond to Feedback
+### 9. Respond to Feedback
 
 After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
 
