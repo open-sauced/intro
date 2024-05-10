@@ -303,26 +303,15 @@ Every project is unique. Each has its own pull request template structure and re
 
   Most projects don't receive unsolicited pull requests (pull requests that are not accompanied by an issue). One reason is to avoid spam pull requests that might introduce irrelevant, low-quality, or harmful changes to the project's codebase.
 
-  So, when you create a pull request, you want to include the number of the related issue. Add the keyword "Closes," "Fixes," or "Resolves" in front of the issue number, like "Closes #123". [Linking a pull request](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to an issue will automatically close the issue once the pull request gets merged.
+  So, when you create a pull request, you want to include the related issue number. Add the keyword "Closes," "Fixes," or "Resolves" in front of the issue number, for example, "Closes #123".
+  
+  [Linking a pull request](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to an issue will automatically close the issue once the pull request gets merged.
 
-  The issue number is right after the issue title, as shown below.
+  You can find the issue number right after the title, as shown below.
 
   ![issue number](../_assets/images/issue-number.png)
 
-  So, if the issue number is 180, you should write:
-
-  ```markdown
-  ## Related Tickets & Documents
-
-   <!-- 
-   Please use this format link issue numbers: Fixes #123
-   https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
-   -->
-
-  Closes #180
-  ```
-
-  !> Don't add anything other than the keyword and the issue number. Doing so will not automatically close the issue.
+  !> Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
 
 - **Screenshots or screen recordings**
 
