@@ -184,7 +184,7 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    Here is an example of a pull request template at OpenSauced in preview mode:
 
-IMG
+   ![PR template in preview mode](../_assets/images/pr-template-preview.png)
 
 2. **Headings**
 
@@ -193,7 +193,7 @@ IMG
 3. **Comments**
 
    The instructions on what information you must provide are usually written in the comments under each heading. You need to read and follow all instructions thoroughly.
-   
+
    One tip, when writing the information, write it below the comment so you can still see and follow the instructions.
 
    Here is the template in Markdown at OpenSauced. Now, pay attention to the headings and the comments as we discussed:
