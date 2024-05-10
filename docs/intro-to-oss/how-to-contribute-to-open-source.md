@@ -194,7 +194,7 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    The instructions on what information you must provide are usually written in the comments under each heading. You need to read and follow all instructions thoroughly.
 
-   ?> **TIP:** When filling in the information, write it below the comment so you can still see and follow the instructions.
+   ?> **Tip:** When filling in the information, write it below the comment so you can still see and follow the instructions.
 
    Here is the template in Markdown. Now, pay attention to the headings and the comments as we discussed:
 
