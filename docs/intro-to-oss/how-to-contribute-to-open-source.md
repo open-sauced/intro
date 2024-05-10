@@ -288,11 +288,13 @@ Every project has its own pull request structure and information that the mainta
   The changes made here:
 
   - Add Tailwind className:
-  - [`truncate`](https://tailwindcss.com/docs/text-overflow#truncate) to truncate overflowing text.
-  - [`tracking-tighter`](https://tailwindcss.com/docs/letter-spacing) to reduce letter spacing for better space.
-  - `inline-block` to the `<span>` .
+
+    - [`truncate`](https://tailwindcss.com/docs/text-overflow#truncate) to truncate overflowing text.
+    - [`tracking-tighter`](https://tailwindcss.com/docs/letter-spacing) to reduce letter spacing for better space.
+    - `inline-block` to the `<span>` .
 
   - Remove Tailwind classNames:
+
     - `overflow-hidden` as it's [included in the `truncate`](https://tailwindcss.com/docs/text-overflow).
     - `break-all` as we don't want to add line breaks.
   ```
