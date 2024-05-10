@@ -134,7 +134,7 @@ Now that you have a new branch, you can make changes to the codebase. Always fol
 
 ### 5. Run the Changes Locally
 
-You always want to run and check your changes locally, regardless of how small they are. This is important to ensure they work as expected and won't break the production.
+You should always run and check your changes in your local environment, regardless of how small they are. This is important to ensure they work as expected and won't break production.
 
 You can find the instructions on how to run a project locally in the README file.
 
