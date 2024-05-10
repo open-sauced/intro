@@ -390,9 +390,9 @@ docs: add @your_username as a contributor
     git push -u origin branch-name
     ```
 
-11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request form.
+11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request template. Read the [Fill In a Pull Request Template](#fill-in-a-pull-request-template) section to help you complete the template.
 
-    !> Your pull request will be marked as invalid and may be closed if the form is incomplete.
+    !> Your pull request will be marked as invalid and may be closed if the template is incomplete.
 
 Congratulations on your first contribution! 🎉
 
