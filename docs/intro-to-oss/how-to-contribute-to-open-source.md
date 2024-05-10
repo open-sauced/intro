@@ -257,13 +257,13 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
 4. **Don't skip and delete anything in the template**
 
-   What's important is that you must complete the template and never delete or modify it, even if you think a section doesn't apply to your contribution.
+   What's important is that you must fill in every section in the template that doesn't say "optional" or doesn't mean for the core team or staff to fill in. Also, you must never delete or modify the template, even if you think a section doesn't apply to your contribution.
 
    If a section is irrelevant to your changes, leave a comment explaining why it's irrelevant or provide a brief "N/A" response. If you still need help with what to fill in, look at the previous pull requests and see how other contributors have done that.
 
 ##### Required Information to Provide in Most Pull Request Templates
 
-Every project has its own pull request structure and information that the maintainers need to have. But in general, they will need the following:
+Every project is unique. Each has its own pull request template structure and requires specific information to be provided. However, all projects typically require the following:
 
 - **Title**
 
