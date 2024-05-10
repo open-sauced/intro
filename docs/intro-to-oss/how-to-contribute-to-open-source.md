@@ -136,7 +136,7 @@ Now that you have a new branch, you can make changes to the codebase. Always fol
 
 You should always run and check your changes in your local environment, regardless of how small they are. This is important to ensure they work as expected and won't break production.
 
-You can find the instructions on how to run a project locally in the README file.
+You can find the instructions on how to run a project locally in the README file or in the contributing guidelines.
 
 ### 6. Add and Commit the Changes
 
@@ -304,7 +304,7 @@ Every project is unique. Each has its own pull request template structure and re
   Most projects don't receive unsolicited pull requests (pull requests that are not accompanied by an issue). One reason is to avoid spam pull requests that might introduce irrelevant, low-quality, or harmful changes to the project's codebase.
 
   So, when you create a pull request, you want to include the related issue number. Add the keyword "Closes," "Fixes," or "Resolves" in front of the issue number, for example, "Closes #123".
-  
+
   [Linking a pull request](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to an issue will automatically close the issue once the pull request gets merged.
 
   You can find the issue number right after the title, as shown below.
