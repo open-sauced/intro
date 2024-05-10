@@ -196,7 +196,7 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    One tip, when writing the information, write it below the comment so you can still see and follow the instructions.
 
-   Here is the template in Markdown at OpenSauced. Now, pay attention to the headings and the comments as we discussed:
+   Here is the template in Markdown. Now, pay attention to the headings and the comments as we discussed:
 
    ```markdown
    ## Description
