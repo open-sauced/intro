@@ -159,9 +159,16 @@ git push origin YOUR-BRANCH-NAME
 
 Replace "YOUR-BRANCH-NAME" with the name of your branch.
 
-### 8. Create a Pull Request
+### 8. Working with a Pull Request
 
-Once you've pushed your changes, you can now [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Navigate to the original project's repository on GitHub and click the "Compare & pull request" button. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
+#### Create a Pull Request
+
+Once you've pushed your changes, you can now [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). To create a pull request:
+
+1. Navigate to the original project's repository on GitHub.
+2. Click the "Compare & pull request" button.
+3. Fill in all required information.
+4. Click the "Create pull request" button.
 
 ### 9. Respond to Feedback
 
