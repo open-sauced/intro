@@ -74,7 +74,7 @@ Some projects also have conventions, such as code and Markdown style, how to wri
 
 After reading the documentation, you can start looking for issues labeled as "good first issue" or "beginner-friendly" that are suitable for your skill level. When choosing which issues to work on, consider your interests, skill level, and available time.
 
-Issues can be seen as proposals for changes. Suppose you want to report a bug or have ideas for a feature or improvement of the project or its documentation and want to propose them. In that case, you can create an issue to propose your intention.
+Issues can be seen as proposals for changes. Suppose you want to report a bug or have ideas for a feature or improvement of the project or its documentation and want to propose them. In that case, you can create an issue to propose your intention. Read [this blog post](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5) to learn how to fill in issue forms.
 
 In open source, it is crucial to accompany a pull request with an issue for several reasons:
 
@@ -102,48 +102,224 @@ You can leave a comment on the issue, like, "Can I please be assigned to this is
 
 Once a maintainer has assigned you an issue, the next step is to work on the changes. Here's a general workflow of the process:
 
-1. **[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)**: Forking a repository means creating a copy of the repository under your GitHub account. It allows you to push changes to the remote codebase without affecting the original project.
+### 1. Fork the Repository
 
-2. **[Clone your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)**: Make a copy of your forked repository to your local machine. Run the following command in your terminal:
+[Forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) means creating a copy of the repository under your GitHub account. It allows you to push changes to the remote codebase without affecting the original project.
 
+### 2. Clone the Forked Repository
+
+[Cloning your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) means making a copy of your forked repository to your local machine. Run the following command in your terminal:
+
+```
+git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+```
+
+Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the repository's name.
+
+### 3. Create a New Branch
+
+Before making any changes, create a new branch in your local repository to work on your contribution. Creating a new branch is the best practice in open source because it keeps your changes separate from the `main` branch.
+
+You can create a new branch using the following command:
+
+```
+git checkout -b YOUR-BRANCH-NAME
+```
+
+Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+
+### 4. Make Changes
+
+Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions.
+
+### 5. Run the Changes Locally
+
+You should always run and check your changes in your local environment, regardless of how small they are. This is important to ensure they work as expected and won't break production.
+
+You can find the instructions on how to run a project locally in the README file or in the contributing guidelines.
+
+### 6. Add and Commit the Changes
+
+Once you've made your changes, add your changes to the staging area and commit them with these commands:
+
+```
+git add .
+git commit -m "Your commit message"
+```
+
+Replace `"Your commit message"` with a brief description of your changes.
+
+### 7. Push the Changes
+
+Push your changes to your forked repository on GitHub by running the following command:
+
+```
+git push origin YOUR-BRANCH-NAME
+```
+
+Replace "YOUR-BRANCH-NAME" with the name of your branch.
+
+### 8. Working with a Pull Request
+
+#### Create a Pull Request
+
+Once you've pushed your changes, you can now [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). To create a pull request:
+
+1. Navigate to the original project's repository on GitHub.
+2. Click the "Compare & pull request" button.
+3. Fill in all required information in the template.
+4. Click the "Create pull request" button.
+
+#### Fill In a Pull Request Template
+
+Most projects provided a pull request template that is shown and needs to be filled in Markdown. This template guides you in providing all the information maintainers need to review your pull request.
+
+##### Tips to Fill In a Pull Request Template
+
+It can be challenging to read and fill in a pull request template. Here is some tips on how to fill one:
+
+1. **Preview Mode**
+
+   Click the "Preview" tab to see the sections you must fill in before you do so. It will be easier for you to notice them in this mode, but note that you cannot edit them in preview mode.
+
+   Here is an example of a pull request template at OpenSauced in preview mode:
+
+   ![PR template in preview mode](../_assets/images/pr-template-preview.png)
+
+2. **Headings**
+
+   Get back to the writing mode by clicking the "Write" tab. Pay attention to the headings with `#` symbols. You need to provide information right under these headings.
+
+3. **Comments**
+
+   The instructions on what information you must provide are usually written in the comments under each heading. You need to read and follow all instructions thoroughly.
+
+   ?> **Tip:** When filling in the information, write it below the comment so you can still see and follow the instructions.
+
+   Here is the template in Markdown. Now, pay attention to the headings and the comments as we discussed:
+
+   ```markdown
+   ## Description
+
+   <!--
+   Please do not leave this blank
+   This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
+   -->
+
+   ## Related Tickets & Documents
+
+   <!--
+   Please use this format link issue numbers: Fixes #123
+   https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+   -->
+
+   ## Mobile & Desktop Screenshots/Recordings
+
+   <!-- Visual changes require screenshots -->
+
+   ## Steps to QA
+
+   <!--
+   Please provide some steps for the reviewer to test your change. If   you have wrote tests, you can mention that here instead.
+
+   1. Click a link
+   2. Do this thing
+   3. Validate you see the thing working
+   -->
+
+   ## Tier (staff will fill in)
+
+   - [ ] Tier 1
+   - [ ] Tier 2
+   - [ ] Tier 3
+   - [ ] Tier 4
+
+   ## [optional] What gif best describes this PR or how it makes you feel?
+
+   <!-- note: PRs with deleted sections will be marked invalid -->
+
+   <!--
+   For Work In Progress Pull Requests, please use the Draft PR feature,
+   see https://github.blog/2019-02-14-introducing-draft-pull-requests/ for further details.
+
+     For a timely review/response, please avoid force-pushing additional
+     commits if your PR already received reviews or comments.
+
+     Before submitting a Pull Request, please ensure you've done the following:
+     - 📖 Read the Open Sauced Contributing Guide: https://github.com/open-sauced/.github/blob/main/CONTRIBUTING.md.
+     - 📖 Read the Open Sauced Code of Conduct: https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md.
+     - 👷‍♀️ Create small PRs. In most cases, this will be possible.
+     - ✅ Provide tests for your changes.
+     - 📝 Use descriptive commit messages.
+     - 📗 Update any related documentation and include any relevant screenshots.
+   -->
    ```
-   git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
-   ```
 
-   Replace "YOUR-USERNAME" with your GitHub username and "REPOSITORY-NAME" with the repository's name.
+4. **Don't skip and delete anything in the template**
 
-3. **Create a new branch**: Before making any changes, create a new branch in your local repository to work on your contribution. Creating a new branch is the best practice in open source because it keeps your changes separate from the `main` branch.
+   What's important is that you must fill in every section in the template that doesn't say "optional" or doesn't mean for the core team or staff to fill in. Also, you must never delete or modify the template, even if you think a section doesn't apply to your contribution.
 
-   You can create a new branch using the following command:
+   If a section is irrelevant to your changes, leave a comment explaining why it's irrelevant or provide a brief "N/A" response. If you still need help with what to fill in, look at the previous pull requests and see how other contributors have done that.
 
-   ```
-   git checkout -b YOUR-BRANCH-NAME
-   ```
+##### Required Information to Provide in Most Pull Request Templates
 
-   Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch, such as "fix-bug-123" or "add-new-feature".
+Every project is unique. Each has its own pull request template structure and requires specific information to be provided. However, all projects typically require the following:
 
-4. **Make your changes**: Now that you have a new branch, you can make changes to the codebase. Always follow the project's coding guidelines and conventions, and test your changes to ensure they work as expected.
+- **Title**
 
-5. **Add and commit your changes**: Once you've made your changes, add your changes to the staging area and commit them with these commands:
+  Add a short and clear title that describes the change that you make. For example, "Fix: Color contrast in the landing page".
 
-   ```
-   git add .
-   git commit -m "Your commit message"
-   ```
+- **Description**
 
-   Replace `"Your commit message"` with a brief description of your changes.
+  Explain your changes in as much detail as possible. What did you fix? How did you fix it? Did you add a new function or modify a function? If there are several changes, consider using bullet points and providing links to the resources you use to back up your changes.
 
-6. **Push your changes**: Push your changes to your forked repository on GitHub by running the following command:
+  Here is an example:
 
-   ```
-   git push origin YOUR-BRANCH-NAME
-   ```
+  ```markdown
+  ## Description
 
-   Replace "YOUR-BRANCH-NAME" with the name of your branch.
+  <!--
+   Please do not leave this blank
+   This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
+   -->
 
-7. **[Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: Once you've pushed your changes, navigate to the original project's repository on GitHub and click the "Compare & pull request" button. Fill in the required information and submit your pull request by clicking the "Create pull request" button.
+  This PR fixes the long repos' names that are partially stacked at the back of another name in the search input of the Explore tab.
 
-8. **Respond to feedback**: After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
+  The changes made here:
+
+  - Add Tailwind className:
+
+    - [`truncate`](https://tailwindcss.com/docs/text-overflow#truncate) to truncate overflowing text.
+    - [`tracking-tighter`](https://tailwindcss.com/docs/letter-spacing) to reduce letter spacing for better space.
+    - `inline-block` to the `<span>` .
+
+  - Remove Tailwind classNames:
+
+    - `overflow-hidden` as it's [included in the `truncate`](https://tailwindcss.com/docs/text-overflow).
+    - `break-all` as we don't want to add line breaks.
+  ```
+
+- **Related issue(s)**
+
+  Most projects don't receive unsolicited pull requests (pull requests that are not accompanied by an issue). One reason is to avoid spam pull requests that might introduce irrelevant, low-quality, or harmful changes to the project's codebase.
+
+  So, when you create a pull request, you want to include the related issue number. Add the keyword "Closes," "Fixes," or "Resolves" in front of the issue number, for example, "Closes #123".
+
+  [Linking a pull request](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to an issue will automatically close the issue once the pull request gets merged.
+
+  You can find the issue number right after the title, as shown below.
+
+  ![issue number](../_assets/images/issue-number.png)
+
+  !> Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
+
+- **Screenshots or screen recordings**
+
+  If your changes relate to UI improvement, consider adding screenshots or screen recordings to show the before-and-after changes.
+
+### 9. Respond to Feedback
+
+After submitting your pull request, the project maintainers may provide feedback or request changes. Be sure to respond promptly and address any concerns or suggestions they may have.
 
 By following these steps, you'll be able to submit your contributions to open source projects and collaborate with other developers to improve the codebase.
 
@@ -172,14 +348,17 @@ You'll need to have these tools donwloaded and installed on your local machine:
 ### Getting Started
 
 1. Create an issue by following these instructions:
+
    - Click the "Issues" tab on the top bar.
    - Click the green "New issue" button at the top right.
    - Click the "Get started" button to add contributors.
    - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
-   - Complete the form. You can refer to the example in each textarea to fill them in, as shown in the screenshot below with the red line.
+   - Complete the form. Read the instructions under each input label and fill in the textareas using the example shown in the screenshot below with the red line.
 
-      ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+     ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+
    - Click the "Submit new issue" button.
+
 2. Fork the [guestbook repository](https://github.com/open-sauced/guestbook).
 3. Clone your forked repository to your computer.
 4. Run `npm install` to install the dependencies.
@@ -211,9 +390,9 @@ You'll need to have these tools donwloaded and installed on your local machine:
     git push -u origin branch-name
     ```
 
-11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request form.
+11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request template. Read the [Fill In a Pull Request Template](#fill-in-a-pull-request-template) section to help you complete the template.
 
-    !> Your pull request will be marked as invalid and may be closed if the form is incomplete.
+    !> Your pull request will be marked as invalid and may be closed if the template is incomplete.
 
 Congratulations on your first contribution! 🎉
 
