@@ -1,3 +1,5 @@
+[![OpenSauced Logo](../../../_assets/images/logo-on-dark.png)](https://opensauced.pizza/)
+
 - Chapitres
   - [Introduction](introduction.md)
   - [Qu'est-ce que l'open-source ?](qu-est-ce-que-l-open-source.md)
