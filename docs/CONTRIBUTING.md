@@ -11,11 +11,15 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 ## Issues
 
-- When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+- When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22), [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), or [beginners only](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22beginners+only%22) labels.
 
-- If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
+- If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. <br> If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue **before** beginning work to avoid conflicts.
 
-- Do you have an idea and want to add a section or a chapter to a course? Or do you spot a bug or have an idea for enhancing any of our courses? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag the `@open-sauced/docs` team in the comment to notify them.
+  !> Please only self-assign an issue with label "beginners only" or "good first issue" **one time**. <br> Maintainers may remove you from the assignees and not accept your pull request if you choose to proceed.
+
+- Do you spot a bug in any of our courses? Or do you have an idea for enhancing our courses and want to add a section or a chapter to a course?
+
+  You can create an issue and fill in our issue form to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue you submitted, please inform and tag the `@open-sauced/docs` team in the comment.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
