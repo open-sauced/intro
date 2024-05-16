@@ -32,6 +32,18 @@ We actively welcome your PRs. However, you must ensure that **you are assigned**
 1. Ensure that your changes are made in a new branch.
 2. Run and check your changes locally and ensure that everything works as it should.
 
+### Submitting a PR Template
+
+1. Ensure that you address one issue in one PR. <br> If you work on multiple issues, work on them separately and create a PR to address each issue.
+1. Completing the PR template.
+
+   Make sure you **fill in all sections** and that you have:
+
+   - **A valid title** <br> The PR title must begin with `feat:`, `fix:`, or anything related to your changes.
+   - **A related issue** <br> [Link the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) that you worked on and add a keyword of "Closes", "Fixes" or "Resolves" in front of it. For example: Closes #123, Fixes #234, etc.
+
+1. Do not delete any section of the PR template. <br> If a section is irrelevant with your changes, leave a brief "N/A".
+
 ## Getting Started
 
 ### Setup the Project Locally
