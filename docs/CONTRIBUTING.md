@@ -23,6 +23,10 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
+## Pull Requests (PRs)
+
+We actively welcome your PRs. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue in your PR template**.
+
 ## Getting Started
 
 ### Setup the Project Locally
