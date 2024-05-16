@@ -27,6 +27,11 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
 We actively welcome your PRs. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue in your PR template**.
 
+### Before Submitting a PR Template
+
+1. Ensure that your changes are made in a new branch.
+2. Run and check your changes locally and ensure that everything works as it should.
+
 ## Getting Started
 
 ### Setup the Project Locally
