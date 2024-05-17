@@ -25,38 +25,36 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
 ## Pull Requests (PRs)
 
-We actively welcome your PRs. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue in your PR template**.
+We actively welcome your PRs. However, before working on changes, you must ensure that **you are assigned** to an existing issue and **link your work to the issue in your PR template**.
 
 ### Before Submitting a PR Template
 
 1. Ensure that your changes are made in a new branch.
-2. Run and check your changes locally and ensure that everything works as it should.
+2. Run and check your changes locally. Ensure that everything works as it should.
 
 ### Submitting a PR Template
 
-1. Ensure that you address one issue in one PR. <br> If you work on multiple issues, work on them separately and create a PR to address each issue.
-2. Completing the PR template.
+1. Ensure that you address one issue in one PR. <br> If you work on multiple issues, work on them separately and create one PR to address each issue.
+2. Completing the PR template. Make sure you **fill in all sections** and that you have:
 
-   Make sure you **fill in all sections** and that you have:
+   - **A valid title**. The PR title must begin with `feat:`, `fix:`, or anything related to your changes.
+   - **A related issue**. [Link the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) that you worked on and add a keyword of "Closes", "Fixes", or "Resolves" in front of it. For example: Closes #123, Fixes #234, etc.
 
-   - **A valid title** <br> The PR title must begin with `feat:`, `fix:`, or anything related to your changes.
-   - **A related issue** <br> [Link the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) that you worked on and add a keyword of "Closes", "Fixes" or "Resolves" in front of it. For example: Closes #123, Fixes #234, etc.
-
-3. Do not delete any section of the PR template. <br> If a section is irrelevant with your changes, leave a brief "N/A".
+3. Do not delete any section of the PR template. <br> If a section is irrelevant to your changes, respond with a "N/A".
 
 ### After Submitting a PR Template
 
-1. Ensure that **all checks are passed** after you submit your PR template. <br> If you see any github-actions bot or failed check, you need to read and understand why they failed. Then, you must address and fix them until they all pass.
-2. Do not DM maintainers or tag them in the comments to review your PR. <br> Maintainers are always notified whenever there is an incoming PR, but they might not be able to review your PR immediately.
+1. Ensure that all checks are passed after you submit your PR template. <br> If you see any GitHub action bots or checks that failed, you need to read each one and understand why it failed. Then, you must address and fix it until all of them pass
+2. Do not DM maintainers or tag them in the comments to review your PR. <br> Maintainers are always notified whenever there is an incoming PR, but they might need more time to review it. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated review time.
 3. Keep your branch up to date while waiting for review and resolve any merge conflicts.
-4. Address the reviewer's feedback.
+4. Response and address the reviewer's feedback.
 
 ### ⚠️ Circumstances of a PR Will Be Marked as Invalid and May Be Closed
 
-- The issue is not assigned to the contributor who opened the PR
-- No issue is linked to the PR
-- PR template is incomplete, or any section in the template is deleted
-- Changes are made directly on the default (`main`) branch
+- The issue is not assigned to the contributor who opened the PR.
+- No issue is linked to the PR.
+- PR template is incomplete, or any section in the template is deleted.
+- Changes are made directly on the default (`main`) branch.
 
 ## Getting Started
 
