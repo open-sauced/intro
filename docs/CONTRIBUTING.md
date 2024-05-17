@@ -35,14 +35,21 @@ We actively welcome your PRs. However, you must ensure that **you are assigned**
 ### Submitting a PR Template
 
 1. Ensure that you address one issue in one PR. <br> If you work on multiple issues, work on them separately and create a PR to address each issue.
-1. Completing the PR template.
+2. Completing the PR template.
 
    Make sure you **fill in all sections** and that you have:
 
    - **A valid title** <br> The PR title must begin with `feat:`, `fix:`, or anything related to your changes.
    - **A related issue** <br> [Link the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) that you worked on and add a keyword of "Closes", "Fixes" or "Resolves" in front of it. For example: Closes #123, Fixes #234, etc.
 
-1. Do not delete any section of the PR template. <br> If a section is irrelevant with your changes, leave a brief "N/A".
+3. Do not delete any section of the PR template. <br> If a section is irrelevant with your changes, leave a brief "N/A".
+
+### After Submitting a PR Template
+
+1. Ensure that **all checks are passed** after you submit your PR template. <br> If you see any github-actions bot or failed check, you need to read and understand why they failed. Then, you must address and fix them until they all pass.
+2. Do not DM maintainers or tag them in the comments to review your PR. <br> Maintainers are always notified whenever there is an incoming PR, but they might not be able to review your PR immediately.
+3. Keep your branch up to date while waiting for review and resolve any merge conflicts.
+4. Address the reviewer's feedback.
 
 ## Getting Started
 
