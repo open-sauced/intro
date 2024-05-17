@@ -51,6 +51,13 @@ We actively welcome your PRs. However, you must ensure that **you are assigned**
 3. Keep your branch up to date while waiting for review and resolve any merge conflicts.
 4. Address the reviewer's feedback.
 
+### ⚠️ Circumstances of a PR Will Be Marked as Invalid and May Be Closed
+
+- The issue is not assigned to the contributor who opened the PR
+- No issue is linked to the PR
+- PR template is incomplete, or any section in the template is deleted
+- Changes are made directly on the default (`main`) branch
+
 ## Getting Started
 
 ### Setup the Project Locally
