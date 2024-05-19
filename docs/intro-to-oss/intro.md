@@ -6,7 +6,7 @@ Welcome to the "Intro to Open Source with OpenSauced" course! This comprehensive
 
 Before diving into the world of open source, it's essential to have a basic understanding of programming concepts and some experience working with code. While the course will provide examples and demos, you'll get the most out of the material if you have some prior knowledge.
 
-Additionally, this course assumes that you are familiar with Git and GitHub. Git is a widely-used version control system, and GitHub is a popular platform for hosting and collaborating on Git repositories. If you're not already familiar with Git and GitHub, we recommend taking some time to learn the basics before starting> this course.
+Additionally, this course assumes that you are familiar with Git and GitHub. Git is a widely-used version control system, and GitHub is a popular platform for hosting and collaborating on Git repositories. If you're not already familiar with Git and GitHub, we recommend taking some time to learn the basics before starting this course.
 
 ## Objectives
 
