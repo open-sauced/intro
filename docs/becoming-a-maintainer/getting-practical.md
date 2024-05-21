@@ -144,6 +144,7 @@ It's essential to have a code of conduct to ensure that everyone feels welcome a
 
 1. Use a premade template: GitHub provides a code of conduct template. To learn more, check out their tutorial, ["Adding a code of conduct using a template"](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template).
 2. Manual: If you want to create this file on your own, follow these steps:
+
 - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
 - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
 - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
