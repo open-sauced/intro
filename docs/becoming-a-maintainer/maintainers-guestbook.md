@@ -8,3 +8,6 @@ Congratulations on finishing the Becoming a Maintainer Course with OpenSauced. W
 <!--
 - [project name](link to your repository) by [GitHub username](link to your GitHub profile)
 -->
+
+- [Virtual Coffee](https://github.com/virtual-Coffee/virtualcoffee.io/) by [VirtualCoffee](https://github.com/virtual-Coffee/)
+- [Postpartum Wellness App](https://github.com/BekahHW/postpartum-wellness-app) by [BekahHW](https://github.com/BekahHW/)
