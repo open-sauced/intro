@@ -140,7 +140,7 @@ Thank you for contributing to [Project Name]!
 
 ### Setting Up a Code of Conduct
 
-It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. There are two ways to add this file to your project:
+It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. There are two ways to add one to your project:
 
 1. Use a premade template: GitHub provides a code of conduct template. To learn more, check out their tutorial, ["Adding a code of conduct using a template"](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template).
 2. Manual: If you want to create this file on your own, follow these steps:
