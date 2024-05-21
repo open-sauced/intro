@@ -72,7 +72,7 @@ To be most effective in highlighting your contributions, we recommend using the 
 
 - **Share it!**: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others by clicking the share button in the header of your profile page. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
 
-By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community.
+By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community. Additionally, you can refer to the [Job Seekers Guide](https://docs.opensauced.pizza/opensauced-guides/job-seekers-guide/job-seekers-guide-introduction/) in our docs to learn how to use OpenSauced to land a job in the tech industry.
 
 In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
 
