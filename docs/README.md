@@ -8,7 +8,7 @@
 </div>
 
 
-**Welcome to the Open Source Education Path with OpenSauced!**
+**Welcome to The Open Source Education Path with OpenSauced!**
 
 Open source projects offer potential for personal growth, networking and collaboration, and meaningful community contributions. Because of this, there is a growing interest in open source and a need for resources to help people get started.
 

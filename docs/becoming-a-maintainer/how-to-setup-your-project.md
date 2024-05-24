@@ -77,7 +77,7 @@ A code of conduct is an established set of rules and behaviors that all open sou
 
 This set of rules and expectations will go inside a CODE_OF_CONDUCT file in the root directory of your project. Codes of conduct are generally divided into three main categories: pledge, standards, and enforcement.
 
-?> Most open source maintainers will not write their code of conduct from scratch. Instead, they will borrow or copy from other codes of conduct and provide attribution.
+?> Most open source maintainers will not write their code of conduct from scratch. Instead, they will add one using a [template provided by GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template) or copy and adapt from other codes of conduct and provide attribution.
 
 ### Project Pledge
 
