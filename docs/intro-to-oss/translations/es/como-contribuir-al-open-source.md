@@ -60,7 +60,7 @@ Entonces, te has incorporado al proyecto. Ahora puedes prepararte para contribui
 
 Tocamos esto brevemente en la sección anterior. Pero vale la pena volver a visitarlo porque es importante leer detenidamente la documentación del proyecto antes de comenzar a contribuir.
 
-Comience leyendo el README y familiarizándose con el proyecto. Un README contiene una introducción al proyecto, como cómo funciona, su propósito, el stack tecnológico que utiliza y cómo configurar y ejecutar el entorno local.
+Comience leyendo el README y familiarizándose con el proyecto. Un README contiene una introducción al proyecto, como cómo funciona, su propósito, el stack tecnologíco que utiliza y cómo configurar y ejecutar el entorno local.
 
 Una vez que esté familiarizado con el proyecto y esté interesado en contribuir, no se lance sin leer las pautas de contribución. Estas pautas se encuentran en el archivo CONTRIBUTING en la raíz del proyecto. Si el archivo no está disponible, puede encontrarlo en el archivo README.
 
@@ -74,7 +74,7 @@ Algunos proyectos también tienen convenciones, como código y estilo Markdown, 
 
 Después de leer la documentación, puede comenzar a buscar problemas etiquetados como "buen primer problema" o "apto para principiantes" que sean adecuados para su nivel de habilidad. Al elegir en qué problema trabajar, considere sus intereses, nivel de habilidad y tiempo disponible.
 
-Los problemas pueden verse como propuestas de cambios. Supongamos que desea informar un error o tiene ideas para una característica o mejora del proyecto o su documentación y desea proponerlas. En ese caso, puedes crear un problema para proponer tu intención.
+Los problemas pueden verse como propuestas de cambios. Supongamos que desea informar un error o tiene ideas para una característica o mejora del proyecto o su documentación y desea proponerlas. En ese caso, puedes crear un problema para proponer tu intención. Lea [esta publicación de blog](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5) para aprender cómo completar formularios de incidencias.
 
 En open source, es crucial acompañar una solicitud de extracción con un problema por varias razones:
 
@@ -102,9 +102,13 @@ Puede dejar un comentario sobre el problema, como "¿Me pueden asignar este prob
 
 Una vez que un mantenedor le haya asignado un problema, el siguiente paso es trabajar en los cambios. Aquí hay un flujo de trabajo general del proceso:
 
-1. **[Bifurcar el repositorio](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)**: Bifurcar un repositorio significa crear una copia del repositorio en su cuenta de GitHub. Le permite enviar cambios al código base remoto sin afectar el proyecto original.
+### 1. Bifurcar el repositorio
 
-2. **[Clonar su repositorio bifurcado](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)**: haga un copia de su repositorio bifurcado a su máquina local. Ejecute el siguiente comando en su terminal:
+[Bifurcar un repositorio](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) significa crear una copia del repositorio en su cuenta de GitHub. Le permite enviar cambios al código base remoto sin afectar el proyecto original.
+
+### 2. Clonar el repositorio bifurcado
+
+[Clonar su repositorio bifurcado](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) significa hacer una copia de su repositorio bifurcado en su máquina local. Ejecute el siguiente comando en su terminal:
 
    ```
    git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO.git
@@ -112,7 +116,9 @@ Una vez que un mantenedor le haya asignado un problema, el siguiente paso es tra
 
    Reemplace "TU-USUARIO" con su nombre de usuario de GitHub y "NOMBRE-DEL-REPOSITORIO" con el nombre del repositorio.
 
-3. **Crea una nueva rama**: antes de realizar cualquier cambio, crea una nueva rama en tu repositorio local para trabajar en tu contribución. Crear una nueva rama es la mejor práctica en Open Source porque mantiene los cambios separados de la rama `principal`.
+### 3. Crea una nueva rama
+
+Antes de realizar cualquier cambio, cree una nueva rama en su repositorio local para trabajar en su contribución. Crear una nueva rama es la mejor práctica en Open Source porque mantiene los cambios separados de la rama `main`.
 
    Puede crear una nueva rama usando el siguiente comando:
 
@@ -122,9 +128,19 @@ Una vez que un mantenedor le haya asignado un problema, el siguiente paso es tra
 
    Reemplace "NOMBRE-DE-SU-RAMA" con un nombre descriptivo para su rama, como "fix-bug-123" o "agregar-nueva-función".
 
-4. **Haga sus cambios**: ahora que tiene una nueva rama, puede realizar cambios en el código base. Siga siempre las pautas y convenciones de codificación del proyecto y pruebe sus cambios para asegurarse de que funcionen como se espera.
+### 4. Haga sus cambios
 
-5. **Agregue y confirme sus cambios**: una vez que haya realizado los cambios, agréguelos al área de preparación y confírmelos con estos comandos:
+Ahora que tiene una nueva rama, puede realizar cambios en el código base. Siga siempre las pautas y convenciones de codificación del proyecto.
+
+### 5. Ejecute los cambios localmente
+
+Siempre debes ejecutar y verificar tus cambios en tu entorno local, sin importar cuán pequeños sean. Esto es importante para garantizar que funcionen como se espera y no rompan producción.
+
+Puedes encontrar las instrucciones sobre cómo ejecutar un proyecto localmente en el archivo README o en las pautas de contribución.
+
+### 6. Agregue y confirme los cambios
+
+Una vez que haya realizado los cambios, agréguelos al área de preparación y confírmelos con estos comandos:
 
    ```
    git add .
@@ -133,17 +149,173 @@ Una vez que un mantenedor le haya asignado un problema, el siguiente paso es tra
 
    Reemplace `"Tu mensaje de confirmación"` con una breve descripción de sus cambios.
 
-6. **Envíe sus cambios**: envíe sus cambios a su repositorio bifurcado en GitHub ejecutando el siguiente comando:
+### 7. Envíe sus cambios
+
+Envíe sus cambios a su repositorio bifurcado en GitHub ejecutando el siguiente comando:
 
    ```
    git push origin NOMBRE-DE-SU-RAMA
    ```
 
-   Reemplace "NOMBRE-DE-SU-RAMA" con el nombre de su rama.
+   Reemplace `"NOMBRE-DE-SU-RAMA"` con el nombre de su rama.
 
-7. **[Crear una solicitud de extracción](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**: una vez que hayas enviado tus cambios, navega hasta el repositorio del proyecto original en GitHub y haz clic en el botón "Comparar y solicitar extracción". Complete la información requerida y envíe su solicitud de extracción haciendo clic en el botón "Crear solicitud de extracción".
+### 8. Trabajando con una solicitud de extracción
 
-8. **Responder a los comentarios**: después de enviar su solicitud de extracción, los mantenedores del proyecto pueden proporcionar comentarios o solicitar cambios. Asegúrese de responder con prontitud y abordar cualquier inquietud o sugerencia que puedan tener.
+#### Cree una solicitud de extracción
+
+Una vez que haya enviado sus cambios, ahora puede crear una [solicitud de extracción](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Para crear una solicitud de extracción:
+
+1. Navegue hasta el repositorio del proyecto original en GitHub.
+2. Haga clic en el botón "Comparar y solicitar extracción".
+3. Complete toda la información requerida en la plantilla.
+4. Haga clic en el botón "Crear solicitud de extracción".
+
+#### Complete una plantilla de solicitud de extracción
+
+Puede resultar complicado leer y completar una plantilla de solicitud de extracción. A continuación se ofrecen algunos consejos sobre cómo llenar uno:
+
+1. **Modo de vista previa**
+
+    Haga clic en la pestaña "Vista previa" para ver las secciones que debe completar antes de hacerlo. Le resultará más fácil notarlos en este modo, pero tenga en cuenta que no puede editarlos en el modo de vista previa.
+
+    A continuación se muestra un ejemplo de una plantilla de solicitud de extracción en OpenSauced en modo de vista previa:
+
+    ![plantilla de vista previa para solicitud de extracción](../../../_assets/images/pr-template-preview.png)
+
+2. **Encabezados**
+
+    Vuelva al modo de escritura haciendo clic en la pestaña "Escribir". Preste atención a los títulos con el símbolo #. Debe proporcionar información justo debajo de estos títulos.
+
+3. **Comentarios**
+
+    Las instrucciones sobre qué información debe proporcionar generalmente están escritas en los comentarios debajo de cada encabezado. Debe leer y seguir todas las instrucciones minuciosamente.
+
+    ?> **Consejo:** Al completar la información, escríbela debajo del comentario para que aún puedas ver y seguir las instrucciones.
+
+    Aquí está la plantilla en Markdown. Ahora, preste atención a los títulos y comentarios que comentamos:
+
+    ```markdown
+    ## Description
+
+    <!--
+    Please do not leave this blank
+    This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
+    -->
+
+    ## Related Tickets & Documents
+
+    <!--
+    Please use this format link issue numbers: Fixes #123
+    https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+    -->
+
+    ## Mobile & Desktop Screenshots/Recordings
+
+    <!-- Visual changes require screenshots -->
+
+    ## Steps to QA
+
+    <!--
+    Please provide some steps for the reviewer to test your change. If   you have wrote tests, you can mention that here instead.
+
+    1. Click a link
+    2. Do this thing
+    3. Validate you see the thing working
+    -->
+
+    ## Tier (staff will fill in)
+
+    - [ ] Tier 1
+    - [ ] Tier 2
+    - [ ] Tier 3
+    - [ ] Tier 4
+
+    ## [optional] What gif best describes this PR or how it makes you feel?
+
+    <!-- note: PRs with deleted sections will be marked invalid -->
+
+    <!--
+    For Work In Progress Pull Requests, please use the Draft PR feature,
+    see https://github.blog/2019-02-14-introducing-draft-pull-requests/ for further details.
+
+    For a timely review/response, please avoid force-pushing additional
+    commits if your PR already received reviews or comments.
+
+    Before submitting a Pull Request, please ensure you've done the following:
+    - 📖 Read the Open Sauced Contributing Guide: https://github.com/open-sauced/.github/blob/main/CONTRIBUTING.md.
+    - 📖 Read the Open Sauced Code of Conduct: https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md.
+    - 👷‍♀️ Create small PRs. In most cases, this will be possible.
+    - ✅ Provide tests for your changes.
+    - 📝 Use descriptive commit messages.
+    - 📗 Update any related documentation and include any relevant screenshots.
+    -->
+    ```
+
+4. **No omita ni elimine nada en la plantilla.**
+
+    Lo importante es que debe completar cada sección de la plantilla que no diga "opcional" o que no deba completarla el equipo central o el personal. Además, nunca debe eliminar ni modificar la plantilla, incluso si Piensa que una sección no se aplica a tu contribución.
+
+    Si una sección es irrelevante para sus cambios, deje un comentario explicando por qué es irrelevante o proporcione una breve respuesta "N/A". Si aún necesita ayuda con qué completar, mire las solicitudes de extracción anteriores y vea cómo otros contribuyentes lo han hecho.
+
+##### Información requerida para proporcionar en la mayoría de las plantillas de solicitud de extracción
+
+Cada proyecto es único. Cada uno tiene su propia estructura de plantilla de solicitud de extracción y requiere que se proporcione información específica. Sin embargo, todos los proyectos normalmente requieren lo siguiente:
+
+- **Título**
+
+    Agregue un título breve y claro que describa el cambio que realiza. Por ejemplo, "Fix: Color contrast in the landing page".
+
+- **Descripción**
+
+    Explique sus cambios con el mayor detalle posible. ¿Qué arreglaste? ¿Cómo lo arreglaste? ¿Agregaste una nueva función o modificaste una función? Si hay varios cambios, considere utilizar viñetas y proporcionar enlaces a los recursos que utiliza para realizar copias de seguridad de sus cambios.
+
+    Aquí hay un ejemplo:
+
+    ```markdown
+    ## Description
+
+    <!--
+    Please do not leave this blank
+    This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
+    -->
+
+    This PR fixes the long repos' names that are partially stacked at the back of another name in the search input of the Explore tab.
+
+    The changes made here:
+
+    - Add Tailwind className:
+
+    - [`truncate`](https://tailwindcss.com/docs/text-overflow#truncate) to truncate overflowing text.
+    - [`tracking-tighter`](https://tailwindcss.com/docs/letter-spacing) to reduce letter spacing for better space.
+    - `inline-block` to the `<span>` .
+
+    - Remove Tailwind classNames:
+
+    - `overflow-hidden` as it's [included in the `truncate`](https://tailwindcss.com/docs/text-overflow).
+    - `break-all` as we don't want to add line breaks.
+    ```
+
+- **Problema(s) relacionados**
+
+    La mayoría de los proyectos no reciben solicitudes de extracción no solicitadas (solicitudes de extracción que no van acompañadas de un problema). Una razón es evitar solicitudes de extracción no deseadas que podrían introducir cambios irrelevantes, de baja calidad o dañinos en el código base del proyecto.
+
+    Entonces, cuando crea una solicitud de extracción, desea incluir el número de problema relacionado. Añade la palabra clave "Closes," "Fixes," o "Resolves" delante del número del problema, por ejemplo, "Closes #123".
+
+    [Vincular una solicitud de extracción a un problema](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) cerrará automáticamente el problema una vez que la solicitud de extracción se fusione.
+
+    Puedes encontrar el número del problema justo después del título, como se muestra a continuación.
+
+    ![Número del problema](../../../_assets/images/issue-number.png)
+
+    !>  Agregue aquí solo la [palabra clave admitida](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) y el número de problema. Agregar más palabras evitará que el problema se cierre automáticamente.
+
+- **Capturas de pantalla y grabaciones de pantalla**
+
+    Si sus cambios se relacionan con la mejora de la interfaz de usuario, considere agregar capturas de pantalla o grabaciones de pantalla para mostrar los cambios antes y después.
+
+### 9. Responder a la retroalimentación
+
+Después de enviar su solicitud de extracción, los mantenedores del proyecto pueden proporcionar comentarios o solicitar cambios. Asegúrese de responder con prontitud y abordar cualquier inquietud o sugerencia que puedan tener.
 
 Si sigue estos pasos, podrá enviar sus contribuciones a proyectos Open Source y colaborar con otros desarrolladores para mejorar el código base.
 
@@ -172,6 +344,7 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
 ### Empezando
 
 1. Cree un problema siguiendo estas instrucciones:
+
    - Haga clic en la pestaña "Problemas" en la barra superior.
    - Haga clic en el botón verde "Nuevo problema" en la parte superior derecha.
    - Haga clic en el botón "Comenzar" para agregar contribuyentes.
@@ -179,7 +352,9 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
    - Completa el formulario. Puede consultar el ejemplo en cada área de texto para completarlos, como se muestra en la captura de pantalla a continuación con la línea roja.
 
       ![Formulario de problemas del libro de visitas](../../../_assets/images/guestbook-issue-form.png)
+
    - Haga clic en el botón "Enviar nuevo problema".
+
 2. Bifurque el [repositorio de libros de visitas](https://github.com/open-sauced/guestbook).
 3. Clona tu repositorio bifurcado en tu computadora.
 4. Ejecute `npm install` para instalar las dependencias.
@@ -211,13 +386,13 @@ Necesitará tener estas herramientas descargadas e instaladas en su máquina loc
     git push -u origin branch-name
    ```
 
-11. Vaya a su repositorio bifurcado en GitHub. Crea una solicitud de extracción con el título `feat: Add <@github-username> as a contributor` y complete todas las áreas en el formulario de solicitud de extracción.
+11. Vaya a su repositorio bifurcado en GitHub. Crea una solicitud de extracción con el título `feat: Add <@github-username> as a contributor` y complete todas las áreas en la plantilla de la solicitud de extracción. Lea la sección [complete una plantilla de solicitud de extracción](#complete-una-plantilla-de-solicitud-de-extracción) para ayudarle a completar la plantilla.
 
-   !> Su solicitud de extracción se marcará como no válida y podrá cerrarse si el formulario está incompleto.
+   !> Su solicitud de extracción se marcará como no válida y podrá cerrarse si la plantilla está incompleto.
 
 ¡Felicitaciones por tu primera contribución! 🎉
 
-?> Si está listo para su próxima contribución, consulte el [repositorio de pizza-vers](https://github.com/open-sauced/pizza-verse) y siga las pautas de contribución.
+?> Si está listo para su próxima contribución, consulte el [repositorio de pizza-verso](https://github.com/open-sauced/pizza-verse) y siga las pautas de contribución.
 
 ## Mantener las ramas actualizadas
 
