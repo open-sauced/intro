@@ -72,7 +72,7 @@ Para ser más eficaz a la hora de destacar sus contribuciones, le recomendamos u
 
 **¡Compártelo!**: Una vez que hayas creado un currículum de contribuciones en Open Source, puedes compartir tu currículum de OpenSauced con otras personas haciendo clic en el botón compartir en el encabezado de tu página de perfil. Esto puede resultar especialmente útil al solicitar empleo, establecer contactos con otros desarrolladores o promocionar su trabajo en la comunidad Open Source.
 
-Al aprovechar OpenSauced para realizar un seguimiento de sus contribuciones en Open Source y desarrollar su currículum, estará mejor equipado para mostrar sus habilidades, experiencia e impacto en la comunidad Open Source.
+Al aprovechar OpenSauced para realizar un seguimiento de sus contribuciones en Open Source y desarrollar su currículum, estará mejor equipado para mostrar sus habilidades, experiencia e impacto en la comunidad Open Source. Además, puede consultar la [Guía para solicitantes de empleo](https://docs.opensauced.pizza/opensauced-guides/job-seekers-guide/job-seekers-guide-introduction/) en nuestros documentos para aprender a utilizar OpenSauced para conseguir un trabajo en la industria tecnológica.
 
 En conclusión, comenzar con contribuciones al Open Source y lograr un impacto duradero en los proyectos en los que trabaja requiere una combinación de habilidades técnicas, colaboración y perseverancia. Al centrarse en temas abiertos, ganar impulso en sus contribuciones y aprovechar herramientas como OpenSauced, estará bien encaminado hacia un viaje exitoso y satisfactorio hacia el Open Source.
 
