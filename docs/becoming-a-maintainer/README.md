@@ -2,7 +2,7 @@
     <div style="display: flex; align-items: center; justify-content: center;">
        <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 25px 0;">Becoming a Maintainer with <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
             OpenSauced
-        </span> </h1>
+        </span></h1>
     </div>
 </div>
 
@@ -83,9 +83,9 @@ Happy learning and contributing!
 
 ## 🤝 Contributing to OpenSauced Becoming a Maintainer Repository
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../../contributing/CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](../i18n-guidelines.md).
+If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](../../contributing/i18n-guidelines.md).
 
 ## ⚖️ LICENSE
 

@@ -1,12 +1,10 @@
-
 <div style="text-align: center; padding: 20px;">
     <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 10px 0;">
        The Open Source Education Path with
  <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
             OpenSauced
-        </span>    </h1>
+        </span></h1>
 </div>
-
 
 **Welcome to The Open Source Education Path with OpenSauced!**
 
@@ -30,9 +28,9 @@ This course is designed to aid people who are interested in becoming open source
 
 ## **Contributing to Our Courses**
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../contributing/CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](i18n-guidelines.md).
+If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](../contributing/i18n-guidelines.md).
 
 ## **Community**
 
