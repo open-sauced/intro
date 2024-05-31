@@ -28,9 +28,9 @@ This course is designed to aid people who are interested in becoming open source
 
 ## **Contributing to Our Courses**
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../contributing/CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](../contributing/i18n-guidelines.md).
+If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/i18n-guidelines.md).
 
 ## **Community**
 
