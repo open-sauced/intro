@@ -74,18 +74,6 @@ We hope you find this course informative and useful! If you have any questions o
 
 Happy learning and contributing!
 
----
-
-## 🤝 Contributing
-
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md) for information on how to contribute.
-
-If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/i18n-guidelines.md).
-
-## ⚖️ LICENSE
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
 <footer>
   <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/README.md">✏️ Edit this page</a>
 </footer>
