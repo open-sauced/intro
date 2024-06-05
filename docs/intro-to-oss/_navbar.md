@@ -6,4 +6,4 @@
 - Languages
   - [:us: English](/intro-to-oss/)
   - [:fr: French](/intro-to-oss/translations/fr/)
-  - [:ar: Arabic](/intro-to-oss/translations/ar/)
+  - [:egypt: Arabic](/intro-to-oss/translations/ar/)
