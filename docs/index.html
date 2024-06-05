@@ -90,11 +90,11 @@
         if (window.location.hash.includes("ar")) {
           document.querySelector("html").setAttribute("dir", "rtl");
           document.querySelector("html").setAttribute("lang", "ar");
-          document.querySelector("body").classList.add("ar");
+          document.querySelector("body").classList.add("rtl-lang");
         } else {
           document.querySelector("html").setAttribute("dir", "ltr");
           document.querySelector("html").setAttribute("lang", "en");
-          document.querySelector("body").classList.remove("ar");
+          document.querySelector("body").classList.remove("rtl-lang");
         }
       });
 
@@ -103,11 +103,11 @@
 	  if (window.location.hash.includes("ar")) {
 	    document.querySelector("html").setAttribute("dir", "rtl");
 	    document.querySelector("html").setAttribute("lang", "ar");
-	    document.querySelector("body").classList.add("ar");
+	    document.querySelector("body").classList.add("rtl-lang");
 	  } else {
 	    document.querySelector("html").setAttribute("dir", "ltr");
 	    document.querySelector("html").setAttribute("lang", "en");
-	    document.querySelector("body").classList.remove("ar");
+	    document.querySelector("body").classList.remove("rtl-lang");
 	  }
 	});
     </script>

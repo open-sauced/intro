@@ -26,22 +26,23 @@ section.cover p {
 
 /* Arabic translation style */
 
-.ar .app-nav {
+.rtl-lang .app-nav {
   left: 0;
   text-align: left;
   right: unset;
   margin: 25px 0 0 30px;
 }
 
-.ar .sidebar {
+.rtl-lang .sidebar {
   right: 0;
   left: unset;
   text-align: right;
   border-left: 1px solid var(--borderColor);
   border-right: unset;
+  overflow-y: unset;
 }
 
-.ar .app-nav li ul {
+.rtl-lang .app-nav li ul {
   left: -15px;
   right: unset;
   text-align: right;
@@ -49,34 +50,34 @@ section.cover p {
   padding-right: unset;
 }
 
-.ar .sidebar ul {
+.rtl-lang .sidebar ul {
   margin: 0 15px 0 0;
 }
 
-.ar .search input {
+.rtl-lang .search input {
   margin: 30px auto
 }
 
-.ar .sidebar ul li.active>a {
+.rtl-lang .sidebar ul li.active>a {
 	border-left: 2px solid;
 	border-right: unset;
 }
 
-.ar .app-sub-sidebar li:before {
+.rtl-lang .app-sub-sidebar li:before {
   padding-left: 4px;
   float: right;
 }
 
-.ar .sidebar-toggle {
+.rtl-lang .sidebar-toggle {
   right: 0;
   left: unset;
 }
 
-body.close.ar .sidebar {
+body.close.rtl-lang .sidebar {
   transform: translateX(300px);
 }
 
-.ar .content {
+.rtl-lang .content {
   right: 300px;
   left: unset;
 }
@@ -85,7 +86,7 @@ body.close .content {
   right: 0;
 }
 
-.ar #docsify-darklight-theme {
+.rtl-lang #docsify-darklight-theme {
   left: -20px;
   right: unset;
 }
