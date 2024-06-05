@@ -4,3 +4,4 @@
 - Languages
   - [:us: Anglais](/intro-to-oss/)
   - [:fr: Français](/intro-to-oss/translations/fr/)
+  - [:ar: Arabe](/intro-to-oss/translations/ar/)

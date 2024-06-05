@@ -1,25 +1,87 @@
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .token.property {
-	color: #205D3B;
+  color: #205d3b;
 }
 
 .token.punctuation {
-	color: #205D3B;
+  color: #205d3b;
 }
 
 .markdown-section p.tip code {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 .app-nav li ul {
-	background: #FFFDFA;
-	color: #11181C;
-	padding-right: 1.5em;
+  background: #fffdfa;
+  color: #11181c;
+  padding-right: 1.5em;
 }
 
 section.cover p {
-	padding: 0 5em;
+  padding: 0 5em;
+}
+
+/* Arabic translation style */
+
+.ar .app-nav {
+  left: 0;
+  text-align: left;
+  right: unset;
+  margin: 25px 0 0 30px;
+}
+
+.ar .sidebar {
+  right: 0;
+  left: unset;
+  text-align: right;
+  border-left: 1px solid var(--borderColor);
+  border-right: unset;
+}
+
+.ar .app-nav li ul {
+  left: -15px;
+  right: unset;
+  text-align: right;
+  padding-left: 1.5em;
+  padding-right: unset;
+}
+
+.ar .sidebar ul {
+  margin: 0 15px 0 0;
+}
+
+.ar .sidebar ul li.active>a {
+	border-left: 2px solid;
+	border-right: unset;
+}
+
+.ar .app-sub-sidebar li:before {
+  padding-left: 4px;
+  float: right;
+}
+
+.ar .sidebar-toggle {
+  right: 0;
+  left: unset;
+}
+
+body.close.ar .sidebar {
+  transform: translateX(300px);
+}
+
+.ar .content {
+  right: 300px;
+  left: unset;
+}
+
+body.close .content {
+  right: 0;
+}
+
+.ar #docsify-darklight-theme {
+  left: 5px;
+  right: unset;
 }

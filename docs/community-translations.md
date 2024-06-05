@@ -8,6 +8,7 @@ We are grateful for the contributions of the community in translating our course
 <!--
 - [Language](link to your forked repository) - maintain by [GitHub username](link to your GitHub profile)
 -->
+- [Arabic](https://github.com/dvmhmdsd/open-sauced-translation) - maintain by [dvmhmdsd - Mohamed Saad](https://github.com/dvmhmdsd)
 
 ## Becoming a Maintainer Course
 

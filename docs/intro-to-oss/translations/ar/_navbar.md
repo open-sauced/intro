@@ -1,0 +1,8 @@
+- [الصفحة الرئيسية](../README.md)
+- الكورسات المتاحة
+  - [مقدمة إلي الopen source](/intro-to-oss/README.md)
+  - [كيف تصبح مشرفا](/becoming-a-maintainer/README.md)
+- اللغات
+  - [:us: الإنجليزية](/intro-to-oss/)
+  - [:fr: الفرنسية](/intro-to-oss/translations/fr/)
+  - [:ar: العربية](/intro-to-oss/translations/ar/)
