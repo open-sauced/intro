@@ -11,13 +11,55 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 ## Issues
 
-- When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+- When you contribute to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22), [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), or [beginners only](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22beginners+only%22) labels.
 
-- If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue before beginning work to avoid conflicts.
+- If you wish to work on an open issue, please comment with `.take`, and it will be assigned to you. <br> If an issue is not assigned, it is assumed to be available for anyone to work on. So, assign yourself to an issue **before** beginning work to avoid conflicts.
 
-- Do you have an idea and want to add a section or a chapter to a course? Or do you spot a bug or have an idea for enhancing any of our courses? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag the `@open-sauced/docs` team in the comment to notify them.
+  > **NOTE**: Please only self-assign an issue with the label "beginners only" or "good first issue" **one time**. <br> Maintainers may remove you from the assignees and not accept your pull request if you choose to proceed.
+
+- Do you spot a bug in any of our courses? Or do you have an idea for enhancing our courses and want to add a section or a chapter to a course?
+
+  You can create an issue and fill out our issue form to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue you submitted, please inform and tag the `@open-sauced/docs` team in the comment.
 
 You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
+
+## Pull Requests (PRs)
+
+We actively welcome your PRs. However, before working on changes, you must ensure that **you are assigned** to an existing issue and **link your work to the issue in your PR template**.
+
+### Before Submitting a PR Template
+
+1. Ensure that your changes are made in a new branch.
+
+2. Run and check your changes locally. Ensure that everything works as it should.
+
+### Submitting a PR Template
+
+1. Ensure that you address one issue in one PR. <br> If you work on multiple issues, work on them separately and create one PR to address each issue.
+
+2. Completing the PR template. Make sure you **fill in all sections** and that you have:
+
+   - **A valid title**. The PR title must begin with `feat:`, `fix:`, or anything related to your changes.
+   - **A related issue**. [Link the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) that you worked on and add a keyword of "Closes", "Fixes", or "Resolves" in front of it. For example: Closes #123, Fixes #234, etc.
+
+3. Do NOT delete any section of the PR template. <br> If a section is irrelevant to your changes, please explain or respond with "N/A".
+
+### After Submitting a PR Template
+
+1. Ensure that all checks are passed. <br> If you see any GitHub action bots or checks that failed after you submit your PR template, you need to read each one and understand why it failed. Then, you must address and fix it until all of them pass.
+
+2. Do NOT DM maintainers or tag them in the comments to review your PR. <br> Maintainers are always notified whenever there is an incoming PR. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated review time.
+
+3. Keep your branch up to date while waiting for review and resolve any merge conflicts in your terminal.
+
+4. Response and address the reviewer's feedback.
+
+### ⚠️ A PR will be marked as invalid and may be closed if:
+
+- the issue is not assigned to the contributor who opened the PR.
+- no issue is linked to the PR.
+- PR template is incomplete, or any section in the template is deleted.
+- changes are made directly in the default (`main`) branch.
 
 ## Getting Started
 
@@ -36,7 +78,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
    cd intro
    ```
 
-4. Create a new branch to work on your changes.
+4. Create a new branch to work on your changes. Do NOT work directly on the `main` branch.
 
    ```bash
    git checkout -b YOUR-BRANCH-NAME
@@ -152,7 +194,7 @@ Follow these steps to add a new chapter to our course:
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
-   > **Note**: There should only be **one** `heading 1` in each file.
+   > **NOTE**: There should only be **one** `heading 1` in each file.
 
 3. **Test your changes**.
 
