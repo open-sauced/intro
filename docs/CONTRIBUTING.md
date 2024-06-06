@@ -17,7 +17,7 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 - Do you have an idea and want to add a section or a chapter to a course? Or do you spot a bug or have an idea for enhancing any of our courses? You can create an issue to address it. But our maintainers need to triage the issue before you can work on it. If you wish to work on the issue, please tag the `@open-sauced/docs` team in the comment to notify them.
 
-You can always ask for help in the `🍕opensauced-contributors-chat` channel on our community [Discord](https://discord.com/invite/U2peSNf23P) or [GitHub Discussions](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
+You can always ask for help in our [Community](https://github.com/open-sauced/intro/discussions) if you get stuck while working on your changes or need clarification.
 
 ## Getting Started
 
