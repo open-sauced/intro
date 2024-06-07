@@ -22,6 +22,12 @@ Here are some benefits of translating our courses:
 
 ?> **NOTE:** It will be helpful taking our [Becoming a Maintainer](../docs/becoming-a-maintainer/README.md) course to equip you in maintaining your forked repository.
 
+## Getting Started
+
+### 1. Forking the Repository
+
+First, you need to fork the [intro repository](https://github.com/open-sauced/intro). See the official GitHub docs for [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
+
 ## Adding Translations
 
 First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
