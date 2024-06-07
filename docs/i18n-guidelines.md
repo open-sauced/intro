@@ -10,33 +10,6 @@ However, we know some contributors are willing to translate and help our courses
 
 Please keep reading if you want to translate the Open Source Education Path with OpenSauced.
 
-## How can I Contribute?
-
-There are two types of i18n contributions that we accept:
-
-1. Translate our Intro to Open Source or Becoming a Maintainer course.
-2. Review pull requests (PRs) and translations.
-
-### Translate the Courses
-
-We have two types of translations:
-
-#### 1. Official Translations
-
-Official translations start as a post on our [GitHub Discussions](https://github.com/open-sauced/intro/discussions) board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
-
-#### 2. Community Translations
-
-We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](community-translations.md) section.
-
-If you're interested in translating our Intro to Open Source course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file that you can find in the root directory.
-
-We encourage you to add it to the [discussions board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
-
-### Review Pull Requests (PRs) and Translations
-
-If you are familiar with the translated language(s), you can help us review the translations and the PRs. Please head over to the "[Reviewer Process Guide](#reviewer-process-guide)" section for more information.
-
 ## Adding Translations
 
 First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
