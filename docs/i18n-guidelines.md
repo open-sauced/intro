@@ -32,9 +32,36 @@ First, you need to fork the [intro repository](https://github.com/open-sauced/in
 
 [Create a branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) where the translation changes will be merged. This will be the default branch of your translation and the one from which you deploy the translation.
 
-You can name this branch anything. For example: `lang-translations`.
+You can name this branch anything. For example: `jp-translations`.
 
 !> The `main` branch should be free from translations.
+
+### 3. Organizing the Project for Translation
+
+The content in the forked repository is entirely translations. So, organize your forked repository as follows:
+
+- Maintain the original project's file names and structure, but replace all content with the translations.
+- Remove the `translations` folder inside `docs/intro-to-oss/`.
+- Add a language selector to the navigation bar. Here is how to do this:
+
+  1. Open the `_navbar.md` file in the `docs` and each course directory.
+  2. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
+
+     Below is an example of adding Japanese in the language selector of the Intro to Open Source course:
+
+     ```markdown
+     - Languages
+       - [:us: English](https://intro.opensauced.pizza/#/intro-to-oss/README)
+       - [:jp: Japanese](/intro-to-oss/)
+       - [🌐 Community Translations](/community-translations.md)
+     ```
+
+- Translate and add the following note to the top of the README located in the root:
+
+  ```markdown
+  > [!NOTE]
+  > This repository is one of the community translations of the [Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/#/README).
+  ```
 
 ## Adding Translations
 
