@@ -63,6 +63,18 @@ The content in the forked repository is entirely translations. So, organize your
   > This repository is one of the community translations of the [Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/#/README).
   ```
 
+### 4. Creating Contributing Guidelines for the Forked Repository
+
+You have complete control of how you want contributors to contribute to your forked repo. So, you want to create contributing guidelines for contributors to contribute to your forked repo.
+
+You can name this file anything except `CONTRIBUTING.md`. For example: `contributing-jp.md`.
+
+Put these guidelines in the `contributing` folder at the root. Then, add the link to the contributing guidelines in the "[🤝 Contributing](../README.md#-contributing)" section on the root README.
+
+```markdown
+- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
+```
+
 ## Adding Translations
 
 First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
