@@ -81,9 +81,15 @@ Now that your forked repository is set up, it's time to deploy the translations.
 
 This project is using [docsify](https://docsify.js.org/). You can read the [deployment guide](https://docsify.js.org/#/deploy) on their official website to choose which platform you want the translation to be deployed.
 
+### 6. Adding Translation in the Community Translations Page
+
 ### Best Practices for Translations
 
 - Maintain consistency in terminology and style throughout the translated documentation.
 - Work with another contributor who speaks the language you're translating to.
 - It helps to mention specific tools you use so developers who want to translate documentation can see how it's done.
 - Keep translations up to date with changes in the original documentation.
+
+## Community
+
+If you have questions or need help from others in translating our Open Source Education Path, you can join and reach out to the [Community](https://github.com/open-sauced/intro/discussions).
