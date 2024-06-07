@@ -1,6 +1,6 @@
 # 🌐 i18n Guidelines
 
-Welcome to our i18n Guidelines! We appreciate your interest in translating our courses.
+Welcome to our i18n Guidelines! Thank you for being so interested in translating our courses.
 
 ## Translations
 
@@ -60,9 +60,9 @@ First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the p
    ```markdown
    .
    └── translations/
-      ├── en/
-      ├── fr/
-      └── es/
+   ├── en/
+   ├── fr/
+   └── es/
    ```
 
 3. **Translate content**.
