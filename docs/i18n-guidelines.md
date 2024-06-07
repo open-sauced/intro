@@ -2,19 +2,13 @@
 
 Welcome to our i18n Guidelines! Thank you for being so interested in translating our courses.
 
-## Translations
+## Community Translations
 
-At the moment, we have the courses in the following languages:
+At the moment, we are unable to offer translation maintenance.
 
-### Intro to Open Source Course
+However, we know some contributors are willing to translate and help our courses to reach a broader audience. We value these contributions! ✨
 
-- [English](./intro-to-oss/README.md)
-- [French](./intro-to-oss/translations/fr/README.md)
-- Brazilian Portuguese — work in progress
-
-### Becoming a Maintainer Course
-
-- [English](./becoming-a-maintainer/README.md)
+Please keep reading if you want to translate the Open Source Education Path with OpenSauced.
 
 ## How can I Contribute?
 
