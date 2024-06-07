@@ -75,6 +75,12 @@ Put these guidelines in the `contributing` folder at the root. Then, add the lin
 - For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
 ```
 
+### 5. Setting up the Hosting and Deployment Platform
+
+Now that your forked repository is set up, it's time to deploy the translations.
+
+This project is using [docsify](https://docsify.js.org/). You can read the [deployment guide](https://docsify.js.org/#/deploy) on their official website to choose which platform you want the translation to be deployed.
+
 ## Adding Translations
 
 First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
