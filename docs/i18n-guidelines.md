@@ -28,6 +28,14 @@ Here are some benefits of translating our courses:
 
 First, you need to fork the [intro repository](https://github.com/open-sauced/intro). See the official GitHub docs for [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
 
+### 2. Creating a Branch for the Translation
+
+[Create a branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) where the translation changes will be merged. This will be the default branch of your translation and the one from which you deploy the translation.
+
+You can name this branch anything. For example: `lang-translations`.
+
+!> The `main` branch should be free from translations.
+
 ## Adding Translations
 
 First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
