@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/différents-types-de-contributions",
+  "title": "Les types de contributions à l'Open Source",
+  "description": "Les contributions aux projets open source peuvent prendre de nombreuses formes, telles que le codage, la documentation, les tests, etc. Il est important de noter que les contributions aux projets open source ne sont pas réservées aux développeurs. Tout le monde peut contribuer à des projets open source, quelles que soient ses compétences techniques.",
+  "source": "@site/docs/intro-to-oss/translations/fr/différents-types-de-contributions.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/différents-types-de-contributions",
+  "permalink": "/docs/intro-to-oss/translations/fr/différents-types-de-contributions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/différents-types-de-contributions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

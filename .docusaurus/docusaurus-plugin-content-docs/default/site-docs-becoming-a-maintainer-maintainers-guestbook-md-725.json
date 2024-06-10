@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/maintainers-guestbook",
+  "title": "Maintainers Guestbook",
+  "description": "Congratulations on finishing the Becoming a Maintainer Course with OpenSauced. Welcome to our Maintainers Guestbook, where you can share your first project with us!",
+  "source": "@site/docs/becoming-a-maintainer/maintainers-guestbook.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/maintainers-guestbook",
+  "permalink": "/docs/becoming-a-maintainer/maintainers-guestbook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/maintainers-guestbook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

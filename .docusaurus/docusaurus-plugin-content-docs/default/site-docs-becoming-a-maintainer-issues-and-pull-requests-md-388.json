@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/issues-and-pull-requests",
+  "title": "How to Handle Open Issues and Pull Requests",
+  "description": "One of the core responsibilities of an open source maintainer is triaging open issues and reviewing pull requests. In this chapter, we will talk about how to handle best open issues, pull requests, and security vulnerabilities.",
+  "source": "@site/docs/becoming-a-maintainer/issues-and-pull-requests.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/issues-and-pull-requests",
+  "permalink": "/docs/becoming-a-maintainer/issues-and-pull-requests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/issues-and-pull-requests.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

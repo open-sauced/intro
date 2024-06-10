@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/glossary",
+  "title": "glossary",
+  "description": "API Documentation",
+  "source": "@site/docs/becoming-a-maintainer/glossary.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/glossary",
+  "permalink": "/docs/becoming-a-maintainer/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

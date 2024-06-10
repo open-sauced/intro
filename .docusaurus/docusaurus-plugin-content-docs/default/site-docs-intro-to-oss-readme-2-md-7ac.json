@@ -1,0 +1,24 @@
+{
+  "id": "intro-to-oss/README 2",
+  "title": "README 2",
+  "description": "The Open Source Education Path with",
+  "source": "@site/docs/intro-to-oss/README 2.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/README 2",
+  "permalink": "/docs/intro-to-oss/README 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/README 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "README 2",
+    "title": "README 2",
+    "sidebar_label": "README 2",
+    "keywords": [
+      "README 2",
+      "Open Source",
+      "Open Source Community"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/introduction",
+  "title": "Introduction",
+  "description": "Bienvenue dans le cours \"Initiation à l'Open Source\" ! Ce cours complet vous guidera à travers le monde fascinant de l'open source et vous aidera à devenir un contributeur actif. À la fin de ce cours, vous devriez avoir une solide compréhension de la façon de trouver, de rejoindre et de contribuer à des projets open source, ainsi que de la façon de développer votre CV open source. Mais d'abord, plantons le décor en discutant des prérequis, des objectifs et des attentes pour ce cours.",
+  "source": "@site/docs/intro-to-oss/translations/fr/introduction.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/introduction",
+  "permalink": "/docs/intro-to-oss/translations/fr/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

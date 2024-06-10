@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/intro",
+  "title": "Introduction",
+  "description": "Welcome to the \"Intro to Open Source with OpenSauced\" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.",
+  "source": "@site/docs/intro-to-oss/intro.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/intro",
+  "permalink": "/docs/intro-to-oss/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

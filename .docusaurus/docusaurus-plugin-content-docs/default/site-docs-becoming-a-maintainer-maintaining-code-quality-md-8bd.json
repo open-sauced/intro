@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/maintaining-code-quality",
+  "title": "How to Maintain Code Quality and Documentation",
+  "description": "Maintaining a project with high code quality and up-to-date documentation is important. This will help contributors understand the project and make it easier for them to contribute.",
+  "source": "@site/docs/becoming-a-maintainer/maintaining-code-quality.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/maintaining-code-quality",
+  "permalink": "/docs/becoming-a-maintainer/maintaining-code-quality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/maintaining-code-quality.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

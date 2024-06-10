@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/intro",
+  "title": "Understanding the Role of an Open Source Maintainer",
+  "description": "Being an open source maintainer can be a very gratifying and rewarding experience. But a lot of work goes into maintaining an open source project. You will have many responsibilities as a maintainer, including being a contributor, leader, mentor, and community manager.",
+  "source": "@site/docs/becoming-a-maintainer/intro.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/intro",
+  "permalink": "/docs/becoming-a-maintainer/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

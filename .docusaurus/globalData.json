@@ -1,0 +1,177 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "becoming-a-maintainer/additional-resources",
+              "path": "/docs/becoming-a-maintainer/additional-resources"
+            },
+            {
+              "id": "becoming-a-maintainer/building-community",
+              "path": "/docs/becoming-a-maintainer/building-community"
+            },
+            {
+              "id": "becoming-a-maintainer/communication-and-collaboration",
+              "path": "/docs/becoming-a-maintainer/communication-and-collaboration"
+            },
+            {
+              "id": "becoming-a-maintainer/getting-practical",
+              "path": "/docs/becoming-a-maintainer/getting-practical"
+            },
+            {
+              "id": "becoming-a-maintainer/glossary",
+              "path": "/docs/becoming-a-maintainer/glossary"
+            },
+            {
+              "id": "becoming-a-maintainer/how-to-setup-your-project",
+              "path": "/docs/becoming-a-maintainer/how-to-setup-your-project"
+            },
+            {
+              "id": "becoming-a-maintainer/intro",
+              "path": "/docs/becoming-a-maintainer/intro"
+            },
+            {
+              "id": "becoming-a-maintainer/issues-and-pull-requests",
+              "path": "/docs/becoming-a-maintainer/issues-and-pull-requests"
+            },
+            {
+              "id": "becoming-a-maintainer/maintainer-powerups",
+              "path": "/docs/becoming-a-maintainer/maintainer-powerups"
+            },
+            {
+              "id": "becoming-a-maintainer/maintainers-guestbook",
+              "path": "/docs/becoming-a-maintainer/maintainers-guestbook"
+            },
+            {
+              "id": "becoming-a-maintainer/maintaining-code-quality",
+              "path": "/docs/becoming-a-maintainer/maintaining-code-quality"
+            },
+            {
+              "id": "becoming-a-maintainer/metrics-and-analytics",
+              "path": "/docs/becoming-a-maintainer/metrics-and-analytics"
+            },
+            {
+              "id": "becoming-a-maintainer/README",
+              "path": "/docs/becoming-a-maintainer/"
+            },
+            {
+              "id": "becoming-a-maintainer/your-team",
+              "path": "/docs/becoming-a-maintainer/your-team"
+            },
+            {
+              "id": "community-translations",
+              "path": "/docs/community-translations"
+            },
+            {
+              "id": "intro-to-oss/additional-resources",
+              "path": "/docs/intro-to-oss/additional-resources"
+            },
+            {
+              "id": "intro-to-oss/conclusion",
+              "path": "/docs/intro-to-oss/conclusion"
+            },
+            {
+              "id": "intro-to-oss/glossary",
+              "path": "/docs/intro-to-oss/glossary"
+            },
+            {
+              "id": "intro-to-oss/how-to-contribute-to-open-source",
+              "path": "/docs/intro-to-oss/how-to-contribute-to-open-source"
+            },
+            {
+              "id": "intro-to-oss/intro",
+              "path": "/docs/intro-to-oss/intro"
+            },
+            {
+              "id": "intro-to-oss/README",
+              "path": "/docs/intro-to-oss/"
+            },
+            {
+              "id": "intro-to-oss/the-secret-sauce",
+              "path": "/docs/intro-to-oss/the-secret-sauce"
+            },
+            {
+              "id": "intro-to-oss/tools-to-be-successful",
+              "path": "/docs/intro-to-oss/tools-to-be-successful"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/comment-contribuer-à-l-open-source",
+              "path": "/docs/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/conclusion",
+              "path": "/docs/intro-to-oss/translations/fr/conclusion"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/CONTRIBUTING",
+              "path": "/docs/intro-to-oss/translations/fr/CONTRIBUTING"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/différents-types-de-contributions",
+              "path": "/docs/intro-to-oss/translations/fr/différents-types-de-contributions"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/glossaire",
+              "path": "/docs/intro-to-oss/translations/fr/glossaire"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/introduction",
+              "path": "/docs/intro-to-oss/translations/fr/introduction"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/la-sauce-secrète",
+              "path": "/docs/intro-to-oss/translations/fr/la-sauce-secrète"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/outils-pour-reussir",
+              "path": "/docs/intro-to-oss/translations/fr/outils-pour-reussir"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/pourquoi-open-source",
+              "path": "/docs/intro-to-oss/translations/fr/pourquoi-open-source"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/qu-est-ce-que-l-open-source",
+              "path": "/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/README",
+              "path": "/docs/intro-to-oss/translations/fr/"
+            },
+            {
+              "id": "intro-to-oss/translations/fr/ressources-additionnelles",
+              "path": "/docs/intro-to-oss/translations/fr/ressources-additionnelles"
+            },
+            {
+              "id": "intro-to-oss/types-of-contributions",
+              "path": "/docs/intro-to-oss/types-of-contributions"
+            },
+            {
+              "id": "intro-to-oss/what-is-open-source",
+              "path": "/docs/intro-to-oss/what-is-open-source"
+            },
+            {
+              "id": "intro-to-oss/why-open-source",
+              "path": "/docs/intro-to-oss/why-open-source"
+            },
+            {
+              "id": "README",
+              "path": "/docs/"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

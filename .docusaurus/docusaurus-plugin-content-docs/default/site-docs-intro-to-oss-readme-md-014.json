@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/README",
+  "title": "README",
+  "description": "Intro to Open Source with  OpenSauced",
+  "source": "@site/docs/intro-to-oss/README.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/",
+  "permalink": "/docs/intro-to-oss/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

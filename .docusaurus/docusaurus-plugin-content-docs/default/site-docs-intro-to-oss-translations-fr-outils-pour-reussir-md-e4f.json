@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/outils-pour-reussir",
+  "title": "Outils pour réussir",
+  "description": "Pour réussir votre parcours dans l'open source, il est essentiel de vous familiariser avec les outils et les plateformes couramment utilisés par la communauté. Ces outils vous aideront à collaborer efficacement, à gérer vos projets et à contribuer aux projets open source. Dans ce chapitre, nous aborderons les outils essentiels suivants pour la collaboration open source :",
+  "source": "@site/docs/intro-to-oss/translations/fr/outils-pour-reussir.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/outils-pour-reussir",
+  "permalink": "/docs/intro-to-oss/translations/fr/outils-pour-reussir",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/outils-pour-reussir.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

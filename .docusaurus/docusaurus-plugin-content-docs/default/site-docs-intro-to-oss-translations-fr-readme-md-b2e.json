@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/README",
+  "title": "README",
+  "description": "🍕 Introduction à l'Open Source avec OpenSauced 🍕",
+  "source": "@site/docs/intro-to-oss/translations/fr/README.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/",
+  "permalink": "/docs/intro-to-oss/translations/fr/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

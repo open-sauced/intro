@@ -1,0 +1,15 @@
+{
+  "id": "README",
+  "title": "README",
+  "description": "The Open Source Education Path with",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

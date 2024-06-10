@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/communication-and-collaboration",
+  "title": "How to Communicate and Collaborate Effectively",
+  "description": "Effective communication and collaboration with contributors are the keys to a thriving open source community. As maintainers, you want to smoothly onboard new contributors to your projects and build a welcoming community with open lines of communication between contributors and maintainers.",
+  "source": "@site/docs/becoming-a-maintainer/communication-and-collaboration.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/communication-and-collaboration",
+  "permalink": "/docs/becoming-a-maintainer/communication-and-collaboration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/communication-and-collaboration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

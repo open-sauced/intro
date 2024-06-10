@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/conclusion",
+  "title": "Conclusion",
+  "description": "Pour conclure ce cours sur les débuts de l'open source, récapitulons les principaux enseignements et discutons de la suite de votre parcours dans l'open source.",
+  "source": "@site/docs/intro-to-oss/translations/fr/conclusion.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/conclusion",
+  "permalink": "/docs/intro-to-oss/translations/fr/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

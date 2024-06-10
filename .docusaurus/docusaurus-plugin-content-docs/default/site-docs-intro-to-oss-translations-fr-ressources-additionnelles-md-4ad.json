@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/ressources-additionnelles",
+  "title": "ressources-additionnelles",
+  "description": "Félicitations pour votre voyage vers l'open source ! Voici quelques ressources pour en savoir plus sur les premiers pas dans l'open source :",
+  "source": "@site/docs/intro-to-oss/translations/fr/ressources-additionnelles.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/ressources-additionnelles",
+  "permalink": "/docs/intro-to-oss/translations/fr/ressources-additionnelles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/ressources-additionnelles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

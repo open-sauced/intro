@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/why-open-source",
+  "title": "Why Open Source?",
+  "description": "In the previous chapter, we explored the concept of open source and its history. Now, let's delve into the many benefits of contributing to open source projects. By understanding the advantages of open source collaboration, you'll be better equipped to leverage the opportunities it presents and make the most of your open source journey.",
+  "source": "@site/docs/intro-to-oss/why-open-source.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/why-open-source",
+  "permalink": "/docs/intro-to-oss/why-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/why-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/how-to-setup-your-project",
+  "title": "How to Setup Your Open Source Project",
+  "description": "There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.",
+  "source": "@site/docs/becoming-a-maintainer/how-to-setup-your-project.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/how-to-setup-your-project",
+  "permalink": "/docs/becoming-a-maintainer/how-to-setup-your-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/how-to-setup-your-project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

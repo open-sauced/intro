@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/how-to-contribute-to-open-source",
+  "title": "How to Contribute to Open Source",
+  "description": "In this chapter, we'll guide you through the process of contributing to open source projects.",
+  "source": "@site/docs/intro-to-oss/how-to-contribute-to-open-source.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/how-to-contribute-to-open-source",
+  "permalink": "/docs/intro-to-oss/how-to-contribute-to-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/how-to-contribute-to-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

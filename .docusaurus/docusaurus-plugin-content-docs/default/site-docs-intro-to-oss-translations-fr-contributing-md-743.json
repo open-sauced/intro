@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/CONTRIBUTING",
+  "title": "Contribuer à OpenSauced Intro",
+  "description": "Les contributions sont toujours les bienvenues, quelle que soit leur importance. Avant de contribuer, veuillez lire le Code de Conduite et suivre les instructions de ce guide.",
+  "source": "@site/docs/intro-to-oss/translations/fr/CONTRIBUTING.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/CONTRIBUTING",
+  "permalink": "/docs/intro-to-oss/translations/fr/CONTRIBUTING",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

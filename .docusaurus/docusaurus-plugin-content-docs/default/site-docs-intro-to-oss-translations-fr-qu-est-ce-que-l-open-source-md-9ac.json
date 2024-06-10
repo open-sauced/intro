@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/qu-est-ce-que-l-open-source",
+  "title": "Qu'est-ce que l'Open Source ?",
+  "description": "Dans ce chapitre, nous approfondirons le concept d'open source, sa définition et son histoire. Acquérir une compréhension approfondie de l'open source vous aidera à apprécier le contexte dans lequel vous collaborerez et contribuerez.",
+  "source": "@site/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source",
+  "permalink": "/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,228 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-d04": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-3f8": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-53f": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-e35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-233-467"
+  },
+  "/docs/becoming-a-maintainer/-171": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-62-f-5f1"
+  },
+  "/docs/becoming-a-maintainer/additional-resources-62d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-additional-resourcesfdd-c33"
+  },
+  "/docs/becoming-a-maintainer/building-community-499": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-building-community-473-0de"
+  },
+  "/docs/becoming-a-maintainer/communication-and-collaboration-956": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-communication-and-collaboration-771-f81"
+  },
+  "/docs/becoming-a-maintainer/getting-practical-0ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-getting-practical-802-b8e"
+  },
+  "/docs/becoming-a-maintainer/glossary-6c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-glossary-403-063"
+  },
+  "/docs/becoming-a-maintainer/how-to-setup-your-project-af4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-how-to-setup-your-project-68-b-f29"
+  },
+  "/docs/becoming-a-maintainer/intro-f7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-intro-8-aa-29d"
+  },
+  "/docs/becoming-a-maintainer/issues-and-pull-requests-38e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-issues-and-pull-requests-388-823"
+  },
+  "/docs/becoming-a-maintainer/maintainer-powerups-1c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-maintainer-powerups-0-dd-a38"
+  },
+  "/docs/becoming-a-maintainer/maintainers-guestbook-da6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-maintainers-guestbook-725-c2b"
+  },
+  "/docs/becoming-a-maintainer/maintaining-code-quality-0fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-maintaining-code-quality-8-bd-f03"
+  },
+  "/docs/becoming-a-maintainer/metrics-and-analytics-a80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-metrics-and-analyticse-1-e-950"
+  },
+  "/docs/becoming-a-maintainer/your-team-41b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-becoming-a-maintainer-your-teamf-28-abd"
+  },
+  "/docs/community-translations-694": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-community-translations-84-d-da3"
+  },
+  "/docs/intro-to-oss/-d18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-014-531"
+  },
+  "/docs/intro-to-oss/additional-resources-175": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-additional-resourcesf-5-a-89f"
+  },
+  "/docs/intro-to-oss/conclusion-826": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-conclusion-4-e-4-f8e"
+  },
+  "/docs/intro-to-oss/glossary-dda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-glossaryd-26-d62"
+  },
+  "/docs/intro-to-oss/how-to-contribute-to-open-source-810": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-how-to-contribute-to-open-source-438-226"
+  },
+  "/docs/intro-to-oss/intro-15f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-introde-2-9d5"
+  },
+  "/docs/intro-to-oss/the-secret-sauce-210": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-the-secret-saucef-7-f-9f6"
+  },
+  "/docs/intro-to-oss/tools-to-be-successful-3b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-tools-to-be-successful-9-e-8-4fc"
+  },
+  "/docs/intro-to-oss/translations/fr/-428": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-b-2-e-597"
+  },
+  "/docs/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source-b39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-comment-contribuer-a-l-open-source-5-c-4-ac1"
+  },
+  "/docs/intro-to-oss/translations/fr/conclusion-771": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-conclusion-8-ee-895"
+  },
+  "/docs/intro-to-oss/translations/fr/CONTRIBUTING-1a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-contributing-743-679"
+  },
+  "/docs/intro-to-oss/translations/fr/différents-types-de-contributions-e5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-differents-types-de-contributionsef-9-462"
+  },
+  "/docs/intro-to-oss/translations/fr/glossaire-e77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-glossaire-6-ea-447"
+  },
+  "/docs/intro-to-oss/translations/fr/introduction-6c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-introduction-7-cf-088"
+  },
+  "/docs/intro-to-oss/translations/fr/la-sauce-secrète-732": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-la-sauce-secrete-496-7fd"
+  },
+  "/docs/intro-to-oss/translations/fr/outils-pour-reussir-7a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-outils-pour-reussire-4-f-aa7"
+  },
+  "/docs/intro-to-oss/translations/fr/pourquoi-open-source-db9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-pourquoi-open-source-155-a65"
+  },
+  "/docs/intro-to-oss/translations/fr/qu-est-ce-que-l-open-source-df0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-qu-est-ce-que-l-open-source-9-ac-76e"
+  },
+  "/docs/intro-to-oss/translations/fr/ressources-additionnelles-721": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-translations-fr-ressources-additionnelles-4-ad-7ed"
+  },
+  "/docs/intro-to-oss/types-of-contributions-eca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-types-of-contributions-435-48a"
+  },
+  "/docs/intro-to-oss/what-is-open-source-2fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-what-is-open-source-884-90c"
+  },
+  "/docs/intro-to-oss/why-open-source-32c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-to-oss-why-open-source-0-e-8-d04"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

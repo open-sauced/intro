@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/conclusion",
+  "title": "Conclusion",
+  "description": "As we wrap up this course on getting started with open source, let's recap the key takeaways and discuss what's next in your open source journey.",
+  "source": "@site/docs/intro-to-oss/conclusion.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/conclusion",
+  "permalink": "/docs/intro-to-oss/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

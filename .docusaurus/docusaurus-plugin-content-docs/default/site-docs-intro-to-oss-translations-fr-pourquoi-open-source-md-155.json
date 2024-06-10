@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/pourquoi-open-source",
+  "title": "Pourquoi l'Open Source ?",
+  "description": "Dans le chapitre précédent, nous avons exploré le concept d'open source et son histoire. Nous allons maintenant nous pencher sur les nombreux avantages de la participation à des projets open source. En comprenant les avantages de la collaboration open source, vous serez mieux équipé pour tirer parti des possibilités qu'elle offre et profiter au maximum de votre parcours dans l'open source.",
+  "source": "@site/docs/intro-to-oss/translations/fr/pourquoi-open-source.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/pourquoi-open-source",
+  "permalink": "/docs/intro-to-oss/translations/fr/pourquoi-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/pourquoi-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

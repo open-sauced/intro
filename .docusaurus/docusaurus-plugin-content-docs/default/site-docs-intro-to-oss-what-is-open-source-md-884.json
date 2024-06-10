@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/what-is-open-source",
+  "title": "What is Open Source?",
+  "description": "In this chapter, we'll delve into the concept of open source, its definition, and its history. Gaining a deep understanding of open source will help you appreciate the context in which you'll be collaborating and contributing.",
+  "source": "@site/docs/intro-to-oss/what-is-open-source.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/what-is-open-source",
+  "permalink": "/docs/intro-to-oss/what-is-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/what-is-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

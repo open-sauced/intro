@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/glossaire",
+  "title": "glossaire",
+  "description": "Branche",
+  "source": "@site/docs/intro-to-oss/translations/fr/glossaire.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/glossaire",
+  "permalink": "/docs/intro-to-oss/translations/fr/glossaire",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/glossaire.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/glossary",
+  "title": "glossary",
+  "description": "Branch",
+  "source": "@site/docs/intro-to-oss/glossary.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/glossary",
+  "permalink": "/docs/intro-to-oss/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

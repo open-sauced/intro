@@ -1,0 +1,15 @@
+{
+  "id": "becoming-a-maintainer/README",
+  "title": "README",
+  "description": "Becoming a Maintainer with",
+  "source": "@site/docs/becoming-a-maintainer/README.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/",
+  "permalink": "/docs/becoming-a-maintainer/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

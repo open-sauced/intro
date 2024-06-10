@@ -1,0 +1,15 @@
+{
+  "id": "intro-to-oss/translations/fr/comment-contribuer-à-l-open-source",
+  "title": "Comment contribuer à l'open source",
+  "description": "Dans ce chapitre, nous vous guiderons à travers le processus de contribution aux projets open source.",
+  "source": "@site/docs/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source.md",
+  "sourceDirName": "intro-to-oss/translations/fr",
+  "slug": "/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source",
+  "permalink": "/docs/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/translations/fr/comment-contribuer-à-l-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
