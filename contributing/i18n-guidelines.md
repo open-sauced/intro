@@ -91,7 +91,7 @@ What you need to know when working with translations:
   ```markdown
   We are working on translating this section. In the meantime, head to the [SECTION-TITLE](LINK-TO-THE-SECTION-ON-OPENSAUCED-COURSE) at OpenSauced.
 
-  If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
+  If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
   ```
 
   > [!NOTE]
