@@ -42,7 +42,6 @@ You can name this branch anything. For example: `jp-translations`.
 
 The content in the forked repository is entirely translations. So, organize your forked repository as follows:
 
-- Remove the `translations` folder inside `docs/intro-to-oss/`.
 - Change the "English" link in the language selector at each navigation bar to the link on the website.
 
   - In the `docs\_navbar.md`:
