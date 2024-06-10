@@ -34,7 +34,8 @@ First, you must fork the [intro repository](https://github.com/open-sauced/intro
 
 You can name this branch anything. For example: `jp-translations`.
 
-!> The `main` branch should be free from translations.
+> [!NOTE]
+> The `main` branch should be free from translations.
 
 ### 3. Organizing the Project for Translation
 
@@ -92,7 +93,8 @@ What you need to know when working with translations:
   If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
   ```
 
-  ?> **NOTE:** Add the link to the course, chapter, or section in our [Open Source Education Path](https://intro.opensauced.pizza/#/). You can also translate this note.
+  > [!NOTE]
+  > Add the link to the course, chapter, or section in our [Open Source Education Path](https://intro.opensauced.pizza/#/). You can also translate this note.
 
 ### 6. Setting up the Deployment Platform
 
