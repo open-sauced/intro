@@ -20,7 +20,8 @@ Here are some benefits of translating our courses:
 - You can make the translation available as soon as possible for a broader audience.
 - You can update the translation faster by reviewing and merging in pull requests yourself as a maintainer.
 
-?> **NOTE:** It will be helpful taking our [Becoming a Maintainer](../docs/becoming-a-maintainer/README.md) course to equip you in maintaining your forked repository.
+> [!NOTE]
+> It will be helpful taking our [Becoming a Maintainer](../docs/becoming-a-maintainer/README.md) course to equip you in maintaining your forked repository.
 
 ## Getting Started
 
