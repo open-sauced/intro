@@ -1,12 +1,10 @@
-
 <div style="text-align: center; padding: 20px;">
     <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 10px 0;">
        The Open Source Education Path with
  <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
             OpenSauced
-        </span>    </h1>
+        </span></h1>
 </div>
-
 
 **Welcome to The Open Source Education Path with OpenSauced!**
 
@@ -36,7 +34,7 @@ If you want to translate our Intro to Open Source or Becoming a Maintainer cours
 
 ## **Community**
 
-Do you have questions or need help? Join our community [Discord](https://discord.gg/U2peSNf23P).
+Do you have questions or need help? Join our [Community](https://github.com/orgs/open-sauced/discussions).
 
 ## **⚖️ LICENSE**
 

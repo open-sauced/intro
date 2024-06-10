@@ -122,7 +122,7 @@ Discord is a popular messaging and voice chat platform that is widely used by op
 - **Participate in discussions**: Discord servers often host discussions on various topics related to open source development. By participating in these discussions, you can learn from others, share your insights, and contribute to the collective knowledge of the community.
 - **Find collaboration opportunities**: Discord servers can be a great place to find others who share your interests and are looking for collaboration opportunities. By networking with other developers, you can discover new projects to work on and form valuable partnerships.
 
-To get started with Discord, visit the [official website](https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub, GitLab, or OpenSauced to find their Discord servers and join the conversation.
+To get started with Discord, visit the [official website](https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub or GitLab to find their Discord servers and join the conversation.
 
 By familiarizing yourself with these tools and platforms, you'll be equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the [next chapter](how-to-contribute-to-open-source.md), we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.
 
