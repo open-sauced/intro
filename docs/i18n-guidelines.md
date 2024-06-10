@@ -101,6 +101,8 @@ This project is using [docsify](https://docsify.js.org/). You can read the [depl
 
 ### 7. Adding Translation in the Community Translations Page
 
+Now, you can add your forked repository to our [Community Translations](community-translations.md) page so the translations can reach a larger audience. Follow the instructions in the file to add the repository.
+
 ### Best Practices for Translations
 
 - Maintain consistency in terminology and style throughout the translated documentation.
