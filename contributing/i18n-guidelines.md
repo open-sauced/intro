@@ -20,7 +20,7 @@ Here are some benefits of translating our courses:
 - You can make the translation available as soon as possible for a broader audience.
 - You can update the translation faster by reviewing and merging in pull requests yourself as a maintainer.
 
-> [!NOTE]
+> [!TIP]
 > It will be helpful taking our [Becoming a Maintainer](../docs/becoming-a-maintainer/README.md) course to equip you in maintaining your forked repository.
 
 ## Getting Started
@@ -63,7 +63,7 @@ The content in the forked repository is entirely translations. So, organize your
     - [:us: English](https://intro.opensauced.pizza/#/becoming-a-maintainer/README)
     ```
 
-- Translate and add the following note to the top of the README located in the root:
+- Add the following note to the top of the README located in the root:
 
   ```markdown
   > [!NOTE]
@@ -100,14 +100,13 @@ What you need to know when working with translations:
   If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
   ```
 
-  > [!NOTE]
-  > Add the link to the course, chapter, or section in our [Open Source Education Path](https://intro.opensauced.pizza/#/). You can also translate this note.
+  Add the link to the course, chapter, or section of our [Open Source Education Path](https://intro.opensauced.pizza/#/). You can also translate this note.
 
 ### 6. Setting up the Deployment Platform
 
 Now that your forked repository is set up, it's time to deploy the translations.
 
-This project is built with [docsify](https://docsify.js.org/). On their official website, you can read the [deployment guide](https://docsify.js.org/#/deploy) to deploy your forked repository.
+This project is built with [docsify](https://docsify.js.org/). On their official website, you can read the [deployment guide](https://docsify.js.org/#/deploy) to deploy your forked repository. You can choose which platform you want to deploy and host the translation on.
 
 ### 7. Adding Translation in the Community Translations Page
 
