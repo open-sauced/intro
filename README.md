@@ -15,9 +15,9 @@ Head over to The Open Source Education Path with OpenSauced on [GitHub](./docs/R
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).
 
-- For information on how to contribute to the intro repository, check out the [Contributing Guidelines](./docs/CONTRIBUTING.md).
+- For information on how to contribute to the intro repository, check out the [Contributing Guidelines](./contributing/CONTRIBUTING.md).
 
-- To translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](./docs/i18n-guidelines.md).
+- To translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](./contributing/i18n-guidelines.md).
 
 ## **🍕 Community**
 
