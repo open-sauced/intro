@@ -72,7 +72,7 @@ You can name this file anything _except_ `CONTRIBUTING.md`. For example: `contri
 Put the file in the `contributing` folder at the root. Then, add the link to it in the "[🤝 Contributing](../README.md#-contributing)" section on the root README as below:
 
 ```markdown
-- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
+- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
 ```
 
 ### 5. Working with Translations
