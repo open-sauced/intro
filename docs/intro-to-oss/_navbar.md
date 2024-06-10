@@ -6,3 +6,4 @@
 - Languages
   - [:us: English](/intro-to-oss/)
   - [:fr: French](/intro-to-oss/translations/fr/)
+  - [🌐 Community Translations](../community-translations.md)
