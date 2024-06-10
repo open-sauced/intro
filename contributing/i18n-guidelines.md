@@ -43,19 +43,25 @@ You can name this branch anything. For example: `jp-translations`.
 The content in the forked repository is entirely translations. So, organize your forked repository as follows:
 
 - Remove the `translations` folder inside `docs/intro-to-oss/`.
-- Add a language selector to the navigation bar. Here is how to do this:
+- Change the "English" link in the language selector at each navigation bar to the link on the website.
 
-  1. Open the `_navbar.md` file in the `docs` and each course directory.
-  2. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
+  - In the `docs\_navbar.md`:
 
-     Below is an example of adding Japanese in the language selector of the Intro to Open Source course:
+    ```markdown
+    - [:us: English](https://intro.opensauced.pizza/#/)
+    ```
 
-     ```markdown
-     - Languages
-       - [:us: English](https://intro.opensauced.pizza/#/intro-to-oss/README)
-       - [:jp: Japanese](/intro-to-oss/)
-       - [🌐 Community Translations](https://github.com/open-sauced/intro/blob/main/docs/community-translations.md)
-     ```
+  - In the `docs\intro-to-oss\_navbar.md`
+
+    ```markdown
+    - [:us: English](https://intro.opensauced.pizza/#/intro-to-oss/README)
+    ```
+
+  - In the `docs\becoming-a-maintainer\_navbar.md`
+
+    ```markdown
+    - [:us: English](https://intro.opensauced.pizza/#/becoming-a-maintainer/README)
+    ```
 
 - Translate and add the following note to the top of the README located in the root:
 
