@@ -5,4 +5,4 @@
 - [⭐ Star The Repo](https://github.com/open-sauced/intro)
 - Languages
   - [:us: English](/becoming-a-maintainer/)
-  - [🌐 Community Translations](../community-translations.md)
+  - [🌐 Community Translations](https://github.com/open-sauced/intro/blob/main/docs/community-translations.md)

@@ -6,4 +6,4 @@
 - Languages
   - [:us: English](/intro-to-oss/)
   - [:fr: French](/intro-to-oss/translations/fr/)
-  - [🌐 Community Translations](../community-translations.md)
+  - [🌐 Community Translations](https://github.com/open-sauced/intro/blob/main/docs/community-translations.md)
