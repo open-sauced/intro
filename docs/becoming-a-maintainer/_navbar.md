@@ -3,3 +3,6 @@
   - [Intro to Open Source](/intro-to-oss/README.md)
   - [Becoming a Maintainer](/becoming-a-maintainer/README.md)
 - [⭐ Star The Repo](https://github.com/open-sauced/intro)
+- Languages
+  - [:us: English](/becoming-a-maintainer/)
+  - [🌐 Community Translations](../community-translations.md)
