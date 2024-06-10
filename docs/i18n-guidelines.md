@@ -26,7 +26,7 @@ Here are some benefits of translating our courses:
 
 ### 1. Forking the Repository
 
-First, you need to fork the [intro repository](https://github.com/open-sauced/intro). See the official GitHub docs for [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
+First, you must fork the [intro repository](https://github.com/open-sauced/intro). See the official GitHub docs for [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
 
 ### 2. Creating a Branch for the Translation
 
@@ -64,11 +64,11 @@ The content in the forked repository is entirely translations. So, organize your
 
 ### 4. Creating Contributing Guidelines for the Forked Repository
 
-You have complete control of how you want contributors to contribute to your forked repo. So, you want to create contributing guidelines for contributors to contribute to your forked repo.
+You have complete control of how you want contributors to contribute to your forked repo. Therefore, you want to create contributing guidelines for contributors to contribute to your forked repo.
 
-You can name this file anything except `CONTRIBUTING.md`. For example: `contributing-jp.md`.
+You can name this file anything _except_ `CONTRIBUTING.md`. For example: `contributing-jp.md`.
 
-Put these guidelines in the `contributing` folder at the root. Then, add the link to the contributing guidelines in the "[🤝 Contributing](../README.md#-contributing)" section on the root README.
+Put these guidelines in the `contributing` folder at the root. Then, add the link to the contributing guidelines in the "[🤝 Contributing](../README.md#-contributing)" section on the root README as below:
 
 ```markdown
 - For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
@@ -93,11 +93,11 @@ What you need to know when working with translations:
 
   ?> **NOTE:** If it's a chapter or a course, change "SECTION" to "chapter" or "course". You can also translate this note.
 
-### 6. Setting up the Hosting and Deployment Platform
+### 6. Setting up the Deployment Platform
 
 Now that your forked repository is set up, it's time to deploy the translations.
 
-This project is using [docsify](https://docsify.js.org/). You can read the [deployment guide](https://docsify.js.org/#/deploy) on their official website to choose which platform you want the translation to be deployed.
+This project is built with [docsify](https://docsify.js.org/). On their official website, you can read the [deployment guide](https://docsify.js.org/#/deploy) to deploy your forked repository.
 
 ### 7. Adding Translation in the Community Translations Page
 
