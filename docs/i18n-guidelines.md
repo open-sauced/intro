@@ -84,7 +84,7 @@ What you need to know when working with translations:
 - Ensure there are no broken links and that all links navigate to the correct paths.
 - Maintain consistency in terminology and style throughout the translated documentation.
 - Keep translations up to date with changes in the original documentation.
-- When a course, a chapter, or a section hasn't been translated, keep and translate the title and replace the content with the below note:
+- When a course, a chapter, or a section hasn't been translated, keep and translate the titles and replace the content with the below note:
 
   ```markdown
   We are working on translating this section. In the meantime, head to the [SECTION-TITLE](LINK-TO-THE-SECTION-ON-OPENSAUCED-COURSE) at OpenSauced.
@@ -92,7 +92,7 @@ What you need to know when working with translations:
   If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
   ```
 
-  ?> **NOTE:** If it's a chapter or a course, change "SECTION" to "chapter" or "course". You can also translate this note.
+  ?> **NOTE:** Add the link to the course, chapter, or section in our [Open Source Education Path](https://intro.opensauced.pizza/#/). You can also translate this note.
 
 ### 6. Setting up the Deployment Platform
 
