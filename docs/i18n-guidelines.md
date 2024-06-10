@@ -40,7 +40,6 @@ You can name this branch anything. For example: `jp-translations`.
 
 The content in the forked repository is entirely translations. So, organize your forked repository as follows:
 
-- Maintain the original project's file names and structure, but replace all content with the translations.
 - Remove the `translations` folder inside `docs/intro-to-oss/`.
 - Add a language selector to the navigation bar. Here is how to do this:
 
@@ -75,13 +74,32 @@ Put these guidelines in the `contributing` folder at the root. Then, add the lin
 - For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
 ```
 
-### 5. Setting up the Hosting and Deployment Platform
+### 5. Working with Translations
+
+The translation process will take time, but don't let this stop you from making the translations available to the public.
+
+What you need to know when working with translations:
+
+- Maintain the original project's file names and structure, but replace all content with the translations.
+- Maintain consistency in terminology and style throughout the translated documentation.
+- Keep translations up to date with changes in the original documentation.
+- When a course, a chapter, or a section hasn't been translated, keep and translate the title and replace the content with the below note:
+
+  ```markdown
+  We are working on translating this section. In the meantime, head to the [SECTION-TITLE](LINK-TO-THE-SECTION-ON-OPENSAUCED-COURSE) at OpenSauced.
+
+  If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
+  ```
+
+  ?> **NOTE:** If it's a chapter or a course, change "SECTION" to "chapter" or "course". You can also translate this note.
+
+### 6. Setting up the Hosting and Deployment Platform
 
 Now that your forked repository is set up, it's time to deploy the translations.
 
 This project is using [docsify](https://docsify.js.org/). You can read the [deployment guide](https://docsify.js.org/#/deploy) on their official website to choose which platform you want the translation to be deployed.
 
-### 6. Adding Translation in the Community Translations Page
+### 7. Adding Translation in the Community Translations Page
 
 ### Best Practices for Translations
 
