@@ -54,7 +54,7 @@ The content in the forked repository is entirely translations. So, organize your
      - Languages
        - [:us: English](https://intro.opensauced.pizza/#/intro-to-oss/README)
        - [:jp: Japanese](/intro-to-oss/)
-       - [🌐 Community Translations](/community-translations.md)
+       - [🌐 Community Translations](https://github.com/open-sauced/intro/blob/main/docs/community-translations.md)
      ```
 
 - Translate and add the following note to the top of the README located in the root:
