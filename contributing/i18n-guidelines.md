@@ -89,7 +89,7 @@ What you need to know when working with translations:
 - When a course, a chapter, or a section hasn't been translated, keep and translate the titles and replace the content with the below note:
 
   ```markdown
-  We are working on translating this section. In the meantime, head to the [SECTION-TITLE](LINK-TO-THE-SECTION-ON-OPENSAUCED-COURSE) at OpenSauced.
+  We are working on translating this section. In the meantime, head to the [Section Title](LINK-TO-THE-SECTION-ON-OPENSAUCED-COURSE) at OpenSauced.
 
   If you'd like to help us translate this course, please read our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
   ```
