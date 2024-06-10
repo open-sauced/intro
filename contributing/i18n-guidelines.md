@@ -50,13 +50,13 @@ The content in the forked repository is entirely translations. So, organize your
     - [:us: English](https://intro.opensauced.pizza/#/)
     ```
 
-  - In the `docs\intro-to-oss\_navbar.md`
+  - In the `docs\intro-to-oss\_navbar.md`:
 
     ```markdown
     - [:us: English](https://intro.opensauced.pizza/#/intro-to-oss/README)
     ```
 
-  - In the `docs\becoming-a-maintainer\_navbar.md`
+  - In the `docs\becoming-a-maintainer\_navbar.md`:
 
     ```markdown
     - [:us: English](https://intro.opensauced.pizza/#/becoming-a-maintainer/README)
