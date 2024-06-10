@@ -69,7 +69,7 @@ You have complete control of how you want contributors to contribute to your for
 
 You can name this file anything _except_ `CONTRIBUTING.md`. For example: `contributing-jp.md`.
 
-Put these guidelines in the `contributing` folder at the root. Then, add the link to the contributing guidelines in the "[🤝 Contributing](../README.md#-contributing)" section on the root README as below:
+Put the file in the `contributing` folder at the root. Then, add the link to it in the "[🤝 Contributing](../README.md#-contributing)" section on the root README as below:
 
 ```markdown
 - For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-CONTRIBUTING-FILE).
