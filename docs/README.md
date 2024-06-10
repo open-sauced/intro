@@ -12,7 +12,7 @@ Open source projects offer potential for personal growth, networking and collabo
 
 At OpenSauced, we aim to empower contributors, maintainers, and teams in open source, not only through [our product](https://opensauced.pizza/) but also through sharing knowledge. For that reason, we created courses designed to guide you into the open source world as a contributor or as a potential maintainer.
 
-## **Courses**
+## Courses
 
 ### Intro to Open Source Course
 
@@ -26,17 +26,17 @@ This course is designed to aid people who are interested in becoming open source
 
 **Head to our [Becoming a Maintainer](./becoming-a-maintainer/README.md) course to start your maintainer learning journey!**
 
-## **Contributing to Our Courses**
+## Contributing to Our Courses
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](i18n-guidelines.md).
+If you want to translate our Intro to Open Source or Becoming a Maintainer course, check out our [🌐 i18n Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/i18n-guidelines.md).
 
-## **Community**
+## Community
 
 Do you have questions or need help? Join our [Community](https://github.com/orgs/open-sauced/discussions).
 
-## **⚖️ LICENSE**
+## ⚖️ LICENSE
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
