@@ -103,13 +103,6 @@ This project is built with [docsify](https://docsify.js.org/). On their official
 
 Now, you can add your forked repository to our [Community Translations](community-translations.md) page so the translations can reach a larger audience. Follow the instructions in the file to add the repository.
 
-### Best Practices for Translations
-
-- Maintain consistency in terminology and style throughout the translated documentation.
-- Work with another contributor who speaks the language you're translating to.
-- It helps to mention specific tools you use so developers who want to translate documentation can see how it's done.
-- Keep translations up to date with changes in the original documentation.
-
 ## Community
 
 If you have questions or need help from others in translating our Open Source Education Path, you can join and reach out to the [Community](https://github.com/open-sauced/intro/discussions).
