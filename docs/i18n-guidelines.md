@@ -81,6 +81,7 @@ The translation process will take time, but don't let this stop you from making 
 What you need to know when working with translations:
 
 - Maintain the original project's file names and structure, but replace all content with the translations.
+- Ensure there are no broken links and that all links navigate to the correct paths.
 - Maintain consistency in terminology and style throughout the translated documentation.
 - Keep translations up to date with changes in the original documentation.
 - When a course, a chapter, or a section hasn't been translated, keep and translate the title and replace the content with the below note:
