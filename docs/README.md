@@ -34,7 +34,7 @@ If you want to translate our Intro to Open Source or Becoming a Maintainer cours
 
 ## Community
 
-Do you have questions or need help? Join our community [Discord](https://discord.gg/U2peSNf23P).
+Do you have questions or need help? Join our [Community](https://github.com/orgs/open-sauced/discussions).
 
 ## ⚖️ LICENSE
 
