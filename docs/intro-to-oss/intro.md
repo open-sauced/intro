@@ -1,7 +1,7 @@
 ---
 id: intro
 title: "intro"
-sidebar_label: "Intro to Contributing"
+sidebar_label: "Intro to Open Source"
 keywords: ["intro", "Open Source", "Open Source Community"]
 ---
 
