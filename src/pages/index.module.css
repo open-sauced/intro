@@ -41,8 +41,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60vh;
   flex-direction: column; /* Ensure column layout on smaller screens */
+  flex: 1 0 auto;
 }
 
 .cards {
