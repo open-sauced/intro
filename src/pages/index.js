@@ -10,7 +10,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={styles.heroContent}>
-        <h1 className={styles.heroTitle}>OpenSauced Learning Path</h1>
+        <h1 className={styles.heroTitle}>The Open Source Education Path with OpenSauced</h1>
         <p className={styles.heroSubtitle}>Empowering Your Open Source Journey: From First Contribution to Project Leadership</p>
       </div>
     </header>
