@@ -27,7 +27,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 1. **Sign up for an account**: Visit https://www.opensauced.pizza/ and sign up for an account using your GitHub credentials.
 
-   ![OpenSauced signup](../_assets/images/opensauced-signup.png)
+   ![OpenSauced signup](../../../intro/docs/_assets/images/opensauced-signup.png)
 
    During the signup process, you'll be asked to pick some interests and set your timezone. This will help OpenSauced recommend projects that align with your interests and schedule.
 
@@ -35,7 +35,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 3. **Search for projects**: In the Explore dashboard, you can see a list of repositories and their relevant activity levels and engagement levels that are currently trending. You can also search for projects by typing in the search bar. You can search for projects by name, description, or topic and use this tool to find something that resonates with you.
 
-   ![Explore dashboard](../_assets/images/opensauced-explore.png)
+   ![Explore dashboard](../../../intro/docs/_assets/images/opensauced-explore.png)
 
 4. **Save projects to your Insights pages**: When you find projects you're interested in, you can add them to "Insights" pages that give you more details about the activity over the projects. Or, if you'd rather just dive in and contribute, you can skip to the next step.
 
@@ -103,7 +103,7 @@ If the contributing guidelines do not state how to claim an issue, you can ask t
 
 You can leave a comment on the issue, like, "Can I please be assigned to this issue?" When the maintainer has assigned you, you'll notice that your username is now under the "Assignees" section.
 
-![Issue assignees section on GitHub](../_assets/images/issue-assign.png)
+![Issue assignees section on GitHub](../../../intro/docs/_assets/images/issue-assign.png)
 
 ## Contribution Workflow
 
@@ -191,7 +191,7 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    Here is an example of a pull request template at OpenSauced in preview mode:
 
-   ![PR template in preview mode](../_assets/images/pr-template-preview.png)
+   ![PR template in preview mode](../../../intro/docs/_assets/images/pr-template-preview.png)
 
 2. **Headings**
 
@@ -318,7 +318,7 @@ Every project is unique. Each has its own pull request template structure and re
 
   You can find the issue number right after the title, as shown below.
 
-  ![issue number](../_assets/images/issue-number.png)
+  ![issue number](../../../intro/docs/_assets/images/issue-number.png)
 
   !> Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
 
@@ -364,7 +364,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
    - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br/> Change "@GITHUB-USERNAME" to your GitHub username.
    - Complete the form. Read the instructions under each input label and fill in the textareas using the example shown in the screenshot below with the red line.
 
-     ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
+     ![guestbook issue form](../../../intro/docs/_assets/images/guestbook-issue-form.png)
 
    - Click the "Submit new issue" button.
 
@@ -376,12 +376,12 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
 
-   ![Adding contributor with CLI on a terminal](../_assets/gifs/cli-tool.gif)
+   ![Adding contributor with CLI on a terminal](../../../intro/docs/_assets/gifs/cli-tool.gif)
 
 7. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 8. Copy and paste the Markdown of the README in [Markdown Live Preview](https://markdownlivepreview.com/) and take a screenshot of your profile being generated as the example below. You will need this later when creating a pull request.
 
-   ![Profile generated on README](../_assets/images/profile-generated.png)
+   ![Profile generated on README](../../../intro/docs/_assets/images/profile-generated.png)
 
    !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
 
@@ -512,5 +512,3 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
 <hr/>
 
 As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the [next chapter](the-secret-sauce.md), we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
-
-

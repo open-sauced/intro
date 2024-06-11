@@ -73,7 +73,7 @@ To access your team's permissions, navigate to your team's page on GitHub and cl
 
 Here's what it will look like in GitHub:
 
-![team permissions](../_assets/images/org-permissions.png)
+![team permissions](../../../intro/docs/_assets/images/org-permissions.png)
 
 ### Additional Permissions to Consider
 
@@ -94,7 +94,7 @@ Here's what it will look like in GitHub:
 
 You can see some of the options here:
 
-![Team permissions GIF](../_assets/gifs/org-permissions.gif)
+![Team permissions GIF](../../../intro/docs/_assets/gifs/org-permissions.gif)
 
 ## Expanding the Horizons: Enlisting Additional Maintainers
 
@@ -117,11 +117,11 @@ There are two ways to add repositories to your Repository Insight Page:
 1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
 2. **Add individual repositories**. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
-![Sync team GIF](../_assets/gifs/team-sync-insights.gif)
+![Sync team GIF](../../../intro/docs/_assets/gifs/team-sync-insights.gif)
 
 From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the Contributors dashboard and creating a new Contributor Insight Page.
 
-![Contributor insights list](../_assets/images/contributors-insights.png)
+![Contributor insights list](../../../intro/docs/_assets/images/contributors-insights.png)
 
 ## Adding Team Members
 
@@ -146,7 +146,7 @@ One way to onboard your new team members is to have clear guidelines and include
 
 As your team grows, it's important to keep track of your team's participation and contributions. Depending on the number of people on your team, consider creating a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often, and it will help you identify when it's time to remove someone from your team.
 
-![Team sync GIF](../_assets/gifs/team-sync.gif)
+![Team sync GIF](../../../intro/docs/_assets/gifs/team-sync.gif)
 
 ## Saying Farewell: Handling Team Departures
 
@@ -159,5 +159,3 @@ Check out [this guide](https://docs.github.com/en/organizations/organizing-membe
 Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project; you're adding people to your community. Make sure you're adding people who align with your project's values and goals and who will be a positive addition to your community.
 
 In the [next chapter](metrics-and-analytics.md), you will learn how metrics and analytics are helpful for new maintainers.
-
-

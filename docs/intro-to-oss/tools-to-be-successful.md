@@ -66,7 +66,7 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 
    Choose yourself as the owner of the repository, and enter a name for your repository. For this example, we'll use `practice-repository`.
 
-   ![Create new repository on GitHub](../_assets/images/new-repo.png)
+   ![Create new repository on GitHub](../../../intro/docs/_assets/images/new-repo.png)
 
    Choose whether you want it to be public or private. You can also choose to initialize the repository with a README file, a `.gitignore` file, and/or a license.
 
@@ -132,7 +132,3 @@ Discord is a popular messaging and voice chat platform that is widely used by op
 To get started with Discord, visit the [official website](https://discord.com/) and sign up for an account. Once you have an account, you can search for open source communities and projects on platforms like GitHub or GitLab to find their Discord servers and join the conversation.
 
 By familiarizing yourself with these tools and platforms, you'll be equipped to collaborate effectively, manage your projects, and contribute to open source projects. In the [next chapter](how-to-contribute-to-open-source.md), we'll discuss how to contribute to open source projects, including finding projects to work on, submitting contributions, and what happens after your contribution is accepted.
-
-<footer>
-   <a href= "https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/tools-to-be-successful.md">✏️ Edit this page</a>
-</footer>

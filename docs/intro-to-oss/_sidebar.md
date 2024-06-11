@@ -5,7 +5,7 @@ sidebar_label: "_sidebar"
 keywords: ["_sidebar", "Open Source", "Open Source Community"]
 ---
 
-[![OpenSauced Logo](../_assets/images/logo-on-dark.png)](https://opensauced.pizza/)
+[![OpenSauced Logo](../../../intro/docs/_assets/images/logo-on-dark.png)](https://opensauced.pizza/)
 
 - Intro to Open Source
   - [Introduction to Open Source](intro.md)
