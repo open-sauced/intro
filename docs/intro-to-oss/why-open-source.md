@@ -61,6 +61,4 @@ In addition to the above-mentioned benefits, contributing to open source project
 
 In the [next chapter](tools-to-be-successful.md), we'll discuss the essential tools and resources you'll need to be successful in your open source journey, including GitHub, Git, VS Code, and Discord. By familiarizing yourself with these tools, you'll be better equipped to collaborate with others, manage your projects, and contribute effectively to open source projects.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/why-open-source.md">✏️ Edit this page</a>
-</footer>
+

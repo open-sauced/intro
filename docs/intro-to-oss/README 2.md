@@ -47,6 +47,4 @@ Do you have questions or need help? Join our [Community](https://github.com/orgs
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/README.md">✏️ Edit this page</a>
-</footer>
+

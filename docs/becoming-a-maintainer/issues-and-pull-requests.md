@@ -187,6 +187,4 @@ Dependabot is a GitHub feature that monitors your project's dependencies and rep
 
 Let's move to the [next chapter](communication-and-collaboration.md), which will discuss how to communicate and collaborate effectively.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/issues-and-pull-requests.md">✏️ Edit this page</a>
-</footer>
+

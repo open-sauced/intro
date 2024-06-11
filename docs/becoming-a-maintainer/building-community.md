@@ -133,6 +133,4 @@ However, building a positive community culture is not a one-time task; it requir
 
 In the [next chapter](maintainer-powerups.md), we will discuss tools and features on GitHub that can help save maintainers time.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/building-community.md">✏️ Edit this page</a>
-</footer>
+

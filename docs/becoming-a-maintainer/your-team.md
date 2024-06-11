@@ -160,6 +160,4 @@ Remember, the team is there to support you and the project and to help you achie
 
 In the [next chapter](metrics-and-analytics.md), you will learn how metrics and analytics are helpful for new maintainers.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/your-team.md">✏️ Edit this page</a>
-</footer>
+

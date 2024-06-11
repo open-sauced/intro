@@ -214,6 +214,4 @@ Please read the [GitHub documentation](https://docs.github.com/en/issues/plannin
 
 The [next chapter](issues-and-pull-requests.md) will discuss handling open issues and pull requests.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/how-to-setup-your-project.md">✏️ Edit this page</a>
-</footer>
+

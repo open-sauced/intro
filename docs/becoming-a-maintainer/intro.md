@@ -99,6 +99,4 @@ If your project is on GitHub, you can use [GitHub Discussions](https://docs.gith
 
 The [next chapter](how-to-setup-your-project.md) will teach you how to set up an open source project.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/intro.md">✏️ Edit this page</a>
-</footer>
+

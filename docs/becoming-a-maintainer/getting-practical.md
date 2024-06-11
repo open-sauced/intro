@@ -35,7 +35,7 @@ We will walk through the steps to set up your project in GitHub. Although it's n
 - Initialize the repository with a README file and add a license.
 - Click the "Create repository" button.
 
-![setting up a repo](../_assets/gifs/set-up-repo.gif)
+![setting up a repo](../../../intro/docs/_assets/gifs/set-up-repo.gif)
 
 If you're using our starter idea, you could use the following:
 
@@ -330,7 +330,7 @@ body:
 
 - In your repository, click the "Issues" tab and then the "New issue" button.
 
-  ![create issue](../_assets/images/create-issue.png)
+  ![create issue](../../../intro/docs/_assets/images/create-issue.png)
 
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
@@ -345,7 +345,7 @@ body:
 
 - Once you've completed the issues, click "Submit new issue."
 
-  ![feature-form.png](../_assets/images/feature-form.png)
+  ![feature-form.png](../../../intro/docs/_assets/images/feature-form.png)
 
 ### Promoting Your Project
 
@@ -382,8 +382,6 @@ You can learn more about how to create a successful project with OpenSauced with
 
 Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](maintainers-guestbook.md) page.
 
-?> Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/getting-practical.md">✏️ Edit this page</a>
-</footer>
+:::tip
+ Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+:::

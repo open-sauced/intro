@@ -178,6 +178,4 @@ Embracing metrics and analytics through OpenSauced gives you the knowledge to ma
 
 It's time to put what you've learned into practice! Let's move on to the [next chapter](getting-practical.md).
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/metrics-and-analytics.md">✏️ Edit this page</a>
-</footer>
+

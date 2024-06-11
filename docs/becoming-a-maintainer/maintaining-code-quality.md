@@ -85,6 +85,4 @@ If you have a more complex project, consider adding diagrams or images to help e
 
 Now, let's move to the [next chapter](building-community.md), where we will discuss building and nurturing a welcoming and supportive community.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintaining-code-quality.md">✏️ Edit this page</a>
-</footer>
+

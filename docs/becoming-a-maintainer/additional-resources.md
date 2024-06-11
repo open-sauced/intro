@@ -28,6 +28,4 @@ On this page, you will find additional resources to help you learn more about al
 - [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
 - [What Does an Open Source Triage Team Do?](https://dev.to/opensauced/what-does-an-open-source-triage-team-do-2egd)
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/additional-resources.md">✏️ Edit this page</a>
-</footer>
+

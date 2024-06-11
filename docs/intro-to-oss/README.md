@@ -66,6 +66,4 @@ We hope you find this course informative and useful! If you have any questions o
 
 Happy learning and contributing!
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/README.md">✏️ Edit this page</a>
-</footer>
+

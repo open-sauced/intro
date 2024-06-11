@@ -146,6 +146,4 @@ There are some benefits to having this file in your repository:
 
 Now that you understand the basics of what maintainers do and the tools, the [next chapter](your-team.md) will teach you how to build your team.
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintainer-powerups.md">✏️ Edit this page</a>
-</footer>
+
