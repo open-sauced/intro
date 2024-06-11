@@ -1,7 +1,7 @@
 ---
 id: intro
 title: "intro"
-sidebar_label: "Intro to Becoming a Maintainer"
+sidebar_label: "Understanding Maintainership"
 keywords: ["intro", "Open Source", "Open Source Community"]
 ---
 

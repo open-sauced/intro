@@ -1,7 +1,7 @@
 ---
 id: building-community
 title: "building community"
-sidebar_label: "Building Community"
+sidebar_label: "Building and Nurturing Community"
 keywords: ["building community", "Open Source", "Open Source Community"]
 ---
 
