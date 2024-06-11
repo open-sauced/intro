@@ -107,7 +107,7 @@ const config = {
             items: [
               {
                 label: "Contributing guide",
-                to: "/contributing/introduction-to-contributing/",
+                to: "https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md",
               },
               {
                 label: "Open Source Courses",
