@@ -12,6 +12,7 @@ Welcome to the Intro to Open Source Course with OpenSauced! This course is desig
 Like pizza, open source is meant to be shared with everyone. We provide and maintain translations in languages below as our official translations:
 
 - [French](./translations/fr/README.md)
+- [Spanish](./translations/es/README.md)
 
 For translations in other languages that are maintained by our community, please go to the [Community Translations](../community-translations.md) section.
 
