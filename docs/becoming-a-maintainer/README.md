@@ -61,7 +61,9 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
 
-?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
+:::tip
+Each chapter builds on the previous one, so we recommend reading them in order.
+:::
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
 

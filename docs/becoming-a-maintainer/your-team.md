@@ -39,7 +39,9 @@ The docs team creates and maintains high-quality documentation for users and con
 - Marketing Team
 - Core Team\*
 
-?> Sometimes, the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the project's direction. The Maintainer Team is more likely to focus on the project's day-to-day management and technical aspects.
+:::info
+Sometimes, the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the project's direction. The Maintainer Team is more likely to focus on the project's day-to-day management and technical aspects.
+:::
 
 ## Assembling Your A-Team: Adding New Members
 

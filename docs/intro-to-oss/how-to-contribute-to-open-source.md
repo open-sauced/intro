@@ -75,7 +75,9 @@ Every project has different contributing rules. These rules are written in the c
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
-?> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+:::tip 
+Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+:::
 
 ### 2. Find or Create an Issue
 
@@ -405,7 +407,9 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 Congratulations on your first contribution! 🎉
 
-?> If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
+:::tip
+ If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
+ :::
 
 ## Keeping Branches Up to Date
 

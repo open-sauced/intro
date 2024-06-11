@@ -115,4 +115,6 @@ When it comes to reviewing a translation PR, ask yourself the following question
 
 When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers.
 
-?> “LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.
+:::info
+“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.
+:::
