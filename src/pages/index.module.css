@@ -16,13 +16,19 @@
   padding: 0 2rem; /* Add padding to ensure content doesn't touch the edges */
 }
 
-.heroTitle {
+.heroTitleOS {
   font-size: clamp(2rem, 5vw, 4rem);
   font-weight: bold;
   margin-bottom: 0.5rem;
   background: linear-gradient(to right, #e74c3c, #e67e22);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.heroTitle {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: bold;
+  margin-bottom: 0.5rem;
 }
 
 .heroSubtitle {

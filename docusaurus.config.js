@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Open Source Education Path with OpenSauced',
+  title: 'Open Source Education with OpenSauced',
   tagline: 'Empowering Your Open Source Journey: From First Contribution to Project Leadership',
   favicon: 'img/favicon.ico',
 
