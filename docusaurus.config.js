@@ -133,7 +133,7 @@ const config = {
             items: [
               {
                 label: "Blog",
-                href: "https://dev.to/opensauced",
+                href: "https://opensauced.pizza/docs/community-resources",
               },
               {
                 label: "Watch our feature demos",
