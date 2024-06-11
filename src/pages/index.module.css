@@ -61,6 +61,7 @@
   padding: 2rem;
   text-align: left;
   transition: transform 0.3s, box-shadow 0.3s;
+  font-size: 18px;
 }
 
 .card:hover {
