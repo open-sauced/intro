@@ -1,7 +1,7 @@
 ---
 id: communication-and-collaboration
 title: "communication and collaboration"
-sidebar_label: "communication and collaboration"
+sidebar_label: "Communication and Collaboration"
 keywords: ["communication and collaboration", "Open Source", "Open Source Community"]
 ---
 

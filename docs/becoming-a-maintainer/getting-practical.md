@@ -1,7 +1,7 @@
 ---
 id: getting-practical
 title: "getting practical"
-sidebar_label: "getting practical"
+sidebar_label: "Getting Practical"
 keywords: ["getting practical", "Open Source", "Open Source Community"]
 ---
 

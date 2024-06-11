@@ -1,7 +1,7 @@
 ---
 id: conclusion
 title: "conclusion"
-sidebar_label: "conclusion"
+sidebar_label: "Conclusion"
 keywords: ["conclusion", "Open Source", "Open Source Community"]
 ---
 

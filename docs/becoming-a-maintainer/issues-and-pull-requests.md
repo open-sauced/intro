@@ -1,7 +1,7 @@
 ---
 id: issues-and-pull-requests
 title: "issues and pull requests"
-sidebar_label: "issues and pull requests"
+sidebar_label: "Issues and Pull Requests"
 keywords: ["issues and pull requests", "Open Source", "Open Source Community"]
 ---
 

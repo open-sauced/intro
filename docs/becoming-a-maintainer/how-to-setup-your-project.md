@@ -1,7 +1,7 @@
 ---
 id: how-to-setup-your-project
 title: "how to setup your project"
-sidebar_label: "how to setup your project"
+sidebar_label: "How to Set Up Your Project"
 keywords: ["how to setup your project", "Open Source", "Open Source Community"]
 ---
 

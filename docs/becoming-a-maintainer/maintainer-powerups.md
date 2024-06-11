@@ -1,7 +1,7 @@
 ---
 id: maintainer-powerups
 title: "maintainer powerups"
-sidebar_label: "maintainer powerups"
+sidebar_label: "Maintainer Powerups"
 keywords: ["maintainer powerups", "Open Source", "Open Source Community"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: maintainers-guestbook
 title: "maintainers guestbook"
-sidebar_label: "maintainers guestbook"
+sidebar_label: "Maintainers Guestbook"
 keywords: ["maintainers guestbook", "Open Source", "Open Source Community"]
 ---
 

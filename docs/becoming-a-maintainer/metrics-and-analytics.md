@@ -1,7 +1,7 @@
 ---
 id: metrics-and-analytics
 title: "metrics and analytics"
-sidebar_label: "metrics and analytics"
+sidebar_label: "Metrics and Analytics"
 keywords: ["metrics and analytics", "Open Source", "Open Source Community"]
 ---
 

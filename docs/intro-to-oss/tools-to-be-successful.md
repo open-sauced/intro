@@ -1,7 +1,7 @@
 ---
 id: tools-to-be-successful
 title: "tools to be successful"
-sidebar_label: "tools to be successful"
+sidebar_label: "Tools to be Successful"
 keywords: ["tools to be successful", "Open Source", "Open Source Community"]
 ---
 

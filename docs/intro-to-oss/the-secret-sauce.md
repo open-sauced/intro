@@ -1,7 +1,7 @@
 ---
 id: the-secret-sauce
 title: "the secret sauce"
-sidebar_label: "the secret sauce"
+sidebar_label: "The Secret Sauce"
 keywords: ["the secret sauce", "Open Source", "Open Source Community"]
 ---
 

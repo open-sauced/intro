@@ -1,7 +1,7 @@
 ---
 id: how-to-contribute-to-open-source
 title: "how to contribute to open source"
-sidebar_label: "how to contribute to open source"
+sidebar_label: "How to Contribute to Open Source"
 keywords: ["how to contribute to open source", "Open Source", "Open Source Community"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: additional-resources
 title: "additional resources"
-sidebar_label: "additional resources"
+sidebar_label: "Additional Resources"
 keywords: ["additional resources", "Open Source", "Open Source Community"]
 ---
 

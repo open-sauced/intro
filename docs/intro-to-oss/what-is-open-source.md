@@ -1,7 +1,7 @@
 ---
 id: what-is-open-source
-title: "what is open source"
-sidebar_label: "what is open source"
+title: "What is Open Source"
+sidebar_label: "What is Open Source"
 keywords: ["what is open source", "Open Source", "Open Source Community"]
 ---
 

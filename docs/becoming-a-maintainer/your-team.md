@@ -1,7 +1,7 @@
 ---
 id: your-team
 title: "your team"
-sidebar_label: "your team"
+sidebar_label: "Building Your Team"
 keywords: ["your team", "Open Source", "Open Source Community"]
 ---
 

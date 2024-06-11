@@ -1,7 +1,7 @@
 ---
 id: maintaining-code-quality
 title: "maintaining code quality"
-sidebar_label: "maintaining code quality"
+sidebar_label: "Maintaining Code Quality"
 keywords: ["maintaining code quality", "Open Source", "Open Source Community"]
 ---
 

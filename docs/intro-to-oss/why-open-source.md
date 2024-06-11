@@ -1,7 +1,7 @@
 ---
 id: why-open-source
 title: "why open source"
-sidebar_label: "why open source"
+sidebar_label: "Why Open Source"
 keywords: ["why open source", "Open Source", "Open Source Community"]
 ---
 

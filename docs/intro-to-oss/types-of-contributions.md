@@ -1,7 +1,7 @@
 ---
 id: types-of-contributions
 title: "types of contributions"
-sidebar_label: "types of contributions"
+sidebar_label: "Types of Contributions"
 keywords: ["types of contributions", "Open Source", "Open Source Community"]
 ---
 
