@@ -2,7 +2,7 @@
 id: maintaining-code-quality
 title: "How to Maintain Code Quality and Documentation"
 sidebar_label: "Maintaining Code Quality and Documentation"
-keywords: ["maintaining code quality", "Open Source", "Open Source Community"]
+keywords: ["maintaining code quality", "maintaining code quality of open source projects", "maintaining documentation", "maintaining open source project documentation", "code reviews best practices", "ensuring high-quality contributions in open source", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 Maintaining a project with high code quality and up-to-date documentation is important. This will help contributors understand the project and make it easier for them to contribute.
