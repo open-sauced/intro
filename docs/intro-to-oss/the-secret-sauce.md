@@ -2,7 +2,7 @@
 id: the-secret-sauce
 title: "The Secret Sauce"
 sidebar_label: "The Secret Sauce"
-keywords: ["the secret sauce", "Open Source", "Open Source Community"]
+keywords: ["open source secret sauce", "how to make a lasting impact in open source", "open source resume builder", "building open source resume", "building open source resume with OpenSauced", "finding issues in open source", "addressing issues in open source", "gaining recognition in open source", "building a strong open source profile", "becoming a valuable contributor to open source projects", "tips for building a strong reputation in open source", "effectively highlight open source contributions", "open source contribution", "open source contribution for beginners", "Open Source", "Open Source Community"]
 ---
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
