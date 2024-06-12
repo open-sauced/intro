@@ -2,7 +2,7 @@
 id: issues-and-pull-requests
 title: "How to Handle Open Issues and Pull Requests"
 sidebar_label: "Managing Issues and Pull Requests"
-keywords: ["issues and pull requests", "Open Source", "Open Source Community"]
+keywords: ["issues and pull requests", "how to handle issues and pull requests", "issues management in open source", "best practices for issue triage", "managing pull requests open source", "pull requests reviews", "Issue and Pull Request Highlights with OpenSauced", "handling security vulnerabilities in open source", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 One of the core responsibilities of an open source maintainer is triaging open issues and reviewing pull requests. In this chapter, we will talk about how to handle best open issues, pull requests, and security vulnerabilities.
