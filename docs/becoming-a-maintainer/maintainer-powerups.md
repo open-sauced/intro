@@ -15,7 +15,7 @@ Let's say your project receives more new issues and pull requests daily. You wan
 
 Setting up actions to automate these tasks will save you time responding to contributions individually. You can decide which actions to include in each repository.
 
-![Create GitHub Action](../../../intro/docs/_assets/images/gh-actions.png)
+![Create GitHub Action](../_assets/images/gh-actions.png)
 
 ### Types of Actions
 
@@ -108,7 +108,7 @@ Sometimes, you repeatedly write the same reply to issues or pull requests. Clear
 
 Read the GitHub documentation for complete instructions about how to [create saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply).
 
-![Saved replies gif](../../../intro/docs/_assets/gifs/saved-replies.gif)
+![Saved replies gif](../_assets/gifs/saved-replies.gif)
 
 ## Code Owners
 

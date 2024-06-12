@@ -105,7 +105,7 @@ If the author does not address the issue or respond to your initial comment, rep
 
 If multiple contributors fail the same set of tests, the tests may be flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
-![Failed automated tests](../../../intro/docs/_assets/images/failed-automated-tests.png)
+![Failed automated tests](../_assets/images/failed-automated-tests.png)
 
 ### Spam Pull Requests
 
@@ -139,7 +139,7 @@ If you have repeatedly tried to reach out and get no response, you should close 
 
 The [Highlights](https://docs.opensauced.pizza/features/highlights/) feature on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
 
-![Highlights GIF](../../../intro/docs/_assets/gifs/highlight.gif)
+![Highlights GIF](../_assets/gifs/highlight.gif)
 
 ### Issue Highlights
 

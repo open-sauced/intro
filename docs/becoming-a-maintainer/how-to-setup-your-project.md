@@ -165,7 +165,7 @@ To create issue templates using the GitHub's template builder, you will need to:
 
 You can follow the [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) on the GitHub documentation to create one.
 
-![Issue template GIF](../../../intro/docs/_assets/gifs/issues-template.gif)
+![Issue template GIF](../_assets/gifs/issues-template.gif)
 
 #### 2. Using YAML Files
 
@@ -197,7 +197,7 @@ Here are a few things to consider inside your pull request template:
 
 Here is an example of a [pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
 
-![PR template example](../../../intro/docs/_assets/images/pr-template.png)
+![PR template example](../_assets/images/pr-template.png)
 
 ## Projects on GitHub
 
@@ -220,6 +220,6 @@ Projects are private by default. You can make them private to core maintainers o
 
 Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
 
-![GitHub Project Boards GIF](../../../intro/docs/_assets/gifs/create-github-project.gif)
+![GitHub Project Boards GIF](../_assets/gifs/create-github-project.gif)
 
 The [next chapter](issues-and-pull-requests.md) will discuss handling open issues and pull requests.

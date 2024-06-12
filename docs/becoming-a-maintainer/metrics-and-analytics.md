@@ -72,7 +72,7 @@ To create a Workspace:
 3. Add your project's repository.
 4. Click "Create Workspace" to create your Workspace.
 
-![Workspaces](../../../intro/docs/_assets/images/workspace.png)
+![Workspaces](../_assets/images/workspace.png)
 
 Within the Repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
 
@@ -108,7 +108,7 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 :::
 
-![repositories dashboard](../../../intro/docs/_assets/images/repos-insights.png)
+![repositories dashboard](../_assets/images/repos-insights.png)
 
 ##### Contributors Dashboard
 
@@ -122,7 +122,7 @@ The Activity dashboard shows a graph of the last time each contributor created t
 
 You can use the information in this dashboard to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
-![activity graph](../../../intro/docs/_assets/images/activity-repos-insights.png)
+![activity graph](../_assets/images/activity-repos-insights.png)
 
 You can create a Contributor Insight Page to track your contributors and ensure you're growing a healthy open source community.
 
@@ -147,12 +147,12 @@ To create a new Contributor Insight Page:
 1. Click the "+" next to "Insights" in the sidebar.
 2. Click "New Contributor Insight." You will be redirected to a page where you can create your new Contributor Insight Page.
 
-   ![New Contributor Insight Page](../../../intro/docs/_assets/images/contrib-insight-new.png)
+   ![New Contributor Insight Page](../_assets/images/contrib-insight-new.png)
 
 3. Give your page a name.
 4. Add contributors to your page by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
-   ![team sync gif](../../../intro/docs/_assets/gifs/team-sync.gif)
+   ![team sync gif](../_assets/gifs/team-sync.gif)
 
 #### Using Your Contributor Insight Page
 
@@ -170,7 +170,7 @@ The Activity dashboard gives you a graph view with more detailed information on 
 
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
-![list graph](../../../intro/docs/_assets/images/list-graph.png)
+![list graph](../_assets/images/list-graph.png)
 
 ##### Highlights Dashboard
 
