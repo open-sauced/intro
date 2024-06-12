@@ -184,4 +184,3 @@ A lot of maintainers will choose to go with this security policy template:
 Dependabot is a GitHub feature that monitors your project's dependencies and reports any possible security vulnerabilities. You can configure Dependabot to report issues or create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
 
 Let's move to the [next chapter](communication-and-collaboration.md), which will discuss how to communicate and collaborate effectively.
-

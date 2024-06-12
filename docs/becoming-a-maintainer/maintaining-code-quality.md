@@ -82,5 +82,3 @@ Another thing to consider in your review is running through the installation and
 If you have a more complex project, consider adding diagrams or images to help explain the project's architecture. This can help contributors understand how the project is structured and make it easier for them to contribute.
 
 Now, let's move to the [next chapter](building-community.md), where we will discuss building and nurturing a welcoming and supportive community.
-
-

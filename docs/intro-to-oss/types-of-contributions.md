@@ -110,5 +110,3 @@ Here are some examples of contributions you can make to a project with your codi
 ---
 
 Congratulations on finishing this course! Let's recap what you have learned in the [next chapter](conclusion.md).
-
-

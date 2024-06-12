@@ -130,5 +130,3 @@ A positive community culture that encourages diverse contributions and fosters n
 However, building a positive community culture is not a one-time task; it requires continuous effort and commitment from everyone involved. You must invest in promoting diversity and inclusion, encouraging collaboration and teamwork, and fostering a sense of belonging. Doing so can create a culture of trust and respect that enables your community and projects to thrive. In short, building and nurturing a welcoming and supportive community is the right thing to do and a great strategy to help your project and your community succeed.
 
 In the [next chapter](maintainer-powerups.md), we will discuss tools and features on GitHub that can help save maintainers time.
-
-

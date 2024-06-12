@@ -76,5 +76,3 @@ A repository is a central location where code is stored and managed. In open sou
 ## Style Guide
 
 A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
-
-

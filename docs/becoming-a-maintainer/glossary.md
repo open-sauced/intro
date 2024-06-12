@@ -127,5 +127,3 @@ Technical debt is a when a codebase has increased maintenance costs because of e
 ## Versioning
 
 Versioning is the process of assigning either unique version names or numbers to new releases of your project. Some versions are released as "major" versions, while others are released as "minor" versions.
-
-
