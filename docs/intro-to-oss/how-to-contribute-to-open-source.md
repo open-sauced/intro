@@ -3,7 +3,7 @@ id: how-to-contribute-to-open-source
 title: "How to Contribute to Open Source"
 sidebar_label: "How to Contribute to Open Source"
 keywords:
-  ["how to contribute to open source", "Open Source", "Open Source Community"]
+  ["how to contribute to open source", "contribute to open source projects", "finding open source projects to contribute to", "finding open source projects to contribute to with OpenSauced", "onboarding to open source projects", "open source contribution for beginners", "get started contributing to open source", "open source contribution workflow", "contributing to open source tutorial", "merge conflicts", "resolving merge conflicts", "open source for beginners", "open source tutorial for beginners", "best practices for contributing to open source projects", "GitHub", "Git", "Open Source", "Open Source Community"]
 ---
 
 In this chapter, we'll guide you through the process of contributing to open source projects.
