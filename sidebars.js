@@ -41,6 +41,7 @@ const sidebars = {
           'becoming-a-maintainer/getting-practical',
           'becoming-a-maintainer/maintainers-guestbook',
           'becoming-a-maintainer/additional-resources',
+          'becoming-a-maintainer/glossary',
         ],
       },
     ],
