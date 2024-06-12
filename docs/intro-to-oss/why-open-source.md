@@ -2,7 +2,7 @@
 id: why-open-source
 title: "Why Open Source?"
 sidebar_label: "Why Open Source"
-keywords: ["why open source", "Open Source", "Open Source Community"]
+keywords: ["why open source", "why contribute to open source", "open source project contribution benefits", "Open Source", "Open Source Community"]
 ---
 
 In the previous chapter, we explored the concept of open source and its history. Now, let's delve into the many benefits of contributing to open source projects. By understanding the advantages of open source collaboration, you'll be better equipped to leverage the opportunities it presents and make the most of your open source journey.
