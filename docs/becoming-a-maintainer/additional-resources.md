@@ -2,7 +2,7 @@
 id: additional-resources
 title: "Additional Resources"
 sidebar_label: "Additional Resources"
-keywords: ["additional resources", "Open Source", "Open Source Community"]
+keywords: ["additional resources for open source maintainers", "guides resources for open source maintainers", "blog posts resources for open source maintainers", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 On this page, you will find additional resources to help you learn more about all things around open source maintainers.
