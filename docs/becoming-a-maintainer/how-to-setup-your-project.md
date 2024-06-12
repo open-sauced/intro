@@ -2,7 +2,7 @@
 id: how-to-setup-your-project
 title: "How to Setup Your Open Source Project"
 sidebar_label: "How to Set Up Your Project"
-keywords: ["how to setup your project", "Open Source", "Open Source Community"]
+keywords: ["how to setup open source project", "open source project setup", "start open source project", "create open source project", "write README for open source project", "project installation guide for open source", "open source license explained", "choosing open source license", "how to add code of conduct open source", "code of conduct open source project", "contributing guidelines open source", "issue templates", "create issue templates open source", "pull request template", "create pull request template open source", "Projects on GitHub", "GitHub project boards", "GitHub", "open source project best practices", "Open Source", "Open Source Community"]
 ---
 
 There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
