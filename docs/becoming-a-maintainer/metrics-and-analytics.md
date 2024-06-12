@@ -1,4 +1,9 @@
-# The Power of Metrics and Analytics for New Maintainers
+---
+id: metrics-and-analytics
+title: "The Power of Metrics and Analytics for New Maintainers"
+sidebar_label: "The Power of Metrics and Analytics"
+keywords: ["metrics and analytics for open source maintainers", "understanding types of metrics in open source", "setting open source project goals", "understanding and interpreting open source project data", "making open source project data-driven decisions with OpenSauced", "Workspace OpenSauced", "Repository Insights Page OpenSauced", "Contributor Insight Page OpenSauced", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Understanding what's happening with your project and contributors as it grows can be challenging for new maintainers. Think of metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.
 
@@ -75,7 +80,11 @@ Within the Repositories dashboard, you can view the following metrics, which are
 - **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
 - **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
-?> **Tip**: You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
+:::tip
+
+You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
+
+:::
 
 If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://docs.opensauced.pizza/features/repo-insights/) in your Workspace.
 
@@ -93,7 +102,11 @@ There are three tabs that provide you with more information on these repositorie
 
 This dashboard allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
-?> To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
+:::tip
+
+To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
+
+:::
 
 ![repositories dashboard](../_assets/images/repos-insights.png)
 
@@ -163,14 +176,14 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 The Highlights dashboard gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
-?> To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
+:::tip
+
+To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
+
+:::
 
 ### Leveraging OpenSauced for Project Success
 
 Embracing metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the open source journey is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.
 
 It's time to put what you've learned into practice! Let's move on to the [next chapter](getting-practical.md).
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/metrics-and-analytics.md">✏️ Edit this page</a>
-</footer>

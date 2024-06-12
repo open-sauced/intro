@@ -1,4 +1,9 @@
-# Maintainers Guestbook
+---
+id: maintainers-guestbook
+title: "Maintainers Guestbook"
+sidebar_label: "Maintainers Guestbook"
+keywords: ["maintainers guestbook", "list of new open source projects", "Becoming A Maintainer Course", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Congratulations on finishing the Becoming a Maintainer Course with OpenSauced. Welcome to our Maintainers Guestbook, where you can share your first project with us!
 

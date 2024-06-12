@@ -1,4 +1,9 @@
-# How to Maintain Code Quality and Documentation
+---
+id: maintaining-code-quality
+title: "How to Maintain Code Quality and Documentation"
+sidebar_label: "Maintaining Code Quality and Documentation"
+keywords: ["maintaining code quality", "maintaining code quality of open source projects", "maintaining documentation", "maintaining open source project documentation", "code reviews best practices", "ensuring high-quality contributions in open source", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Maintaining a project with high code quality and up-to-date documentation is important. This will help contributors understand the project and make it easier for them to contribute.
 
@@ -18,7 +23,7 @@ Using Conventional Commits in your project is highly recommended. You can encour
 
 Here are some examples of Conventional Commit messages:
 
-```
+```text
 feat: add password reset functionality
 docs: update installation instructions
 chore(build): update dependencies
@@ -77,7 +82,3 @@ Another thing to consider in your review is running through the installation and
 If you have a more complex project, consider adding diagrams or images to help explain the project's architecture. This can help contributors understand how the project is structured and make it easier for them to contribute.
 
 Now, let's move to the [next chapter](building-community.md), where we will discuss building and nurturing a welcoming and supportive community.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintaining-code-quality.md">✏️ Edit this page</a>
-</footer>

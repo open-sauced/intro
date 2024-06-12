@@ -1,4 +1,9 @@
-# What is Open Source?
+---
+id: what-is-open-source
+title: "What is Open Source?"
+sidebar_label: "What is Open Source"
+keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+---
 
 In this chapter, we'll delve into the concept of open source, its definition, and its history. Gaining a deep understanding of open source will help you appreciate the context in which you'll be collaborating and contributing.
 
@@ -65,7 +70,3 @@ As open source continues to evolve, new projects, tools, and technologies are co
 The growing popularity of open source has also led to a thriving ecosystem of conferences, meetups, and online communities where developers can come together to learn, collaborate, and share their knowledge. By participating in these events and engaging with the open source community, you'll have the opportunity to expand your skills, build your network, and stay up-to-date with the latest developments in the field.
 
 In the [next chapter](why-open-source.md), we'll explore the many benefits of contributing to open source projects and discuss how open source collaboration can help you access knowledge, connect with a community, and develop valuable skills.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/what-is-open-source.md">✏️ Edit this page</a>
-</footer>

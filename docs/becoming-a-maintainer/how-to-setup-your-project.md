@@ -1,4 +1,9 @@
-# How to Setup Your Open Source Project
+---
+id: how-to-setup-your-project
+title: "How to Setup Your Open Source Project"
+sidebar_label: "How to Set Up Your Project"
+keywords: ["how to setup open source project", "open source project setup", "start open source project", "create open source project", "write README for open source project", "project installation guide for open source", "open source license explained", "choosing open source license", "how to add code of conduct open source", "code of conduct open source project", "contributing guidelines open source", "issue templates", "create issue templates open source", "pull request template", "create pull request template open source", "Projects on GitHub", "GitHub project boards", "GitHub", "open source project best practices", "Open Source", "Open Source Community"]
+---
 
 There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
 
@@ -77,7 +82,11 @@ A code of conduct is an established set of rules and behaviors that all open sou
 
 This set of rules and expectations will go inside a CODE_OF_CONDUCT file in the root directory of your project. Codes of conduct are generally divided into three main categories: pledge, standards, and enforcement.
 
-?> Most open source maintainers will not write their code of conduct from scratch. Instead, they will add one using a [template provided by GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template) or copy and adapt from other codes of conduct and provide attribution.
+:::info
+
+Most open source maintainers will not write their code of conduct from scratch. Instead, they will add one using a [template provided by GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template) or copy and adapt from other codes of conduct and provide attribution.
+
+:::
 
 ### Project Pledge
 
@@ -165,7 +174,11 @@ You can also create custom issue templates using YAML frontmatter:
 - Create a folder called `.github` in the root directory.
 - Add a folder called `ISSUE_TEMPLATE` inside the `.github` folder.
 
-  !> The name of this folder should be in all caps, or else it will not work on GitHub.
+  :::note
+  
+  The name of this folder should be in all caps, or else it will not work on GitHub.
+
+  :::
 
 - Create a YAML file like a `bug.yml` or `feature.yml` file inside the `ISSUE_TEMPLATE` folder.
 
@@ -199,14 +212,14 @@ To create a new project:
 3. Choose a template.
 4. Name your project and click the "Create project" button at the bottom.
 
-?> Projects are private by default. You can make them private to core maintainers or publicly visible to everyone.
+:::note
+
+Projects are private by default. You can make them private to core maintainers or publicly visible to everyone.
+
+:::
 
 Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
 
 ![GitHub Project Boards GIF](../_assets/gifs/create-github-project.gif)
 
 The [next chapter](issues-and-pull-requests.md) will discuss handling open issues and pull requests.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/how-to-setup-your-project.md">✏️ Edit this page</a>
-</footer>

@@ -1,4 +1,9 @@
-# The Secret Sauce
+---
+id: the-secret-sauce
+title: "The Secret Sauce"
+sidebar_label: "The Secret Sauce"
+keywords: ["open source secret sauce", "how to make a lasting impact in open source", "open source resume builder", "building open source resume", "building open source resume with OpenSauced", "finding issues in open source", "addressing issues in open source", "gaining recognition in open source", "building a strong open source profile", "becoming a valuable contributor to open source projects", "tips for building a strong reputation in open source", "effectively highlight open source contributions", "open source contribution", "open source contribution for beginners", "Open Source", "Open Source Community"]
+---
 
 In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
 
@@ -77,7 +82,3 @@ By leveraging OpenSauced to track your open source contributions and develop you
 In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
 
 In the [next chapter](types-of-contributions.md), we will discuss various types of open source contributions.
-
-<footer>
-  <a href= "https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/the-secret-sauce.md">✏️ Edit this page</a>
-</footer>

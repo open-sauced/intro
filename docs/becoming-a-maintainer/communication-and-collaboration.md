@@ -1,4 +1,9 @@
-# How to Communicate and Collaborate Effectively
+---
+id: communication-and-collaboration
+title: "How to Communicate and Collaborate Effectively"
+sidebar_label: "Effective Communication and Collaboration"
+keywords: ["communication and collaboration", "effective communication and collaboration in open source", "open source community communication strategies", "managing communication in open source", "fostering collaboration in open source", "best practices for communication in open source communities", "using Discord/Slack/Github Discussions for open source communication", "how to handle conflicts in open source community", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Effective communication and collaboration with contributors are the keys to a thriving open source community. As maintainers, you want to smoothly onboard new contributors to your projects and build a welcoming community with open lines of communication between contributors and maintainers.
 
@@ -136,11 +141,11 @@ Here are some ways to create boundaries:
 
   You need to know that it's okay to take time off, step away from your project, and take care of yourself. You can inform your contributors that you will review their pull requests after you return. Here is an example of what you can say:
 
-  > "Hey {username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
+  > "Hey \{username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
 
   When pull requests come during your days off, after you return, you can thank and let the contributors know you will review the pull requests. Consider to say something like this:
 
-  > "Hey {username}, I just returned from my days off. Thank you for taking this on! I need time to review it and will get back to you soon. I appreciate your patience."
+  > "Hey \{username}, I just returned from my days off. Thank you for taking this on! I need time to review it and will get back to you soon. I appreciate your patience."
 
 - **No private or direct message**
 
@@ -200,7 +205,7 @@ Instead of saying:
 
 You can say something like:
 
-> "Thank you for your prompt work on the PRs, {username}. I really appreciate it! However, let's focus more on quality than quantity. I noticed a few things that I believe could further improve the quality of your work:
+> "Thank you for your prompt work on the PRs, \{username}. I really appreciate it! However, let's focus more on quality than quantity. I noticed a few things that I believe could further improve the quality of your work:
 >
 > - It might be a good idea to take time to fully understand the issue before starting work on a PR, as this solution is different from what we asked in the issue. If you need help or clarification, don't hesitate to reach out.
 > - Another thing that could be helpful is running and testing the code locally before submitting a PR. This way, you'll be able to ensure that the code runs as it should. It can save you time from going back and forth on revisions.
@@ -208,7 +213,3 @@ You can say something like:
 > I hope you find this feedback helpful. If there's anything I can do to support you, please let me know."
 
 In the [next chapter](maintaining-code-quality.md), we will talk about maintaining code quality and documentation.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/communication-and-collaboration.md">✏️ Edit this page</a>
-</footer>

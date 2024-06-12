@@ -1,3 +1,10 @@
+---
+id: glossary
+title: "Glossary"
+sidebar_label: "Glossary"
+keywords: ["glossary", "open source glossary", "glossary for open source maintainers", "open source maintainers", "Open Source", "Open Source Community"]
+---
+
 ## API Documentation
 
 API documentation is a technical document that explains how to use and work with an API. This manual contains all the information required to work with the API including details on how to make requests, what data formats are supported, and what response codes are returned.
@@ -120,7 +127,3 @@ Technical debt is a when a codebase has increased maintenance costs because of e
 ## Versioning
 
 Versioning is the process of assigning either unique version names or numbers to new releases of your project. Some versions are released as "major" versions, while others are released as "minor" versions.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/glossary.md">✏️ Edit this page</a>
-</footer>

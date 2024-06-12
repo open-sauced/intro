@@ -1,4 +1,9 @@
-# Additional Resources
+---
+id: additional-resources
+title: "Additional Resources"
+sidebar_label: "Additional Resources"
+keywords: ["additional resources for open source maintainers", "guides resources for open source maintainers", "blog posts resources for open source maintainers", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 On this page, you will find additional resources to help you learn more about all things around open source maintainers.
 
@@ -20,7 +25,3 @@ On this page, you will find additional resources to help you learn more about al
 - [The Role of Documentation in Open Source Success](https://dev.to/opensauced/the-role-of-documentation-in-open-source-success-2lbn)
 - [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
 - [What Does an Open Source Triage Team Do?](https://dev.to/opensauced/what-does-an-open-source-triage-team-do-2egd)
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/additional-resources.md">✏️ Edit this page</a>
-</footer>

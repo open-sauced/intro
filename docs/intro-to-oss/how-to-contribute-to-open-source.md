@@ -1,4 +1,10 @@
-# How to Contribute to Open Source
+---
+id: how-to-contribute-to-open-source
+title: "How to Contribute to Open Source"
+sidebar_label: "How to Contribute to Open Source"
+keywords:
+  ["how to contribute to open source", "contribute to open source projects", "finding open source projects to contribute to", "finding open source projects to contribute to with OpenSauced", "onboarding to open source projects", "open source contribution for beginners", "get started contributing to open source", "open source contribution workflow", "contributing to open source tutorial", "merge conflicts", "resolving merge conflicts", "open source for beginners", "open source tutorial for beginners", "best practices for contributing to open source projects", "GitHub", "Git", "Open Source", "Open Source Community"]
+---
 
 In this chapter, we'll guide you through the process of contributing to open source projects.
 
@@ -68,7 +74,11 @@ Every project has different contributing rules. These rules are written in the c
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
-?> Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+:::tip
+
+Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+
+:::
 
 ### 2. Find or Create an Issue
 
@@ -110,7 +120,7 @@ Once a maintainer has assigned you an issue, the next step is to work on the cha
 
 [Cloning your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) means making a copy of your forked repository to your local machine. Run the following command in your terminal:
 
-```
+```bash
 git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
 ```
 
@@ -122,7 +132,7 @@ Before making any changes, create a new branch in your local repository to work 
 
 You can create a new branch using the following command:
 
-```
+```bash
 git checkout -b YOUR-BRANCH-NAME
 ```
 
@@ -142,7 +152,7 @@ You can find the instructions on how to run a project locally in the README file
 
 Once you've made your changes, add your changes to the staging area and commit them with these commands:
 
-```
+```bash
 git add .
 git commit -m "Your commit message"
 ```
@@ -153,7 +163,7 @@ Replace `"Your commit message"` with a brief description of your changes.
 
 Push your changes to your forked repository on GitHub by running the following command:
 
-```
+```bash
 git push origin YOUR-BRANCH-NAME
 ```
 
@@ -194,7 +204,11 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    The instructions on what information you must provide are usually written in the comments under each heading. You need to read and follow all instructions thoroughly.
 
-   ?> **Tip:** When filling in the information, write it below the comment so you can still see and follow the instructions.
+   :::tip
+
+   When filling in the information, write it below the comment so you can still see and follow the instructions.
+
+   :::
 
    Here is the template in Markdown. Now, pay attention to the headings and the comments as we discussed:
 
@@ -311,7 +325,11 @@ Every project is unique. Each has its own pull request template structure and re
 
   ![issue number](../_assets/images/issue-number.png)
 
-  !> Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
+  :::info
+
+  Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
+
+  :::
 
 - **Screenshots or screen recordings**
 
@@ -327,7 +345,7 @@ By following these steps, you'll be able to submit your contributions to open so
 
 After your contribution has been submitted and reviewed, one of the following outcomes may occur:
 
-1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br>
+1. **Your contribution is accepted**: If your contribution is approved by the project maintainers, it will be merged into the main branch of the codebase. <br/>
    Congratulations! Your work is now part of the project, and you've made a valuable contribution to the open source community.
 
 2. **Your contribution requires changes**: Sometimes, the project maintainers may request changes to your contribution before it can be accepted. This could be due to coding issues, conflicts with other changes, or a need for additional documentation. In this case, make the requested changes and resubmit your pull request.
@@ -352,7 +370,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
    - Click the "Issues" tab on the top bar.
    - Click the green "New issue" button at the top right.
    - Click the "Get started" button to add contributors.
-   - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br> Change "@GITHUB-USERNAME" to your GitHub username.
+   - Add a title, e.g., `Feature: Add @GITHUB-USERNAME as a contributor`. <br/> Change "@GITHUB-USERNAME" to your GitHub username.
    - Complete the form. Read the instructions under each input label and fill in the textareas using the example shown in the screenshot below with the red line.
 
      ![guestbook issue form](../_assets/images/guestbook-issue-form.png)
@@ -374,7 +392,11 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    ![Profile generated on README](../_assets/images/profile-generated.png)
 
-   !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+   :::tip
+
+   If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+
+   :::
 
 9. Run `git log` to check if your changes have been automatically committed. To close the log, press `Q`.
 
@@ -392,11 +414,19 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request template. Read the [Fill In a Pull Request Template](#fill-in-a-pull-request-template) section to help you complete the template.
 
-    !> Your pull request will be marked as invalid and may be closed if the template is incomplete.
+    :::warning
+
+    Your pull request will be marked as invalid and may be closed if the template is incomplete.
+
+    :::
 
 Congratulations on your first contribution! 🎉
 
-?> If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
+:::tip
+
+If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
+
+:::
 
 ## Keeping Branches Up to Date
 
@@ -450,7 +480,7 @@ Complete the template form and fill in all areas when creating a pull request.
 
 If a repository doesn't provide you with a pull request template, you need to have these in your pull request form:
 
-- **A descriptive title**: A descriptive title would help maintainers and other contributors gain an idea of what your contribution is. <br>
+- **A descriptive title**: A descriptive title would help maintainers and other contributors gain an idea of what your contribution is. <br/>
   Consider using the following method to write your title: `type: brief description of your contribution`. For example, `fix: color contrast issue on the navbar`, `feat: create a warning button`, etc.
 
 - **A clear description of your pull request**: Describe your pull request clearly. Consider explaining your changes, thoughts behind the solution, etc. A clear description gives maintainers and other contributors insight into the details of your changes. Here is [an example of a clear description in a pull request](https://github.com/open-sauced/intro/pull/10).
@@ -500,10 +530,6 @@ Before resolving merge conflicts, you must first [update your branches](#updatin
    git push
    ```
 
-<hr>
+<hr/>
 
 As you continue to contribute to open source projects, you'll gain valuable experience, develop new skills, and build a strong portfolio of work. In the [next chapter](the-secret-sauce.md), we'll discuss some strategies for getting started with open source contributions, gaining traction in your contributions, and developing your open source resume using OpenSauced.
-
-<footer>
-   <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/how-to-contribute-to-open-source.md">✏️ Edit this page</a>
-</footer>

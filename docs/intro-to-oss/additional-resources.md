@@ -1,4 +1,9 @@
-# Additional Resources
+---
+id: additional-resources
+title: "Additional Resources"
+sidebar_label: "Additional Resources"
+keywords: ["additional resources", "resources to contribute to open source", "guides and tutorials resources to contribute to open source", "blog posts resources to contribute to open source", "Open Source", "Open Source Community"]
+---
 
 On this page, you can find resources to help you learn further about contributing to open source:
 
@@ -22,7 +27,3 @@ On this page, you can find resources to help you learn further about contributin
 - [Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
 - [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5) -[How to Write a Good Issue: Tips for Effective Communication in Open Source](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
 - [Good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist)
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/additional-resources.md">✏️ Edit this page</a>
-</footer>

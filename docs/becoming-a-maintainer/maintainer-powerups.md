@@ -1,4 +1,9 @@
-# Maintainer Power Ups
+---
+id: maintainer-powerups
+title: "Maintainer Power Ups"
+sidebar_label: "Maintainer Powerups"
+keywords: ["maintainer powerups", "GitHub tools for open source maintainers", "open source maintainers productivity", "GitHub Actions", "GitHub Actions for open source projects", "types of GitHub Actions for open source projects", "automating open source maintainers tasks", "GitHub", "GitHub tools", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. It would help if you were efficient in what you do.
 
@@ -121,7 +126,11 @@ Here is an example of a [CODEOWNERS file](https://github.com/open-sauced/docs/bl
 
 This syntax means that the `@open-sauced/docs` team will be the default owner for everything in the repository and will automatically added as reviewers whenever someone creates a pull request.
 
-!> If you want to match two or more code owners with the same pattern, all the code owners must be on the same line.
+:::note
+
+If you want to match two or more code owners with the same pattern, all the code owners must be on the same line.
+
+:::
 
 There are some benefits to having this file in your repository:
 
@@ -138,7 +147,3 @@ There are some benefits to having this file in your repository:
   If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break production.
 
 Now that you understand the basics of what maintainers do and the tools, the [next chapter](your-team.md) will teach you how to build your team.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/maintainer-powerups.md">✏️ Edit this page</a>
-</footer>

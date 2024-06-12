@@ -1,4 +1,9 @@
-# Why Open Source?
+---
+id: why-open-source
+title: "Why Open Source?"
+sidebar_label: "Why Open Source"
+keywords: ["why open source", "why contribute to open source", "open source project contribution benefits", "Open Source", "Open Source Community"]
+---
 
 In the previous chapter, we explored the concept of open source and its history. Now, let's delve into the many benefits of contributing to open source projects. By understanding the advantages of open source collaboration, you'll be better equipped to leverage the opportunities it presents and make the most of your open source journey.
 
@@ -53,7 +58,3 @@ In addition to the above-mentioned benefits, contributing to open source project
 3. **Opportunities for recognition**: Open source projects often attract the attention of industry leaders, influencers, and media outlets. By making significant contributions to high-profile projects, you can gain recognition and establish yourself as an expert in your field.
 
 In the [next chapter](tools-to-be-successful.md), we'll discuss the essential tools and resources you'll need to be successful in your open source journey, including GitHub, Git, VS Code, and Discord. By familiarizing yourself with these tools, you'll be better equipped to collaborate with others, manage your projects, and contribute effectively to open source projects.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/why-open-source.md">✏️ Edit this page</a>
-</footer>

@@ -1,4 +1,9 @@
-# How to Handle Open Issues and Pull Requests
+---
+id: issues-and-pull-requests
+title: "How to Handle Open Issues and Pull Requests"
+sidebar_label: "Managing Issues and Pull Requests"
+keywords: ["issues and pull requests", "how to handle issues and pull requests", "issues management in open source", "best practices for issue triage", "managing pull requests open source", "pull requests reviews", "Issue and Pull Request Highlights with OpenSauced", "handling security vulnerabilities in open source", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 One of the core responsibilities of an open source maintainer is triaging open issues and reviewing pull requests. In this chapter, we will talk about how to handle best open issues, pull requests, and security vulnerabilities.
 
@@ -179,7 +184,3 @@ A lot of maintainers will choose to go with this security policy template:
 Dependabot is a GitHub feature that monitors your project's dependencies and reports any possible security vulnerabilities. You can configure Dependabot to report issues or create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
 
 Let's move to the [next chapter](communication-and-collaboration.md), which will discuss how to communicate and collaborate effectively.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/issues-and-pull-requests.md">✏️ Edit this page</a>
-</footer>

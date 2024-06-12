@@ -1,4 +1,9 @@
-# Conclusion
+---
+id: conclusion
+title: "Conclusion"
+sidebar_label: "Conclusion"
+keywords: ["conclusion", "steps to continue open source contributions", "Open Source", "Open Source Community"]
+---
 
 As we wrap up this course on getting started with open source, let's recap the key takeaways and discuss what's next in your open source journey.
 
@@ -39,7 +44,3 @@ With the knowledge and tools you've gained from this course, you're ready to div
 7. **Continue learning**: Open source is a dynamic and ever-evolving field. Stay current with the latest tools, techniques, and best practices by attending workshops, taking online courses, and reading articles and books on open source development. We've included an [additional resources section](additional-resources.md) for more information.
 
 In conclusion, embarking on an open source journey is a rewarding and enriching experience that can help you develop new skills, connect with like-minded individuals, and make a lasting impact on the projects you work on. With the knowledge and tools you've gained from this course, you're well-prepared to take on the exciting challenges and opportunities that await you in the open source world. So go forth and start contributing – the open source community eagerly awaits your participation!
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/conclusion.md">✏️ Edit this page</a>
-</footer>

@@ -1,4 +1,9 @@
-# Building Your Open Source Dream Team
+---
+id: your-team
+title: "Building Your Open Source Dream Team"
+sidebar_label: "Building Your Team"
+keywords: ["building open source team", "how to build an open source team", "assembling an open source maintainer team", "building an open source maintainer team", "finding new maintainers for open source projects", "identifying potential open source maintainers using OpenSauced", "best practices for onboarding new open source team members", "types of open source maintainers team", "triage team", "maintainer team", "documentation team", "onboarding open source maintainers", "GitHub permissions for open source teams", "offboarding open source team members", "open source maintainer recruitment strategies", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Managing an open source project requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to collaborate with your team effectively and offers guidance on identifying, onboarding, and empowering your open source squad.
 
@@ -32,7 +37,11 @@ The docs team creates and maintains high-quality documentation for users and con
 - Marketing Team
 - Core Team\*
 
-?> Sometimes, the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the project's direction. The Maintainer Team is more likely to focus on the project's day-to-day management and technical aspects.
+:::info
+
+Sometimes, the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the project's direction. The Maintainer Team is more likely to focus on the project's day-to-day management and technical aspects.
+
+:::
 
 ## Assembling Your A-Team: Adding New Members
 
@@ -152,7 +161,3 @@ Check out [this guide](https://docs.github.com/en/organizations/organizing-membe
 Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project; you're adding people to your community. Make sure you're adding people who align with your project's values and goals and who will be a positive addition to your community.
 
 In the [next chapter](metrics-and-analytics.md), you will learn how metrics and analytics are helpful for new maintainers.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/your-team.md">✏️ Edit this page</a>
-</footer>

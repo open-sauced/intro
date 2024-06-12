@@ -1,3 +1,10 @@
+---
+id: glossary
+title: "Glossary"
+sidebar_label: "Glossary"
+keywords: ["glossary", "open source glossary", "glossary for open source contributors", "Open Source", "Open Source Community"]
+---
+
 ## Branch
 
 A branch is a separate version of the code that's created for development purposes. Branches allow contributors to experiment with changes without affecting the main codebase. When changes are ready to be merged into the main codebase, they're typically submitted as a pull request.
@@ -69,7 +76,3 @@ A repository is a central location where code is stored and managed. In open sou
 ## Style Guide
 
 A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/glossary.md">✏️ Edit this page</a>
-</footer>

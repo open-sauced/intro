@@ -1,4 +1,9 @@
-# Understanding the Role of an Open Source Maintainer
+---
+id: intro
+title: "Understanding the Role of an Open Source Maintainer"
+sidebar_label: "Understanding Maintainership"
+keywords: ["introduction to open source maintainer", "What is an Open Source Maintainer", "open source maintainer role", "open source maintainer responsibilities", "benefits of being an open source maintainer", "challenges of open source maintainers", "day in the life of an open source maintainer", "open source maintainers", "open source community and maintainers", "Open Source", "Open Source Community"]
+---
 
 Being an open source maintainer can be a very gratifying and rewarding experience. But a lot of work goes into maintaining an open source project. You will have many responsibilities as a maintainer, including being a contributor, leader, mentor, and community manager.
 
@@ -91,7 +96,3 @@ A vital component of any open source project is its community. Building a strong
 If your project is on GitHub, you can use [GitHub Discussions](https://docs.github.com/en/discussions) as a way for contributors to post questions and facilitate conversations. Consider creating communities on Discord or Slack and holding office hours or other events like X Spaces to encourage engagement. At one point, as you grow your community, you will want to recruit moderators to help maintain the healthy environment you set up.
 
 The [next chapter](how-to-setup-your-project.md) will teach you how to set up an open source project.
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/intro.md">✏️ Edit this page</a>
-</footer>

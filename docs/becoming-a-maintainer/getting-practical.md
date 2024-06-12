@@ -1,4 +1,9 @@
-# Let's Get Practical: Starting Your Project
+---
+id: getting-practical
+title: "Let's Get Practical: Starting Your Project"
+sidebar_label: "Getting Practical"
+keywords: ["getting practical by creating a new open source project", "creating an open source project", "creating an open source project tutorial", "creating an open source project for beginners", "creating a repository", "creating a README", "adding an open source license", "creating contributing guidelines for an open source project", "adding an open source code of conduct", "creating open source issue forms", "creating an open source pull request template", "promoting open source projects", "recognizing open source contributors", "monitoring open source projects", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Now that you've gone through the course and understand what it takes to be a successful maintainer, let's get practical and start your first open source project as a maintainer!
 
@@ -146,11 +151,15 @@ It's essential to have a code of conduct to ensure that everyone feels welcome a
 
 2. **Add manually**. If you want to copy or adapt from other codes of conduct, you need to add your code of conduct manually by following these steps:
 
-- [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
-- [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
-- [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
+   - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+   - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+   - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
 
-!> Make sure you attribute the code of conduct to the original author.
+   :::note
+   
+   Make sure you attribute the code of conduct to the original author.
+
+   :::
 
 ### Using Issue Forms, Pull Request Templates, and Labels
 
@@ -375,8 +384,8 @@ You can learn more about how to create a successful project with OpenSauced with
 
 Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](maintainers-guestbook.md) page.
 
-?> Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+:::tip
 
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/getting-practical.md">✏️ Edit this page</a>
-</footer>
+Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+
+:::

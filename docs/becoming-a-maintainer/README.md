@@ -1,10 +1,9 @@
-<div align="center" style="text-align: center;">
-    <div style="display: flex; align-items: center; justify-content: center;">
-       <h1 style="font-size: 3em; font-family: 'Arial', sans-serif; font-weight: bold; margin: 25px 0;">Becoming a Maintainer with <span style="background: linear-gradient(to right, #e74c3c, #e67e22); -webkit-background-clip: text; color: transparent;">
-            OpenSauced
-        </span></h1>
-    </div>
-</div>
+---
+id: Maintainer-README
+title: "Becoming a Maintainer with OpenSauced"
+sidebar_label: "Becoming a Maintainer"
+keywords: ["README", "Becoming a Maintainer with OpenSauced", "becoming an open source maintainer", "open source course", "open source course for beginners", "maintaining open source projects course", "maintaining open source projects course for beginners", "open source maintainers", "Open Source", "Open Source Community"]
+---
 
 Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
 
@@ -63,7 +62,11 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
 
-?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
+:::tip
+
+Each chapter builds on the previous one, so we recommend reading them in order.
+
+:::
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
 
@@ -78,7 +81,3 @@ To learn more about using OpenSauced to build your open source project, check ou
 We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the [Community](https://github.com/orgs/open-sauced/discussions).
 
 Happy learning and contributing!
-
-<footer>
-  <a href="https://github.com/open-sauced/intro/blob/main/docs/becoming-a-maintainer/README.md">✏️ Edit this page</a>
-</footer>
