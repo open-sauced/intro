@@ -2,7 +2,7 @@
 id: tools-to-be-successful
 title: "Tools to be Successful"
 sidebar_label: "Tools to be Successful"
-keywords: ["tools to be successful", "Open Source", "Open Source Community"]
+keywords: ["tools to be successful", "tools to contribute to open source projects", "Github & Git", "GitHub", "Git", "Getting Started with Git and GitHub", "Git tutorial", "VS Code", "VS Code and Git tutorial", "VS Code benefits", "contributing to open source with VS Code", "Discord", "Discord benefits when contributing to open source projects", "contributing to open source", "Open Source", "Open Source Community"]
 ---
 
 To be successful in your open source journey, it's essential to familiarize yourself with the tools and platforms commonly used by the community. These tools will help you collaborate effectively, manage your projects, and contribute to open source projects. In this chapter, we'll discuss the following essential tools for open source collaboration:
