@@ -2,7 +2,7 @@
 id: communication-and-collaboration
 title: "How to Communicate and Collaborate Effectively"
 sidebar_label: "Effective Communication and Collaboration"
-keywords: ["communication and collaboration", "Open Source", "Open Source Community"]
+keywords: ["communication and collaboration", "effective communication and collaboration in open source", "open source community communication strategies", "managing communication in open source", "fostering collaboration in open source", "best practices for communication in open source communities", "using Discord/Slack/Github Discussions for open source communication", "how to handle conflicts in open source community", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 Effective communication and collaboration with contributors are the keys to a thriving open source community. As maintainers, you want to smoothly onboard new contributors to your projects and build a welcoming community with open lines of communication between contributors and maintainers.
