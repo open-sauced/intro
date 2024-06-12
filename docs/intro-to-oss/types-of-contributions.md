@@ -2,7 +2,7 @@
 id: types-of-contributions
 title: "Types of Open Source Contributions"
 sidebar_label: "Types of Contributions"
-keywords: ["types of contributions", "Open Source", "Open Source Community"]
+keywords: ["types of contributions", "types of open source contributions", "open source contributions", "non-coding contributions", "types of non-coding contributions", "open source non-coding contributions", "types of coding contributions", "coding contributions", "open source coding contribution", "contributing to open source documentation", "graphic design contribution in open source", "content creation contribution in open source", "open source for beginners", "open source contribution for beginners", "Open Source", "Open Source Community"]
 ---
 
 Contributions to open source projects can take many forms, such as coding, documentation, testing, and more. It is important to note that open source contributions are not limited to developers only. Anyone can contribute to open source projects, regardless of their technical skills.
