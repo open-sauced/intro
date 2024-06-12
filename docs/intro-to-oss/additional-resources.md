@@ -2,7 +2,7 @@
 id: additional-resources
 title: "Additional Resources"
 sidebar_label: "Additional Resources"
-keywords: ["additional resources", "Open Source", "Open Source Community"]
+keywords: ["additional resources", "resources to contribute to open source", "guides and tutorials resources to contribute to open source", "blog posts resources to contribute to open source", "Open Source", "Open Source Community"]
 ---
 
 On this page, you can find resources to help you learn further about contributing to open source:
