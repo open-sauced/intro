@@ -1,12 +1,10 @@
 ---
 id: how-to-contribute-to-open-source
-title: "how to contribute to open source"
+title: "How to Contribute to Open Source"
 sidebar_label: "How to Contribute to Open Source"
 keywords:
   ["how to contribute to open source", "Open Source", "Open Source Community"]
 ---
-
-# How to Contribute to Open Source
 
 In this chapter, we'll guide you through the process of contributing to open source projects.
 

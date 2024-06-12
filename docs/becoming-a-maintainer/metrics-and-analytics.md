@@ -1,11 +1,9 @@
 ---
 id: metrics-and-analytics
-title: "metrics and analytics"
+title: "The Power of Metrics and Analytics for New Maintainers"
 sidebar_label: "The Power of Metrics and Analytics"
 keywords: ["metrics and analytics", "Open Source", "Open Source Community"]
 ---
-
-# The Power of Metrics and Analytics for New Maintainers
 
 Understanding what's happening with your project and contributors as it grows can be challenging for new maintainers. Think of metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.
 

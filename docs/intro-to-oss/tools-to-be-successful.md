@@ -1,11 +1,9 @@
 ---
 id: tools-to-be-successful
-title: "tools to be successful"
+title: "Tools to be Successful"
 sidebar_label: "Tools to be Successful"
 keywords: ["tools to be successful", "Open Source", "Open Source Community"]
 ---
-
-# Tools to be Successful
 
 To be successful in your open source journey, it's essential to familiarize yourself with the tools and platforms commonly used by the community. These tools will help you collaborate effectively, manage your projects, and contribute to open source projects. In this chapter, we'll discuss the following essential tools for open source collaboration:
 

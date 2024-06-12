@@ -1,11 +1,9 @@
 ---
 id: getting-practical
-title: "getting practical"
+title: "Let's Get Practical: Starting Your Project"
 sidebar_label: "Getting Practical"
 keywords: ["getting practical", "Open Source", "Open Source Community"]
 ---
-
-# Let's Get Practical: Starting Your Project
 
 Now that you've gone through the course and understand what it takes to be a successful maintainer, let's get practical and start your first open source project as a maintainer!
 

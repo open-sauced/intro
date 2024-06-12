@@ -1,11 +1,9 @@
 ---
 id: your-team
-title: "your team"
+title: "Building Your Open Source Dream Team"
 sidebar_label: "Building Your Team"
 keywords: ["your team", "Open Source", "Open Source Community"]
 ---
-
-# Building Your Open Source Dream Team
 
 Managing an open source project requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to collaborate with your team effectively and offers guidance on identifying, onboarding, and empowering your open source squad.
 

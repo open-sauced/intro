@@ -1,11 +1,9 @@
 ---
 id: building-community
-title: "building community"
+title: "Building and Nurturing a Welcoming and Supportive Community"
 sidebar_label: "Building and Nurturing Community"
 keywords: ["building community", "Open Source", "Open Source Community"]
 ---
-
-# Building and Nurturing a Welcoming and Supportive Community
 
 Open source is more than just maintaining and improving a project. It's a dynamic environment where maintainers, contributors, and users come together to collaborate, contribute, and grow. That said, the people involved in the project are the core and heart of open source.
 

@@ -1,11 +1,9 @@
 ---
 id: conclusion
-title: "conclusion"
+title: "Conclusion"
 sidebar_label: "Conclusion"
 keywords: ["conclusion", "Open Source", "Open Source Community"]
 ---
-
-# Conclusion
 
 As we wrap up this course on getting started with open source, let's recap the key takeaways and discuss what's next in your open source journey.
 

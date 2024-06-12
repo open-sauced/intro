@@ -1,6 +1,6 @@
 ---
 id: glossary
-title: "glossary"
+title: "Glossary"
 sidebar_label: "Glossary"
 keywords: ["glossary", "Open Source", "Open Source Community"]
 ---

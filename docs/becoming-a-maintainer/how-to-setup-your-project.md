@@ -1,11 +1,9 @@
 ---
 id: how-to-setup-your-project
-title: "how to setup your project"
+title: "How to Setup Your Open Source Project"
 sidebar_label: "How to Set Up Your Project"
 keywords: ["how to setup your project", "Open Source", "Open Source Community"]
 ---
-
-# How to Setup Your Open Source Project
 
 There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
 

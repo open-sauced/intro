@@ -1,11 +1,9 @@
 ---
 id: intro
-title: "intro"
+title: "Understanding the Role of an Open Source Maintainer"
 sidebar_label: "Understanding Maintainership"
 keywords: ["intro", "Open Source", "Open Source Community"]
 ---
-
-# Understanding the Role of an Open Source Maintainer
 
 Being an open source maintainer can be a very gratifying and rewarding experience. But a lot of work goes into maintaining an open source project. You will have many responsibilities as a maintainer, including being a contributor, leader, mentor, and community manager.
 

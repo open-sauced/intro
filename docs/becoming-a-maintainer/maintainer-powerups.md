@@ -1,11 +1,9 @@
 ---
 id: maintainer-powerups
-title: "maintainer powerups"
+title: "Maintainer Power Ups"
 sidebar_label: "Maintainer Powerups"
 keywords: ["maintainer powerups", "Open Source", "Open Source Community"]
 ---
-
-# Maintainer Power Ups
 
 Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. It would help if you were efficient in what you do.
 

@@ -1,11 +1,9 @@
 ---
 id: intro
-title: "intro"
+title: "Introduction"
 sidebar_label: "Intro to Open Source"
 keywords: ["intro", "Open Source", "Open Source Community"]
 ---
-
-# Introduction
 
 Welcome to the "Intro to Open Source with OpenSauced" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.
 
