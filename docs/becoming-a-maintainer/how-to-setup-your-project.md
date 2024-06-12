@@ -84,9 +84,11 @@ A code of conduct is an established set of rules and behaviors that all open sou
 
 This set of rules and expectations will go inside a CODE_OF_CONDUCT file in the root directory of your project. Codes of conduct are generally divided into three main categories: pledge, standards, and enforcement.
 
-:::note
+:::info
+
 Most open source maintainers will not write their code of conduct from scratch. Instead, they will add one using a [template provided by GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project#adding-a-code-of-conduct-using-a-template) or copy and adapt from other codes of conduct and provide attribution.
-:::note
+
+:::
 
 ### Project Pledge
 
@@ -174,7 +176,11 @@ You can also create custom issue templates using YAML frontmatter:
 - Create a folder called `.github` in the root directory.
 - Add a folder called `ISSUE_TEMPLATE` inside the `.github` folder.
 
-  !> The name of this folder should be in all caps, or else it will not work on GitHub.
+  :::note
+  
+  The name of this folder should be in all caps, or else it will not work on GitHub.
+
+  :::
 
 - Create a YAML file like a `bug.yml` or `feature.yml` file inside the `ISSUE_TEMPLATE` folder.
 
@@ -208,9 +214,11 @@ To create a new project:
 3. Choose a template.
 4. Name your project and click the "Create project" button at the bottom.
 
- :::note
- Projects are private by default. You can make them private to core maintainers or publicly visible to everyone.
- :::
+:::note
+
+Projects are private by default. You can make them private to core maintainers or publicly visible to everyone.
+
+:::
 
 Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
 

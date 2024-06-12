@@ -153,11 +153,15 @@ It's essential to have a code of conduct to ensure that everyone feels welcome a
 
 2. **Add manually**. If you want to copy or adapt from other codes of conduct, you need to add your code of conduct manually by following these steps:
 
-- [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
-- [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
-- [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
+   - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+   - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+   - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
 
-!> Make sure you attribute the code of conduct to the original author.
+   :::note
+   
+   Make sure you attribute the code of conduct to the original author.
+
+   :::
 
 ### Using Issue Forms, Pull Request Templates, and Labels
 
@@ -383,5 +387,7 @@ You can learn more about how to create a successful project with OpenSauced with
 Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](maintainers-guestbook.md) page.
 
 :::tip
- Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+
+Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+
 :::

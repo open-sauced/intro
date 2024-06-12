@@ -2,7 +2,8 @@
 id: how-to-contribute-to-open-source
 title: "how to contribute to open source"
 sidebar_label: "How to Contribute to Open Source"
-keywords: ["how to contribute to open source", "Open Source", "Open Source Community"]
+keywords:
+  ["how to contribute to open source", "Open Source", "Open Source Community"]
 ---
 
 # How to Contribute to Open Source
@@ -75,8 +76,10 @@ Every project has different contributing rules. These rules are written in the c
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 
-:::tip 
+:::tip
+
 Read the contributing guidelines carefully to understand how the project receives contributions. Following these guidelines will make your contribution process smoother.
+
 :::
 
 ### 2. Find or Create an Issue
@@ -203,9 +206,11 @@ It can be challenging to read and fill in a pull request template. Here is some 
 
    The instructions on what information you must provide are usually written in the comments under each heading. You need to read and follow all instructions thoroughly.
 
-:::tip
-  When filling in the information, write it below the comment so you can still see and follow the instructions.
-:::
+   :::tip
+
+   When filling in the information, write it below the comment so you can still see and follow the instructions.
+
+   :::
 
    Here is the template in Markdown. Now, pay attention to the headings and the comments as we discussed:
 
@@ -322,7 +327,11 @@ Every project is unique. Each has its own pull request template structure and re
 
   ![issue number](../../../intro/docs/_assets/images/issue-number.png)
 
-  !> Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
+  :::info
+
+  Only add the [supported keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) and the issue number here. Adding more words will prevent the issue from being closed automatically.
+
+  :::
 
 - **Screenshots or screen recordings**
 
@@ -385,7 +394,11 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
    ![Profile generated on README](../../../intro/docs/_assets/images/profile-generated.png)
 
-   !> If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+   :::tip
+
+   If you don't see your profile in the "Contributors" section, zoom out the screen until you can see it before taking a screenshot.
+
+   :::
 
 9. Run `git log` to check if your changes have been automatically committed. To close the log, press `Q`.
 
@@ -403,13 +416,19 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 11. Go to your forked repository on GitHub. Create a pull request with the title `feat: Add <@github-username> as a contributor` and fill in all areas in the pull request template. Read the [Fill In a Pull Request Template](#fill-in-a-pull-request-template) section to help you complete the template.
 
-    !> Your pull request will be marked as invalid and may be closed if the template is incomplete.
+    :::warning
+
+    Your pull request will be marked as invalid and may be closed if the template is incomplete.
+
+    :::
 
 Congratulations on your first contribution! 🎉
 
 :::tip
- If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
- :::
+
+If you're ready for your next contribution, check out the [pizza-verse repository](https://github.com/open-sauced/pizza-verse) and follow the contribution guidelines.
+
+:::
 
 ## Keeping Branches Up to Date
 

@@ -83,8 +83,10 @@ Within the Repositories dashboard, you can view the following metrics, which are
 - **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
 :::tip
- You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
- :::
+
+You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
+
+:::
 
 If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://docs.opensauced.pizza/features/repo-insights/) in your Workspace.
 
@@ -103,8 +105,10 @@ There are three tabs that provide you with more information on these repositorie
 This dashboard allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
 :::tip
- To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
- :::
+
+To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
+
+:::
 
 ![repositories dashboard](../../../intro/docs/_assets/images/repos-insights.png)
 
@@ -175,8 +179,10 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 The Highlights dashboard gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
 :::tip
- To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
- :::
+
+To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
+
+:::
 
 ### Leveraging OpenSauced for Project Success
 

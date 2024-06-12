@@ -4,6 +4,7 @@ title: "Becoming a Maintainer with OpenSauced"
 sidebar_label: "Becoming a Maintainer"
 keywords: ["README", "Open Source", "Open Source Community"]
 ---
+
 Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
 
 ## Course Overview
@@ -62,7 +63,9 @@ As this is the beginning of your open source maintainer journey, we've also prov
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
 
 :::tip
+
 Each chapter builds on the previous one, so we recommend reading them in order.
+
 :::
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
@@ -78,5 +81,3 @@ To learn more about using OpenSauced to build your open source project, check ou
 We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the [Community](https://github.com/orgs/open-sauced/discussions).
 
 Happy learning and contributing!
-
-
