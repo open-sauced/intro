@@ -2,7 +2,7 @@
 id: getting-practical
 title: "Let's Get Practical: Starting Your Project"
 sidebar_label: "Getting Practical"
-keywords: ["getting practical", "Open Source", "Open Source Community"]
+keywords: ["getting practical by creating a new open source project", "creating an open source project", "creating an open source project tutorial", "creating an open source project for beginners", "creating a repository", "creating a README", "adding an open source license", "creating contributing guidelines for an open source project", "adding an open source code of conduct", "creating open source issue forms", "creating an open source pull request template", "promoting open source projects", "recognizing open source contributors", "monitoring open source projects", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 Now that you've gone through the course and understand what it takes to be a successful maintainer, let's get practical and start your first open source project as a maintainer!
