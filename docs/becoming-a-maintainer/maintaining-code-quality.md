@@ -23,7 +23,7 @@ Using Conventional Commits in your project is highly recommended. You can encour
 
 Here are some examples of Conventional Commit messages:
 
-```
+```text
 feat: add password reset functionality
 docs: update installation instructions
 chore(build): update dependencies

@@ -120,7 +120,7 @@ Once a maintainer has assigned you an issue, the next step is to work on the cha
 
 [Cloning your forked repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) means making a copy of your forked repository to your local machine. Run the following command in your terminal:
 
-```
+```bash
 git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
 ```
 
@@ -132,7 +132,7 @@ Before making any changes, create a new branch in your local repository to work 
 
 You can create a new branch using the following command:
 
-```
+```bash
 git checkout -b YOUR-BRANCH-NAME
 ```
 
@@ -152,7 +152,7 @@ You can find the instructions on how to run a project locally in the README file
 
 Once you've made your changes, add your changes to the staging area and commit them with these commands:
 
-```
+```bash
 git add .
 git commit -m "Your commit message"
 ```
@@ -163,7 +163,7 @@ Replace `"Your commit message"` with a brief description of your changes.
 
 Push your changes to your forked repository on GitHub by running the following command:
 
-```
+```bash
 git push origin YOUR-BRANCH-NAME
 ```
 

@@ -49,7 +49,7 @@ To get started with Git and GitHub, follow these steps:
 
 2. **Configure Git**: After installing Git, open a terminal or command prompt and configure your Git user information by running the following commands:
 
-   ```
+   ```bash
    git config --global user.name "Your Name"
    git config --global user.email "your.email@example.com"
    ```
@@ -72,7 +72,7 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 
 2. **Clone the repository**: Once you have created a new repository, you can clone it to your local machine by running the following command in your terminal or command prompt:
 
-   ```
+   ```bash
    git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
    ```
 
@@ -84,13 +84,13 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 
    Open your terminal and make sure you are in the right directory. For example, my coding projects are inside of my `Projects` folder. Using my terminal, I would access this repository by running this command:
 
-   ```
+   ```bash
    cd projects/practice-repository
    ```
 
    Once in the correct repository, use the following commands to add the changes you made and write a commit message with a description of the changes:
 
-   ```
+   ```bash
    git add .
    git commit -m "Your commit message"
    ```
@@ -99,7 +99,7 @@ To practice using GitHub, we're going to walk through creating a repository, clo
 
 5. **Push your changes**: After committing your changes, you can push them to your remote GitHub repository by running the following command:
 
-   ```
+   ```bash
    git push origin main
    ```
 
