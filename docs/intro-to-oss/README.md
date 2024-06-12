@@ -2,7 +2,7 @@
 id: Contributor-README
 title: "Intro to Open Source with OpenSauced"
 sidebar_label: "Intro to Open Source"
-keywords: ["README", "Open Source", "Open Source Community"]
+keywords: ["README", "Intro to Open Source with OpenSauced", " open source course", "open source course for beginners", "contributing to open source course", "contributing to open source course for beginners", "open source contributors", "Open Source", "Open Source Community"]
 ---
 
 Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.
