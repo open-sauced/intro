@@ -2,7 +2,7 @@
 id: your-team
 title: "Building Your Open Source Dream Team"
 sidebar_label: "Building Your Team"
-keywords: ["your team", "Open Source", "Open Source Community"]
+keywords: ["building open source team", "how to build an open source team", "assembling an open source maintainer team", "building an open source maintainer team", "finding new maintainers for open source projects", "identifying potential open source maintainers using OpenSauced", "best practices for onboarding new open source team members", "types of open source maintainers team", "triage team", "maintainer team", "documentation team", "onboarding open source maintainers", "GitHub permissions for open source teams", "offboarding open source team members", "open source maintainer recruitment strategies", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 Managing an open source project requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to collaborate with your team effectively and offers guidance on identifying, onboarding, and empowering your open source squad.
