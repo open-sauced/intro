@@ -17,10 +17,6 @@ Additionally, this course assumes that you are familiar with Git and GitHub. Git
 
 The course is divided into chapters, each covering a different aspect of open source:
 
-### [Intro](intro.md)
-
-This chapter sets the stage for your open source journey and discusses prerequisites, objectives, and expectations.
-
 ### [What is Open Source?](what-is-open-source.md)
 
 This chapter provides an introduction to open source, its history, and its importance in today's software development landscape.
