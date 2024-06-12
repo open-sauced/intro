@@ -213,5 +213,3 @@ You can say something like:
 > I hope you find this feedback helpful. If there's anything I can do to support you, please let me know."
 
 In the [next chapter](maintaining-code-quality.md), we will talk about maintaining code quality and documentation.
-
-
