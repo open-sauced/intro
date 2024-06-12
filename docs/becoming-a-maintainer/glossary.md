@@ -2,7 +2,7 @@
 id: glossary
 title: "Glossary"
 sidebar_label: "Glossary"
-keywords: ["glossary", "Open Source", "Open Source Community"]
+keywords: ["glossary", "open source glossary", "glossary for open source maintainers", "open source maintainers", "Open Source", "Open Source Community"]
 ---
 
 ## API Documentation
