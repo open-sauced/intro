@@ -158,16 +158,7 @@ Follow these steps to add a new chapter to our course:
    id: what-is-open-source
    title: "What is Open Source?"
    sidebar_label: "What is Open Source"
-   keywords:
-     [
-       "what is open source",
-       "open source definition",
-       "open source licenses explained",
-       "open source history",
-       "open source evolution",
-       "Open Source",
-       "Open Source Community",
-     ]
+   keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
    ---
    ```
 
