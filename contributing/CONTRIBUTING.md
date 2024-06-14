@@ -65,7 +65,7 @@ We actively welcome your PRs. However, before working on changes, you must ensur
 
 ### Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](https://github.com/open-sauced/intro) to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
@@ -120,7 +120,7 @@ Please read the "[Using Markdown for This Project](#using-markdown-for-this-proj
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the "Glossary" chapter in the [Intro to Open Source](./intro-to-oss/glossary.md) or [Becoming a Maintainer](./becoming-a-maintainer/glossary.md) course, ensure the definitions are added **alphabetically**.
+If you add definitions to the "Glossary" chapter in the [Intro to Open Source](../docs/intro-to-oss/glossary.md) or [Becoming a Maintainer](../docs/becoming-a-maintainer/glossary.md) course, ensure the definitions are added **alphabetically**.
 
 ### Adding a New Section to a Chapter
 
