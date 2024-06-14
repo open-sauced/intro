@@ -109,39 +109,6 @@ Running the project locally is essential to see your changes in real-time and te
 
    After completing and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
-#### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
-
-Live Server extension allows you to launch a local development server and preview your changes in real time in your browser.
-
-1. **Install Visual Studio Code**.
-
-   Download [Visual Studio Code](https://code.visualstudio.com/) and install it if you haven't.
-
-2. **Open the project in VS Code**.
-
-   Launch VS Code, open the project folder by selecting "File" > "Open Folder", and choose the project directory.
-
-3. **Install the Live Server extension**.
-
-   - Click "View" on the top bar of the VS Code.
-   - Click "Extensions".
-
-   Alternatively, press the shortcut `Ctrl + Shift + X` to open the "Extensions" menu.
-
-   - Search for "Live Server" by Ritwick Dey and install it.
-
-4. **Launch the Live Server**.
-
-   Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open a new tab on your browser at a local address. Then, click the "docs" folder to see the project in live mode.
-
-5. **Make and test changes**.
-
-   With the Live Server running, you can make changes to the files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-
-6. **Stop the Live Server**.
-
-   When you're done testing or making changes, you can stop the Live Server by clicking the "Port: 5500" button in the VS Code status bar at the bottom-right corner.
-
 ## Working with the Content
 
 The contents of our courses are written in [Markdown](https://www.markdownguide.org/), a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way.
