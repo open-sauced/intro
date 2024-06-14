@@ -90,6 +90,9 @@ We actively welcome your PRs. However, before working on changes, you must ensur
 
 ### Local Development
 
+> [!NOTE]
+> This project is built with [Docusaurus](https://docusaurus.io/).
+
 Running the project locally is essential to see your changes in real-time and test them thoroughly when you're contributing.
 
 1. **Install the dependencies and run the project locally**.
