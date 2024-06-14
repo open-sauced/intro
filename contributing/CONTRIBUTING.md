@@ -203,9 +203,9 @@ Follow these steps to add new chapters to the sidebar:
 
      Replace `FOLDER-NAME` with the course's folder name and `ID` with the `id` in the file's front matter. For example:
 
-      ```javascript
-      'intro-to-oss/what-is-open-source',
-      ```
+     ```javascript
+     'intro-to-oss/what-is-open-source',
+     ```
 
 3. **Create a pull request**.
 
@@ -263,7 +263,7 @@ This is an `inline code`.
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
-[Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/#/)
+[Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/)
 ```
 
 ### 5. Images
