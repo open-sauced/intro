@@ -102,7 +102,7 @@ Running the project locally is essential to see your changes in real-time and te
    npm start
    ```
 
-   After the local development server is ready, you can access the project in your web browser at `http://localhost:3000`.
+   After the local development server is ready, it will automatically open the project at `http://localhost:3000/learn` on your browser.
 
 2. **Make and test changes**.
 
