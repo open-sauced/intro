@@ -158,7 +158,16 @@ Follow these steps to add a new chapter to our course:
    id: what-is-open-source
    title: "What is Open Source?"
    sidebar_label: "What is Open Source"
-   keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+   keywords:
+     [
+       "what is open source",
+       "open source definition",
+       "open source licenses explained",
+       "open source history",
+       "open source evolution",
+       "Open Source",
+       "Open Source Community",
+     ]
    ---
    ```
 
@@ -182,18 +191,21 @@ The sidebar in our course serves as a navigation menu. So, when you add a new ch
 
 Follow these steps to add new chapters to the sidebar:
 
-1. Open the `_sidebar.md` file in the course directory.
+1. Open the `sidebars.js` file located on the root.
 2. **Add the new chapter link**.
 
-   - Insert your new chapter in the list. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
+   - Insert your new chapter in the `items` array of the related course. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
    - Use the below format to add the link to the new chapter:
 
-     ```markdown
-     - [Intro](intro.md)
+     ```text
+     'FOLDER-NAME/ID',
      ```
 
-     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
-     - Replace `intro.md` with the name of the Markdown file of your new chapter.
+     Replace `FOLDER-NAME` with the course's folder name and `ID` with the `id` in the file's front matter. For example:
+
+      ```javascript
+      'intro-to-oss/what-is-open-source',
+      ```
 
 3. **Create a pull request**.
 
