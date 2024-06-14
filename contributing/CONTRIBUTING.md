@@ -142,17 +142,37 @@ Follow these steps to add a new chapter to our course:
 
    > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-2. **Write content**.
+2. **Add front matter**.
+
+   At the beginning of the file, add front matter that is enclosed by three dashes `---` with below variables:
+
+   - `id`: The ID is used to refer to a document when hand-writing sidebars. You can use the file name as an ID.
+   - `title`: The chapter's title (`h1`).
+   - `sidebar_label`: The title on the sidebar.
+   - `keywords`: Keywords for the topics in the chapter.
+
+   Here is an example:
+
+   ```yml
+   ---
+   id: what-is-open-source
+   title: "What is Open Source?"
+   sidebar_label: "What is Open Source"
+   keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+   ---
+   ```
+
+3. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    > **NOTE**: There should only be **one** `heading 1` in each file.
 
-3. **Test your changes**.
+4. **Test your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-4. **Update the sidebar**.
+5. **Update the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
