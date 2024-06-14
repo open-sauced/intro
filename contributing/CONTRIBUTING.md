@@ -86,44 +86,26 @@ We actively welcome your PRs. However, before working on changes, you must ensur
 
    Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
 
-5. Run the project.
+5. Install the dependencies and run the project.
 
-### Running the Project Locally
+### Local Development
 
 Running the project locally is essential to see your changes in real-time and test them thoroughly when you're contributing.
 
-We recommend one of these two methods for running the project on your local machine:
-
-1. Using the [docsify CLI](https://docsify.js.org/#/).
-2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-
-#### Method 1: Using the docsify CLI
-
-1. **Install Node.js**.
-
-   You can download it from the official [Node.js website](https://nodejs.org/).
-
-2. **Install docsify globally**.
-
-   It's highly recommended to install docsify globally. In your terminal, run the following command:
+1. **Install the dependencies and run the project locally**.
 
    ```bash
-   npm install -g docsify-cli
+   npm ci
+   npm start
    ```
 
-3. **Run the project**.
+   After the local development server is ready, you can access the project in your web browser at `http://localhost:3000`.
 
-   ```bash
-   docsify serve docs
-   ```
-
-   This command will start a local development server, and you can access the project in your web browser at `http://localhost:3000`.
-
-4. **Make and test changes**.
+2. **Make and test changes**.
 
    With the local server running, you can make changes to the files and immediately see the results in your browser. Test your changes thoroughly.
 
-5. **Stop the server**.
+3. **Stop the server**.
 
    After completing and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
 
