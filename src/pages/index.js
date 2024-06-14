@@ -28,7 +28,7 @@ export default function Home() {
               <div className={styles.cardContent}>
                 <h3>Intro to Open Source Course</h3>
                 <p>This course is designed to equip you with the skills and knowledge you need to contribute to open source projects. It offers engaging exercises to help you begin your journey towards becoming a successful contributor, and even provides an opportunity to get your first pull request merged.</p>
-                <Link className={styles.cardLink} to="/docs/intro-to-oss">
+                <Link className={styles.cardLink} to="/intro-to-oss">
                   Start the Intro to Open Source Course
                 </Link>
               </div>
@@ -37,7 +37,7 @@ export default function Home() {
               <div className={styles.cardContent}>
                 <h3>Becoming a Maintainer</h3>
                 <p>This course is designed to aid people who are interested in becoming open source project maintainers. It guides you through maintainers' best practices and provides resources and tools that help maintainers perform their tasks. This course is equipped with a tutorial for you to get practical.</p>
-                <Link className={styles.cardLink} to="/docs/becoming-a-maintainer">
+                <Link className={styles.cardLink} to="/becoming-a-maintainer">
                   Start the Becoming a Maintainer Course
                 </Link>
               </div>
