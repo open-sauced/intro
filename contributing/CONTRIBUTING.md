@@ -178,7 +178,7 @@ Follow these steps to add a new chapter to our course:
 
 #### Adding New Chapters to the Sidebar
 
-The sidebar in our course serves as a navigation menu. So, when you add a new chapter to the course, it's important to update the sidebar by including the link to the chapter. That way, users can navigate to the content seamlessly.
+The sidebar serves as a navigation menu. So, when you add a new chapter to a course, it's important to update the sidebar by including the link to the chapter. That way, users can navigate to the content seamlessly.
 
 Follow these steps to add new chapters to the sidebar:
 
