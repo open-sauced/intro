@@ -14,5 +14,6 @@ Congratulations on finishing the Becoming a Maintainer Course with OpenSauced. W
 - [project name](link to your repository) by [GitHub username](link to your GitHub profile)
 -->
 
+- [Idrinth API Bench](https://github.com/idrinth-api-bench/issues) by [Idrinth](https://github.com/Idrinth/)
 - [Virtual Coffee](https://github.com/virtual-Coffee/virtualcoffee.io/) by [VirtualCoffee](https://github.com/virtual-Coffee/)
 - [Postpartum Wellness App](https://github.com/BekahHW/postpartum-wellness-app) by [BekahHW](https://github.com/BekahHW/)
