@@ -4,18 +4,6 @@ Welcome to our i18n Guidelines! We appreciate your interest in translating our c
 
 ## Translations
 
-At the moment, we have the courses in the following languages:
-
-### Intro to Open Source Course
-
-- [English](./intro-to-oss/README.md)
-- [French](./intro-to-oss/translations/fr/README.md)
-- Brazilian Portuguese — work in progress
-
-### Becoming a Maintainer Course
-
-- [English](./becoming-a-maintainer/README.md)
-
 ## How can I Contribute?
 
 There are two types of i18n contributions that we accept:
