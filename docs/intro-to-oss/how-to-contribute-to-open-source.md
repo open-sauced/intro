@@ -6,7 +6,7 @@ keywords:
   ["how to contribute to open source", "contribute to open source projects", "finding open source projects to contribute to", "finding open source projects to contribute to with OpenSauced", "onboarding to open source projects", "open source contribution for beginners", "get started contributing to open source", "open source contribution workflow", "contributing to open source tutorial", "merge conflicts", "resolving merge conflicts", "open source for beginners", "open source tutorial for beginners", "best practices for contributing to open source projects", "GitHub", "Git", "Open Source", "Open Source Community"]
 ---
 
-In this chapter, we'll guide you through the process of contributing to open source projects.
+In this chapter, we'll guide you through the process of how to contribute to open source.
 
 ## Finding Projects to Work On
 
@@ -40,7 +40,7 @@ OpenSauced is a powerful tool for finding open source projects to contribute to.
 
 5. **Start contributing**: When you click on the name of a repository, you'll be taken to its GitHub page, where you can explore issues that are open and ready for contribution, knowing that the community around this project is active and your contributions will be welcomed.
 
-By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
+Understanding how to contribute to open source involves not only coding but also participating in discussions, reporting bugs, and improving documentation. By using OpenSauced, you can streamline the process of finding open source projects to work on and focus on contributing to the projects that align with your interests and goals.
 
 ## Onboarding in a New Project
 
@@ -52,7 +52,7 @@ Here are some tips to help you onboard successfully:
 
 2. **Start small**: When you're new to a project, it's a good idea to start with small, manageable tasks, such as fixing bugs, adding tests, or updating documentation. This will help you become familiar with the codebase and development workflow without getting overwhelmed.
 
-3. **Join the community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. By joining these communities, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
+3. **Join the open source community**: Many open source projects have online communities, forums, or chat platforms where developers can ask questions, share knowledge, and collaborate. To learn how to contribute to open source, you can connect with other contributors, learn from their experiences, and get help with any issues you encounter.
 
 4. **Ask for help**: If you need clarification or encounter a problem, don't hesitate to ask for help. Open source communities are generally supportive and welcoming; other contributors will gladly assist you.
 
