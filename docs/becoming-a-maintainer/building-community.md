@@ -7,9 +7,9 @@ keywords: ["building community", "building open source community", "nurturing co
 
 Open source is more than just maintaining and improving a project. It's a dynamic environment where maintainers, contributors, and users come together to collaborate, contribute, and grow. That said, the people involved in the project are the core and heart of open source.
 
-As more people engage and contribute to your projects, it becomes crucial for you to provide them with the necessary support and motivation to establish a welcoming and positive community environment. Doing so can build stronger relationships and promote a sense of belonging among your community members, keeping them returning and remaining dedicated.
+As more people engage and contribute to your projects, it becomes crucial for you to provide them with the necessary support and motivation to establish a welcoming and positive open source community environment. Doing so can build stronger relationships and promote a sense of belonging among your community members, keeping them returning and remaining dedicated.
 
-In this chapter, you will learn how to build and nurture a welcoming and supportive community in open source.
+In this chapter, you will learn how to build and nurture a welcoming and supportive open source community in open source.
 
 ## Positive Community Culture
 
@@ -17,7 +17,7 @@ There are many types of people when talking about engagements in a community. So
 
 ### Open Communication
 
-You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community, helps build trust, and increases healthy collaboration. Everyone should feel comfortable expressing thoughts and ideas, but at the same time, they should be able to listen and respectfully respond to others. For tips about communication and collaboration, read the chapter "[How to Communicate and Collaborate Effectively](communication-and-collaboration.md)."
+Successful open source communities encourage open communication. Open communication allows everyone to understand what's happening around the project and community, helps build trust, and increases healthy collaboration. Everyone should feel comfortable expressing thoughts and ideas, but at the same time, they should be able to listen and respectfully respond to others. For tips about communication and collaboration, read the chapter "[How to Communicate and Collaborate Effectively](communication-and-collaboration.md)."
 
 ### Diversity and Inclusivity
 
@@ -25,11 +25,11 @@ Creating a safe and welcoming community environment involves prioritizing inclus
 
 ### Code of Conduct
 
-Every open source project should have a code of conduct as a clear set of guidelines for how members within the community should behave and treat each other. You can, for example, emphasize the importance of using positive and inclusive language, treating others with respect, and avoiding discrimination or harassment. Inform them of the consequences they may face if they do not follow the guidelines. A code of conduct helps to prevent conflicts, promotes respect, and ensures that everyone in the community feels safe and comfortable. You can read the "[Code of Conduct](how-to-setup-your-project.md#code-of-conduct)" section in the "How to Setup Your Open Source Project" chapter to create one.
+Every project should have a code of conduct as a clear set of guidelines for how members within the open source community should behave and treat each other. You can, for example, emphasize the importance of using positive and inclusive language, treating others with respect, and avoiding discrimination or harassment. Inform them of the consequences they may face if they do not follow the guidelines. A code of conduct helps to prevent conflicts, promotes respect, and ensures that everyone in the community feels safe and comfortable. You can read the "[Code of Conduct](how-to-setup-your-project.md#code-of-conduct)" section in the "How to Setup Your Open Source Project" chapter to create one.
 
 ### Addressing Conflicts
 
-Imagine seeing a member behave disrespectfully towards another member on GitHub or Discord, or receiving an incident report from a member saying someone harassed them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose trust in you. You can learn more about managing conflicts in the "[Handling Difficult Situations](communication-and-collaboration.md#handling-difficult-situations)" section in the "How to Communicate and Collaborate Effectively" chapter.
+Imagine seeing a member behave disrespectfully towards another member on GitHub or Discord, or receiving an incident report from a member saying someone harassed them. Unfortunately, most open source communities will have to address conflicts at some point. Being prepared to do so will help to maintain a positive culture. You can learn more about managing conflicts in the "[Handling Difficult Situations](communication-and-collaboration.md#handling-difficult-situations)" section in the "How to Communicate and Collaborate Effectively" chapter.
 
 ### Leading by Examples
 
