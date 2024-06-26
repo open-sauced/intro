@@ -16,3 +16,4 @@ Congratulations on finishing the Becoming a Maintainer Course with OpenSauced. W
 
 - [Virtual Coffee](https://github.com/virtual-Coffee/virtualcoffee.io/) by [VirtualCoffee](https://github.com/virtual-Coffee/)
 - [Postpartum Wellness App](https://github.com/BekahHW/postpartum-wellness-app) by [BekahHW](https://github.com/BekahHW/)
+- [Idrinth API Bench](https://github.com/idrinth-api-bench/issues) by [Idrinth](https://github.com/Idrinth/)

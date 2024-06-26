@@ -9,7 +9,7 @@
 
 This repository is the home of OpenSauced courses for people who want to learn to contribute to open source projects and for people who want to become project maintainers.
 
-Head over to the **[Intro to Open Source Course](./docs/intro-to-oss/README.md)** or **[Becoming A Maintainer Course](./docs/becoming-a-maintainer/README.md)** on GitHub to start learning! Alternatively, visit [The Open Source Education Path with OpenSauced website](https://intro.opensauced.pizza/).
+Head over to the **[Intro to Open Source Course](./docs/intro-to-oss/README.md)** or **[Becoming A Maintainer Course](./docs/becoming-a-maintainer/README.md)** on GitHub to start learning! Alternatively, visit [The Open Source Education Path with OpenSauced website](https://opensauced.pizza/learn).
 
 ## **🤝 Contributing**
 
