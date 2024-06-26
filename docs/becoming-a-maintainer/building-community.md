@@ -9,7 +9,7 @@ Open source is more than just maintaining and improving a project. It's a dynami
 
 As more people engage and contribute to your projects, it becomes crucial for you to provide them with the necessary support and motivation to establish a welcoming and positive open source community environment. Doing so can build stronger relationships and promote a sense of belonging among your community members, keeping them returning and remaining dedicated.
 
-In this chapter, you will learn how to build and nurture a welcoming and supportive open source community in open source.
+In this chapter, you will learn how to build and nurture a welcoming and supportive open source community.
 
 ## Positive Community Culture
 
