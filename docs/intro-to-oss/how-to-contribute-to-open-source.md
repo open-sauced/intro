@@ -76,7 +76,7 @@ Start by reading the README and familiarizing yourself with the project. A READM
 
 Once you're familiar with the project and interested in contributing, don't jump in without reading the contributing guidelines. These guidelines are in the CONTRIBUTING file at the project's root. If the file is unavailable, you can find them in the README.
 
-Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. For example, you can look at the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
+Every project has different contributing rules. These rules are written in the contributing guidelines, which contain information on how to claim and work with issues, create pull requests, and preferable methods of communication. For example, you can look at the [OpenSauced Contributing Guidelines](https://opensauced.pizza/docs/contributing/introduction-to-contributing/).
 
 Some projects also have conventions, such as code and Markdown style, how to write commit messages, pull requests and issue titles, and so on. You might find these in their style guide or contributing guidelines.
 

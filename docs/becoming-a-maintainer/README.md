@@ -74,7 +74,7 @@ As you work through the course, we encourage you to experiment with the tools an
 
 One of the unique features of this course is that it guides you to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
 
-To learn more about using OpenSauced to build your open source project, check out the [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
+To learn more about using OpenSauced to build your open source project, check out the [Maintainers Guide to OpenSauced](https://opensauced.pizza/docs/maintainers/maintainers-guide-to-open-sauced/).
 
 ---
 

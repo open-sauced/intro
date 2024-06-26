@@ -91,11 +91,11 @@ Some of your contributors may have skills that can be useful to promote your pro
 
 #### Managing Issues
 
-Issue management involves identifying, analyzing, and prioritizing bug issues and feature requests during development. You can create a triage team and encourage your community to help you triage and prioritize the issues in your repositories. You want to equip them with a clear guide on managing issues like what we have at OpenSauced in our [Triage Guide](https://docs.opensauced.pizza/contributing/triage-guide/). You can also read [this article](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi) to learn more about issue management.
+Issue management involves identifying, analyzing, and prioritizing bug issues and feature requests during development. You can create a triage team and encourage your community to help you triage and prioritize the issues in your repositories. You want to equip them with a clear guide on managing issues like what we have at OpenSauced in our [Triage Guide](https://opensauced.pizza/docs/contributing/triage-guide/). You can also read [this article](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi) to learn more about issue management.
 
 #### Community Events and Hackathons
 
-At OpenSauced, we organize the [#100DaysOfOSS challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to encourage contributors of all technical backgrounds to immerse themselves in collaborative development and engage with a supportive community.
+At OpenSauced, we organize the [#100DaysOfOSS challenge](https://opensauced.pizza/docs/community/100-days-of-oss/) to encourage contributors of all technical backgrounds to immerse themselves in collaborative development and engage with a supportive community.
 
 Organizing community events and hackathons is one way to strengthen your community's collaboration and relationships. You can create a survey or poll to gather feedback on what events your community wants to see. Then, consider forming a committee or group of members interested in organizing the events and letting them take charge with your support. By allowing your members to get involved and contribute, you can increase the sense of community and belonging.
 
@@ -109,17 +109,17 @@ To foster the growth of these new talents, you can provide them with mentorship,
 
 ### Identify New Talents with OpenSauced
 
-You can utilize OpenSauced [Repository Insights](https://docs.opensauced.pizza/features/repo-insights/) and [Contributor Insights](https://docs.opensauced.pizza/features/contributor-insights/) features to identify new talents by tracking active project contributors.
+You can utilize OpenSauced [Repository Insights](https://opensauced.pizza/docs/features/repo-insights/) and [Contributor Insights](https://opensauced.pizza/docs/features/contributor-insights/) features to identify new talents by tracking active project contributors.
 
 #### 1. Using Repository Insights
 
 You can list the projects you maintain on a Repository Insights Page. This feature allows you to monitor your projects' activity and identify contributors who actively contribute to and impact them.
 
-You can find more information about your contributors in the Contributors dashboard. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
+You can find more information about your contributors in the Contributors dashboard. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://opensauced.pizza/docs/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
 
 #### 2. Using Contributor Insights
 
-After identifying potential new talents for your projects, you can select and add them to the list of a new or existing Contributor Insights Page. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about Contributor Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#contributor-insights-connecting-with-contributors).
+After identifying potential new talents for your projects, you can select and add them to the list of a new or existing Contributor Insights Page. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about Contributor Insights for maintainers and how to create one on [OpenSauced Docs](https://opensauced.pizza/docs/maintainers/maintainers-guide-to-open-sauced/#contributor-insights-connecting-with-contributors).
 
 ## Conclusion
 
