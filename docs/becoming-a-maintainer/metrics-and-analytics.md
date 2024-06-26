@@ -1,19 +1,19 @@
 ---
 id: metrics-and-analytics
-title: "The Power of Metrics and Analytics for New Maintainers"
+title: "The Power of Open Source Metrics and Analytics for New Maintainers"
 sidebar_label: "The Power of Metrics and Analytics"
-keywords: ["metrics and analytics for open source maintainers", "understanding types of metrics in open source", "setting open source project goals", "understanding and interpreting open source project data", "making open source project data-driven decisions with OpenSauced", "Workspace OpenSauced", "Repository Insights Page OpenSauced", "Contributor Insight Page OpenSauced", "open source maintainers", "Open Source", "Open Source Community"]
+keywords: ["metrics and analytics for open source maintainers", "understanding types of metrics in open source", "setting open source project goals", "understanding and interpreting open source project data", "making open source project data-driven decisions with OpenSauced", "Workspace OpenSauced", "Repository Insights Page OpenSauced", "Contributor Insight Page OpenSauced", "open source maintainers", "Open Source", "Open Source metrics"]
 ---
 
-Understanding what's happening with your project and contributors as it grows can be challenging for new maintainers. Think of metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.
+Understanding what's happening with your project and contributors as it grows can be challenging for new maintainers. Think of open source metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.
 
-## Understanding Types of Metrics
+## Understanding Types of Open Source Metrics
 
 - **Code Metrics:** Code metrics provide a quantitative measure of the codebase's state, focusing on aspects that impact its quality, maintainability, and scalability.
 - **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the surrounding community.
 - **Project Health Metrics:** Project health metrics provide insights into the project's responsiveness, efficiency, and overall well-being.
 
-Considering a holistic approach to metrics can ensure you're not overly focused on one type to the detriment of others. For example, while high code quality is important, it should be balanced with strong community engagement to ensure a sustainable project future.
+Considering a holistic approach to open source metrics can ensure you're not overly focused on one type to the detriment of others. For example, while high code quality is important, it should be balanced with strong community engagement to ensure a sustainable project future.
 
 Diverse metrics offer a more complete picture of a project's health and potential areas for growth or improvement. This could include balancing code metrics with community and project health metrics to ensure the project is not only technically sound but also welcoming and engaging for new contributors. It's about finding the right mix that supports your project's goals and values, fostering an environment where the codebase and the community thrive together.
 
@@ -46,7 +46,7 @@ Choose metrics that align with your project's priorities. For example, if commun
 - **Benchmarking**: Use OpenSauced to establish current metrics as benchmarks, setting realistic targets for improvement.
 - **Timeline**: Set a clear timeline for achieving these goals, creating a sense of urgency and momentum.
 
-## Understanding and Interpreting Open Source Project Data
+## Understanding and Interpreting Open Source Metrics
 
 Understanding and interpreting data helps us to understand and share the story behind the numbers. Some ways to do this include:
 
@@ -63,7 +63,7 @@ A great way to make data-driven decisions about your project is to create a Work
 
 ## Creating a Workspace for Your Project with OpenSauced
 
-An OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) serves as your project's command center, where you can learn more about your project and share it with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
+An OpenSauced [Workspace](https://opensauced.pizza/docs/features/workspaces/) serves as your project's command center, where you can learn more about your project and share it with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
 
 To create a Workspace:
 
@@ -86,7 +86,7 @@ You can customize the time period for these metrics by selecting 7 days, 30 days
 
 :::
 
-If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://docs.opensauced.pizza/features/repo-insights/) in your Workspace.
+If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://opensauced.pizza/docs/features/repo-insights/) in your Workspace.
 
 ### Creating a New Repository Insight Page
 
@@ -104,7 +104,7 @@ This dashboard allows you to view more detailed information on each repository, 
 
 :::tip
 
-To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
+To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://opensauced.pizza/docs/maintainers/understanding-repo-insights/).
 
 :::
 
@@ -114,7 +114,7 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 The Contributors dashboard allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
-You can select and add your contributors to a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to learn more about them.
+You can select and add your contributors to a [Contributor Insight Page](https://opensauced.pizza/docs/features/contributor-insights/) to learn more about them.
 
 ##### Activity Dashboard
 
@@ -178,12 +178,12 @@ The Highlights dashboard gives you a list of the highlights that the contributor
 
 :::tip
 
-To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
+To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://opensauced.pizza/docs/maintainers/understanding-contribs-insights/).
 
 :::
 
 ### Leveraging OpenSauced for Project Success
 
-Embracing metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the open source journey is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.
+Embracing open source metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the open source journey is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.
 
 It's time to put what you've learned into practice! Let's move on to the [next chapter](getting-practical.md).
