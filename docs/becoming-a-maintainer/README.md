@@ -60,7 +60,7 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 ## Getting Started
 
-If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
+If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://opensauced.pizza/learn/becoming-a-maintainer/) and start reading!
 
 :::tip
 
@@ -74,7 +74,7 @@ As you work through the course, we encourage you to experiment with the tools an
 
 One of the unique features of this course is that it guides you to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
 
-To learn more about using OpenSauced to build your open source project, check out the [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
+To learn more about using OpenSauced to build your open source project, check out the [Maintainers Guide to OpenSauced](https://opensauced.pizza/docs/maintainers/maintainers-guide-to-open-sauced/).
 
 ---
 

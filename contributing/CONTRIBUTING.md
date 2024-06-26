@@ -1,6 +1,6 @@
 # Contributing to OpenSauced Intro
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
+Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://opensauced.pizza/docs/contributing/code-of-conduct/) and follow the directions in this guide.
 
 ## Recommended Communication Style
 
@@ -279,7 +279,7 @@ This is an `inline code`.
 Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
 ```markdown
-[Open Source Education Path with OpenSauced](https://intro.opensauced.pizza/#/)
+[Open Source Education Path with OpenSauced](https://opensauced.pizza/learn/)
 ```
 
 ### 5. Images

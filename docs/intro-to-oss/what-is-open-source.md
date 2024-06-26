@@ -2,10 +2,10 @@
 id: what-is-open-source
 title: "What is Open Source?"
 sidebar_label: "What is Open Source"
-keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community", "open source software", "history of open source"]
 ---
 
-In this chapter, we'll delve into the concept of open source, its definition, and its history. Gaining a deep understanding of open source will help you appreciate the context in which you'll be collaborating and contributing.
+In this chapter, we'll explore the history of open source and what that means. Before contributing to a project, you should understand what is open source and the principles behind it to help you appreciate the context in which you'll be collaborating and contributing.
 
 ## Definition
 
@@ -15,13 +15,13 @@ Open source software is built on the premise that when many people work together
 
 ### Open Source Licenses
 
-For software to be considered open source, it must be released under a license that grants users the right to access, modify, and distribute the source code. There are numerous open source licenses available, each with its own set of terms and conditions. Some popular open source licenses include the MIT License, the GNU General Public License (GPL), and the Apache License.
+For software to be considered open source, it must be released under a license that grants users the right to access, modify, and distribute the source code. There are numerous open source license types, each with its own set of terms and conditions. Some popular open source licenses include the MIT License, the GNU General Public License (GPL), and the Apache License.
 
-These licenses are crucial because they ensure that the software remains open and accessible to everyone. By granting users the right to view, modify, and distribute the code, open source licenses promote a culture of collaboration, innovation, and shared knowledge.
+These open source licenses are crucial because they ensure that the software remains open and accessible to everyone. By granting users the right to view, modify, and distribute the code, open source licenses promote a culture of collaboration, innovation, and shared knowledge.
 
 ## Brief History of Open Source
 
-The idea of freely sharing knowledge and resources has been around for centuries, but the open source movement as we know it today can be traced back to the early days of computing.
+The history of open source dates back to the early days of computing when software was freely shared among researchers and developers.
 
 ### Early Beginnings
 
@@ -57,7 +57,7 @@ These platforms have played a crucial role in fostering the growth of open sourc
 
 ### The Rise of Corporate Involvement
 
-In recent years, there has been a significant increase in corporate involvement in open source projects. Many companies now recognize the value of open source and actively contribute to and support various projects. Some companies have even gone so far as to open source their own internal tools and technologies, such as Google's TensorFlow and Facebook's React.
+In recent years, there has been a significant increase in corporate involvement in open source projects. Many companies now recognize the value of open source and actively contribute to and support various projects. Some companies have even gone so far as to open source their own internal tools and technologies, such as [Google's TensorFlow](https://app.opensauced.pizza/s/tensorflow/tensorflow) and [Facebook's React](https://app.opensauced.pizza/s/facebook/react).
 
 This increased corporate involvement has not only led to more resources and support for open source projects but has also helped to legitimize the open source movement and encourage wider adoption.
 
@@ -67,6 +67,8 @@ The open source movement has come a long way since its early beginnings. Today, 
 
 As open source continues to evolve, new projects, tools, and technologies are constantly emerging, pushing the boundaries of what's possible and driving innovation across a wide range of industries.
 
-The growing popularity of open source has also led to a thriving ecosystem of conferences, meetups, and online communities where developers can come together to learn, collaborate, and share their knowledge. By participating in these events and engaging with the open source community, you'll have the opportunity to expand your skills, build your network, and stay up-to-date with the latest developments in the field.
+The growing popularity of open source has also led to a thriving ecosystem of conferences, meetups, and online communities where developers can come together to learn, collaborate, and share their knowledge. By participating in these events and engaging with the open source community, you'll have the opportunity to expand your skills, build your network, and stay up-to-date with the latest developments in the field. 
+
+The history of open source software shows us how collective efforts can produce reliable, innovative, and widely adopted technologies.
 
 In the [next chapter](why-open-source.md), we'll explore the many benefits of contributing to open source projects and discuss how open source collaboration can help you access knowledge, connect with a community, and develop valuable skills.
