@@ -2,10 +2,10 @@
 id: how-to-setup-your-project
 title: "How to Setup Your Open Source Project"
 sidebar_label: "How to Set Up Your Project"
-keywords: ["how to setup open source project", "open source project setup", "start open source project", "create open source project", "write README for open source project", "project installation guide for open source", "open source license explained", "choosing open source license", "how to add code of conduct open source", "code of conduct open source project", "contributing guidelines open source", "issue templates", "create issue templates open source", "pull request template", "create pull request template open source", "Projects on GitHub", "GitHub project boards", "GitHub", "open source project best practices", "Open Source", "Open Source Community"]
+keywords: ["how to start an open source project", "how to setup open source project", "open source project setup", "start open source project", "create open source project", "write README for open source project", "project installation guide for open source", "open source license explained", "choosing open source license", "how to add code of conduct open source", "code of conduct open source project", "contributing guidelines open source", "issue templates", "create issue templates open source", "pull request template", "create pull request template open source", "Projects on GitHub", "GitHub project boards", "GitHub", "open source project best practices", "Open Source", "Open Source Community"]
 ---
 
-There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
+There are many things to consider when you think about how to start an open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
 
 ## Detailed README
 
@@ -132,7 +132,7 @@ The Contributor Covenant is a code of conduct you can use and adapt for your ope
 
 ## Contributing Guidelines
 
-A CONTRIBUTING file contains guidelines on how contributors can help with your project. It is usually located in the project's root directory so everyone can easily access it.
+A key aspect of learning how to start an open source project is developing contributing guidelines that outline the expectations and processes for all contributors. A CONTRIBUTING file contains guidelines on how contributors can help with your project. It is usually located in the project's root directory so everyone can easily access it.
 
 Your guide should include the following sections:
 
@@ -218,8 +218,8 @@ Projects are private by default. You can make them private to core maintainers o
 
 :::
 
-Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
+Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project. 
 
 ![GitHub Project Boards GIF](../_assets/gifs/create-github-project.gif)
 
-The [next chapter](issues-and-pull-requests.md) will discuss handling open issues and pull requests.
+Learning how to start an open source project involves understanding the importance of clear goals, community, comprehensive documentation, and ensuring quality contributions get merged into your project. The [next chapter](issues-and-pull-requests.md) will discuss handling open issues and pull requests.
