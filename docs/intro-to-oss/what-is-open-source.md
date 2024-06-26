@@ -2,7 +2,7 @@
 id: what-is-open-source
 title: "What is Open Source?"
 sidebar_label: "What is Open Source"
-keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community", "open source software" "history of open source"]
+keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community", "open source software", "history of open source"]
 ---
 
 In this chapter, we'll explore the history of open source and what that means. Before contributing to a project, you should understand what is open source and the principles behind it to help you appreciate the context in which you'll be collaborating and contributing.

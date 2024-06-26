@@ -10,7 +10,7 @@ In this chapter, we'll guide you through the process of how to contribute to ope
 
 ## Finding Projects to Work On
 
-One of the first challenges you might face when getting started with open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
+One of the first challenges you might face when getting learning how to contribute in open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
 
 1. **Browse GitHub and GitLab**: Both GitHub and GitLab host a vast number of open source projects. You can use their search functionality to find projects based on specific keywords, programming languages, or topics.
 
@@ -19,6 +19,12 @@ One of the first challenges you might face when getting started with open source
 3. **Join open source communities**: There are numerous online communities, forums, and chat platforms dedicated to open source development. By joining these communities, you can connect with other developers, discover new projects, and find collaboration opportunities. In the [Community](https://github.com/orgs/open-sauced/discussions), for example, we share good first issues, cool GitHub projects, and issues we have open on our repositories.
 
 4. **Leverage OpenSauced**: [OpenSauced](https://opensauced.pizza/) is a platform that helps developers discover and contribute to open source projects. By using OpenSauced, you can find projects that align with your interests, skills, and goals.
+
+:::tip
+
+To understand how to contribute in open source, it’s important to start by familiarizing yourself with the project’s guidelines and community standards.
+
+:::
 
 ### Discovering Open Source with OpenSauced
 
