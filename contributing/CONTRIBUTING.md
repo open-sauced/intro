@@ -65,7 +65,7 @@ We actively welcome your PRs. However, before working on changes, you must ensur
 
 ### Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](https://github.com/open-sauced/intro) to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
@@ -86,79 +86,31 @@ We actively welcome your PRs. However, before working on changes, you must ensur
 
    Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
 
-5. Run the project.
+5. Install the dependencies and run the project.
 
-### Running the Project Locally
+### Local Development
+
+> [!NOTE]
+> This project is built with [Docusaurus](https://docusaurus.io/).
 
 Running the project locally is essential to see your changes in real-time and test them thoroughly when you're contributing.
 
-We recommend one of these two methods for running the project on your local machine:
-
-1. Using the [docsify CLI](https://docsify.js.org/#/).
-2. Leveraging Visual Studio Code's [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-
-#### Method 1: Using the docsify CLI
-
-1. **Install Node.js**.
-
-   You can download it from the official [Node.js website](https://nodejs.org/).
-
-2. **Install docsify globally**.
-
-   It's highly recommended to install docsify globally. In your terminal, run the following command:
+1. **Install the dependencies and run the project locally**.
 
    ```bash
-   npm install -g docsify-cli
+   npm ci
+   npm start
    ```
 
-3. **Run the project**.
+   After the local development server is ready, it will automatically open the project at `http://localhost:3000/learn` on your browser.
 
-   ```bash
-   docsify serve docs
-   ```
-
-   This command will start a local development server, and you can access the project in your web browser at `http://localhost:3000`.
-
-4. **Make and test changes**.
+2. **Make and test changes**.
 
    With the local server running, you can make changes to the files and immediately see the results in your browser. Test your changes thoroughly.
 
-5. **Stop the server**.
+3. **Stop the server**.
 
    After completing and testing the changes, you can stop the local server by pressing `Ctrl + C` in the terminal.
-
-#### Method 2: Using Live Server Extension on Visual Studio Code (VS Code)
-
-Live Server extension allows you to launch a local development server and preview your changes in real time in your browser.
-
-1. **Install Visual Studio Code**.
-
-   Download [Visual Studio Code](https://code.visualstudio.com/) and install it if you haven't.
-
-2. **Open the project in VS Code**.
-
-   Launch VS Code, open the project folder by selecting "File" > "Open Folder", and choose the project directory.
-
-3. **Install the Live Server extension**.
-
-   - Click "View" on the top bar of the VS Code.
-   - Click "Extensions".
-
-   Alternatively, press the shortcut `Ctrl + Shift + X` to open the "Extensions" menu.
-
-   - Search for "Live Server" by Ritwick Dey and install it.
-
-4. **Launch the Live Server**.
-
-   Click the "Go Live" button in the bottom-right corner of the VS Code window. It will open a new tab on your browser at a local address. Then, click the "docs" folder to see the project in live mode.
-
-5. **Make and test changes**.
-
-   With the Live Server running, you can make changes to the files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-
-6. **Stop the Live Server**.
-
-   When you're done testing or making changes, you can stop the Live Server by clicking the "Port: 5500" button in the VS Code status bar at the bottom-right corner.
 
 ## Working with the Content
 
@@ -168,7 +120,7 @@ Please read the "[Using Markdown for This Project](#using-markdown-for-this-proj
 
 ### Adding Definitions to the Glossary
 
-If you add definitions to the "Glossary" chapter in the [Intro to Open Source](./intro-to-oss/glossary.md) or [Becoming a Maintainer](./becoming-a-maintainer/glossary.md) course, ensure the definitions are added **alphabetically**.
+If you add definitions to the "Glossary" chapter in the [Intro to Open Source](../docs/intro-to-oss/glossary.md) or [Becoming a Maintainer](../docs/becoming-a-maintainer/glossary.md) course, ensure the definitions are added **alphabetically**.
 
 ### Adding a New Section to a Chapter
 
@@ -190,38 +142,61 @@ Follow these steps to add a new chapter to our course:
 
    > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-2. **Write content**.
+2. **Add front matter**.
+
+   At the beginning of the file, add front matter that is enclosed by three dashes `---` with below variables:
+
+   - `id`: The ID is used to refer to a document when hand-writing sidebars. You can use the file name as an ID.
+   - `title`: The chapter's title (`h1`).
+   - `sidebar_label`: The title on the sidebar.
+   - `keywords`: Keywords for the topics in the chapter.
+
+   Here is an example:
+
+   ```yml
+   ---
+   id: what-is-open-source
+   title: "What is Open Source?"
+   sidebar_label: "What is Open Source"
+   keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+   ---
+   ```
+
+3. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    > **NOTE**: There should only be **one** `heading 1` in each file.
 
-3. **Test your changes**.
+4. **Test your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-4. **Update the sidebar**.
+5. **Update the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
 #### Adding New Chapters to the Sidebar
 
-The sidebar in our course serves as a navigation menu. So, when you add a new chapter to the course, it's important to update the sidebar by including the link to the chapter. That way, users can navigate to the content seamlessly.
+The sidebar serves as a navigation menu. So, when you add a new chapter to a course, it's important to update the sidebar by including the link to the chapter. That way, users can navigate to the content seamlessly.
 
 Follow these steps to add new chapters to the sidebar:
 
-1. Open the `_sidebar.md` file in the course directory.
+1. Open the `sidebars.js` file located on the root.
 2. **Add the new chapter link**.
 
-   - Insert your new chapter in the list. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
+   - Insert your new chapter in the `items` array of the related course. If you're unsure where best to put it, you can comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
    - Use the below format to add the link to the new chapter:
 
-     ```markdown
-     - [Intro](intro.md)
+     ```text
+     'FOLDER-NAME/ID',
      ```
 
-     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
-     - Replace `intro.md` with the name of the Markdown file of your new chapter.
+     Replace `FOLDER-NAME` with the course's folder name and `ID` with the `id` in the file's front matter. For example:
+
+     ```javascript
+     'intro-to-oss/what-is-open-source',
+     ```
 
 3. **Create a pull request**.
 
