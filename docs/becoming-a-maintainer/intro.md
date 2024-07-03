@@ -2,12 +2,12 @@
 id: intro
 title: "Understanding the Role of an Open Source Maintainer"
 sidebar_label: "Understanding Maintainership"
-keywords: ["introduction to open source maintainer", "What is an Open Source Maintainer", "open source maintainer role", "open source maintainer responsibilities", "benefits of being an open source maintainer", "challenges of open source maintainers", "day in the life of an open source maintainer", "open source maintainers", "open source community and maintainers", "Open Source", "Open Source Community"]
+keywords: ["how to start an open source project", "What is an Open Source Maintainer", "open source maintainer role", "open source maintainer responsibilities", "benefits of being an open source maintainer", "challenges of open source maintainers", "day in the life of an open source maintainer", "open source maintainers", "open source community and maintainers", "Open Source", "Open Source Community"]
 ---
 
 Being an open source maintainer can be a very gratifying and rewarding experience. But a lot of work goes into maintaining an open source project. You will have many responsibilities as a maintainer, including being a contributor, leader, mentor, and community manager.
 
-This course will provide you with a comprehensive overview of a maintainer's role, including insights into daily tasks, long-term responsibilities, and the overall impact of a maintainer in an open source project.
+This course will provide you with a comprehensive overview of how to start an open source project, including information on the maintainer's role, insights into daily tasks, long-term responsibilities, and the overall impact of a maintainer in an open source project.
 
 ## What is an Open Source Maintainer?
 

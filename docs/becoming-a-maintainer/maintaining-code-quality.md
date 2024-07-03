@@ -19,7 +19,7 @@ The following sections will cover some best practices for conducting code review
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) is a specification for structuring commit messages. It provides an easy way to understand the type of changes being made and helps maintain a clean and organized commit history.
 
-Using Conventional Commits in your project is highly recommended. You can encourage contributors to use it when making changes to the project by adding a guide to your contribution guidelines. The "[Commits](https://docs.opensauced.pizza/contributing/introduction-to-contributing/#commits)" section in the OpenSauced contributing guidelines asks contributors to use Conventional Commits.
+Using Conventional Commits in your project is highly recommended. You can encourage contributors to use it when making changes to the project by adding a guide to your contribution guidelines. The "[Commits](https://opensauced.pizza/docs/contributing/introduction-to-contributing/#commits)" section in the OpenSauced contributing guidelines asks contributors to use Conventional Commits.
 
 Here are some examples of Conventional Commit messages:
 

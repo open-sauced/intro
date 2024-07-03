@@ -137,7 +137,7 @@ If you have repeatedly tried to reach out and get no response, you should close 
 
 ## Issue and Pull Request Highlights with OpenSauced
 
-The [Highlights](https://docs.opensauced.pizza/features/highlights/) feature on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
+The [Highlights](https://opensauced.pizza/docs/features/highlights/) feature on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
 
 ![Highlights GIF](../_assets/gifs/highlight.gif)
 
@@ -149,7 +149,7 @@ When writing issue highlights, you will want to talk about the issue, how the co
 
 When writing pull request highlights, you will want to talk about the changes made, acknowledge the author, and showcase how this improves the project. Link the pull request in your highlight for those interested in taking a closer look at the changes made. This is another way to gain attention for the project because it is a first-hand look at what types of contributions you are looking for and how well you work with contributors.
 
-To learn more about how the Highlights feature works, please read through the [OpenSauced documentation](https://docs.opensauced.pizza/features/highlights/).
+To learn more about how the Highlights feature works, please read through the [OpenSauced documentation](https://opensauced.pizza/docs/features/highlights/).
 
 ## Promptly Respond and Address Concerns
 
