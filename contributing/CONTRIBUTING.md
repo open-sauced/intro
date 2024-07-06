@@ -158,7 +158,16 @@ Follow these steps to add a new chapter to our course:
    id: what-is-open-source
    title: "What is Open Source?"
    sidebar_label: "What is Open Source"
-   keywords: ["what is open source", "open source definition", "open source licenses explained", "open source history", "open source evolution", "Open Source", "Open Source Community"]
+   keywords:
+     [
+       "what is open source",
+       "open source definition",
+       "open source licenses explained",
+       "open source history",
+       "open source evolution",
+       "Open Source",
+       "Open Source Community",
+     ]
    ---
    ```
 
@@ -293,4 +302,4 @@ git pull
 
 ## Translating the Courses
 
-Translating our Intro to Open Source and Becoming a Maintainer courses helps make them more accessible to a broader audience. If you want to translate one of these courses, please read our [🌐 i18n Guidelines](i18n-guidelines.md) page.
+Translating our courses helps make them more accessible to a broader audience. If you want to translate our [Open Source Education Path](https://opensauced.pizza/learn/#/), please read our [🌐 i18n Guidelines](i18n-guidelines.md) page.

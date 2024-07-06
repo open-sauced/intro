@@ -8,7 +8,7 @@ At the moment, we are unable to offer translation maintenance.
 
 However, we know some contributors are willing to translate and help our courses to reach a broader audience. We value these contributions! ✨
 
-Please keep reading if you want to translate the Open Source Education Path with OpenSauced.
+Please keep reading if you want to translate the [Open Source Education Path with OpenSauced](https://opensauced.pizza/learn/#/).
 
 ## Why Translating Our Courses
 
