@@ -2,119 +2,72 @@
 
 Welcome to our i18n Guidelines! We appreciate your interest in translating our courses.
 
-## Translations
+## Community Translations
 
-At the moment, we have the courses in the following languages:
+At the moment, we are unable to offer translation maintenance.
 
-### Intro to Open Source Course
+However, we know some contributors are willing to translate and help our courses to reach a broader audience. We value these contributions! ✨
 
-- [English](./intro-to-oss/README.md)
-- [French](./intro-to-oss/translations/fr/README.md)
-- Brazilian Portuguese — work in progress
+Please keep reading if you want to translate the [Open Source Education Path with OpenSauced](https://opensauced.pizza/learn/#/).
 
-### Becoming a Maintainer Course
+## Why Translating Our Courses
 
-- [English](./becoming-a-maintainer/README.md)
+Here are some benefits of translating our courses:
 
-## How can I Contribute?
+- You will have the opportunity to learn to maintain a project and **become the maintainer** of the translation as it will live in your forked repository.
+- You can learn and experience collaborating with contributors, nurturing the translation community, and even assembling your own maintainers' team!
+- You will be able to learn how to deploy and host a static website on your own.
+- You can make the translation available as soon as possible for a broader audience.
+- You can update the translation faster by reviewing and merging in pull requests yourself as a maintainer.
 
-There are two types of i18n contributions that we accept:
+> [!TIP]
+> It will be helpful taking our [Becoming a Maintainer](../docs/becoming-a-maintainer/README.md) course to equip you in maintaining your forked repository.
 
-1. Translate our Intro to Open Source or Becoming a Maintainer course.
-2. Review pull requests (PRs) and translations.
+## Getting Started
 
-### Translate the Courses
+### 1. Forking the Repository
 
-We have two types of translations:
+First, you must fork the [intro repository](https://github.com/open-sauced/intro). See the official GitHub docs for [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
 
-#### 1. Official Translations
+### 2. Creating a Branch for the Translation
 
-Official translations start as a post on our [GitHub Discussions](https://github.com/open-sauced/intro/discussions) board. If there is enough interest and volunteers, we can add the official translation as an option to view within our README.
+[Create a branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) where the translation changes will be merged. You can name this branch anything. For example: `jp-translations`.
 
-#### 2. Community Translations
+> [!NOTE]
+>
+> - This will be the default branch of your translation and the one from which you deploy the translation.
+> - The `main` branch should be free from translations.
 
-We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](community-translations.md) section.
+### 3. Installing and Running the Project
 
-If you're interested in translating our Intro to Open Source course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file that you can find in the root directory.
+Read our [contributing guidelines](CONTRIBUTING.md#getting-started) to install and run the project locally.
 
-We encourage you to add it to the [discussions board](https://github.com/open-sauced/intro/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
+## Working with Translations
 
-### Review Pull Requests (PRs) and Translations
+The translation process will take time, but don't let this stop you from making the ongoing translations available to the community.
 
-If you are familiar with the translated language(s), you can help us review the translations and the PRs. Please head over to the "[Reviewer Process Guide](#reviewer-process-guide)" section for more information.
+What you need to know when working with translations:
 
-## Adding Translations
-
-First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
-
-1. **Identify target languages**.
-
-   Determine which languages you want to add translations for. Make sure these languages are relevant to the project's user base.
-
-2. **Create translation files**.
-
-   1. Open the course directory inside the `docs` folder.
-   2. Open the `translations` directory.
-   3. Create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French, etc.) as directory names.
-
-   ```markdown
-   .
-   └── translations/
-      ├── en/
-      ├── fr/
-      └── es/
-   ```
-
-3. **Translate content**.
-
-   - For each language directory, create translated versions of the documentation files. Typically, you translate Markdown files but consider other formats as needed.
-   - Maintain the same file names and structure as in the original documentation but with translated content.
-
-4. **Update links**.
-
-   In the translated files, ensure that any internal links (e.g., links to other sections or pages within the documentation) are updated to point to the corresponding translated content.
-
-5. **Add a language selector**.
-
-   Adding a language selector to the documentation allows users to switch between languages. You can do this by modifying the languages menu on the navigation bar:
-
-   1. Open the `docs` directory.
-   2. Open the `_navbar.md` file in the course directory.
-   3. In the "Languages" list, add a link to your translated language that includes the icon of the country's flag. Refer to the shortcode column in this [Country Flag emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#country-flag) to help you.
-
-      ```markdown
-      - [:jp: Japanese](/translations/jp/)
-      ```
-
-6. **Testing and validation**.
-
-   Test the translated documentation to ensure accuracy and readability. Ensure all links work correctly and the content is culturally appropriate.
-
-7. **Submit translations**.
-
-   If you haven't already, submit your translations as a PR. Ensure you provide clear information about the languages you've translated and any specific details related to your contributions.
-
-8. **Collaborate and review**.
-
-   Collaborate with other contributors and reviewers to ensure the quality of translations. Be open to feedback and suggestions for improvement.
-
-### Best Practices for Translations
-
+- Maintain the original project's file names and structure, but replace all content with the translations. This will help preventing broken links.
+- Ensure there are no broken links and that all links navigate to the correct paths.
 - Maintain consistency in terminology and style throughout the translated documentation.
-- Work with another contributor who speaks the language you're translating to.
-- It helps to mention specific tools you use so developers who want to translate documentation can see how it's done.
 - Keep translations up to date with changes in the original documentation.
+- When a course, a chapter, or a section hasn't been translated, you can add a note to inform the readers and direct them to [our website](https://opensauced.pizza/learn/#/).
 
-## Reviewer Process Guide
+## Creating Contributing Guidelines for the Forked Repository
 
-When it comes to reviewing a translation PR, ask yourself the following questions:
+You have complete control of how you want contributors to contribute to your forked repo. Therefore, you want to create contributing guidelines for contributors to contribute to your forked repo.
 
-- Does the current translation match the instructions in the English version?
-- Are there links that could be localized and translated? (e.g., Wikipedia and MDN links)
-- Is the translation correctly written following the translated language's norms and practices?
+You can name this file anything _except_ `CONTRIBUTING.md`. For example: `contributing-jp.md`.
 
-When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers.
+Put the file in the `contributing` folder at the root. Then, add the link to it as the last list in the "[🤝 Contributing](../README.md#-contributing)" section on the root README as below:
 
-:::info
-“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.
-:::
+```markdown
+- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
+```
+
+## Adding Translation as a Community Translation
+
+Once you are ready to share your translation, add it to the Community Translation list.
+
+Open the `community-translations.md` file located in the `contributing` folder on the root and list your translation. Read the instructions in the file to add it.
