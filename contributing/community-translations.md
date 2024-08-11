@@ -7,6 +7,7 @@ We are grateful for the contributions of the community in translating our [Open 
 
 ## List of Community Translations
 
+[Portuguese](https://github.com/venelouis/intro/tree/pt-translations) - maintain by [@venelouis](https://github.com/venelouis)
 <!-- Use below format to list your repository -->
 <!--
 - [Language](link to your forked repository) - maintain by [GitHub username 1](link to the GitHub profile), [GitHub username 2](link to the GitHub profile)
