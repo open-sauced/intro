@@ -63,7 +63,7 @@ const config = {
         title: 'Open Source Education Path',
         logo: {
           alt: 'My Site Logo',
-          src: '/favicon.ico',
+          src: '/img/favicon.ico',
         },
         items: [
           {
