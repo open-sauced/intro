@@ -36,7 +36,7 @@ export default function Home() {
             <div className={styles.card}>
               <div className={styles.cardContent}>
                 <h3>Becoming a Maintainer</h3>
-                <p>This course is designed to aid people who are interested in becoming open source project maintainers. It guides you through maintainers' best practices and provides resources and tools that help maintainers perform their tasks. This course is equipped with a tutorial for you to get practical.</p>
+                <p>This course is designed to aid people who are interested in becoming open source project maintainers. It guides you through maintainers' best practices and provides resources and tools that help maintainers perform their tasks.</p>
                 <Link className={styles.cardLink} to="/becoming-a-maintainer">
                   Start the Becoming a Maintainer Course
                 </Link>
