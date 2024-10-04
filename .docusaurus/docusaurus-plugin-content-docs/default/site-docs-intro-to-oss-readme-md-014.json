@@ -1,0 +1,35 @@
+{
+  "id": "intro-to-oss/Contributor-README",
+  "title": "Intro to Open Source with OpenSauced",
+  "description": "Welcome to the Intro to Open Source Course with OpenSauced! This course is designed to provide you with an introduction to open source and guide you through the process of contributing to open source projects.",
+  "source": "@site/docs/intro-to-oss/README.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/",
+  "permalink": "/learn/intro-to-oss/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/blob/main/docs/intro-to-oss/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Contributor-README",
+    "title": "Intro to Open Source with OpenSauced",
+    "sidebar_label": "Intro to Open Source",
+    "keywords": [
+      "README",
+      "Intro to Open Source with OpenSauced",
+      "open source course",
+      "open source course for beginners",
+      "contributing to open source course",
+      "contributing to open source course for beginners",
+      "open source contributors",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "introToOSS",
+  "next": {
+    "title": "What is Open Source",
+    "permalink": "/learn/intro-to-oss/what-is-open-source"
+  }
+}

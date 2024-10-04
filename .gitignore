@@ -5,7 +5,8 @@
 /build
 
 # Generated files
-.docusaurus
+!.docusaurus/docusaurus-plugin-content-docs/default/site-docs-intro-to-oss-readme-md-014.json
+.docusaurus/
 .cache-loader
 
 # Misc
