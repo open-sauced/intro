@@ -1,0 +1,32 @@
+{
+  "id": "becoming-a-maintainer/glossary",
+  "title": "Glossary",
+  "description": "API Documentation",
+  "source": "@site/docs/becoming-a-maintainer/glossary.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/glossary",
+  "permalink": "/learn/becoming-a-maintainer/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary",
+    "sidebar_label": "Glossary",
+    "keywords": [
+      "glossary",
+      "open source glossary",
+      "glossary for open source maintainers",
+      "open source maintainers",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "previous": {
+    "title": "Additional Resources",
+    "permalink": "/learn/becoming-a-maintainer/additional-resources"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "becoming-a-maintainer/building-community",
+  "title": "Building and Nurturing a Welcoming and Supportive Community",
+  "description": "Open source is more than just maintaining and improving a project. It's a dynamic environment where maintainers, contributors, and users come together to collaborate, contribute, and grow. That said, the people involved in the project are the core and heart of open source.",
+  "source": "@site/docs/becoming-a-maintainer/building-community.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/building-community",
+  "permalink": "/learn/becoming-a-maintainer/building-community",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/building-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "building-community",
+    "title": "Building and Nurturing a Welcoming and Supportive Community",
+    "sidebar_label": "Building and Nurturing Community",
+    "keywords": [
+      "building community",
+      "building open source community",
+      "nurturing community",
+      "nurturing open source community",
+      "welcoming and supportive community",
+      "positive community culture",
+      "how to build and nurture community",
+      "best practices in building and nurturing community",
+      "fostering community",
+      "fostering open source community",
+      "open source maintainer",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "previous": {
+    "title": "Maintaining Code Quality and Documentation",
+    "permalink": "/learn/becoming-a-maintainer/maintaining-code-quality"
+  },
+  "next": {
+    "title": "Maintainer Powerups",
+    "permalink": "/learn/becoming-a-maintainer/maintainer-powerups"
+  }
+}

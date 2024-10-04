@@ -1,0 +1,36 @@
+{
+  "id": "intro-to-oss/additional-resources",
+  "title": "Additional Resources",
+  "description": "On this page, you can find resources to help you learn further about contributing to open source:",
+  "source": "@site/docs/intro-to-oss/additional-resources.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/additional-resources",
+  "permalink": "/learn/intro-to-oss/additional-resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/additional-resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "additional-resources",
+    "title": "Additional Resources",
+    "sidebar_label": "Additional Resources",
+    "keywords": [
+      "additional resources",
+      "resources to contribute to open source",
+      "guides and tutorials resources to contribute to open source",
+      "blog posts resources to contribute to open source",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "introToOSS",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/learn/intro-to-oss/conclusion"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/learn/intro-to-oss/glossary"
+  }
+}

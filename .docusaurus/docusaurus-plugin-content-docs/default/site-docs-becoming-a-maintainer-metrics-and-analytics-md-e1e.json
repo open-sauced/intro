@@ -1,0 +1,41 @@
+{
+  "id": "becoming-a-maintainer/metrics-and-analytics",
+  "title": "The Power of Open Source Metrics and Analytics for New Maintainers",
+  "description": "Understanding what's happening with your project and contributors as it grows can be challenging for new maintainers. Think of open source metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.",
+  "source": "@site/docs/becoming-a-maintainer/metrics-and-analytics.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/metrics-and-analytics",
+  "permalink": "/learn/becoming-a-maintainer/metrics-and-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/metrics-and-analytics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "metrics-and-analytics",
+    "title": "The Power of Open Source Metrics and Analytics for New Maintainers",
+    "sidebar_label": "The Power of Metrics and Analytics",
+    "keywords": [
+      "metrics and analytics for open source maintainers",
+      "understanding types of metrics in open source",
+      "setting open source project goals",
+      "understanding and interpreting open source project data",
+      "making open source project data-driven decisions with OpenSauced",
+      "Workspace OpenSauced",
+      "Repository Insights Page OpenSauced",
+      "Contributor Insight Page OpenSauced",
+      "open source maintainers",
+      "Open Source",
+      "Open Source metrics"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "previous": {
+    "title": "Building Your Team",
+    "permalink": "/learn/becoming-a-maintainer/your-team"
+  },
+  "next": {
+    "title": "Getting Practical",
+    "permalink": "/learn/becoming-a-maintainer/getting-practical"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "/learn/__docusaurus/debug-8c6": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/__docusaurus/debug/config-e85": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/__docusaurus/debug/content-01e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    },
+    "__props": "__props---learn-docusaurus-debug-contentfc-9-5df"
+  },
+  "/learn/__docusaurus/debug/globalData-811": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/__docusaurus/debug/metadata-9df": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/__docusaurus/debug/registry-3e1": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/__docusaurus/debug/routes-cfb": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---learn-docusaurus-debugb-38-4be"
+    }
+  },
+  "/learn/-c23": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---learn-a-74-804"
+    },
+    "config": "config---learn-5-e-9-5fd"
+  },
+  "/learn/-071": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---learn-aba-a60"
+    }
+  },
+  "/learn/-eb1": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---learn-6-d-4-fd9"
+  },
+  "/learn/-526": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/learn/becoming-a-maintainer/-cb6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-62-f-578"
+  },
+  "/learn/becoming-a-maintainer/additional-resources-7c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-additional-resourcesfdd-321"
+  },
+  "/learn/becoming-a-maintainer/building-community-f72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-building-community-473-af1"
+  },
+  "/learn/becoming-a-maintainer/communication-and-collaboration-768": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-communication-and-collaboration-771-d1b"
+  },
+  "/learn/becoming-a-maintainer/community-translations-da9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-community-translationsc-07-7a1"
+  },
+  "/learn/becoming-a-maintainer/getting-practical-bc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-getting-practical-802-6c4"
+  },
+  "/learn/becoming-a-maintainer/glossary-a9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-glossary-403-146"
+  },
+  "/learn/becoming-a-maintainer/how-to-setup-your-project-7aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-how-to-setup-your-project-68-b-261"
+  },
+  "/learn/becoming-a-maintainer/intro-92e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-intro-8-aa-9da"
+  },
+  "/learn/becoming-a-maintainer/issues-and-pull-requests-720": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-issues-and-pull-requests-388-415"
+  },
+  "/learn/becoming-a-maintainer/maintainer-powerups-b32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-maintainer-powerups-0-dd-675"
+  },
+  "/learn/becoming-a-maintainer/maintainers-guestbook-922": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-maintainers-guestbook-725-548"
+  },
+  "/learn/becoming-a-maintainer/maintaining-code-quality-361": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-maintaining-code-quality-8-bd-d2b"
+  },
+  "/learn/becoming-a-maintainer/metrics-and-analytics-c11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-metrics-and-analyticse-1-e-360"
+  },
+  "/learn/becoming-a-maintainer/your-team-5d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-becoming-a-maintainer-your-teamf-28-adb"
+  },
+  "/learn/intro-to-oss/-fe2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-014-895"
+  },
+  "/learn/intro-to-oss/additional-resources-bca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-additional-resourcesf-5-a-6ba"
+  },
+  "/learn/intro-to-oss/conclusion-905": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-conclusion-4-e-4-9ae"
+  },
+  "/learn/intro-to-oss/glossary-2e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-glossaryd-26-19c"
+  },
+  "/learn/intro-to-oss/how-to-contribute-to-open-source-148": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-how-to-contribute-to-open-source-438-c6c"
+  },
+  "/learn/intro-to-oss/the-secret-sauce-e38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-the-secret-saucef-7-f-142"
+  },
+  "/learn/intro-to-oss/tools-to-be-successful-b9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-tools-to-be-successful-9-e-8-c33"
+  },
+  "/learn/intro-to-oss/types-of-contributions-c73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-types-of-contributions-435-779"
+  },
+  "/learn/intro-to-oss/what-is-open-source-06a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-what-is-open-source-884-741"
+  },
+  "/learn/intro-to-oss/why-open-source-c2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-intro-to-oss-why-open-source-0-e-8-e05"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "intro-to-oss/tools-to-be-successful",
+  "title": "Tools to be Successful",
+  "description": "To be successful in your open source journey, it's essential to familiarize yourself with the tools and platforms commonly used by the community. These tools will help you collaborate effectively, manage your projects, and contribute to open source projects. In this chapter, we'll discuss the following essential tools for open source collaboration:",
+  "source": "@site/docs/intro-to-oss/tools-to-be-successful.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/tools-to-be-successful",
+  "permalink": "/learn/intro-to-oss/tools-to-be-successful",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/tools-to-be-successful.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tools-to-be-successful",
+    "title": "Tools to be Successful",
+    "sidebar_label": "Tools to be Successful",
+    "keywords": [
+      "tools to be successful",
+      "tools to contribute to open source projects",
+      "Github & Git",
+      "GitHub",
+      "Git",
+      "Getting Started with Git and GitHub",
+      "Git tutorial",
+      "VS Code",
+      "VS Code and Git tutorial",
+      "VS Code benefits",
+      "contributing to open source with VS Code",
+      "Discord",
+      "Discord benefits when contributing to open source projects",
+      "contributing to open source",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "introToOSS",
+  "previous": {
+    "title": "Why Open Source",
+    "permalink": "/learn/intro-to-oss/why-open-source"
+  },
+  "next": {
+    "title": "How to Contribute to Open Source",
+    "permalink": "/learn/intro-to-oss/how-to-contribute-to-open-source"
+  }
+}

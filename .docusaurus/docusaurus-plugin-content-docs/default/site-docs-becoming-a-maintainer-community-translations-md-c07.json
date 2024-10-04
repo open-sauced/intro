@@ -1,0 +1,24 @@
+{
+  "id": "becoming-a-maintainer/community-translations",
+  "title": "Community Course Translations",
+  "description": "We are grateful for the contributions of the community in translating our courses. Although the OpenSauced team does not currently maintain these projects, we want to share the forked copy of the repositories with those taking the course. Below, you will find the latest community translations.",
+  "source": "@site/docs/becoming-a-maintainer/community-translations.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/community-translations",
+  "permalink": "/learn/becoming-a-maintainer/community-translations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/community-translations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "community-translations",
+    "title": "Community Course Translations",
+    "sidebar_label": "community translations",
+    "keywords": [
+      "community translations",
+      "Open Source",
+      "Open Source Community"
+    ]
+  }
+}

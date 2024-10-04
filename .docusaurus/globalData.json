@@ -1,0 +1,158 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/learn/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/learn/",
+          "mainDocId": "intro-to-oss/Contributor-README",
+          "docs": [
+            {
+              "id": "becoming-a-maintainer/additional-resources",
+              "path": "/learn/becoming-a-maintainer/additional-resources",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/building-community",
+              "path": "/learn/becoming-a-maintainer/building-community",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/communication-and-collaboration",
+              "path": "/learn/becoming-a-maintainer/communication-and-collaboration",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/community-translations",
+              "path": "/learn/becoming-a-maintainer/community-translations"
+            },
+            {
+              "id": "becoming-a-maintainer/getting-practical",
+              "path": "/learn/becoming-a-maintainer/getting-practical",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/glossary",
+              "path": "/learn/becoming-a-maintainer/glossary",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/how-to-setup-your-project",
+              "path": "/learn/becoming-a-maintainer/how-to-setup-your-project",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/intro",
+              "path": "/learn/becoming-a-maintainer/intro",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/issues-and-pull-requests",
+              "path": "/learn/becoming-a-maintainer/issues-and-pull-requests",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/maintainer-powerups",
+              "path": "/learn/becoming-a-maintainer/maintainer-powerups",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/Maintainer-README",
+              "path": "/learn/becoming-a-maintainer/",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/maintainers-guestbook",
+              "path": "/learn/becoming-a-maintainer/maintainers-guestbook",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/maintaining-code-quality",
+              "path": "/learn/becoming-a-maintainer/maintaining-code-quality",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/metrics-and-analytics",
+              "path": "/learn/becoming-a-maintainer/metrics-and-analytics",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "becoming-a-maintainer/your-team",
+              "path": "/learn/becoming-a-maintainer/your-team",
+              "sidebar": "becomingAMaintainer"
+            },
+            {
+              "id": "intro-to-oss/additional-resources",
+              "path": "/learn/intro-to-oss/additional-resources",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/conclusion",
+              "path": "/learn/intro-to-oss/conclusion",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/Contributor-README",
+              "path": "/learn/intro-to-oss/",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/glossary",
+              "path": "/learn/intro-to-oss/glossary",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/how-to-contribute-to-open-source",
+              "path": "/learn/intro-to-oss/how-to-contribute-to-open-source",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/the-secret-sauce",
+              "path": "/learn/intro-to-oss/the-secret-sauce",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/tools-to-be-successful",
+              "path": "/learn/intro-to-oss/tools-to-be-successful",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/types-of-contributions",
+              "path": "/learn/intro-to-oss/types-of-contributions",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/what-is-open-source",
+              "path": "/learn/intro-to-oss/what-is-open-source",
+              "sidebar": "introToOSS"
+            },
+            {
+              "id": "intro-to-oss/why-open-source",
+              "path": "/learn/intro-to-oss/why-open-source",
+              "sidebar": "introToOSS"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "introToOSS": {
+              "link": {
+                "path": "/learn/intro-to-oss/",
+                "label": "intro-to-oss/Contributor-README"
+              }
+            },
+            "becomingAMaintainer": {
+              "link": {
+                "path": "/learn/becoming-a-maintainer/",
+                "label": "becoming-a-maintainer/Maintainer-README"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

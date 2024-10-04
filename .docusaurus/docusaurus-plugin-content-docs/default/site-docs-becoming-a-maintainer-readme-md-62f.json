@@ -1,0 +1,36 @@
+{
+  "id": "becoming-a-maintainer/Maintainer-README",
+  "title": "Becoming a Maintainer with OpenSauced",
+  "description": "Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.",
+  "source": "@site/docs/becoming-a-maintainer/README.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/",
+  "permalink": "/learn/becoming-a-maintainer/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Maintainer-README",
+    "title": "Becoming a Maintainer with OpenSauced",
+    "sidebar_label": "Becoming a Maintainer",
+    "keywords": [
+      "README",
+      "Becoming a Maintainer with OpenSauced",
+      "becoming an open source maintainer",
+      "open source course",
+      "open source course for beginners",
+      "maintaining open source projects course",
+      "maintaining open source projects course for beginners",
+      "open source maintainers",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "next": {
+    "title": "Understanding Maintainership",
+    "permalink": "/learn/becoming-a-maintainer/intro"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "becoming-a-maintainer/getting-practical",
+  "title": "Let's Get Practical: Starting Your Project",
+  "description": "Now that you've gone through the course and understand what it takes to be a successful maintainer, let's get practical and start your first open source project as a maintainer!",
+  "source": "@site/docs/becoming-a-maintainer/getting-practical.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/getting-practical",
+  "permalink": "/learn/becoming-a-maintainer/getting-practical",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/getting-practical.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getting-practical",
+    "title": "Let's Get Practical: Starting Your Project",
+    "sidebar_label": "Getting Practical",
+    "keywords": [
+      "getting practical by creating a new open source project",
+      "creating an open source project",
+      "creating an open source project tutorial",
+      "creating an open source project for beginners",
+      "creating a repository",
+      "creating a README",
+      "adding an open source license",
+      "creating contributing guidelines for an open source project",
+      "adding an open source code of conduct",
+      "creating open source issue forms",
+      "creating an open source pull request template",
+      "promoting open source projects",
+      "recognizing open source contributors",
+      "monitoring open source projects",
+      "open source maintainers",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "previous": {
+    "title": "The Power of Metrics and Analytics",
+    "permalink": "/learn/becoming-a-maintainer/metrics-and-analytics"
+  },
+  "next": {
+    "title": "Maintainers Guestbook",
+    "permalink": "/learn/becoming-a-maintainer/maintainers-guestbook"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "becoming-a-maintainer/maintainer-powerups",
+  "title": "Maintainer Power Ups",
+  "description": "Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. It would help if you were efficient in what you do.",
+  "source": "@site/docs/becoming-a-maintainer/maintainer-powerups.md",
+  "sourceDirName": "becoming-a-maintainer",
+  "slug": "/becoming-a-maintainer/maintainer-powerups",
+  "permalink": "/learn/becoming-a-maintainer/maintainer-powerups",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/becoming-a-maintainer/maintainer-powerups.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "maintainer-powerups",
+    "title": "Maintainer Power Ups",
+    "sidebar_label": "Maintainer Powerups",
+    "keywords": [
+      "maintainer powerups",
+      "GitHub tools for open source maintainers",
+      "open source maintainers productivity",
+      "GitHub Actions",
+      "GitHub Actions for open source projects",
+      "types of GitHub Actions for open source projects",
+      "automating open source maintainers tasks",
+      "GitHub",
+      "GitHub tools",
+      "open source maintainers",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "becomingAMaintainer",
+  "previous": {
+    "title": "Building and Nurturing Community",
+    "permalink": "/learn/becoming-a-maintainer/building-community"
+  },
+  "next": {
+    "title": "Building Your Team",
+    "permalink": "/learn/becoming-a-maintainer/your-team"
+  }
+}

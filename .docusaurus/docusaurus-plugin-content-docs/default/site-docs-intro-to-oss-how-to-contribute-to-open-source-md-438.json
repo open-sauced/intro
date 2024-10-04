@@ -1,0 +1,48 @@
+{
+  "id": "intro-to-oss/how-to-contribute-to-open-source",
+  "title": "How to Contribute to Open Source",
+  "description": "In this chapter, we'll guide you through the process of how to contribute to open source.",
+  "source": "@site/docs/intro-to-oss/how-to-contribute-to-open-source.md",
+  "sourceDirName": "intro-to-oss",
+  "slug": "/intro-to-oss/how-to-contribute-to-open-source",
+  "permalink": "/learn/intro-to-oss/how-to-contribute-to-open-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/open-sauced/intro/docs/intro-to-oss/how-to-contribute-to-open-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-contribute-to-open-source",
+    "title": "How to Contribute to Open Source",
+    "sidebar_label": "How to Contribute to Open Source",
+    "keywords": [
+      "how to contribute to open source",
+      "contribute to open source projects",
+      "finding open source projects to contribute to",
+      "finding open source projects to contribute to with OpenSauced",
+      "onboarding to open source projects",
+      "open source contribution for beginners",
+      "get started contributing to open source",
+      "open source contribution workflow",
+      "contributing to open source tutorial",
+      "merge conflicts",
+      "resolving merge conflicts",
+      "open source for beginners",
+      "open source tutorial for beginners",
+      "best practices for contributing to open source projects",
+      "GitHub",
+      "Git",
+      "Open Source",
+      "Open Source Community"
+    ]
+  },
+  "sidebar": "introToOSS",
+  "previous": {
+    "title": "Tools to be Successful",
+    "permalink": "/learn/intro-to-oss/tools-to-be-successful"
+  },
+  "next": {
+    "title": "The Secret Sauce",
+    "permalink": "/learn/intro-to-oss/the-secret-sauce"
+  }
+}
