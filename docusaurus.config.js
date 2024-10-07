@@ -40,9 +40,8 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          path: './docs',
+           docs: {
+          sidebarPath: './sidebars.js',
           // Dynamic editUrl construction
           editUrl: ({ versionDocsDirPath, docPath }) =>
             `https://github.com/open-sauced/intro/edit/main/${versionDocsDirPath}/${docPath}`,
