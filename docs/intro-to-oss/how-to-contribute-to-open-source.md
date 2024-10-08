@@ -449,7 +449,7 @@ You'll need to have these tools donwloaded and installed on your local machine:
 
 Here's what a completed Pull Request Template for the guestbook looks like. Make sure yours looks like this, updated with your unique information.
 
-    ![Completed Pull Request Template](../_assets/images/completed-pr-template.png)
+![Completed Pull Request Template](../_assets/images/completed-pr-template.png)
 
 Congratulations on your first contribution! 🎉
 
