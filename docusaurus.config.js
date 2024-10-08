@@ -40,7 +40,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-           docs: {
+          docs: {
           sidebarPath: './sidebars.js',
           // Dynamic editUrl construction
           editUrl: ({ versionDocsDirPath, docPath }) =>
