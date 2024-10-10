@@ -40,11 +40,11 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+          docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          editUrl:
-          'https://github.com/open-sauced/intro',
+          // Dynamic editUrl construction
+          editUrl: ({ versionDocsDirPath, docPath }) =>
+            `https://github.com/open-sauced/intro/edit/main/${versionDocsDirPath}/${docPath}`,
           routeBasePath: '/',
         },
         theme: {
