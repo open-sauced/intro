@@ -3,7 +3,26 @@ id: how-to-contribute-to-open-source
 title: "How to Contribute to Open Source"
 sidebar_label: "How to Contribute to Open Source"
 keywords:
-  ["how to contribute to open source", "contribute to open source projects", "finding open source projects to contribute to", "finding open source projects to contribute to with OpenSauced", "onboarding to open source projects", "open source contribution for beginners", "get started contributing to open source", "open source contribution workflow", "contributing to open source tutorial", "merge conflicts", "resolving merge conflicts", "open source for beginners", "open source tutorial for beginners", "best practices for contributing to open source projects", "GitHub", "Git", "Open Source", "Open Source Community"]
+  [
+    "how to contribute to open source",
+    "contribute to open source projects",
+    "finding open source projects to contribute to",
+    "finding open source projects to contribute to with OpenSauced",
+    "onboarding to open source projects",
+    "open source contribution for beginners",
+    "get started contributing to open source",
+    "open source contribution workflow",
+    "contributing to open source tutorial",
+    "merge conflicts",
+    "resolving merge conflicts",
+    "open source for beginners",
+    "open source tutorial for beginners",
+    "best practices for contributing to open source projects",
+    "GitHub",
+    "Git",
+    "Open Source",
+    "Open Source Community",
+  ]
 ---
 
 In this chapter, we'll guide you through the process of how to contribute to open source.
@@ -425,6 +444,12 @@ You'll need to have these tools donwloaded and installed on your local machine:
     Your pull request will be marked as invalid and may be closed if the template is incomplete.
 
     :::
+
+### Completed PR Template
+
+Here's what a completed Pull Request Template for the guestbook looks like. Make sure yours looks like this, updated with your unique information.
+
+![Completed Pull Request Template](../_assets/images/completed-pr-template.png)
 
 Congratulations on your first contribution! 🎉
 
