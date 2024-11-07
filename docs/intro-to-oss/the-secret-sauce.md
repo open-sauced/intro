@@ -1,84 +1,449 @@
----
-id: the-secret-sauce
-title: "The Secret Sauce"
-sidebar_label: "The Secret Sauce"
-keywords: ["open source secret sauce", "how to make a lasting impact in open source", "open source resume builder", "building open source resume", "building open source resume with OpenSauced", "finding issues in open source", "addressing issues in open source", "gaining recognition in open source", "building a strong open source profile", "becoming a valuable contributor to open source projects", "tips for building a strong reputation in open source", "effectively highlight open source contributions", "open source contribution", "open source contribution for beginners", "Open Source", "Open Source Community"]
----
 
-In this chapter, we'll share some lesser-known strategies and tips for making a lasting impact in the open source community. We'll discuss how to focus on open issues, gain traction in your contributions, and develop your open source resume using OpenSauced.
+   
+Oops!
 
-## Open Issues — More than PRs that Fix Typos
+Forgot your password? Not a problem!
+We're here to help. Click the button below to reset your password. 
+Reset Password
+If you didn't request to reset your password, please contact customer service by
+emailing us at info@sprocketprinters.com or calling us at 1-877-424-9746.
+Contact Support
+@HPSprocket
+ 
+Like and follow us on social media
+to gain access to exclusive content, giveaways & more!
+Twitter
+Instagram
+Pinterest
+YouTube
 
-While fixing typos and improving documentation are valuable contributions to open source projects, it's essential to look beyond these low-hanging fruits and focus on addressing open issues. Tackling open issues not only helps the project move forward but also allows you to develop a deeper understanding of the codebase and demonstrate your problem-solving abilities.
+Want to stay on top of the latest news
+and updates from HP Sprocket?
+Add us to your contact list.
+ 
 
-Here are some tips for finding and addressing open issues:
+   
+©Copyright 2023 C&A Marketing, Inc. is the manufacturer of the HP™ Sprocket™, under license from HP, Inc. HP and Sprocket trademarks are owned by HP Inc. or its affiliates.
 
-1. **Browse the issue tracker**: Most open source projects use an issue tracker to manage bugs, feature requests, and other tasks. Browse the issue tracker to find issues that align with your interests and skills.
+ZINK™ Technology and ZINK™ Trademarks are owned by ZINK Holdings LLC., used under license.
 
-2. **Look for beginner-friendly issues**: Many projects use labels like "good first issue" or "help wanted" to indicate issues that are suitable for newcomers. Start with these issues to build your confidence and gain experience before tackling more complex tasks.
+This advertisement is sent by C+A Marketing, Inc., 114 Tived Lane East, Edison, New Jersey, 08837.
 
-3. **Understand the issue**: Before diving into an issue, make sure you understand the problem and the desired outcome. If you're unsure about anything, ask questions or seek clarification from the project maintainers or other contributors.
+©2023, C&A IP Holdings LLC. All Rights Reserved.
 
-4. **Communicate your intentions**: Before you start working on an issue, let the project maintainers and other contributors know that you're interested in addressing it. This can help avoid duplicated efforts and ensure that everyone is on the same page.
+<p class="o_view_nocontent_smiling_face">
+                    This is your new action.
+                </p>
+                <p>By default, it contains a list and a form view and possibly
+                    other view types depending on the options you chose for your model.
+                </p>
+                <p>
+                    You can start customizing these screens by clicking on the Studio icon on the
+                    top right corner (you can also customize this help message there).
+                </p>
+            
+History
+July 10, 2024
 
-5. **Test your changes**: Once you've addressed an issue, test your changes thoroughly to ensure they work as expected and don't introduce new problems.
+OdooBot
+- 3 months ago
+on POS/00006
+Subject: "POS/00006: note" assigned to you
+Dear Mitchell Admin,
 
-By focusing on open issues rather than just fixing typos, you'll make a more significant impact on the projects you contribute to and demonstrate your commitment to the open source community.
+OdooBot has just assigned you the following activity:
 
-## Getting Traction in Contributions
+Document: "POS/00006" (Point of Sale Session)
+Summary: note
+Deadline: 07/10/2024
+July 19, 2024
 
-As you become more experienced in open source contributions, you may want to increase your impact on the projects you work on and gain recognition for your efforts. Here are some strategies for gaining traction in your contributions:
+OdooBot
+- 3 months ago
+on Research & Development
+Subject: "Research & Development: Examine project status" assigned to you
+Dear Mitchell Admin,
 
-1. **Become a regular contributor**: Consistently contribute to the same projects over time. This will help you develop a deeper understanding of the codebase, build relationships with other contributors, and establish yourself as a valuable member of the community.
+Mitchell Admin has just assigned you the following activity:
 
-2. **Take on challenging tasks**: As you gain experience, tackle more complex issues and features. This will not only help you grow as a developer but also demonstrate your ability to handle challenging tasks and contribute meaningfully to the project.
+Document: "Research & Development" (Project)
+Summary: Examine project status
+Deadline: 08/01/2024
 
-3. **Collaborate with others**: Open source is all about collaboration. Work with other contributors to address issues, develop features, and share knowledge. By collaborating effectively, you'll not only improve the project but also build a strong network of connections in the open source community.
+OdooBot
+- 3 months ago
+on Noise Reduction
+Subject: You have been assigned to Noise Reduction
+Dear Mitchell Admin,
 
-4. **Share your expertise**: Share your knowledge and insights by writing blog posts, creating tutorials, or giving presentations about the projects you work on. This will not only help others learn from your experiences but also establish you as a thought leader in the open source community.
+You have been assigned to the Task Noise Reduction.
 
-5. **Mentor new contributors**: As you become more experienced in open source contributions, consider mentoring new contributors who are just starting their open source journey. This can help you give back to the community, develop your leadership skills, and build a positive reputation.
 
-## Building Your Open Source Resume
+OdooBot
+- 3 months ago
+on Energy Certificate
+Subject: You have been assigned to Energy Certificate
+Dear Mitchell Admin,
 
-Building a strong open source resume can help you showcase your skills, experience, and contributions to potential employers, collaborators, and the wider developer community. OpenSauced is an excellent tool for tracking your open source contributions and developing your open source resume. Let's look at how you can use OpenSauced to support your open source journey.
+You have been assigned to the Task Energy Certificate.
 
-1. **Sign up for an OpenSauced account**: if you haven't already created an account, visit [opensauced.pizza](https://opensauced.pizza/) and sign up for an account using your GitHub credentials.
 
-2. **Visit Your Public Profile Page**: After signing up, a public profile page will be created for you. This page will display your GitHub profile information and a list of your open source contributions. You can navigate to it by clicking on your username in the top right corner of the page.
+OdooBot
+- 3 months ago
+on Energy Certificate
+Subject: "Energy Certificate: Follow-up email" assigned to you
+Dear Mitchell Admin,
 
-   ![Navigating to public profile page at OpenSauced](../_assets/images/opensauced-profile.png)
+Mitchell Admin has just assigned you the following activity:
 
-3. **Build Your Open Source Resume**: From here, you'll be able to add highlights to Pull Requests and Issues that you've contributed to. You can also add a description and links to your open source resume. These will be aggregated into a single page that you can share with others, as well as a summary of your contributions that will be displayed on your public profile page.
+Document: "Energy Certificate" (Task)
+Summary: Follow-up email
+Deadline: 07/19/2024
 
-Let's showcase our guestbook contribution from the previous chapter! In your profile, you'll see a "Highlights" section with a text input. When you click this, you'll be able to add a title, some thoughts, and a link to your PR. This will be displayed on your public profile page. Let's add a highlight for our guestbook contribution.
+OdooBot
+- 3 months ago
+on Room 1: Decoration
+Subject: You have been assigned to Room 1: Decoration
+Dear Mitchell Admin,
 
-### Effectively Highlight Your Contributions
+You have been assigned to the Task Room 1: Decoration.
 
-Important information to include when you're highlighting your contributions:
 
-- New material you've created,
-- Project details (tools, libraries, size, and complexity),
-- The type of your contributions: bug fix, feature, performance, documentation, etc.,
-- The details of your contribution including improvements and impacts made on the project and on the community,
-- Collaboration and teamwork details.
+OdooBot
+- 3 months ago
+on Room 1: Decoration
+Subject: "Room 1: Decoration: Call Joel Willis" assigned to you
+Dear Mitchell Admin,
 
-### Formatting Your Highlight
+Mitchell Admin has just assigned you the following activity:
 
-To be most effective in highlighting your contributions, we recommend using the following format:
+Document: "Room 1: Decoration" (Task)
+Summary: Call Joel Willis
+Deadline: 07/19/2024
 
-- **Description**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
-  - Success verb + noun + metric + outcome.
-  - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I **created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun)**, which **increased productivity rates by 80%(metric + outcome).**
-- **Add a repo**: Provide the complete name of the repository to which you are making contributions.
-- **URL**: Paste the URL to your pull request, issue or your blog post.
+OdooBot
+- 3 months ago
+on Room 2: Decoration
+Subject: You have been assigned to Room 2: Decoration
+Dear Mitchell Admin,
 
-  ![Adding a highlight to a profile at OpenSauced](../_assets/images/opensauced-highlights.png)
+You have been assigned to the Task Room 2: Decoration.
 
-- **Share it!**: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others by clicking the share button in the header of your profile page. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
 
-By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community. Additionally, you can refer to the [Job Seekers Guide](https://opensauced.pizza/docs/opensauced-guides/job-seekers-guide/job-seekers-guide-introduction/) in our docs to learn how to use OpenSauced to land a job in the tech industry.
+OdooBot
+- 3 months ago
+on Kitchen Assembly
+Subject: You have been assigned to Kitchen Assembly
+Dear Mitchell Admin,
 
-In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
+You have been assigned to the Task Kitchen Assembly.
 
-In the [next chapter](types-of-contributions.md), we will discuss various types of open source contributions.
+
+OdooBot
+- 3 months ago
+on Furniture Delivery
+Subject: You have been assigned to Furniture Delivery
+Dear Mitchell Admin,
+
+You have been assigned to the Task Furniture Delivery.
+
+
+OdooBot
+- 3 months ago
+on Ceiling fan
+Subject: You have been assigned to Ceiling fan
+Dear Mitchell Admin,
+
+You have been assigned to the Task Ceiling fan.
+
+
+OdooBot
+- 3 months ago
+on Chair Cabinet
+Subject: You have been assigned to Chair Cabinet
+Dear Mitchell Admin,
+
+You have been assigned to the Task Chair Cabinet.
+
+
+OdooBot
+- 3 months ago
+on Customer analysis + Architecture
+Subject: You have been assigned to Customer analysis + Architecture
+Dear Mitchell Admin,
+
+You have been assigned to the Task Customer analysis + Architecture.
+
+
+OdooBot
+- 3 months ago
+on Basic outline
+Subject: You have been assigned to Basic outline
+Dear Mitchell Admin,
+
+You have been assigned to the Task Basic outline.
+
+
+OdooBot
+- 3 months ago
+on Planning and budget
+Subject: You have been assigned to Planning and budget
+Dear Mitchell Admin,
+
+You have been assigned to the Task Planning and budget.
+
+
+OdooBot
+- 3 months ago
+on User interface improvements
+Subject: You have been assigned to User interface improvements
+Dear Mitchell Admin,
+
+You have been assigned to the Task User interface improvements.
+
+
+OdooBot
+- 3 months ago
+on New portal system
+Subject: You have been assigned to New portal system
+Dear Mitchell Admin,
+
+You have been assigned to the Task New portal system.
+
+
+OdooBot
+- 3 months ago
+on Usability review
+Subject: You have been assigned to Usability review
+Dear Mitchell Admin,
+
+You have been assigned to the Task Usability review.
+
+
+OdooBot
+- 3 months ago
+on Document management
+Subject: You have been assigned to Document management
+Dear Mitchell Admin,
+
+You have been assigned to the Task Document management.
+
+
+OdooBot
+- 3 months ago
+on Code Documentation
+Subject: You have been assigned to Code Documentation
+Dear Mitchell Admin,
+
+You have been assigned to the Task Code Documentation.
+
+
+OdooBot
+- 3 months ago
+on Check Lift
+Subject: You have been assigned to Check Lift
+Dear Mitchell Admin,
+
+You have been assigned to the Task Check Lift.
+
+
+OdooBot
+- 3 months ago
+on Room 1: Paint
+Subject: You have been assigned to Room 1: Paint
+Dear Mitchell Admin,
+
+You have been assigned to the Task Room 1: Paint.
+
+
+OdooBot
+- 3 months ago
+on Bathroom
+Subject: You have been assigned to Bathroom
+Dear Mitchell Admin,
+
+You have been assigned to the Task Bathroom.
+
+
+OdooBot
+- 3 months ago
+on Buy a gift for Marc Demo's birthday
+Subject: You have been assigned to Buy a gift for Marc Demo's birthday
+Dear Mitchell Admin,
+
+You have been assigned to the Task Buy a gift for Marc Demo's birthday.
+
+
+OdooBot
+- 3 months ago
+on Change left screen cable
+Subject: You have been assigned to Change left screen cable
+Dear Mitchell Admin,
+
+You have been assigned to the Task Change left screen cable.
+
+July 31, 2024
+
+OdooBot
+- 3 months ago
+on Quote for 12 Tables
+Subject: "Quote for 12 Tables: Meeting to go over pricing information." assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Quote for 12 Tables" (Lead/Opportunity)
+Summary: Meeting to go over pricing information.
+Deadline: 08/03/2024
+
+OdooBot
+- 3 months ago
+on Office Design Project
+Subject: "Office Design Project: Send Catalog by Email" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Office Design Project" (Lead/Opportunity)
+Summary: Send Catalog by Email
+Deadline: 08/03/2024
+
+OdooBot
+- 3 months ago
+on Info about services
+Subject: "Info about services: Call to get system requirements" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Info about services" (Lead/Opportunity)
+Summary: Call to get system requirements
+Deadline: 08/01/2024
+
+OdooBot
+- 3 months ago
+on Global Solutions: Furnitures
+Subject: "Global Solutions: Furnitures: Convert to quote" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Global Solutions: Furnitures" (Lead/Opportunity)
+Summary: Convert to quote
+Deadline: 08/02/2024
+
+OdooBot
+- 3 months ago
+on DeltaPC: 10 Computer Desks
+Subject: "DeltaPC: 10 Computer Desks: Call to get training needs" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "DeltaPC: 10 Computer Desks" (Lead/Opportunity)
+Summary: Call to get training needs
+Deadline: 08/01/2024
+
+OdooBot
+- 3 months ago
+on 5 VP Chairs
+Subject: "5 VP Chairs: Email" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "5 VP Chairs" (Lead/Opportunity)
+Deadline: 07/29/2024
+
+OdooBot
+- 3 months ago
+on Access to Online Catalog
+Subject: "Access to Online Catalog: Email" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Access to Online Catalog" (Lead/Opportunity)
+Deadline: 08/01/2024
+
+OdooBot
+- 3 months ago
+on Need 20 Desks
+Subject: "Need 20 Desks: Email" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Need 20 Desks" (Lead/Opportunity)
+Deadline: 08/02/2024
+
+OdooBot
+- 3 months ago
+on Modern Open Space
+Subject: "Modern Open Space: Conf call with technical service" assigned to you
+Dear Mitchell Admin,
+
+Mitchell Admin has just assigned you the following activity:
+
+Document: "Modern Open Space" (Lead/Opportunity)
+Summary: Conf call with technical service
+Deadline: 07/31/2024
+August 2, 2024
+
+OdooBot
+- 3 months ago
+on POS/00008
+Subject: "POS/00008: note" assigned to you
+Dear Mitchell Admin,
+
+OdooBot has just assigned you the following activity:
+
+Document: "POS/00008" (Point of Sale Session)
+Summary: note
+Deadline: 08/02/2024
+September 20, 2024
+
+OdooBot
+- 1 month ago
+on POS/00010
+Subject: "POS/00010: note" assigned to you
+Dear Mitchell Admin,
+
+OdooBot has just assigned you the following activity:
+
+Document: "POS/00010" (Point of Sale Session)
+Summary: note
+Deadline: 09/20/2024
+September 29, 2024
+
+OdooBot
+- 1 month ago
+on POS/00011 (RESCUE FOR POS/00010)
+Subject: "POS/00011 (RESCUE FOR POS/00010): note" assigned to you
+Dear Mitchell Admin,
+
+OdooBot has just assigned you the following activity:
+
+Document: "POS/00011 (RESCUE FOR POS/00010)" (Point of Sale Session)
+Summary: note
+Deadline: 09/29/2024
+October 23, 2024
+
+OdooBot
+- 10 days ago
+on POS/00012
+Subject: "POS/00012: note" assigned to you
+Dear Mitchell Admin,
+
+OdooBot has just assigned you the following activity:
+
+Document: "POS/00012" (Point of Sale Session)
+Summary: note
+Deadline: 10/23/2024
+Subject: Welcome to Odoo!
+Welcome to the #general channel.
+
+This channel is accessible to all users to easily share company information.Subject: Welcome to Odoo!
+Welcome to the #general channel.
+
+This channel is accessible to all users to easily share company information.
