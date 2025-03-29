@@ -29,7 +29,7 @@ In this chapter, we'll guide you through the process of how to contribute to ope
 
 ## Finding Projects to Work On
 
-One of the first challenges you might face when getting learning how to contribute in open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
+One of the first challenges you might face when learning how to contribute in open source is finding a project to contribute to. Here are some tips to help you discover projects that align with your interests and skills:
 
 1. **Browse GitHub and GitLab**: Both GitHub and GitLab host a vast number of open source projects. You can use their search functionality to find projects based on specific keywords, programming languages, or topics.
 
